@@ -1,0 +1,45 @@
+# ZÉ NUNES (13500, PT): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: JOSE SIDNEY NUNES DE ALMEIDA. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+Comissões: Comissão de Agricultura, Pecuária, Pesca e Cooperativismo; Comissão de Economia, Trabalho, Desenvolvimento Sustentável e Turismo; Comissão de Ética Parlamentar.
+
+Frentes parlamentares que preside:
+- Frente Parlamentar da Apicultura e Meliponicultura
+- Frente Parlamentar em Defesa da Agricultura Familiar
+- Frente Parlamentar em Defesa da Conclusão da Duplicação da BR-116 no trecho dos municípios de Guaíba e Pelotas e as obras no entorno da cidade de Pelotas
+- Frente Parlamentar em Defesa da Economia Solidária
+- Frente Parlamentar em Defesa da Microgeração e Minigeração de Energia Renovável
+- Frente Parlamentar em Defesa de um um novo modelo de pedágio no Polo Rodoviário de Pelotas, na Região Sul do RS
+- Frente Parlamentar em Defesa do Banrisul Público
+- Frente Parlamentar em Defesa do Setor Pesqueiro no Rio Grande do Sul e pela Construção do Código Pesqueiro Sustentável Estadual
+- Frente Parlamentar em Defesa do Sistema Único de Assistência Social - SUAS
+- Frente Parlamentar em Defesa dos Alimentos Tradicionais e Artesanais de Origem Animal e Vegetal
+- Frente Parlamentar em Defesa dos Povos e Comunidades Tradicionais
+- Frente Parlamentar em Defesa dos Produtores e Produtoras da Cadeia Produtiva do Tabaco
+- Frente Parlamentar pela Conclusão do Hospital Escola Público Regional 100% SUS na Região Sul
+
+Projetos apresentados como primeiro signatário (20 no total):
+- PL 196/2026: Dispõe sobre o registro eletrônico e a consulta do histórico da quilometragem exibida no hodômetro de veículos automotores registrados ou a serem registrados no Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/196/2026/73226627-5b88-11f1-b8a7-ae5c61debffa
+- PL 543/2025: Altera a Lei nº 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e inclui a Semana E… https://ww4.al.rs.gov.br/proposicao/PL/543/2025/285430b1-dd00-11f0-81f8-ea8abe32d547
+- PL 542/2025: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, inclui o Dia Estad… https://ww4.al.rs.gov.br/proposicao/PL/542/2025/58c7853f-dcfe-11f0-81f8-ea8abe32d547
+- PL 365/2025: Estabelece a obrigatoriedade da utilização de dispositivos de captação audiovisual fixados aos uniformes dos agentes da Patrulha Ambiental da Brigada Militar, no âmbito do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/365/2025/2ee3d832-9588-11f0-b541-0242ac170004
+- PL 284/2025: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, incluindo a Festa… https://ww4.al.rs.gov.br/proposicao/PL/284/2025/3f517f8b-60e8-11f0-8ebc-0242ac130005
+- PL 263/2025: Altera o art. 155 da Lei 15.434, de 9 de janeiro de 2020, que institui o Código Estadual do Meio Ambiente do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/263/2025/2c7a0a86-5d8e-11f0-8ebc-0242ac130005
+- PL 220/2025: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/220/2025/2352c991-4c53-11f0-8ebc-0242ac130005
+- PL 219/2025: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/219/2025/92c1f899-4c52-11f0-8ebc-0242ac130005
+- PL 218/2025: Reconhece os ofícios de Alambrador e Aguador, como de Relevante Interesse Cultural do Estado do Rio Grande do Sul. (Tramitação Conclusiva CECDCT) https://ww4.al.rs.gov.br/proposicao/PL/218/2025/ebadd73b-4b84-11f0-8ebc-0242ac130005
+- PL 217/2025: Reconhece o Concurso de Canto de Corais, realizado pela Associação União Cultural e Agrícola – AUCA em São Lourenço do Sul, como de Relevante Interesse Cultural do Estado do Rio Grande do Sul e dá outras providências. (Tramitação Conclusiva… https://ww4.al.rs.gov.br/proposicao/PL/217/2025/6ba2c137-4b84-11f0-8ebc-0242ac130005
+- PL 74/2025: Altera a Lei nº 16.134, de 24 de maio de 2024, que institui o Plano Rio Grande, Programa de Reconstrução, Adaptação e Resiliência Climática do Estado do Rio Grande do Sul, cria o Fundo do Plano Rio Grande – FUNRIGS - e dá outras providência… https://ww4.al.rs.gov.br/proposicao/PL/74/2025/1fb59e33-feb0-11ef-8c88-0242ac170003
+- PL 226/2024: Altera a Lei n° 14.486, de 30 de janeiro de 2014, que institui a Política Estadual de Agroecologia e de Produção Orgânica e dá outras providências, incluindo o Plano Estadual de Proteção à Produção Orgânica e Agroecológica e dá outras provi… https://ww4.al.rs.gov.br/proposicao/PL/226/2024/558a965d-3ed0-11ef-813d-0242ac170004
+- PL 177/2024: Altera a Lei n.º 16.088, de 10 de janeiro de 2024, que dispõe sobre a Gestão Democrática do Ensino nas Escolas Públicas Estaduais e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/177/2024/98e48260-29b0-11ef-a33c-0242ac170004
+- PL 459/2023: Declara o Município de Cambará do Sul como a Capital do Mel Branco. (SEI 14978-0100/23-8) (Tramitação conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/459/2023/74e6b1ab-6f70-11ee-9cfe-0242c0a8a005
+- PL 275/2023: Reconhece a Festa do Fumo de Chuvisca como de relevante interesse cultural e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eve… https://ww4.al.rs.gov.br/proposicao/PL/275/2023/2081afa0-5980-11ee-9cfe-0242c0a8a005
+- PL 37/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/37/2023/cb3a976d-597e-11ee-9cfe-0242c0a8a005
+- PL 35/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/35/2023/c9fd0ed1-597e-11ee-9cfe-0242c0a8a005
+- PL 34/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/34/2023/c9627c3b-597e-11ee-9cfe-0242c0a8a005
+- PL 33/2023: Declara o Festival de Inverno Lourenciano como de relevante interesse cultural do Estado do Rio Grande do Sul e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, inst… https://ww4.al.rs.gov.br/proposicao/PL/33/2023/c8c1a815-597e-11ee-9cfe-0242c0a8a005
+- PL 32/2023: Declara o Município de Cambará do Sul como a Capital do Mel de Florada Nativa.(SEI 3573-0100/23-8) (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/32/2023/c7fb4a98-597e-11ee-9cfe-0242c0a8a005

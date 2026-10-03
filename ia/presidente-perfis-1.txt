@@ -1,0 +1,766 @@
+# Meu voto 2026: perfis e propostas dos candidatos a presidente (parte 1 de 2)
+
+Guia de voto das eleições de 4 de outubro de 2026 no Rio Grande do Sul (https://meu-voto-2026-bs0.pages.dev). Dados do TSE atualizados em 02/10/2026 19:30:38. Os resumos e a classificação das posições foram feitos com auxílio de IA a partir de planos de governo e registros públicos, com a fonte em cada item, e podem conter erros.
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor.
+
+Total: 13 candidatos. Lista completa: CLARIANA BARAO (27), EDMILSON COSTA (21), ESCRITOR AUGUSTO CURY (70), FLAVIO BOLSONARO (22), HERTZ DIAS (16), LEONARDO AVALANCHE (28), LULA (13), RENAN SANTOS (14), RONALDO CAIADO (55), RUI COSTA PIMENTA (29), SAMARA (80), VETERINÁRIO WILSON GRASSI (35), ZEMA (30).
+
+Neste arquivo: Clariana Barao, Edmilson Costa, Escritor Augusto Cury, Flavio Bolsonaro, Hertz Dias, Leonardo Avalanche, Lula, Renan Santos, Ronaldo Caiado, Rui Costa Pimenta, Samara. Os demais estão nas outras partes.
+
+## CLARIANA BARAO (número 27, DC)
+- Nome civil: CLARIANA ZACARKIM BARAO. Idade na posse: 39. Ocupação declarada: ADVOGADO. Bens declarados: R$ 1.820.760.
+- Partido ou coligação: DC.
+- Chapa: vice-presidente: FABIANA TORQUATO (DC).
+
+Resumo: Plano "Proteger Hoje, Transformar o Amanhã", com a proteção de mulheres e crianças como eixo transversal e seis capítulos (mulheres e crianças, economia, educação, segurança, saúde e gestão). O documento é genérico: lista diretrizes e indicadores sugeridos, e diz que as metas numéricas serão definidas depois.
+Trajetória: Advogada, preside o diretório estadual do Democracia Cristã em Mato Grosso e foi presidente da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande. Disputa eleição pela primeira vez.
+
+Principais propostas:
+- Rede nacional de proteção e resposta à violência contra mulheres, integrando saúde, assistência, segurança e justiça (Plano p.3).
+- Primeira infância como prioridade nacional: pré-natal, nutrição, vacinação e creches (p.3).
+- Monitoramento de fronteiras com sensores, radares, drones e centros integrados de comando (p.9).
+- Asfixia financeira das facções com inteligência financeira e recuperação de ativos (p.9).
+- Revisão de gastos e subsídios com avaliação de impacto (p.6).
+- Governo digital com o princípio de pedir os dados ao cidadão uma única vez (p.13).
+- Defende o fim da escala 6x1 (entrevista ao Poder360).
+
+Economia e emprego:
+- Simplificação regulatória, digitalização e abertura rápida de empresas (p.5).
+- Crédito produtivo com garantias e compras públicas acessíveis a pequenos negócios (p.5).
+- Revisão de gastos e subsídios e planejamento plurianual orientado a metas (p.6).
+- Autonomia econômica das mulheres: qualificação, crédito e rede de cuidado (p.3).
+
+Saúde:
+- Atenção primária com equipes completas e prontuário interoperável (p.11).
+- Vacinação e rastreamento baseados em evidências, com foco em saúde da mulher e da criança (p.11).
+- Telemedicina, regulação inteligente de filas e IA como apoio clínico (p.12).
+- Avaliação científica de novas terapias antes da incorporação ao SUS (p.11, 15).
+
+Educação:
+- Alfabetização na idade adequada e recomposição de aprendizagem (p.7).
+- Formação de professores baseada em evidências e redução de burocracia (p.7).
+- Tecnologia e IA com uso responsável, educação financeira e competências digitais (p.7).
+- Expansão do ensino técnico ligado às vocações regionais (p.7-8).
+
+Segurança:
+- Fronteiras com sensores, radares, drones e centros integrados de comando (p.9).
+- Inteligência financeira contra lavagem de dinheiro e recuperação de ativos das facções (p.9).
+- Policiamento baseado em evidências e mapas de risco (p.9).
+- Separação de lideranças criminosas e trabalho e educação para presos (p.10).
+
+Social e direitos:
+- Rede nacional de proteção e resposta à violência contra mulheres (p.3).
+- Primeira infância: pré-natal, nutrição, vacinação e creches (p.3).
+- Prevenção de abuso e ambiente digital seguro para crianças e adolescentes (p.3).
+- Busca ativa de crianças fora da escola (p.3).
+
+Infraestrutura e cidades:
+- Manutenção de rodovias por desempenho; ferrovias, hidrovias, portos e cabotagem (p.5).
+- Concessões, PPPs e planejamento de longo prazo em infraestrutura (p.5).
+- Segurança energética e expansão da conectividade (p.5).
+
+Gestão e Estado:
+- Identidade e serviços digitais integrados, pedindo os dados uma única vez (p.13).
+- Gestão por metas, painéis públicos e encerramento de programas ineficazes (p.13).
+- Compras públicas rastreáveis e dados abertos (p.13).
+- Transferências a estados e municípios associadas a indicadores (p.14).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Lista ações genéricas e indicadores sugeridos por área, com horizontes de implementação, mas sem metas numéricas; o próprio plano diz que as metas serão calibradas depois.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002552484_01.pdf
+Fontes: https://jovempan.com.br/?p=282058 | https://www.congressoemfoco.com.br/noticia/121056/dc-define-chapa-feminina-com-a-advogada-clariana-barao-para-presidente | https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/ | https://agazetapopular.com.br/quem-e-clariana-barao-conheca-a-candidata-do-dc-a-presidencia-e-as-principais-propostas-para-o-brasil/ | https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas
+
+## EDMILSON COSTA (número 21, PCB)
+- Nome civil: EDMILSON SILVA COSTA. Idade na posse: 76. Ocupação declarada: APOSENTADO (EXCETO SERVIDOR PÚBLICO). Bens declarados: R$ 454.486.
+- Partido ou coligação: PCB.
+- Chapa: vice-presidente: CLEUSA SANTOS (PCB).
+
+Resumo: Programa do PCB de ruptura anticapitalista ('Construir o Poder Popular, rumo ao Socialismo'): estatização do sistema financeiro e de setores estratégicos, suspensão do pagamento da dívida pública durante auditoria e revogação do arcabouço fiscal e da LRF. Propõe jornada de 30 horas sem redução salarial, Assembleia Constituinte com metade dos membros escolhida por organizações populares e extinção do Senado. Vice: Cleusa Santos (PCB).
+Trajetória: Economista, doutor pela Unicamp e secretário-geral do PCB desde 2016. Foi candidato a prefeito de São Paulo (2008) e a vice-presidente (2010).
+
+Principais propostas:
+- Estatização do sistema financeiro e reestatização de empresas privatizadas, com Petrobras 100% estatal.
+- Suspensão do pagamento de juros e amortizações da dívida pública durante auditoria.
+- Jornada de 30 horas semanais sem redução salarial e fim da escala 6x1.
+- Constituinte em até dois anos, com metade dos membros eleita por organizações populares, e extinção do Senado.
+- Legalização do aborto e descriminalização do uso de drogas.
+- Saúde e educação 100% públicas, com estatização dos setores privados.
+- Tarifa zero no transporte público em todo o país.
+
+Economia e emprego:
+- Estatizar o sistema financeiro e criar o Banco dos Trabalhadores para gerir fundos previdenciários (p.4).
+- Suspender juros e amortizações da dívida pública enquanto uma comissão investiga sua origem (p.4).
+- Revogar o arcabouço fiscal, a LRF, a Lei das Estatais e a autonomia do Banco Central (p.4).
+- Jornada de 30 horas sem redução salarial e salário mínimo do Dieese em até quatro anos (p.5).
+
+Saúde:
+- Estatizar todo o setor privado de saúde e revogar contratos com OSs (p.10).
+- Investir 10% do PIB na saúde pública (p.10).
+- Ampliar o Complexo Econômico-Industrial da Saúde e levar Fiocruz e Butantan a outros estados (p.6, 10).
+- Criar Conselhos Populares de Saúde e proibir as comunidades terapêuticas (p.6, 10).
+
+Educação:
+- Ensino 100% público, das creches à pós-graduação, com estatização do ensino privado (p.7).
+- Fim do vestibular nas federais e ampliação das cotas (54% para a população negra) (p.7).
+- Piso salarial nacional como vencimento básico da carreira docente (p.7).
+- Fim das escolas cívico-militares e expansão dos Institutos Federais (p.7, 10).
+
+Segurança:
+- Desmilitarizar e unificar as polícias, com ciclo completo e controle social (p.6, 12).
+- Fim da 'guerra às drogas', descriminalização do uso e legalização da maconha a curto prazo (p.6, 12).
+- Contra a redução da maioridade penal; adoção das 16 medidas do IBCCRIM contra o encarceramento em massa (p.12).
+- Revogar a Lei Antidrogas e acabar com a privatização de presídios (p.12).
+
+Meio ambiente e clima:
+- Expropriação do agronegócio e desapropriação sem indenização de latifúndios improdutivos (p.6, 9).
+- Reduzir a pecuária e a geração por combustíveis fósseis e taxar emissões poluentes (p.8).
+- Contra a exploração da Margem Equatorial; fundo da renda do petróleo para energia limpa (p.5, 14).
+- Ampliar unidades de conservação e demarcar terras indígenas, com fim do marco temporal (p.8, 11-12).
+
+Social e direitos:
+- Legalização do aborto, com atendimento na rede pública (p.11).
+- Licença-maternidade e paternidade de um ano (p.11).
+- Revogar as reformas trabalhista e da Previdência; estabilidade no emprego após cinco anos de vínculo (p.5).
+- Carteira assinada e piso salarial para trabalhadores de aplicativos (p.5).
+
+Infraestrutura e cidades:
+- Tarifa zero, com transporte 100% público em todo o território nacional (p.7, 11).
+- Reestatizar portos, aeroportos, ferrovias e rodovias (p.11).
+- Reestatizar a Eletrobras, revogar o marco do saneamento e criar monopólio estatal em gás, energia e saneamento (p.10).
+- Destinar imóveis ociosos à moradia popular e programa habitacional até zerar o déficit (p.6).
+
+Gestão e Estado:
+- Assembleia Constituinte em até dois anos, com metade dos membros eleita por organizações populares (p.3-4).
+- Extinção do Senado e criação de Parlamento unicameral (p.4).
+- Revogação de mandatos por referendo e Orçamento Popular 100% deliberativo (p.3-4).
+- Mandatos de 10 anos, eletivos e revogáveis, para juízes de tribunais superiores (p.13).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Ações concretas (leis a revogar, órgãos a criar) com algumas metas e prazos (Constituinte em 2 anos, salário mínimo do Dieese em 4 anos, 10% do PIB na saúde), mas sem custos nem fontes de financiamento.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002551975_01.pdf
+Fontes: https://pcb.org.br/portal2/32251 | https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-edmilson-costa-pre-candidato-a-presidencia/ | https://mais.opovo.com.br/jornal/politica/2026/08/07/candidato-a-presidencia-do-pcb-destaca-propostas.html
+
+## ESCRITOR AUGUSTO CURY (número 70, AVANTE)
+- Nome civil: AUGUSTO JORGE CURY. Idade na posse: 68. Ocupação declarada: ESCRITOR E CRÍTICO. Bens declarados: R$ 242.593.012.
+- Partido ou coligação: AGIR / AVANTE.
+- Chapa: vice-presidente: JÚLIO DELGADO (AVANTE).
+
+Resumo: Plano com foco declarado em 'cultura da paz' e superação da polarização, unindo 'mente capitalista' e 'coração social'. Prioriza educação com gestão da emoção, empreendedorismo em massa (Banco do Empreendedor, 10 mil indústrias) e telemedicina. Propõe três reformas: semipresidencialismo, mandato para ministros do STF e nova diplomacia econômica.
+Trajetória: Psiquiatra e escritor de best-sellers, autor da Teoria da Inteligência Multifocal. É sua primeira candidatura; filiou-se ao Avante em 2026 e tem como vice o ex-deputado federal Júlio Delgado.
+
+Principais propostas:
+- Adotar o semipresidencialismo, com primeiro-ministro apoiado pela maioria do Congresso.
+- Mandato de 8 anos no STF e redução para 9 ministros, escolhidos por magistratura, Ministério Público e OAB, e não pelo presidente.
+- Banco do Empreendedor com crédito de até R$ 20 mil a juros de 5% a 6% ao ano; meta de financiar 2 milhões de negócios em 10 anos.
+- Programa para 10 mil novas indústrias e rede de 10 mil escolas e clubes de empreendedorismo.
+- Telemedicina pública para cerca de 80% das consultas básicas, com atendimento digital em até 30 minutos.
+- Meta de déficit público próximo de zero e carga tributária menor ao fim da reforma tributária.
+- Programa Mulheres Vivas contra o feminicídio, com botão de pânico e igualdade no crédito.
+
+Economia e emprego:
+- Déficit próximo de zero, controle rigoroso de gastos e alíquota final do novo IVA menor que a projetada (p.36-38).
+- Banco do Empreendedor (fundo inicial de R$ 30 a 50 bi) e Ministério do Empreendedorismo, financiado em parte com lucros de estatais (p.98, p.108).
+- 10 mil novas indústrias, política de semicondutores, cinco corredores de exportação e Zonas de Processamento de Exportação (p.40-42).
+- Incentivo fiscal para empresas que contratarem jovens no primeiro emprego (p.57).
+
+Saúde:
+- Telemedicina para atender cerca de 80% das consultas básicas e reduzir a espera por especialista (p.44).
+- Meta nacional de atendimento digital em até 30 minutos nos casos compatíveis (p.162).
+- Programa Nacional de Saúde Mental e prevenção de ansiedade, automutilação e suicídio (p.44-45).
+- Programa de prevenção e detecção precoce do câncer (p.166).
+
+Educação:
+- Escola de tempo integral como 'clube de desenvolvimento humano' (p.75).
+- Gestão da Emoção, Educação Financeira e Empreendedorismo no currículo (p.75-76).
+- Ampliar o ensino técnico integrado ao médio e valorizar professores, com remuneração ligada também à qualificação (p.43).
+- Programa Brasil Neuroinclusivo para alunos neurodivergentes na rede pública (p.81-85).
+
+Segurança:
+- Recriar o Ministério da Segurança Pública (p.37, p.45).
+- Programa FATO: integração de PF, polícias estaduais e uma nova força municipal (FOCO) formada por 5% dos servidores municipais (p.45, p.186-187).
+- Asfixia financeira das facções com Receita e Coaf; Forças Armadas no controle das fronteiras (p.45-46).
+- Diretor-geral da PF escolhido em lista tríplice, com mandato de 2 anos (p.45).
+
+Meio ambiente e clima:
+- Programa Floresta Viva: satélites, IA e drones contra incêndios florestais (p.182).
+- Mercado de carbono regulamentado e pagamento por serviços ambientais a quem preserva (p.51-52).
+- Prazos máximos legais para licenciamento ambiental, com análise por nível de risco (p.47-48).
+- Meta de estar entre os 3 maiores exportadores de hidrogênio verde até 2035 (p.175).
+
+Social e direitos:
+- Mulheres Vivas: botão de pânico, transparência salarial e fim da diferença de juros no crédito para mulheres (p.53-56).
+- Compromisso de indicar mulheres ao STF (p.56).
+- Família do Bolsa Família não perde o benefício por um período ao assinar carteira ou abrir empresa (p.98-99).
+- Comunidades Empreendedoras: regularizar até 5 milhões de moradias em 10 anos, com urbanização, Escola e Banco do Empreendedor; custo estimado de R$ 145 a 280 bi em 10 anos, parte em fundo de crédito rotativo (p.105-111).
+
+Infraestrutura e cidades:
+- Ampliar concessões e parcerias público-privadas (p.49-50).
+- Programa nacional de integração logística e incentivo à construção de armazéns (p.50).
+- Cumprir o Marco Legal do Saneamento e levar internet de alta velocidade a escolas, hospitais e áreas rurais (p.50).
+
+Gestão e Estado:
+- Semipresidencialismo e reforma política com cláusulas de desempenho mais rígidas (p.60, p.63-64).
+- Metas anuais públicas para todos os ministérios e IA contra fraudes e desperdícios (p.38-39, p.52).
+- Rede de controle social 'Sociedade Está de Olho' (p.52).
+- Chanceler com status de 'Secretário de Estado' e embaixadas com metas de abertura de mercados (p.59, p.64-65).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Ações concretas e algumas metas numéricas (10 mil indústrias, 2 milhões de empreendedores em 10 anos, telemedicina em 30 minutos) e custo estimado em um programa, mas grande parte do texto é de princípios e sem prazos.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002551547_01.pdf
+Fontes: https://www.cnnbrasil.com.br/eleicoes/quem-e-o-escritor-augusto-cury-candidato-do-avante-a-presidencia/ | https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais | https://www.dgabc.com.br/Noticia/4345516/cury-diz-que-privatizaria-correios-se-estatal-nao-for-recuperavel | https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/ | https://www.em.com.br/politica/2026/07/7468008-augusto-cury-defende-prisao-perpetua-para-crimes-contra-mulheres-e-criancas.html | https://www.cnnbrasil.com.br/eleicoes/daria-perdao-a-quase-todos-envolvidos-no-8-1-diz-augusto-cury-a-cnn/ | https://www.congressoemfoco.com.br/noticia/121759/augusto-cury-quer-reavaliar-sentencas-do-8-1--penas-desproporcionais | https://www.congressoemfoco.com.br/noticia/121272/augusto-cury-propoe-semipresidencialismo-e-mandato-de-8-anos-no-stf | https://www.infomoney.com.br/politica/cury-defende-taxar-big-techs-e-diz-que-levaria-zuckerberg-a-tribunal-internacional/
+
+## FLAVIO BOLSONARO (número 22, PL)
+- Nome civil: FLAVIO NANTES BOLSONARO. Idade na posse: 45. Ocupação declarada: SENADOR. Bens declarados: R$ 8.186.556.
+- Partido ou coligação: PL.
+- Chapa: vice-presidente: ALFREDO GASPAR (PL).
+
+Resumo: Plano que se define como "liberal, conservador e reformista", com prioridade para segurança pública com medidas duras, corte de gastos ("Tesouraço") e redução de impostos. Inclui reforma do STF, programa para mulheres ("Brasil por Elas") e digitalização de serviços públicos.
+Trajetória: Senador pelo Rio de Janeiro desde 2019; foi deputado estadual no RJ por quatro mandatos (2003-2019). É filho do ex-presidente Jair Bolsonaro.
+
+Principais propostas:
+- Apoiar a redução da maioridade penal de 18 para 16 anos e punir maiores de 14 anos por crimes graves (Plano p.13).
+- Declarar facções como organizações narcoterroristas; 5 novos presídios de segurança máxima e 500 mil vagas prisionais em 4 anos (p.13-14).
+- Fim da progressão de regime para crimes hediondos e castração química para estupradores condenados (p.14-15).
+- "Tesouraço": corte de no mínimo 10 ministérios, superávits primários e nova regra fiscal para reduzir a dívida (p.69-71).
+- Revisar a reforma tributária para reduzir o IVA e os impostos sobre consumo, energia e combustíveis (p.30-31).
+- Reforma do STF: limitar decisões monocráticas e acabar com a competência criminal originária (p.65).
+- Investir R$ 900 bilhões em 4 anos em logística e retomar o Casa Verde e Amarela com meta de 2,5 milhões de moradias (p.47, 51).
+
+Economia e emprego:
+- Revisar a reforma tributária e os aumentos de impostos do atual governo para reduzir a carga sobre produção e consumo (p.30, 71).
+- Reduzir gradualmente o custo do trabalho, com contratos de menor custo para jovens de 18 a 24 anos e pessoas com 50+ desempregadas (p.43-44).
+- Negociado sobre o legislado e jornada flexível (p.44).
+- Meta de crescimento de 4% ao ano e adesão à OCDE, com fim gradual do IOF sobre câmbio (p.49, 63).
+
+Saúde:
+- Prontuário eletrônico único vinculado ao CPF, interoperável entre redes pública e privada (p.26).
+- Garantir condições para a correção efetiva da tabela SUS (p.37).
+- Contratar exames na rede privada em horários ociosos, ampliar telessaúde e entrega de remédios em domicílio (p.37-38).
+- Ampliar a Estratégia Saúde da Família e criar o Programa de Atendimento aos Idosos (p.37).
+
+Educação:
+- Priorizar o método fônico na alfabetização e criar o Programa Acolher (reforço dado por alunos remunerados) (p.35).
+- Ampliar escolas cívico-militares e educação "livre de doutrinação" (p.35).
+- Voucher educacional e voucher-creche onde faltar vaga na rede pública (p.21, 36).
+- Adotar o Empréstimo Contingente à Renda no financiamento estudantil e transferir o ensino superior para o MCTI (p.36-37).
+
+Segurança:
+- Redução da maioridade penal para 16 anos (p.13).
+- Complexo federal de segurança máxima (TREVA) e 500 mil novas vagas prisionais em 4 anos (p.14).
+- Dobrar o investimento federal em segurança e criar o Muralha Brasileira, com reconhecimento facial e 1 milhão de câmeras (p.15).
+- Sistema Nacional de Fronteira com Forças Armadas e tropas especiais em portos e aeroportos (p.13-15).
+
+Meio ambiente e clima:
+- Meta de zerar o desmatamento ilegal até 2029 (p.58).
+- Licenciamento com prazos definidos e concessão da licença se o órgão não decidir no prazo (p.49-50).
+- Ampliar pagamento por serviços ambientais e consolidar o mercado regulado de carbono (p.55, 57).
+- Permitir a exploração de gás não convencional (fracking) e ampliar biocombustíveis (p.52-53).
+
+Social e direitos:
+- Manter os programas sociais com combate a fraudes, prioridade dos beneficiários em qualificação e retorno sem fila ao benefício (p.42-43).
+- Central da Mulher, assistente virtual ClarIA e tornozeleira para agressores sob medida protetiva (p.17-19).
+- Proibir o uso de recursos de programas sociais em apostas (p.33).
+- Restringir a categoria feminina no esporte a atletas do sexo feminino (p.40-41).
+
+Infraestrutura e cidades:
+- R$ 900 bilhões em 4 anos em rodovias, hidrovias, portos, aeroportos e ferrovias, com PPPs e concessões (p.50-51).
+- Destravar a Ferrogrão, implantar o Trem do Nordeste e concluir a Transnordestina (p.51, 60).
+- Retomar o Casa Verde e Amarela com meta de 2,5 milhões de moradias (p.47).
+- Acelerar concessões de saneamento e nenhuma escola sem água até 2030 (p.47).
+
+Gestão e Estado:
+- Cortar no mínimo 10 ministérios, cargos comissionados, penduricalhos e supersalários (p.69).
+- Retomar o Programa Nacional de Desestatização caso a caso e fortalecer a Lei das Estatais (p.70).
+- Fim da reeleição para presidente (p.66).
+- Digitalizar 100% dos serviços federais passíveis de digitalização (p.25).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Ações concretas em todas as áreas e várias metas numéricas (vagas prisionais, investimento em logística, moradias, ministérios), mas sem custos ou fontes de financiamento na maioria.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002551544_01.pdf
+Fontes: https://revistaoeste.com/politica/flavio-defende-privatizacao-dos-correios/ | https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-diz-que-mantera-petrobras-estatal/ | https://sbtnews.sbt.com.br/noticia/politica/flavio-propos-isencao-no-ir-que-beneficiaria-escritorio-dele | https://www.dgabc.com.br/Noticia/4320008/flavio-bolsonaro-mostra-favoritismo-da-escala-5x2-mas-pondera | https://www.gazetadopovo.com.br/republica/quem-planeja-o-fim-do-estatuto-do-desarmamento-no-brasil/ | https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas | https://www.infomoney.com.br/politica/flavio-diz-que-nao-apenas-bolsonaro-mas-todos-perseguidos-subirao-rampa-do-planalto/
+
+## HERTZ DIAS (número 16, PSTU)
+- Nome civil: HERTZ DA CONCEICAO DIAS. Idade na posse: 56. Ocupação declarada: PROFESSOR DE ENSINO FUNDAMENTAL. Bens declarados: R$ 170.000.
+- Partido ou coligação: PSTU.
+- Chapa: vice-presidente: VANESSA PORTUGAL (PSTU).
+
+Resumo: Candidatura do PSTU (vice Vanessa Portugal) com programa socialista revolucionário, que o próprio texto define como 'guia para a ação' e não como conjunto de promessas eleitorais. Defende expropriar setores estratégicos e o grande agronegócio, suspender a dívida pública, reduzir a jornada para 36 horas e um governo dos trabalhadores apoiado em conselhos populares e na mobilização, e não em acordos no Congresso.
+Trajetória: Professor de história da rede pública do Maranhão, rapper e cofundador do Movimento Quilombo Urbano. Pelo PSTU, foi candidato a vice-governador do MA (2010), vice-presidente (2018, com Vera Lúcia), prefeito de São Luís (2020) e governador do MA (2022).
+
+Principais propostas:
+- Fim da escala 6x1 e jornada de 36 horas sem redução de salário (p.7).
+- Aumento de 100% no salário mínimo e bolsa de um salário mínimo para desempregados (p.7).
+- Expropriação de grandes empresas de mineração, petróleo, energia, siderurgia e do agronegócio; Petrobras 100% estatal (p.25).
+- Suspensão do pagamento da dívida pública aos grandes investidores, auditoria e fim da Lei de Responsabilidade Fiscal (p.27).
+- Imposto sobre fortunas acima de R$ 1 bilhão e isenção de IR até dez salários mínimos (p.26).
+- Desmilitarização da PM e polícia única civil com comandantes eleitos; descriminalização das drogas (p.18-19).
+- Vínculo empregatício para trabalhadores de aplicativos e plataformas públicas geridas por conselhos de trabalhadores (p.8-9).
+
+Economia e emprego:
+- Fim da escala 6x1 e jornada de 36 horas, rumo à escala móvel de horas (p.7).
+- Aumento de 100% no salário mínimo e plano nacional de obras públicas para gerar empregos (p.7).
+- Revogar a reforma trabalhista e a lei das terceirizações (p.7).
+- Limitar a 25% a distribuição de dividendos das grandes empresas privadas e controlar a saída de capitais (p.5, 26).
+
+Saúde:
+- SUS público, universal e 100% estatal, com fim da gestão por OS, fundações e PPP (p.10).
+- Proibir a transferência de leitos públicos para planos privados (p.10).
+- Produção pública de medicamentos e insumos estratégicos e expansão de hospitais, UPAs e UBS (p.10).
+- Ampliar CAPS e residências terapêuticas; nenhum recurso público para comunidades terapêuticas (p.10).
+
+Educação:
+- Nenhuma verba pública para grandes grupos privados de educação e fim das PPPs nas redes públicas (p.11).
+- Revogar a BNCC e o Novo Ensino Médio (p.11).
+- Contra a militarização das escolas e o Escola sem Partido (p.11).
+- Ampliar vagas em creches, escolas e universidades públicas, com permanência estudantil (p.11).
+
+Segurança:
+- Desmilitarizar a PM e unificar as polícias em instituição civil, com eleição de comandantes e delegados (p.18-19).
+- Descriminalizar as drogas e revogar a Lei Antidrogas, com prevenção e redução de danos (p.18).
+- Câmeras corporais para todos os agentes, com gravação ininterrupta sob controle civil; fim da Justiça Militar (p.18).
+- Combater o crime organizado por inteligência e confisco de bens, atingindo suas ligações com o sistema financeiro (p.18).
+
+Meio ambiente e clima:
+- Fim dos créditos públicos e subsídios ao grande agronegócio (p.14).
+- Contra a exploração de petróleo na Margem Equatorial e a privatização de rios e hidrovias da Amazônia (p.14-15).
+- Demarcação imediata de terras indígenas e titulação de territórios quilombolas (p.14, 24).
+- Fim dos agrotóxicos, transição agroecológica e planos de prevenção a enchentes e deslizamentos (p.14-16).
+
+Social e direitos:
+- Aborto legal, seguro e gratuito pelo SUS (p.22).
+- Licença parental de um ano compartilhada e creches públicas em tempo integral (p.22).
+- Revogar a reforma da Previdência e reduzir a idade mínima de aposentadoria (p.13).
+- Contra a redução da maioridade penal e pela manutenção e ampliação de cotas raciais (p.20).
+
+Infraestrutura e cidades:
+- Tarifa zero e estatização dos sistemas de transporte urbano (p.13).
+- Construção massiva de moradias por empresa pública e expropriação de imóveis ociosos ou especulativos (p.12).
+- Universalização do saneamento básico (p.12).
+- Correios modernizados como eixo logístico estatal integrado a uma plataforma pública de comércio eletrônico (p.9).
+
+Gestão e Estado:
+- Estatização do sistema financeiro, com crédito centralizado em banco único (p.27).
+- Proibição das bets e expropriação de seu capital para um fundo de tratamento de ludopatia (p.26-27).
+- Proibir hospedagem de dados governamentais sensíveis em nuvens estrangeiras e criar IA pública nacional (p.27).
+- Governo baseado em conselhos populares, com representantes eleitos e revogáveis (p.30-32).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Medidas concretas com algumas metas numéricas (36 horas, +100% no salário mínimo, IR isento até dez salários mínimos, fortunas acima de R$ 1 bilhão), mas sem prazos, custos ou etapas; o texto se apresenta como guia de luta, não plano de execução.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002541457_01.pdf
+Fontes: Plano de governo (TSE) — prop_br/BR/2026BR280002541457_01.pdf | https://diariodonordeste.verdesmares.com.br/pontopoder/quem-e-hertz-dias-candidato-a-presidente-da-republica-pelo-pstu-em-2026-1.3781043 | https://www.opiniaosocialista.com.br/escandalo-por-debaixo-dos-panos-pt-participa-de-acordao-para-votar-anistia-a-golpistas/ | https://www.pstu.org.br/sem-anistia-para-golpistas-investigacao-ate-o-final-e-punicao-exemplar/ | https://oimparcial.com.br/noticias/2026/03/hertz-dias-lanca-pre-candidatura-a-presidencia-e-defende-fim-da-escala-6x1-e-ruptura-com-o-capitalismo/ | https://sbtnews.sbt.com.br/noticia/eleicoes/candidato-do-pstu-cita-boicote-ao-partido-e-critica-lula
+
+## LEONARDO AVALANCHE (número 28, PRTB)
+- Nome civil: LEONARDO ALVES DE ARAUJO. Idade na posse: 49. Ocupação declarada: EMPRESÁRIO. Bens declarados: R$ 495.030.000.
+- Situação da candidatura: Pendente de julgamento.
+- Partido ou coligação: PRTB.
+- Chapa: vice-presidente: SILVIA (PRTB).
+- Aviso: Anunciou em 30/09 que desistiu da disputa (Revista Oeste, Jornal de Brasília). O nome segue na urna; se a renúncia for homologada, os votos serão anulados.
+
+Resumo: Plano próprio de Leonardo Avalanche protocolado no TSE ('Avalanche neles'), com 19 propostas centradas em corte drástico de impostos (imposto único de 3,5%, IPVA fixo de R$ 50), empreendedorismo digital e segurança com 'tolerância zero', sob o lema 'Deus, pátria e família'. Ele substituiu Pablo Marçal, cujo registro o TSE indeferiu em 11/09/2026, e sua candidatura consta como pendente de julgamento no TSE (dados abertos de 02/10/2026). Em 30/09/2026 anunciou que desistiu da disputa, sem apoiar outro candidato; o nome segue na urna e, se a renúncia for homologada, os votos serão anulados.
+Trajetória: Empresário de Anápolis (GO), preside o PRTB desde fevereiro de 2024 e coordenou a campanha de Pablo Marçal à Prefeitura de São Paulo em 2024. Lançado pré-candidato em julho de 2026, passou a vice de Marçal e voltou à cabeça de chapa em 14/09/2026, com Silvia Hellen da Silva Pereira como vice.
+
+Principais propostas:
+- Imposto único de 3,5% no lugar de ICMS, ISS, IPI, PIS/Cofins, IR, INSS e outros tributos (p.4).
+- iPhone de última geração e um ano de internet para quem concluir curso de empreendedorismo do governo, pago com verba de publicidade oficial (p.7).
+- IPVA fixo de R$ 50 por mês e isenção nacional de IPVA para caminhoneiros (p.18).
+- Zerar a fila do SUS com mutirões, hospitais privados ociosos, telemedicina e IA no controle de estoque de remédios (p.9).
+- Taxa de 3,5% para apps de transporte, sob pena de restrição e criação de app estatal, e financiamento de carro sem imposto para motoristas (p.11).
+- Penas mais duras para crimes violentos e pena mínima dobrada para exploração sexual infantil (p.13, 39).
+- Programa Meu Primeiro Emprego: governo paga parte do salário de jovens de 18 a 29 anos por seis meses, com carteira garantida por um ano (p.42).
+
+Economia e emprego:
+- Imposto único de 3,5% para pessoas e empresas, cobrado na fonte (p.4).
+- Meu Primeiro Emprego e plataforma nacional de talentos com incentivo fiscal à contratação de jovens (p.42).
+- Reindustrialização com desoneração, crédito e capital público em indústria estratégica, com prioridade a nióbio e terras raras (p.21-22).
+- Fábricas nacionais de fertilizantes (como a jazida de potássio de Autazes-AM) e 'Crédito Raiz' ligando renegociação de dívida a crédito novo ao produtor (p.24).
+
+Saúde:
+- Zerar a fila do SUS com mutirões, parceria com hospitais privados ociosos e telemedicina (p.9).
+- Sistema de IA para monitorar estoques e evitar falta de remédios (p.9).
+- Programa nacional para mulheres no climatério e menopausa e mais geriatras no SUS (p.9-10).
+- Rede 'Respira' de centros de saúde mental para jovens, sem encaminhamento (p.43).
+
+Educação:
+- IA para personalizar o ensino e currículo com educação financeira e empreendedorismo desde o fundamental (p.15).
+- Ensino técnico em toda escola pública a partir dos 14-15 anos e inglês como prioridade (p.15-16).
+- Apoio à regulamentação da educação domiciliar (homeschooling), com fiscalização (p.42-44).
+- Recompor orçamento de Capes e CNPq e criar polo tecnológico com incentivo fiscal a empresas brasileiras (p.19).
+
+Segurança:
+- Endurecer penas para crimes violentos e organizados e isolar líderes de facção presos (p.13-14).
+- Sistema Único Nacional de Segurança integrando bases policiais, com reconhecimento facial (p.13).
+- Mais concursos para polícia e salário digno para policiais (p.13).
+- Dobrar a pena mínima para exploração sexual infantil e acompanhamento de vítimas até a maioridade (p.39-41).
+
+Meio ambiente e clima:
+- Rede de drones para vigiar a Amazônia contra desmatamento, garimpo ilegal e contaminação de rios (p.28).
+- Coleta seletiva em todas as cidades e aproveitamento energético do lixo (p.45-46).
+- Redução de imposto federal sobre carros elétricos e híbridos e rede de recarga (p.30-31).
+
+Social e direitos:
+- Rede 'Abraço Azul' para mães atípicas e profissional certificado para crianças autistas nas escolas (p.34).
+- Expansão de casas de acolhimento para mulheres e idosos vítimas de violência e tratamento de agressores (p.36-37).
+- Lei nacional de vagão exclusivo para mulheres em metrôs e trens (p.37).
+- Teste genético como critério da categoria feminina no esporte a partir de 2027 (p.37).
+
+Infraestrutura e cidades:
+- Acelerar o Marco Legal das Ferrovias com ampliação da malha operada pelo setor privado (p.26).
+- Investimento em portos, terminais e dragagem de hidrovias (p.26-27).
+- Saneamento como prioridade, com equipe federal para apoiar prefeituras e fiscalizar contratos (p.45).
+- Pontos de apoio para motoristas de aplicativo e plano de saúde exclusivo para a categoria (p.11-12).
+
+Gestão e Estado:
+- Mutirão nacional para reduzir processos parados e meta de redução do tempo de julgamento (p.32).
+- Aumento real do orçamento de defesa e indústria nacional de defesa (p.28-29).
+- Órgão federal independente para fiscalizar assédio no trabalho em empresas de qualquer porte (p.38).
+- Redirecionar verba de publicidade oficial para contratar cidadãos capacitados na divulgação do governo (p.7-8).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Propostas com mecanismos descritos e algumas metas (alíquota de 3,5%, IPVA de R$ 50, prazo de 2027 no esporte) e fonte de recursos em poucos casos, mas a maioria sem prazos ou custos e várias remetidas a 'estudo técnico'.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002554479_01.pdf
+Fontes: Plano de governo (TSE) — prop_br/BR/2026BR280002554479_01.pdf | https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/leonardo-avalanche | https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf | https://sbtnews.sbt.com.br/noticia/politica/prtb-lanca-avalanche-a-presidencia-apos-tse-recusar-marcal-1 | https://www.acordacidade.com.br/politica/eleicoes/leonardo-avalanche-assume-candidatura-do-prtb-a-presidencia-apos-renuncia-de-pablo-marcal/ | https://revistaoeste.com/politica/substituto-de-marcal-leonardo-avalanche-desiste-de-disputar-a-presidencia/ | https://jornaldebrasilia.com.br/noticias/politica-e-poder/leonardo-avalanche-desiste-da-disputa-presidencial-pelo-prtb | https://www.poder360.com.br/poder-eleicoes-2026/prtb-lanca-leonardo-avalanche-como-pre-candidato-a-presidencia/ | https://www.poder360.com.br/poder-eleicoes-2026/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia/ | https://www.acessa.com/politica/2026/09/amp/340120-leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus.html
+
+## LULA (número 13, PT)
+- Nome civil: LUIZ INÁCIO LULA DA SILVA. Idade na posse: 81. Ocupação declarada: TORNEIRO MECÂNICO. Bens declarados: R$ 4.775.651.
+- Partido ou coligação: PSB / PDT / FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV) / FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE).
+- Chapa: vice-presidente: GERALDO ALCKMIN (PSB).
+
+Resumo: Plano de continuidade do atual governo, com eixos em combate às desigualdades, soberania nacional e transição ecológica. Propõe manter o arcabouço fiscal, ampliar a proteção social, acabar com a escala 6x1 e reforçar o combate ao crime organizado com integração federativa.
+Trajetória: Presidente da República em 2003-2010 e desde 2023. Ex-líder sindical metalúrgico, fundador do PT e deputado federal constituinte (1987-1991).
+
+Principais propostas:
+- Fim da escala 6x1 e jornada de 40 horas sem redução salarial (Plano p.75).
+- Manter o novo arcabouço fiscal e buscar redução sustentada dos juros com inflação controlada (p.49).
+- Criar o Ministério da Segurança Pública após aprovação da PEC da Segurança (p.30).
+- Programa Brasil Contra o Crime Organizado com R$ 10 bilhões do FIIS para estados e municípios (p.27-28).
+- Desmatamento líquido zero até 2030 (p.70).
+- Meta de 80% das crianças alfabetizadas na idade certa e conectividade universal nas escolas (p.31-32).
+- Avançar na regulação democrática das redes sociais e plataformas digitais (p.16).
+
+Economia e emprego:
+- Manter o arcabouço fiscal e o controle do gasto primário, com resultado fiscal via crescimento e justiça tributária (p.49).
+- Continuar a política de valorização real do salário mínimo (p.74).
+- Fim da escala 6x1 e jornada de 40 horas sem redução salarial; combate à pejotização (p.74-75).
+- Aprofundar a Nova Indústria Brasil e criar política para minerais críticos e terras raras com agregação de valor no país (p.50-52).
+
+Saúde:
+- Ampliar o Agora Tem Especialistas: terceiro turno, carretas, mutirões e parceria com hospitais privados em troca de créditos (p.37).
+- Fila única digital ordenada por risco clínico, com IA, e prontuário único do cidadão (p.35, 38).
+- Manter a Farmácia Popular 100% gratuita e incluir exames laboratoriais de doenças crônicas (p.36).
+- Ampliar a rede de atenção psicossocial e os CAPS (p.39).
+
+Educação:
+- Chegar a 80% das crianças alfabetizadas na idade certa (p.31).
+- Prioridade à educação em tempo integral e universalização da conectividade nas escolas (p.31-32).
+- Manter e fortalecer o Pé-de-Meia e o Piso Nacional do Magistério (p.32-33).
+- Expandir os institutos federais e fazer novo ciclo de interiorização do ensino superior público (p.33).
+
+Segurança:
+- Criar o Ministério da Segurança Pública após a PEC da Segurança (p.30).
+- Fortalecer o Programa Brasil Contra o Crime Organizado e a asfixia financeira das facções (p.27-28).
+- Manter a política de controle de armas e munições e ampliar a rastreabilidade (p.28).
+- Ampliar câmeras corporais com padrões nacionais e policiamento de proximidade (p.30).
+
+Meio ambiente e clima:
+- Desmatamento líquido zero até 2030 (p.70).
+- Cumprir a NDC (redução de 59% a 67% das emissões até 2035 em relação a 2005) e implementar o TFFF (p.69-71).
+- Ampliar renováveis e biocombustíveis e acelerar a redução da produção de carvão (p.64-68).
+- Institucionalizar a adaptação climática e a prevenção de desastres no planejamento público (p.72-73).
+
+Social e direitos:
+- Manter, aperfeiçoar e ampliar o Bolsa Família e as políticas de proteção social (p.18-19).
+- Concluir 30 Casas da Mulher Brasileira e 15 Centros de Referência da Mulher (p.21).
+- Dar escala à Política Nacional de Cuidados: Cuidotecas, lavanderias públicas e cozinhas solidárias (p.26).
+- Continuar demarcação de terras indígenas e titulação de territórios quilombolas (p.20).
+
+Infraestrutura e cidades:
+- Nova edição do Novo PAC, com concessões rodoviárias e mais concessões de ferrovias (p.53).
+- Manter e ampliar o Minha Casa Minha Vida para todas as faixas de renda (p.45).
+- Apoiar estados e municípios na universalização de água e esgoto, priorizando periferias (p.46).
+- Reduzir o déficit de fibra óptica (11% dos municípios) e ampliar o 5G no campo (p.55).
+
+Gestão e Estado:
+- Debater com a sociedade o atual sistema de emendas parlamentares (p.15-16).
+- PPA 2028-2031 participativo e participação social no ciclo orçamentário (p.15).
+- Criar a Política Nacional de Letramento Digital e o Conselho Nacional pela Soberania Digital (p.17).
+- Evoluir o Portal da Transparência com dados abertos e IA; aprofundar o Plano de Integridade (p.18).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Ações concretas e programas nomeados em todas as áreas, com algumas metas quantificadas (alfabetização, desmatamento, NDC), mas a maioria sem prazos, custos ou fontes.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002542548_01.pdf
+Fontes: https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/lula-descarta-privatizacao-dos-correios | https://www.poder360.com.br/brasil/lula-sanciona-pl-antifaccao-com-veto-e-sem-alcolumbre-no-planalto/ | https://www.folhape.com.br/noticia/amp/466999/governo-muda-tom-sobre-reducao-da-maioridade-penal-e-tenta-novo-folego/ | https://www.congressoemfoco.com.br/area/governo/lula-volta-a-criticar-pl-do-estupro-e-defende-que-aborto-seja-tratado-como-questao-de-saude-publica/ | https://www.congressoemfoco.com.br/noticia/118503/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria | https://jovempan.com.br/noticias/politica/aliados-de-lula-atuam-para-derrotar-pec-que-limita-poderes-do-stf-mas-querem-evitar-desgaste-em-caso-de-derrota.html | https://www.camara.leg.br/noticias/1186832-LULA-SANCIONA-NOVO-LICENCIAMENTO-AMBIENTAL-COM-63-VETOS
+
+## RENAN SANTOS (número 14, MISSÃO)
+- Nome civil: RENAN ANTONIO FERREIRA DOS SANTOS. Idade na posse: 42. Ocupação declarada: EMPRESÁRIO. Bens declarados: R$ 795.089.
+- Partido ou coligação: MISSÃO.
+- Chapa: vice-presidente: CORONEL MEDINA (MISSÃO).
+
+Resumo: Plano 'Livro Amarelo' do Partido Missão, dividido em reforma do Estado, 'reformas de base' e projetos de longo prazo. O eixo central é um ajuste fiscal por PEC antes da posse, uma 'guerra ao crime' baseada no Direito Penal do Inimigo e em Estado de Defesa, e a desfavelização do país em dez anos.
+Trajetória: Empresário, cofundador e coordenador do Movimento Brasil Livre (MBL, 2014), que atuou pelo impeachment de Dilma Rousseff. Preside o partido Missão, registrado pelo TSE em 2025; não exerceu mandato eletivo.
+
+Principais propostas:
+- PEC de Transição para desindexar benefícios do salário mínimo e desvincular pisos de saúde e educação (economia projetada de R$ 1,1 tri até 2031).
+- 'Guerra ao Crime' desde o 1º dia: Direito Penal do Inimigo, Estado de Defesa em áreas de facções, Lei Antifacção e superpresídios no modelo de El Salvador.
+- Substituir o Bolsa Família por 'Frentes Cidadãs', frentes de trabalho remuneradas para adultos em idade ativa.
+- Grande Consolidação Municipal: fundir municípios inviáveis, reduzindo-os em até 70% (de 5.570 para cerca de 1.656).
+- Desfavelização das 12.348 favelas em 10 anos, com título de propriedade financiado em 50 anos; custo estimado de R$ 1,2 a 1,5 tri.
+- Abolir as cotas e criar bolsas por mérito; escolas cívico-militares nas escolas em situação crítica.
+- Lei de Responsabilidade Gerencial: metas para municípios, tutela federal e inelegibilidade de gestores que não cumprirem.
+
+Economia e emprego:
+- Ajuste fiscal por PEC: desindexação de benefícios, revisão do abono salarial, corte de renúncias fiscais e fim dos supersalários (p.9-10).
+- Reforma trabalhista para flexibilizar relações de trabalho; Zonas Econômicas Especiais no Nordeste com licenças em até 15 dias (p.5, p.35-36).
+- Cadeia nacional de terras raras: planta-piloto em 2029-2030 e cerca de R$ 20 bi em dez anos, com BNDES e parceiros dos EUA e da UE (p.39-40).
+- Agro: fim das invasões de terra, nenhum novo assentamento até os atuais ficarem produtivos e meta de não depender de fertilizante russo, bielorrusso ou marroquino a partir de 2035 (p.42).
+
+Saúde:
+- Fila do SUS por grau de risco (Escala Nacional de Estratificação de Risco), no lugar da ordem cronológica (p.25-26).
+- Sistema digital de saúde com telemedicina e diagnóstico por IA, inspirado no DoctorSV de El Salvador, e prontuário nacional interoperável (p.26).
+- Meta de 80% de resolução na atenção primária; repasses a municípios condicionados a desempenho (p.26).
+- Isenções fiscais ligadas a atividades esportivas (p.26).
+
+Educação:
+- Levar a todo o país o modelo do Ceará e o método fônico de alfabetização (p.31-32).
+- Código nacional de conduta do aluno, com punições, e ranking de disciplina que define parte dos recursos das escolas (p.32).
+- Abolir cotas e criar bolsas por mérito; transferir recursos de cursos 'bacharelescos' para áreas STEM (p.31-32).
+- Trocar a autonomia universitária por 'alinhamento estratégico' e restringir a progressão continuada (p.32).
+
+Segurança:
+- Adotar o Direito Penal do Inimigo e decretar Estado de Defesa em áreas dominadas por facções (p.11-12).
+- Lei Antifacção: banimento judicial de facções, perda de direitos políticos de membros e inversão do ônus da prova no confisco de bens (p.12).
+- Federalizar casos de facções, intervenção federal e GLO com autorização para 'força pesada' (p.12-13).
+- Superpresídios em regiões remotas, drones, reconhecimento facial e penas maiores para reincidência e roubo de eletrônicos (p.13).
+
+Meio ambiente e clima:
+- Aplicação plena da nova Lei Geral do Licenciamento Ambiental (Lei 15.190/2025), com uso da Licença Ambiental Especial para acelerar obras (p.24).
+- Licenciamento simplificado para mineração de terras raras e marco para exploração mineral em terras indígenas (p.39, p.42).
+- Retomar Angra 3, explorar hidrogênio verde e destravar a transmissão de energia renovável do Nordeste (p.24).
+
+Social e direitos:
+- Substituir o Bolsa Família por Frentes Cidadãs de trabalho remunerado (p.20-22).
+- Fim das cotas na educação 'e em geral' (p.32).
+- Lei Rouanet com critérios objetivos e teto para artistas de alto faturamento; fusão dos ministérios da Educação e da Cultura (p.28-29).
+- Oposição a regulação da mídia e da internet que reduza a liberdade de expressão; proposta de um Código Unificado de imprensa (p.29).
+
+Infraestrutura e cidades:
+- Elevar o investimento em infraestrutura de cerca de 2% para pelo menos 4% do PIB (p.6).
+- Ferrovias: meta mínima de 40 mil km, Ferrogrão, FIOL e Ferrovia Transoceânica; portos no Norte e Nordeste (p.24).
+- Marco Nacional da Desfavelização: título de propriedade, 'crime de favelização' para quem organiza ocupação ilegal e reforma do Minha Casa Minha Vida (p.49).
+- Custo líquido da desfavelização estimado em R$ 50 a 85 bi por ano ao Tesouro (p.49).
+
+Gestão e Estado:
+- Grande Consolidação Municipal e nova lei do Fundo de Participação dos Municípios (p.15).
+- Comissariado Federal de Gestão Pública, com comissários nos municípios e dupla assinatura de gastos em casos críticos (p.18).
+- Inelegibilidade e cassação por 'improbidade gerencial'; Fundo Partidário ligado ao desempenho dos gestores (p.18).
+- Política externa: Brasil como 'árbitro do Sul Global', pacto interamericano contra o tráfico e domínio do ciclo nuclear completo (p.45-46).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Ações concretas e metas quantificadas em vários capítulos (ajuste fiscal, ferrovias, saúde), com custo e fontes em dois programas (desfavelização e terras raras), mas educação, segurança e outras áreas sem metas ou prazos.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002540694_01.pdf
+Fontes: https://www.moneytimes.com.br/renan-santos-diz-que-e-contra-privatizacao-da-petrobras-e-embrapa-mas-nao-dos-correios-gaep/ | https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais | https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/ | https://www.gazetadopovo.com.br/eleicoes/2026/maioridade-penal-drones-castracao-quimica-presidio-amazonico-fim-da-pm-propostas-seguranca-candidatos-presidente/ | https://www.renanpresidente.com.br/caixa-preta/renan-e-a-favor-do-aborto | https://www.cnnbrasil.com.br/eleicoes/renan-santos-quer-restringir-stf-e-vetar-escritorios-ligados-a-ministros/ | https://www.itatiaia.com.br/politica/presidente-do-partido-do-mbl-defende-prisao-para-bolsonaro-e-anistia-para-presos/ | https://www.correiobraziliense.com.br/politica/2026/09/7501450-precisamos-afastar-o-ministro-do-stf-diz-renan-santos.html | https://www.cnnbrasil.com.br/eleicoes/quem-e-renan-santos-candidato-do-partido-missao-a-presidencia/
+
+## RONALDO CAIADO (número 55, PSD)
+- Nome civil: RONALDO RAMOS CAIADO. Idade na posse: 77. Ocupação declarada: MÉDICO. Bens declarados: R$ 52.557.931.
+- Partido ou coligação: PSD.
+- Chapa: vice-presidente: GILBERTO KASSAB (PSD).
+
+Resumo: Plano com 26 temas, centrado em segurança pública sob comando direto da Presidência, estabilização fiscal sem aumento de impostos e gestão por metas e indicadores. Propõe tratar facções e milícias como terrorismo doméstico, reduzir a maioridade penal e reorganizar o SUS com metas para 2030. Vice: Gilberto Kassab (PSD).
+Trajetória: Médico e produtor rural. Foi deputado federal por cinco mandatos, senador por Goiás (2015-2018) e governador de Goiás (2019-2026); disputou a Presidência em 1989.
+
+Principais propostas:
+- Lei do Terrorismo Doméstico para facções e milícias, com penas mínimas de 35 a 45 anos e uso das Forças Armadas sem GLO.
+- Redução da maioridade penal para 16 anos em crimes graves.
+- Criação do Ministério da Segurança Pública e de rede nacional de presídios de segurança máxima.
+- PEC para acabar com a reeleição no Executivo, valendo já para o mandato iniciado em 2027.
+- Ajuste fiscal gradual sem criar tributos, com despesas obrigatórias crescendo abaixo do PIB.
+- SUS com fila por prioridade clínica e metas nacionais de saúde para 2030.
+- Promete indulto a Bolsonaro e anistia aos envolvidos no 8 de janeiro (declarações públicas).
+
+Economia e emprego:
+- Estratégia Brasil 2040 para elevar o investimento de cerca de 17% para cerca de 25% do PIB (p.14).
+- Depreciação acelerada e crédito de longo prazo para modernizar a indústria (p.43).
+- Plano Safra plurianual de cinco anos e fundo garantidor para o crédito agrícola privado (p.23).
+- Meta de preço do gás industrial perto de US$ 8 por MMBtu, com abertura do mercado de gás (p.37).
+
+Saúde:
+- Sistema Nacional de Acesso e Regulação Inteligente, com fila por prioridade clínica; meta de reduzir em 50% a espera mediana até 2030 (p.77).
+- Redes de infarto, AVC e câncer; meta indicativa de reduzir em 30% a mortalidade cardiovascular prematura até 2030 (p.79-80).
+- Cobertura de 100% do SAMU e meta indicativa de reduzir em 30% a mortalidade materna até 2030 (p.81, p.87).
+- Aliança Nacional de Ciência e Produção em Saúde para vacinas, biossimilares e terapias avançadas (p.90).
+
+Educação:
+- Pacto Nacional pela Alfabetização e Matemática até o fim do 2º ano (p.32).
+- Universalizar a pré-escola e ampliar creches para famílias vulneráveis (p.32).
+- Expandir educação profissional e escola em tempo integral em territórios vulneráveis (p.33).
+- Bolsa de permanência focalizada em estudantes de baixa renda com risco de abandono (p.33).
+
+Segurança:
+- Criar o Ministério da Segurança Pública e o Sistema Integrado de Proteção à Soberania Nacional (p.16-17).
+- Enquadrar facções como terrorismo doméstico, com regime disciplinar especial e progressão só após 90% da pena (p.17-18).
+- Redução da maioridade penal para 16 anos em crimes graves e furto de celular equiparado a roubo (p.20).
+- Asfixia financeira do crime: inversão do ônus da prova patrimonial e leilão imediato de bens apreendidos (p.17-18).
+
+Meio ambiente e clima:
+- Combate integrado a desmatamento, grilagem e garimpo ilegal, com inteligência financeira (p.51).
+- Mercado de carbono regulado e pagamento por serviços ambientais em escala (p.51).
+- Licenciamento por risco, com prazos definidos e rito simplificado para baixo impacto (p.47, p.50).
+- Planos de adaptação climática, alertas de desastre e programa Água para o Futuro (p.51).
+
+Social e direitos:
+- Preservar transferências de renda, com regra de transição gradual para quem entra no emprego formal (p.61).
+- Pacto Nacional pelo Fim do Feminicídio, com monitoramento eletrônico de agressores (p.58).
+- Orçamento federal identificado e coordenação na Presidência para crianças e adolescentes (p.62).
+- Metas de equidade racial nas políticas públicas e regularização de territórios quilombolas (p.67-68).
+
+Infraestrutura e cidades:
+- Plano Nacional de Infraestrutura de 30 anos e triagem obrigatória das obras paradas (p.46-47).
+- Calendário permanente de concessões e PPPs, inclusive hospitais e escolas (p.47).
+- Universalização do saneamento até 2033, conforme o marco legal (p.48).
+- Política Nacional de Financiamento do transporte coletivo no 1º ano, sem novo imposto (p.56).
+
+Gestão e Estado:
+- PEC para extinguir a reeleição no Executivo, inclusive para o mandato iniciado em 2027 (p.8).
+- Adoção do voto distrital misto e transparência total das emendas parlamentares (p.10-11).
+- Publicar um 'Orçamento da Verdade' e fazer as despesas obrigatórias crescerem abaixo do PIB (p.12).
+- Aplicar o teto salarial em todos os Poderes contra supersalários (p.12).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Ações concretas nos 26 temas e metas quantificadas com prazo (2030) na saúde e em poucos outros pontos; nas demais áreas há indicadores sem números, e não há custos nem fontes de financiamento.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002551932_01.pdf
+Fontes: https://tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais | https://sbtnews.sbt.com.br/noticia/eleicoes/impostos-veja-propostas-de-presidenciaveis-em-2026 | https://sbtnews.sbt.com.br/noticia/eleicoes/caiado-hesita-ao-falar-sobre-6x1-mas-diz-aceitar-reducao | https://www.cnnbrasil.com.br/eleicoes/caiado-defende-modelo-de-hora-trabalhada-como-alternativa-a-pec-6x1/ | https://diariodocomercio.com.br/politica/senado-aborto-zema-caiado/ | https://www.bahianoticias.com.br/folha/noticia/400390-zema-ataca-esquerda-e-caiado-cobra-congresso-apos-senado-dificultar-aborto-legal | https://www.infomoney.com.br/politica/caiado-promete-anistia-para-reus-do-8-de-janeiro-e-da-trama-golpista-se-eleito/ | https://ohoje.com/2026/07/28/caiado-volta-a-defender-anistia-aos-condenados-do-8-de-janeiro-e-indulto-a-bolsonaro/ | https://acritica.net/eleicoes-2026/caiado-diz-que-stf-vive-momento-delicado-e-cobra-resposta-a-populacao/ | https://www.poder360.com.br/poder-justica/caiado-diz-que-moraes-ultrapassa-limites-institucionais/ | https://tribunadosertao.com.br/politica/2026/09/15/979263-caiado-pede-afastamento-de-moraes-zema-diz-que-brasil-esta-virando-republiqueta-de-bananas
+
+## RUI COSTA PIMENTA (número 29, PCO)
+- Nome civil: RUI COSTA PIMENTA. Idade na posse: 69. Ocupação declarada: JORNALISTA E REDATOR. Bens declarados: nada declarado.
+- Partido ou coligação: PCO.
+- Chapa: vice-presidente: ANTÔNIO CARLOS (PCO).
+
+Resumo: Programa do PCO, que trata a eleição como tribuna de propaganda pela revolução, por um governo operário e pelo comunismo. Propõe reajustes salariais amplos, redução da jornada, reestatização de empresas, estatização do sistema financeiro e fim do STF.
+Trajetória: Preside o Partido da Causa Operária (PCO) desde 1995. Foi candidato a presidente em 2002, 2010 e 2014; em 2006, o TSE negou o registro da candidatura.
+
+Principais propostas:
+- Salário mínimo de pelo menos R$ 7.500 e aumento emergencial de 50% de todos os salários (Plano p.2).
+- Jornada máxima de 35 horas semanais sem redução salarial e proibição de demissões (p.2).
+- Cancelar todas as privatizações e tornar a Petrobras 100% estatal sob controle dos trabalhadores (p.3).
+- Estatização do sistema financeiro e cancelamento das dívidas interna e externa (p.6).
+- Fim do STF e eleição de juízes e procuradores por voto popular (p.6).
+- Dissolução da polícia militar e direito de autodefesa dos trabalhadores (p.5).
+- Fim dos impostos sobre consumo e salários; imposto só sobre ganhos de capitalistas e grandes fortunas (p.6).
+
+Economia e emprego:
+- Reposição integral das perdas, aumento emergencial de 50% e escala móvel dos salários (p.2).
+- Salário mínimo vital de pelo menos R$ 7.500 (p.2).
+- Jornada de 35 horas semanais e proibição das demissões (p.2).
+- Revogar a reforma trabalhista e a da Previdência; estatizar o sistema financeiro e acabar com a independência do Banco Central (p.3, 6).
+
+Saúde:
+- Mais verbas para a saúde pública, sem limite de gastos (p.5).
+- Plano de emergência para construir hospitais e postos de saúde (p.5).
+- Volta do Mais Médicos e validação imediata de diplomas de médicos (p.5).
+- Piso de R$ 8 mil para profissionais de saúde e abertura de cursos de medicina sem vestibular (p.5).
+
+Educação:
+- Fim dos vestibulares e livre ingresso nas universidades (p.5).
+- Piso nacional de pelo menos R$ 8,5 mil para professores e jornada máxima de 30 horas (p.5).
+- Estatização do ensino pago e verbas públicas só para o ensino público (p.5).
+- Eleição direta de diretores e fim da proibição de celulares nas escolas (p.5).
+
+Segurança:
+- Dissolução da polícia militar e de todo o aparato repressivo (p.5).
+- Direito de autodefesa e comitês de autodefesa de trabalhadores, comunidades e indígenas (p.4-5).
+
+Meio ambiente e clima:
+- Contra a internacionalização da Amazônia; riquezas amazônicas sob controle de organizações populares e indígenas (p.7).
+
+Social e direitos:
+- Bolsa Família de pelo menos um salário mínimo (p.2).
+- Reforma agrária com expropriação do latifúndio e demarcação de terras indígenas (p.4).
+- Expropriação de imóveis vagos de especuladores e proibição de despejos (p.4).
+- Aposentadoria com no máximo 25 anos de trabalho para mulheres e 30 para homens (p.3).
+
+Infraestrutura e cidades:
+- Plano nacional de construção de milhões de moradias populares (p.4).
+- Passe livre no transporte para desempregados e trabalhadores informais (p.2).
+- Internet gratuita para toda a população (p.6).
+- Redução imediata de 50% no preço dos combustíveis e fim da paridade com o dólar (p.3).
+
+Gestão e Estado:
+- Fim do STF e eleição de juízes e procuradores com mandatos revogáveis (p.6).
+- Fim do teto de gastos e da Lei de Responsabilidade Fiscal (p.4).
+- Contra o fim da estabilidade dos servidores; concursos públicos periódicos (p.4).
+- Cancelar leis como a Ficha Limpa e a cláusula de barreira (p.6).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Reivindicações concretas com alguns valores (salário mínimo, jornada, pisos salariais, preço dos combustíveis), mas sem prazos, custos ou fontes detalhadas.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002552487_01.pdf
+Fontes: https://www.acessa.com/politica/2026/08/337241-sindicalista-rui-costa-pimenta-concorrera-a-presidencia-pelo-pco.html | https://www.poder360.com.br/poder-eleicoes/estado-nao-pode-ser-religioso-diz-rui-costa-pimenta-sobre-aborto/ | https://sbtnews.sbt.com.br/noticia/politica/rui-costa-pimenta-defende-fim-da-pm-e-legalizacao-de-drogas | https://revistaoeste.com/politica/pco-pede-anistia-para-os-presos-do-8-de-janeiro/ | https://revistaoeste.com/brasil/pco-critica-julgamento-de-reus-do-8-de-janeiro/
+
+## SAMARA (número 80, UP)
+- Nome civil: SAMARA MARTINS DA SILVA FEITOSA. Idade na posse: 39. Ocupação declarada: ODONTÓLOGO. Bens declarados: R$ 33.000.
+- Partido ou coligação: UP.
+- Chapa: vice-presidente: RAQUEL BRÍCIO (UP).
+
+Resumo: Candidatura da Unidade Popular (UP), com chapa feminina (vice Raquel Brício), que apresenta um programa socialista de ruptura com o capitalismo e 'Governo Popular dos Trabalhadores'. O eixo é elevar salários e direitos (aumento de 100% do salário mínimo, fim da escala 6x1 com jornada de 30 horas), suspender o pagamento da dívida pública e estatizar bancos e empresas estratégicas sob controle popular.
+Trajetória: Cirurgiã-dentista do SUS em Belo Horizonte (MG), vice-presidente nacional da UP e ex-diretora de mulheres da UNE. Foi candidata a vice-presidente em 2022, na chapa de Leo Péricles (UP).
+
+Principais propostas:
+- Aumento imediato de 100% do salário mínimo, rumo ao valor calculado pelo Dieese (p.9).
+- Fim da escala 6x1 e jornada de 30 horas semanais sem redução salarial (p.10).
+- Suspensão do pagamento de juros e amortizações da dívida pública, com auditoria cidadã (p.14-16).
+- Nacionalização dos bancos em sistema único estatal e fim da autonomia do Banco Central (p.18).
+- Reestatização de Petrobras (100% estatal), Eletrobras, Vale, ferrovias, saneamento e telecomunicações (p.60).
+- Isenção de IR para trabalhadores e imposto progressivo sobre grandes fortunas, lucros, dividendos e heranças (p.16-17).
+- Desmilitarização e unificação das polícias e eleição direta de juízes e tribunais superiores (p.48-49).
+
+Economia e emprego:
+- Aumento de 100% do salário mínimo no início do governo, com valorização permanente acima da inflação (p.9).
+- Fim da escala 6x1 e jornada de 30 horas (escala 4x3 ou turnos de 6 horas) sem redução salarial (p.10).
+- Frentes Emergenciais de Emprego Público para obras de moradia, saneamento, creches e postos de saúde (p.12).
+- Planificação da economia, proibição de remessas ao exterior sem autorização do Estado e comércio exterior estatal (p.56-58).
+
+Saúde:
+- SUS 100% estatal, com fim da gestão por Organizações Sociais, fundações privadas e cooperativas (p.20).
+- Fim da exploração dos planos de saúde privados (p.20).
+- Produção estatal massiva de medicamentos, vacinas e insumos, com distribuição gratuita (p.20).
+- Obrigação legal de presidente, parlamentares, governadores, prefeitos e juízes usarem só o SUS (p.13).
+
+Educação:
+- Destinar pelo menos 10% do PIB à educação pública, da creche à pós-graduação (p.22).
+- Revogar o Novo Ensino Médio e as reformas curriculares empresariais (p.22).
+- Suspender verbas públicas ao ensino privado, estatizar progressivamente grandes grupos educacionais e anistiar dívidas do FIES (p.22).
+- Livre acesso à universidade e a cursos técnicos, com fim do vestibular (p.21).
+
+Segurança:
+- Desmilitarização e unificação das polícias em estrutura civil, preventiva e comunitária (p.48).
+- Fim da 'guerra às drogas', com paradigma de saúde pública e combate à lavagem de dinheiro do crime organizado (p.48).
+- Contra a redução da maioridade penal (p.30).
+- Transformar presídios em 'Unidades de Reeducação' e enfrentar o encarceramento em massa e o abuso da prisão provisória (p.49-50).
+
+Meio ambiente e clima:
+- Proibição da destruição de florestas e controle popular sobre a Amazônia, com expulsão de monopólios estrangeiros (p.61).
+- Proibir agrotóxicos banidos no exterior e incentivar a transição agroecológica (p.63).
+- Combater desmatamento ilegal, garimpo, grilagem e crimes ambientais de grandes empresas (p.63).
+- Frentes emergenciais de trabalho para reflorestamento, proteção de nascentes e prevenção de incêndios (p.63).
+
+Social e direitos:
+- Descriminalização e legalização do aborto, tratado como questão de saúde pública (p.28).
+- Criminalização da misoginia, Delegacias da Mulher 24 horas e rede pública de cuidados (creches, lavanderias, restaurantes populares) (p.28).
+- Fortalecer e ampliar o BPC, com critério de renda que considere gastos com deficiência (p.34).
+- Revogar as reformas trabalhista e previdenciária e a terceirização irrestrita (p.12-13).
+
+Infraestrutura e cidades:
+- Estatização das empresas de ônibus e transição para tarifa zero no transporte coletivo (p.52).
+- Reestatização da CBTU e plano nacional de trens, metrôs e VLTs elétricos (p.52).
+- Produção pública massiva de moradias e desapropriação de imóveis que não cumpram função social (p.45-46).
+- Reforma agrária com desapropriação de grandes terras do agronegócio (p.44).
+
+Gestão e Estado:
+- Fim dos supersalários e penduricalhos de juízes, parlamentares, generais e altos executivos (p.13).
+- Eleição direta para juízes e tribunais superiores (p.49).
+- Conselhos Populares com poder orçamentário, plebiscitos e referendos (p.37).
+- Estatização dos monopólios de TV e rádio e confisco de bens de corruptos e sonegadores (p.25, p.37).
+
+Nível de detalhe do plano de governo (avaliação com auxílio de IA): Lista extensa de medidas concretas com algumas metas (aumento de 100% do salário mínimo no início do governo, 30 horas, 10% do PIB para educação), mas sem prazos, custos ou etapas na maioria das áreas.
+
+Plano de governo oficial (PDF do TSE): https://meu-voto-2026-bs0.pages.dev/data/prop_br/BR/2026BR280002538811_01.pdf
+Fontes: Plano de governo (TSE) — prop_br/BR/2026BR280002538811_01.pdf | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf | https://www.gazetadopovo.com.br/eleicoes/2026/quem-e-samara-martins-pre-candidata-a-presidente-pelo-unidade-popular/ | https://www.cartacapital.com.br/?p=625633 | https://almapreta.com.br/?p=76572

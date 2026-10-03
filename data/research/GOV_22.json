@@ -1,0 +1,128 @@
+{
+  "id": "GOV_22",
+  "nome_urna": "ZUCCO",
+  "resumo": "Candidatura de oposição ao governo Leite, com foco em crescimento econômico, segurança pública e redução da máquina estatal. O plano propõe agenda fiscal sem aumento de tributos, desburocratização, concessões avaliadas caso a caso e combate ao crime organizado. Defende nova relação com o governo federal para tratar da dívida.",
+  "trajetoria": "Tenente-coronel da reserva do Exército. Deputado estadual (2019-2022) e deputado federal desde 2023, eleito nas duas vezes como o mais votado do RS; foi líder da oposição ao governo Lula na Câmara e presidiu a CPI do MST (invasões de terra).",
+  "destaques": [
+    "Ampliar escolas cívico-militares e Colégios Tiradentes, priorizando áreas vulneráveis (Plano p.29-30).",
+    "Equilíbrio fiscal sem criar tributos nem elevar alíquotas (p.41, 76).",
+    "Criar política estadual de seguro rural, com subvenção complementar à federal (p.45).",
+    "Fila única e transparente na saúde e revisão do Programa Assistir (p.23, 25-26).",
+    "Resposta \"rápida e rigorosa\" a invasões de propriedades rurais e reintegrações de posse (p.9).",
+    "Programa estratégico \"Proteger as bacias contra cheias\", com recuperação de diques e casas de bombas (p.102).",
+    "Reduzir secretarias e órgãos para enxugar a estrutura do Estado (p.3, 74)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Sem novos tributos nem aumento de alíquotas; simplificar obrigações e preparar o Estado para o IBS (p.41-42).",
+      "Licenciamento proporcional ao risco e ampliação do Tudo Fácil Empresas (p.42).",
+      "Manter Fundopem e Integrar condicionados a contrapartidas, com avaliação de custo e retorno (p.42-43).",
+      "Seguro rural estadual, mais armazenagem e agroindústrias nas regiões produtoras (p.45)."
+    ],
+    "Saúde": [
+      "Política permanente para reduzir filas, com pagamento ligado à produção e fila única consultável pelo cidadão (p.23).",
+      "Revisar o Programa Assistir e os incentivos hospitalares com metas de acesso e qualidade (p.24-26).",
+      "Estado absorver pagamentos acima da tabela feitos pelas prefeituras aos consórcios de saúde (p.24).",
+      "Modernizar a gestão do IPE Saúde com práticas da saúde suplementar privada (p.26)."
+    ],
+    "Educação": [
+      "Ampliar escolas cívico-militares e Colégios Tiradentes (p.29-30).",
+      "Alfabetização e matemática até o fim do 2º ano, com recomposição de aprendizagem (p.27-28).",
+      "Metas por escola de aprendizagem, frequência e conclusão (p.28).",
+      "Expandir ensino técnico e educação integral; fortalecer Curso Normal e UERGS (p.28-29)."
+    ],
+    "Segurança": [
+      "Desarticular e descapitalizar facções, com inteligência integrada e investigação patrimonial (p.7).",
+      "Plano plurianual de recomposição de efetivos, viaturas e armamentos; ampliar cercamento eletrônico (p.8).",
+      "Retomar o controle dos presídios, bloquear comunicações e regionalizar unidades prisionais (p.10-11).",
+      "Política de segurança rural e combate a invasões de terras (p.9)."
+    ],
+    "Meio ambiente e clima": [
+      "Concluir rede de monitoramento, qualificar alertas (SMS, Cell Broadcast, sirenes) e atualizar mapas de risco (p.14).",
+      "Inventariar e manter diques, casas de bombas e comportas, com carteira de obras contra cheias (p.14, 102).",
+      "Modernizar o licenciamento e a Fepam, com prazos públicos e análise proporcional ao impacto (p.95-96).",
+      "Recuperar áreas úmidas e matas ciliares e ampliar pagamento por serviços ambientais (p.96)."
+    ],
+    "Social e direitos": [
+      "Política social centrada na família, ligando CRAS e Cadastro Único a qualificação e emprego (p.34-35).",
+      "Ampliar monitoramento eletrônico de agressores e regionalizar casas-abrigo (p.20-21).",
+      "Ampliar serviços de cuidado para idosos e pessoas com deficiência e apoiar cuidadores (p.35-36).",
+      "Primeira Infância Melhor ampliado e prioridade aos primeiros mil dias (p.31-32)."
+    ],
+    "Infraestrutura e cidades": [
+      "Reconstrução habitacional acompanhada publicamente e regra de não reconstruir moradias em áreas de risco (p.64).",
+      "Bilhete único metropolitano integrando ônibus e Trensurb e governança metropolitana (p.60-61).",
+      "Revisar o PELT-RS, conservar rodovias e pontes e participar da nova concessão da Malha Sul ferroviária (p.57-58).",
+      "Extinguir a EGR e passar as rodovias ao Daer, com contratos regulados (entrevista à GAZ, 17/08/2026)."
+    ],
+    "Gestão e Estado": [
+      "Concessões e PPPs só quando houver vantagem comprovada sobre obra pública (p.69-71).",
+      "Converter o programa em plano de metas e fortalecer o centro de governo (p.73).",
+      "Meritocracia: avaliação de desempenho e incentivos variáveis não incorporáveis, se houver base fiscal (p.82-83).",
+      "Executar o Propag com transparência e liderar defesa do Fundo Constitucional do Sul (p.77, 93)."
+    ]
+  },
+  "posicoes": {
+    "banrisul": {
+      "v": -2,
+      "nota": "Descarta privatizar o Banrisul no mandato; diz que o banco deve ser fortalecido como banco de fomento.",
+      "fonte": "https://www.jornaldocomercio.com/politica/2026/05/1248493-luciano-zucco-rejeita-privatizar-banrisul-caso-eleito.html | https://www.gaz.com.br/video-zucco-questiona-metodo-aplicado-na-educacao-confira-a-entrevista-completa/"
+    },
+    "concessoes": {
+      "v": 1,
+      "nota": "Defende concessões e PPPs caso a caso, \"sem solução ideológica\"; votou pela privatização da CEEE em 2019. Critica o modelo de pedágios de Leite e promete extinguir a EGR.",
+      "fonte": "Plano p.69-71 | https://www.cut.org.br/noticias/36-deputados-que-votaram-a-favor-da-privatizacao-da-ceee-sao-candidatos-no-rs-e1ac | https://www.gaz.com.br/video-zucco-questiona-metodo-aplicado-na-educacao-confira-a-entrevista-completa/"
+    },
+    "icms": {
+      "v": 0,
+      "nota": "Contra qualquer aumento de imposto (liderou ato contra a alta para 19,5% em 2023); plano promete não elevar alíquotas, mas não propõe reduzi-las.",
+      "fonte": "Plano p.41, 76 | https://www.jornaldacidadeonline.com.br/noticias/53672/deputado-zucco-lidera-movimento-contra-aumento-de-impostos-no-rs"
+    },
+    "incentivos": {
+      "v": 1,
+      "nota": "Mantém Fundopem e Integrar, condicionando benefícios a contrapartidas e revisando os ineficazes.",
+      "fonte": "Plano p.42-43, 78, 100"
+    },
+    "servidores": {
+      "v": 0,
+      "nota": "Fala em melhorar condições salariais de professores, sem detalhar; plano prevê meritocracia e incentivos variáveis sujeitos à disponibilidade fiscal.",
+      "fonte": "Plano p.82-84 | https://www.gaz.com.br/video-zucco-questiona-metodo-aplicado-na-educacao-confira-a-entrevista-completa/"
+    },
+    "civico_militar": {
+      "v": 2,
+      "nota": "Propõe ampliar as escolas cívico-militares e os Colégios Tiradentes; defendeu o modelo em debate: \"Não vou misturar ideologia com resultado\".",
+      "fonte": "Plano p.29-30 | https://www.cnnbrasil.com.br/eleicoes/debate-ao-governo-do-rs-tem-propostas-para-enchentes-e-escolas-militares/"
+    },
+    "licenciamento": {
+      "v": 2,
+      "nota": "Votou a favor da lei geral do licenciamento (PL 2159/2021) na Câmara em 2025; plano propõe rito simplificado ou dispensa para baixo risco.",
+      "fonte": "https://www.extraclasse.org.br/ambiente/2025/07/como-os-deputados-votaram-na-aprovacao-do-pl-da-devastacao/ | Plano p.42, 95"
+    },
+    "divida_uniao": {
+      "v": 1,
+      "nota": "Chama os contratos de ruins e criticou o governo Leite por abrir mão de contestar os indexadores na Justiça; defende o Propag e repactuação com a União. Não propõe auditoria.",
+      "fonte": "https://www.jornaldocomercio.com/politica/2025/11/1224887-renegociacao-da-divida-exigira-afinidade-entre-governo-gaucho-e-brasilia-diz-zucco.html | Plano p.3, 77, 93"
+    },
+    "seguranca_dura": {
+      "v": 1,
+      "nota": "Prioriza atacar facções com inteligência, investigação e descapitalização. Também prevê recompor efetivos e equipamentos, reduzir vazios de policiamento, retomar o controle dos presídios e isolar líderes de facções. Fala em \"tolerância zero\" ao crime organizado.",
+      "fonte": "Plano p.7-11 | https://radioprogresso.com.br/zucco-fala-na-radio-progresso-sobre-economia-seguranca-saude-e-infraestrutura-no-rs/"
+    }
+  },
+  "detalhamento": {
+    "nota": 2,
+    "justificativa": "Plano extenso, com muitas ações concretas e indicadores listados, mas sem metas numéricas nem prazos definidos."
+  },
+  "fontes": [
+    "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-luciano-zucco-pre-candidato-ao-governo-do-rs/",
+    "https://www.nsctotal.com.br/?p=8014654",
+    "https://www.jornaldocomercio.com/politica/2026/05/1248493-luciano-zucco-rejeita-privatizar-banrisul-caso-eleito.html",
+    "https://www.gaz.com.br/video-zucco-questiona-metodo-aplicado-na-educacao-confira-a-entrevista-completa/",
+    "https://www.jornaldocomercio.com/politica/2025/11/1224887-renegociacao-da-divida-exigira-afinidade-entre-governo-gaucho-e-brasilia-diz-zucco.html",
+    "https://www.extraclasse.org.br/ambiente/2025/07/como-os-deputados-votaram-na-aprovacao-do-pl-da-devastacao/",
+    "https://www.cnnbrasil.com.br/eleicoes/debate-ao-governo-do-rs-tem-propostas-para-enchentes-e-escolas-militares/",
+    "https://radioprogresso.com.br/zucco-fala-na-radio-progresso-sobre-economia-seguranca-saude-e-infraestrutura-no-rs/",
+    "https://www.jornaldacidadeonline.com.br/noticias/53672/deputado-zucco-lidera-movimento-contra-aumento-de-impostos-no-rs",
+    "https://www.cut.org.br/noticias/36-deputados-que-votaram-a-favor-da-privatizacao-da-ceee-sao-candidatos-no-rs-e1ac"
+  ]
+}

@@ -1,0 +1,59 @@
+# LUCIANO AZEVEDO (5505, PSD): histórico parlamentar
+
+Candidato(a) a deputado federal pelo Rio Grande do Sul em 2026. Nome civil: LUCIANO PALMA DE AZEVEDO. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Votações nominais na Câmara dos Deputados (2023-2026)
+- Arcabouço fiscal (PLP 93/2023) (2023-05-23): Sim
+- Reforma tributária (PEC 45/2019, 1º turno) (2023-07-06): Sim
+- Aumento do número de deputados (PLP 177/2023) (2025-05-06): —
+- Lei Geral do Licenciamento Ambiental (PL 2159/2021) (2025-07-16): —
+- PEC da Blindagem / das Prerrogativas (PEC 3/2021, 1º turno) (2025-09-16): —
+- Urgência do PL da Anistia (PL 2162/2023) (2025-09-17): —
+- Isenção do IR até R$ 5 mil (PL 1087/2025) (2025-10-01): —
+- PL Antifacção (PL 5582/2025) (2025-11-18): —
+- PL da Dosimetria (substitutivo ao PL 2162/2023) (2025-12-09): —
+- Fim da escala 6x1 (PEC 221/2019, 1º turno) (2026-05-27): —
+
+## Atuação na Câmara dos Deputados (coletado em 2026-10-03)
+Temas dos projetos apresentados (classificação oficial): Direito Penal e Processual Penal (4); Direitos Humanos e Minorias (4); Cidades e Desenvolvimento Urbano (3); Finanças Públicas e Orçamento (3); Defesa e Segurança (1); Direito Civil e Processual Civil (1); Direito e Defesa do Consumidor (1); Educação (1); Esporte e Lazer (1); Estrutura Fundiária (1); Homenagens e Datas Comemorativas (1); Indústria, Comércio e Serviços (1); Meio Ambiente e Desenvolvimento Sustentável (1); Política, Partidos e Eleições (1); Previdência e Assistência Social (1); Trabalho e Emprego (1); Viação, Transporte e Mobilidade (1).
+
+Frentes parlamentares a que aderiu (assinou a lista de adesão):
+- Frente Parlamentar Mista Brasil - Portugal
+- Frente Parlamentar Mista da Hotelaria Brasileira
+- Frente Parlamentar Mista de Apoio e Fortalecimento das Defensorias Públicas dos Estados e da União
+- Frente Parlamentar Mista do Biodiesel - FPBio
+- Frente Parlamentar Mista em Apoio ao Acolhimento Humanitário de Migrantes Transnacionais e Refugiados
+- Frente Parlamentar Mista em Defesa da Criança, do Adolescentes e dos Conselhos Tutelares
+- Frente Parlamentar Mista para o Desenvolvimento da Navegação Interior
+- Frente Parlamentar Mista para o Fortalecimento da Gestão Pública
+- Frente Parlamentar Mista pelo Fortalecimento das Relações Comerciais Brasil-Texas
+- Frente Parlamentar da Agropecuária - FPA
+- Frente Parlamentar da Nefrologia (FPN)
+- Frente Parlamentar de Luta contra a Tuberculose
+- Frente Parlamentar de Proteção às Pessoas com Transtorno do Espectro Autista
+- Frente Parlamentar do Serviço Notarial e Registral
+- Frente Parlamentar do Táxi
+- Frente Parlamentar em Defesa da Indústria Naval Brasileira
+- Frente Parlamentar em Defesa da Radiodifusão
+- Frente Parlamentar em Defesa do Ciclista
+- Frente Parlamentar em Defesa dos Motoristas de Aplicativos - FPMA
+- Frente Parlamentar em Defesa dos Oficiais de Justiça
+- Frente Parlamentar em Defesa dos Profissionais do Sistema Socioeducativo
+- Frente Parlamentar para a Modernização do Futebol Brasileiro
+
+Projetos apresentados como primeiro signatário (13 no total):
+- PL 3463/2024: Inclui o item 38 ao inc. II do art. 167 e o inc. IV e parágrafo único ao art. 233, ambos da Lei nº 6.015, de 31 de dezembro de 1973, para estabelecer nova hipótese de averbação e cancelamento de matrícula; acrescenta a alínea f no § 6º do a… https://www.camara.leg.br/propostas-legislativas/2456681
+- PL 1407/2024: Altera a Lei nº 8.212, de 24 de julho de 1991, para estabelecer que, à semelhança da construção, não será devida contribuição à Seguridade Social em caso de demolição de residencial unifamiliar. https://www.camara.leg.br/propostas-legislativas/2429579
+- PL 1260/2024: Altera a Lei nº 6.766, de 19 de dezembro de 1979, para estabelecer novo prazo de registro imobiliário do decreto de aprovação de loteamento ou de desmembramento. https://www.camara.leg.br/propostas-legislativas/2426891
+- PL 5159/2023: Altera a Lei nº 13.756, de 12 de dezembro de 2018, para garantir a transferência, de forma direta, de recursos do Fundo Nacional de Segurança Pública aos Municípios com população igual ou superior a duzentos mil habitantes. https://www.camara.leg.br/propostas-legislativas/2399184
+- PL 3057/2023: Regulamenta o inciso III, do art. 28, da Lei º 10.741, de 1º de outubro de 2023, institui o Programa Nacional de Incentivo à Contratação de Idosos – Pró-Idoso. https://www.camara.leg.br/propostas-legislativas/2369063
+- PL 2466/2023: Altera a Lei nº 7.716, de 5 de janeiro de 1989, para acrescentar novo núcleo penal para o crime de discriminação e racismo. https://www.camara.leg.br/propostas-legislativas/2361428
+- PL 2434/2023: Dispõe sobre incentivos e benefícios fiscais para fomentar as atividades desportivas de clubes brasileiros de futebol de menor investimento e dá outras providências. https://www.camara.leg.br/propostas-legislativas/2361123
+- PL 2000/2023: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal -, para tipificar, de forma mais gravosa, os crimes de furto e roubo de bem móvel de escola, hospital, asilo, casa de assistência, ou de qualquer instituição, pública ou… https://www.camara.leg.br/propostas-legislativas/2357317
+- PL 1859/2023: Altera a Lei nº 8.078, de 11 de setembro de 1990, a fim de instituir atendimento especializado em defesa dos consumidores nos aeroportos dotados de instalações e facilidades para apoio de operações de aeronaves e de embarque e desembarque d… https://www.camara.leg.br/propostas-legislativas/2356096
+- PL 1538/2023: Altera o Decreto-Lei nº 2848, de 7 de dezembro de 1940 – Código Penal -, para aumentar as penas do crime de lesão corporal, se for praticado contra criança menor de 12 anos, dos crimes sexuais contra vulnerável previstos nos artigos 217-A,… https://www.camara.leg.br/propostas-legislativas/2354404
+- PL 1362/2023: Altera a Lei nº 9.455, de 07 de abril de julho de 1997, que “define os crimes de tortura e dá outras providências”, para aplicar a pena em dobro do crime de tortura, quando for cometido contra criança e adolescente e, na sua presença, o aut… https://www.camara.leg.br/propostas-legislativas/2353010
+- PL 1261/2023: Altera a Lei nº 9.504, de 30 de setembro, de 1997, para definir a devolução de recursos públicos recebidos em campanha eleitoral nos casos de renúncia de candidatura sem impedimento legal. https://www.camara.leg.br/propostas-legislativas/2352065
+- PL 1164/2023: Altera a Lei nº 12.881, de 12 de novembro de 2013, que dispõe sobre as Instituições Comunitárias de Educação Superior – ICES, para incluir que as ICES terão condições de participação equiparadas às universidades públicas no acesso aos edita… https://www.camara.leg.br/propostas-legislativas/2351429

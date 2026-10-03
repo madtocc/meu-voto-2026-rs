@@ -1,0 +1,166 @@
+# OSMAR TERRA (2215, PL): histórico parlamentar
+
+Candidato(a) a deputado federal pelo Rio Grande do Sul em 2026. Nome civil: OSMAR GASPARINI TERRA. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Votações nominais na Câmara dos Deputados (2023-2026)
+- Arcabouço fiscal (PLP 93/2023) (2023-05-23): Não
+- Reforma tributária (PEC 45/2019, 1º turno) (2023-07-06): Não
+- Aumento do número de deputados (PLP 177/2023) (2025-05-06): Não
+- Lei Geral do Licenciamento Ambiental (PL 2159/2021) (2025-07-16): Sim
+- PEC da Blindagem / das Prerrogativas (PEC 3/2021, 1º turno) (2025-09-16): Sim
+- Urgência do PL da Anistia (PL 2162/2023) (2025-09-17): Sim
+- Isenção do IR até R$ 5 mil (PL 1087/2025) (2025-10-01): Sim
+- PL Antifacção (PL 5582/2025) (2025-11-18): Sim
+- PL da Dosimetria (substitutivo ao PL 2162/2023) (2025-12-09): Não
+- Fim da escala 6x1 (PEC 221/2019, 1º turno) (2026-05-27): Sim
+
+## Atuação na Câmara dos Deputados (coletado em 2026-10-03)
+Comissões: Comissão de Saúde.
+Temas dos projetos apresentados (classificação oficial): Direitos Humanos e Minorias (5); Previdência e Assistência Social (2); Saúde (2); Trabalho e Emprego (2); Comunicações (1); Defesa e Segurança (1); Direito Penal e Processual Penal (1); Finanças Públicas e Orçamento (1); Meio Ambiente e Desenvolvimento Sustentável (1).
+
+Cargos em frentes parlamentares:
+- Frente Parlamentar Mista de Combate às Drogas
+
+Frentes parlamentares a que aderiu (assinou a lista de adesão):
+- Frente Parlamentar Brasil - Coréia do Sul
+- Frente Parlamentar Brasil - Líbano
+- Frente Parlamentar Brasil Singapura
+- Frente Parlamentar Brasil-China
+- Frente Parlamentar Católica Apostólica Romana
+- Frente Parlamentar Conservadora em Defesa da Liberdade
+- Frente Parlamentar Contra o Abuso e Exploração Sexual de Crianças e Adolescentes
+- Frente Parlamentar Evangélica do Congresso Nacional
+- Frente Parlamentar Mista Brasil - Itália
+- Frente Parlamentar Mista Cristã e em Defesa da Religião
+- Frente Parlamentar Mista Municipalista
+- Frente Parlamentar Mista PROSUL
+- Frente Parlamentar Mista contra o Aborto e em Defesa da Vida
+- Frente Parlamentar Mista da Agricultura Familiar
+- Frente Parlamentar Mista da Aquicultura e Pesca
+- Frente Parlamentar Mista da Hotelaria Brasileira
+- Frente Parlamentar Mista da Indústria de Máquinas e Equipamentos - FPMaq
+- Frente Parlamentar Mista da Medicina
+- Frente Parlamentar Mista da Mineração Sustentável
+- Frente Parlamentar Mista da Mulher Catadora
+- Frente Parlamentar Mista da Primeira Infância
+- Frente Parlamentar Mista da Saúde
+- Frente Parlamentar Mista da Saúde Digital
+- Frente Parlamentar Mista da Tecnologia e Atividades Nucleares (FPN)
+- Frente Parlamentar Mista das Profissões do Sistema Confea/Crea e Mútua
+- Frente Parlamentar Mista de Apoio ao Sistema Nacional de Fomento para o Financiamento do Desenvolvimento
+- Frente Parlamentar Mista de Apoio e Fortalecimento das Defensorias Públicas dos Estados e da União
+- Frente Parlamentar Mista de Apoio à Emancipação de Distritos no Brasil
+- Frente Parlamentar Mista de Defesa da Pesca Artesanal
+- Frente Parlamentar Mista de Fiscalização, Integridade e Transparência - FIT
+- Frente Parlamentar Mista de Logística e Infraestrutura – Frenlogi
+- Frente Parlamentar Mista de Portos e Aeroportos
+- Frente Parlamentar Mista de Promoção e Defesa dos Direitos da Criança e Adolescente
+- Frente Parlamentar Mista de Proteção aos Colecionadores, Atiradores Desportivos, Caçadores e Clubes de Tiro
+- Frente Parlamentar Mista do Ambiente de Negócios (FPN)
+- Frente Parlamentar Mista do Biodiesel - FPBio
+- Frente Parlamentar Mista do Desenvolvimento Tecnológico e Cultural do Brasil e Coreia do Sul
+- Frente Parlamentar Mista do Empreendedorismo - FPE
+- Frente Parlamentar Mista do Novo Pacto Federativo em Defesa dos Municípios Brasileiros
+- Frente Parlamentar Mista do Rodeio, da Vaquejada e das Provas Equestres
+- Frente Parlamentar Mista do Sistema Penitenciário
+- Frente Parlamentar Mista dos Estados da Amazônia Legal
+- Frente Parlamentar Mista dos Lojistas e Lojistas de Shoppings Centers
+- Frente Parlamentar Mista dos Técnicos Agrícolas
+- Frente Parlamentar Mista em Apoio ao Acolhimento Humanitário de Migrantes Transnacionais e Refugiados
+- Frente Parlamentar Mista em Apoio à Regularização Fundiária, Desenvolvimento Habitacional e Desenvolvimento Urbano Sustentável - FPDUS
+- Frente Parlamentar Mista em Defesa da Advocacia Pública - FPAP
+- Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento
+- Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria
+- Frente Parlamentar Mista em Defesa da Saúde das Mulheres
+- Frente Parlamentar Mista em Defesa da Tradição e Cultura Gaúcha
+- Frente Parlamentar Mista em Defesa do Empreendedorismo Rural
+- Frente Parlamentar Mista em Defesa do Ensino Técnico e Profissionalizante - Frente do Ensino Técnico
+- Frente Parlamentar Mista em Defesa do Setor Coureiro - Calçadista
+- Frente Parlamentar Mista em Defesa do Trânsito Seguro
+- Frente Parlamentar Mista em Defesa dos Agentes Comunitários de Saúde, e dos Agentes de Combate às Endemias.
+- Frente Parlamentar Mista em Defesa dos Cuidados Paliativos
+- Frente Parlamentar Mista em Defesa dos Serviços de Saúde
+- Frente Parlamentar Mista em Defesa dos Vereadores e das Câmaras Municipais
+- Frente Parlamentar Mista em Defesa e Valorização dos Servidores da Segurança Pública Civil
+- Frente Parlamentar Mista em Prol da Luta Contra o Câncer
+- Frente Parlamentar Mista em Prol do Semiárido
+- Frente Parlamentar Mista em prol da Luta pela Prevenção de Cegueira - FPPC
+- Frente Parlamentar Mista em prol da Saúde do Sono - FPMSSono.
+- Frente Parlamentar Mista para a Defesa e Valorização das Polícias Institucionais
+- Frente Parlamentar Mista para o Desenvolvimento da Indústria Elétrica e Eletrônica
+- Frente Parlamentar Mista para o Desenvolvimento da Navegação Interior
+- Frente Parlamentar Mista pela Duplicação da BR-304 ligando Natal, no Rio Grande do Norte, a Russas, no Ceará
+- Frente Parlamentar Mista pela Inclusão e Qualidade na Educação Particular - FPeduQ
+- Frente Parlamentar Mista pela Inovação na Bioeconomia - FPBioeconomia
+- Frente Parlamentar Mista pela Transparência Pública
+- Frente Parlamentar Mista pelo Fortalecimento das Relações Comerciais Brasil-Texas
+- Frente Parlamentar Mista pelo Livre Mercado - FPLM
+- Frente Parlamentar Parlamentar Mista da Agricultura Familiar e Desenvolvimento Rural Sustentável (FPAF)
+- Frente Parlamentar da Agropecuária - FPA
+- Frente Parlamentar da Conectividade Rural
+- Frente Parlamentar da Longevidade
+- Frente Parlamentar da Segurança Pública
+- Frente Parlamentar de Acolhimento e Desenvolvimento Integrado
+- Frente Parlamentar de Apoio ao Empreendedorismo do Jovem Aprendiz
+- Frente Parlamentar de Apoio às Santas Casas, Hospitais e Entidades Filantrópicas
+- Frente Parlamentar de Combate à Ludopatia e de Proteção de Crianças e Adolescentes contra os Riscos das Apostas e Jogos de Azar.
+- Frente Parlamentar de Cuidado das Mães de Crianças e Adolescentes com Deficiência, Autismo e Doenças Raras
+- Frente Parlamentar de Enfrentamento à Pedofilia
+- Frente Parlamentar de Infraestrutura Logística
+- Frente Parlamentar de Proteção às Pessoas com Transtorno do Espectro Autista
+- Frente Parlamentar de Representação dos Importadores e Comércio Internacional
+- Frente Parlamentar de Valorização do Clínico e Resgate da Identidade Médica
+- Frente Parlamentar do Congresso Nacional BRICS
+- Frente Parlamentar do Cooperativismo (Frencoop)
+- Frente Parlamentar do Desporto Escolar
+- Frente Parlamentar do Etanol
+- Frente Parlamentar do Norte
+- Frente Parlamentar do Sistema Único de Saúde - FRENTE SUS
+- Frente Parlamentar do Táxi
+- Frente Parlamentar dos Portos Nacionais e Transportes Aquaviários
+- Frente Parlamentar em Apoio ao Petróleo, Gás e Energia - FREPPEGEN
+- Frente Parlamentar em Defesa da Aviação Civil
+- Frente Parlamentar em Defesa da Cadeia Produtiva da Reciclagem no Brasil
+- Frente Parlamentar em Defesa da Cirurgia Reparadora de Pessoas com Fissura Labiopalatina
+- Frente Parlamentar em Defesa da Educação Sem Doutrinação Ideológica - FPDE
+- Frente Parlamentar em Defesa da Extensão da BR-448
+- Frente Parlamentar em Defesa da Liberdade de Expressão - FPDLE
+- Frente Parlamentar em Defesa da Oftalmologia - FPOF
+- Frente Parlamentar em Defesa da Polícia Penal
+- Frente Parlamentar em Defesa da Radiodifusão
+- Frente Parlamentar em Defesa da Regularização Fundiária Rural no Brasil
+- Frente Parlamentar em Defesa da Vida e da Família
+- Frente Parlamentar em Defesa da Ética na Saúde Suplementar
+- Frente Parlamentar em Defesa das Bacias Hidrográficas Brasileiras
+- Frente Parlamentar em Defesa das Comunidades Terapêuticas
+- Frente Parlamentar em Defesa das Cooperativas e Pequenos Laticínios do Brasil com Leite Nacional e da Pecuária Leiteira Brasileira (FPDCPLB)
+- Frente Parlamentar em Defesa das Guardas Municipais
+- Frente Parlamentar em Defesa do Comércio de Material de Construção
+- Frente Parlamentar em Defesa do Esporte Escolar e Universitário
+- Frente Parlamentar em Defesa do Futebol Feminino
+- Frente Parlamentar em Defesa do Nordeste
+- Frente Parlamentar em Defesa do Sistema de Modelagem da Informação da Construção (FPBIM)
+- Frente Parlamentar em Defesa do Sistema Único de Assistência Social - SUAS
+- Frente Parlamentar em Defesa dos Direitos dos Idosos
+- Frente Parlamentar em Defesa dos Municípios da Amazônia Legal
+- Frente Parlamentar em Defesa dos Profissionais da Dança
+- Frente Parlamentar em Defesa dos Profissionais do Sistema Socioeducativo
+- Frente Parlamentar em Defesa dos Trabalhadores por Aplicativo
+- Frente Parlamentar em defesa do Estado Laico e da Liberdade Religiosa
+- Frente Parlamentar em prol dos Jogos Eletrônicos e Games
+- Frente Parlamentar para o Fortalecimento da COP-30 no Brasil
+- Frente Parlamentar para o Fortalecimento da Indústria Ferroviária Brasilieira
+- Frente Parlamentar para o Fortalecimento do Nordeste
+- Frente Parlamentar pela Defesa e Valorização dos Profissionais de Segurança Pública e da Segurança Privada
+- Frente Parlamentar pela Duplicação da BR-290
+- Frente Parlamentar pelo Fortalecimento do SAMU - Serviço de Atendimento Móvel de Urgência.
+- Frente Parlamentar por Melhorias da Rodovia Federal BR-153
+
+Projetos apresentados como primeiro signatário (5 no total):
+- PL 3066/2025: Institui medidas de enfrentamento e repressão aos crimes de pornografia de crianças e adolescentes relacionados ao uso de inteligência artificial e de técnicas de mascaramento de endereço de IP empregadas para viabilizar a prática de crimes… https://www.camara.leg.br/propostas-legislativas/2528433
+- PL 2552/2025: Dispõe sobre os critérios para a aquisição, distribuição e inclusão de vacinas contra a Covid-19 no âmbito do Programa Nacional de Imunizações (PNI), assegura a autonomia médica na prescrição de tratamentos, o direito ao consentimento infor… https://www.camara.leg.br/propostas-legislativas/2516641
+- PEC 9/2025: Acrescenta o § 16 ao art. 198 da Constituição Federal, para dispor sobre as diretrizes para os Planos de Carreira e os pisos salariais nacionais dos profissionais de saúde do Sistema Único de Saúde. https://www.camara.leg.br/propostas-legislativas/2485767
+- PL 3946/2024: Institui pensão especial destinada aos dependentes de voluntário cujo óbito tenha decorrido de deslocamento para realizar trabalho de assistência às vítimas de calamidades públicas produzidas por desastres naturais. https://www.camara.leg.br/propostas-legislativas/2462479
+- PL 2405/2024: Acrescenta art. 24-D à Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, para instituir a Força Nacional do Sistema Único de Assistência Social (Forsuas). https://www.camara.leg.br/propostas-legislativas/2441073

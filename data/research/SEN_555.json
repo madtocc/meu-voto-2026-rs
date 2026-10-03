@@ -1,0 +1,115 @@
+{
+  "id": "SEN_555",
+  "nome_urna": "FREDERICO ANTUNES",
+  "resumo": "Deputado estadual em sétimo mandato e ex-líder do governo Eduardo Leite, concorre pelo PSD com apoio de Leite. Prioriza agronegócio, infraestrutura e logística, Fronteira Oeste e gestão com equilíbrio fiscal. Diz se alinhar à centro-direita.",
+  "trajetoria": "Engenheiro agrônomo; vereador em Uruguaiana e deputado estadual desde 1999 (PP, depois PSD em 2026). Foi presidente da Assembleia Legislativa, secretário estadual de Obras Públicas (governo Rigotto), diretor do Banrisul e líder do governo Leite na Assembleia.",
+  "destaques": [
+    "Defesa do agronegócio com inovação, tecnologia e sustentabilidade.",
+    "Ferrovias, rodovias, aeroportos e aviação regional para reduzir custos logísticos.",
+    "Free shops e integração econômica das cidades-gêmeas da fronteira.",
+    "Equilíbrio fiscal, segurança jurídica e municipalismo como pilares de gestão.",
+    "Contra a privatização do Banrisul.",
+    "Restrições à publicidade de apostas (relatou projeto na CCJ da Assembleia).",
+    "Fortalecer o Mercosul e o livre comércio."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Agro competitivo, com inovação e tecnologia.",
+      "Free shops e integração econômica na Fronteira Oeste.",
+      "Fortalecer o Mercosul e o livre comércio.",
+      "Estado que facilite a vida de quem produz e gera emprego."
+    ],
+    "Saúde": [
+      "Apoia prova para egressos de Medicina com responsabilidade dividida entre MEC e CFM (debate Amrigs).",
+      "Cita como resultado no RS o avanço na média e alta complexidade, para evitar deslocamentos de pacientes."
+    ],
+    "Educação": [],
+    "Segurança": [],
+    "Meio ambiente e clima": [
+      "Plano de recuperação e fortalecimento do RS após as enchentes."
+    ],
+    "Social e direitos": [
+      "Restrições à publicidade de apostas, citando endividamento e saúde mental."
+    ],
+    "Infraestrutura e cidades": [
+      "Ferrovias, rodovias e aeroportos para escoar a produção.",
+      "Ampliação da aviação regional no interior."
+    ],
+    "Gestão e Estado": [
+      "Equilíbrio fiscal como prioridade e segurança jurídica.",
+      "Fortalecimento do municipalismo.",
+      "Manter o Banrisul público."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 0,
+      "nota": "Contra privatizar o Banrisul ('privatizar é fechar'). Foi líder na Assembleia do governo Leite, que derrubou o plebiscito e privatizou estatais como CEEE e Sulgás. Não se manifesta sobre estatais federais.",
+      "fonte": "https://fredericoantunes.com.br/ | https://pt.wikipedia.org/wiki/Frederico_Antunes | https://pt.wikipedia.org/wiki/Eduardo_Leite"
+    },
+    "impostos_ricos": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "ajuste_fiscal": {
+      "v": 1,
+      "nota": "Diz ter colocado 'o equilíbrio fiscal como prioridade número 1' no RS e quer levar isso ao Senado; não detalha cortes federais.",
+      "fonte": "https://www.youtube.com/watch?v=SaYdw80k6ls | https://www.youtube.com/watch?v=Ne_gQpvUYnI | https://fredericoantunes.com.br/"
+    },
+    "programas_sociais": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "escala_6x1": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "armas": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "penas": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "aborto": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "anistia_8j": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "stf": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "ambiente": {
+      "v": null,
+      "nota": "Sem posição sobre restrições ambientais; fala em agro com sustentabilidade.",
+      "fonte": null
+    },
+    "redes": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://fredericoantunes.com.br/",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://pt.wikipedia.org/wiki/Frederico_Antunes",
+    "https://www.youtube.com/watch?v=SaYdw80k6ls",
+    "https://www.youtube.com/watch?v=Ne_gQpvUYnI",
+    "https://www.amrigs.org.br/candidatos-ao-senado-apresentam-propostas-para-a-saude-em-debate-na-amrigs/"
+  ]
+}

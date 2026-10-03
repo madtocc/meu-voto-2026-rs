@@ -1,0 +1,213 @@
+# Meu voto 2026: posições dos candidatos a presidente, tema a tema
+
+Guia de voto das eleições de 4 de outubro de 2026 no Rio Grande do Sul (https://meu-voto-2026-bs0.pages.dev). Dados do TSE atualizados em 02/10/2026 19:30:38. Os resumos e a classificação das posições foram feitos com auxílio de IA a partir de planos de governo e registros públicos, com a fonte em cada item, e podem conter erros.
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor.
+
+Total: 13 candidatos. Lista completa: CLARIANA BARAO (27), EDMILSON COSTA (21), ESCRITOR AUGUSTO CURY (70), FLAVIO BOLSONARO (22), HERTZ DIAS (16), LEONARDO AVALANCHE (28), LULA (13), RENAN SANTOS (14), RONALDO CAIADO (55), RUI COSTA PIMENTA (29), SAMARA (80), VETERINÁRIO WILSON GRASSI (35), ZEMA (30).
+
+Escala: A favor, Tende a favor, Neutro ou ambíguo, Tende contra, Contra, Sem informação. "Sem informação" quer dizer que não se achou posição pública, não que o candidato seja contra.
+
+## Privatizar estatais (ex.: Petrobras, Correios)
+Vender ou transferir empresas públicas federais para a iniciativa privada.
+
+- CLARIANA BARAO (27, DC): Neutro ou ambíguo. Plano cita concessões e PPPs em infraestrutura; não trata da venda de estatais. Fonte: Plano p.5 | https://agazetapopular.com.br/quem-e-clariana-barao-conheca-a-candidata-do-dc-a-presidencia-e-as-principais-propostas-para-o-brasil/
+- EDMILSON COSTA (21, PCB): Contra. Propõe reestatizar empresas privatizadas (Eletrobras, BR Distribuidora), Petrobras 100% estatal e estatização do sistema financeiro. Fonte: Plano p.4-5, 10, 14
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Tende a favor. Diz que privatizará estatais 'que não forem eficientes', como os Correios se não forem recuperáveis; mantém a Petrobras. Plano amplia concessões e PPPs. Fonte: Plano p.49-50 | https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais | https://www.dgabc.com.br/Noticia/4345516/cury-diz-que-privatizaria-correios-se-estatal-nao-for-recuperavel
+- FLAVIO BOLSONARO (22, PL): Tende a favor. Plano retoma o Programa Nacional de Desestatização caso a caso; defendeu privatizar os Correios. A campanha diz que a Petrobras seguirá estatal. Fonte: Plano p.70 | https://revistaoeste.com/politica/flavio-defende-privatizacao-dos-correios/ | https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-diz-que-mantera-petrobras-estatal/
+- HERTZ DIAS (16, PSTU): Contra. Defende expropriar e reestatizar empresas de mineração, petróleo, energia e siderurgia, Petrobras 100% estatal e proibição de privatizar empresas estratégicas. Fonte: Plano p.5, 25
+- LEONARDO AVALANCHE (28, PRTB): Neutro ou ambíguo. Não trata de privatizar estatais; defende ampliar ferrovias operadas pelo setor privado e, ao mesmo tempo, investimento estatal direto em indústria estratégica. Fonte: Plano p.22, 26
+- LULA (13, PT): Contra. Descartou privatizar os Correios; plano prevê Petrobras ampliando atuação, inclusive voltando à distribuição de combustíveis. Mantém concessões de infraestrutura. Fonte: Plano p.53, 67 | https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/lula-descarta-privatizacao-dos-correios
+- RENAN SANTOS (14, MISSÃO): Tende a favor. Privatizaria os Correios e estatais 'sem função estratégica'; descarta vender Petrobras e Embrapa. Fonte: https://www.moneytimes.com.br/renan-santos-diz-que-e-contra-privatizacao-da-petrobras-e-embrapa-mas-nao-dos-correios-gaep/ | https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais
+- RONALDO CAIADO (55, PSD): Tende a favor. Descarta privatizar a Petrobras por inteiro, mas admite negociar o segmento de gás e privatizar os Correios; plano amplia concessões e PPPs e mantém estatais com governança. Fonte: Plano p.35, 47 | https://tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais
+- RUI COSTA PIMENTA (29, PCO): Contra. Propõe cancelar todas as privatizações, reestatizar empresas e tornar a Petrobras 100% estatal. Fonte: Plano p.3
+- SAMARA (80, UP): Contra. Contra privatizações; defende reestatizar Petrobras, Eletrobras, Vale, ferrovias, saneamento e telecomunicações e rever concessões de portos, aeroportos e estradas. Fonte: Plano p.58, 60 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Sem informação. Plano não trata de venda de estatais; prevê concessões e ferrovias privadas por autorização.
+- ZEMA (30, NOVO): A favor. Propõe privatizar todas as estatais; para a Petrobras, venda por segmentos (exploração, produção, refino), e a campanha cita também o Banco do Brasil. Fonte: Plano p.15, 33 | https://tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais
+
+## Taxar mais altas rendas, lucros/dividendos ou grandes fortunas
+Aumentar a tributação de quem ganha ou tem mais.
+
+- CLARIANA BARAO (27, DC): Sem informação
+- EDMILSON COSTA (21, PCB): A favor. Propõe imposto especial sobre lucros e dividendos, grandes fortunas, transações financeiras e heranças, com IR progressivo. Fonte: Plano p.4, 14
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Sem informação. Plano promete carga tributária menor e não trata de taxar altas rendas, dividendos ou fortunas; em entrevistas defendeu taxar bets e big techs.
+- FLAVIO BOLSONARO (22, PL): Tende contra. Plano promete rever os aumentos de impostos do atual governo; não propõe taxar altas rendas. No projeto do IR, propôs excluir dividendos de sociedades profissionais da nova tributação mínima. Fonte: Plano p.30, 71 | https://sbtnews.sbt.com.br/noticia/politica/flavio-propos-isencao-no-ir-que-beneficiaria-escritorio-dele
+- HERTZ DIAS (16, PSTU): A favor. Defende tributação fortemente progressiva sobre lucros, taxação de remessas ao exterior e imposto sobre fortunas acima de R$ 1 bilhão. Fonte: Plano p.5, 26
+- LEONARDO AVALANCHE (28, PRTB): Contra. Propõe alíquota única de 3,5% para todos, 'do pequeno ao grande, sem exceção', substituindo inclusive o IR progressivo. Fonte: Plano p.4-5
+- LULA (13, PT): A favor. Defende 'colocar o rico no Imposto de Renda'; cita tributação de super-ricos, offshores e fundos exclusivos e isenção até R$ 5 mil. Fonte: Plano p.10-11, 19
+- RENAN SANTOS (14, MISSÃO): Sem informação. Plano e declarações encontradas não tratam de taxar altas rendas, dividendos ou fortunas; fala em reduzir impostos e cortar renúncias fiscais.
+- RONALDO CAIADO (55, PSD): Tende contra. Promete ajuste fiscal sem criar tributos nem elevar alíquotas; não trata de taxar altas rendas, dividendos ou fortunas. Fonte: Plano p.12-13 | https://sbtnews.sbt.com.br/noticia/eleicoes/impostos-veja-propostas-de-presidenciaveis-em-2026
+- RUI COSTA PIMENTA (29, PCO): A favor. Defende imposto sobre grandes fortunas e tributar só os ganhos dos capitalistas, acabando com impostos sobre consumo e salários. Fonte: Plano p.3, 6
+- SAMARA (80, UP): A favor. Defende imposto progressivo sobre grandes fortunas, lucros, dividendos e heranças, com isenção de IR para trabalhadores. Fonte: Plano p.16-17 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Tende contra. Não propõe taxar dividendos ou fortunas; amplia a isenção do IR com alívio também para rendas altas e reduz o IR das empresas de 34% para 25%. Mantém o IR progressivo. Fonte: Plano p.8-10
+- ZEMA (30, NOVO): Tende contra. Propõe metas de redução da carga tributária e do IR das empresas; não trata de taxar altas rendas. Ironizou em vídeo a campanha do PT pela taxação dos 'super-ricos' (2025). Fonte: Plano p.16, 19 | https://www.portalin.com.br/?p=631441
+
+## Cortar gastos públicos para reduzir impostos e a dívida
+Ajuste fiscal mais duro, com redução de despesas do governo.
+
+- CLARIANA BARAO (27, DC): Tende a favor. Defende responsabilidade fiscal com revisão de gastos e subsídios; não detalha cortes. Fonte: Plano p.5-6
+- EDMILSON COSTA (21, PCB): Contra. Propõe revogar o arcabouço fiscal e a Lei de Responsabilidade Fiscal e reverter cortes orçamentários na área social. Fonte: Plano p.2, 4, 13
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Tende a favor. Meta de déficit 'próximo de zero', controle rigoroso de gastos, reforma administrativa e carga menor; ao mesmo tempo propõe novos programas e fundos. Fonte: Plano p.36-38
+- FLAVIO BOLSONARO (22, PL): A favor. Propõe o "Tesouraço": corte de gastos e ministérios, superávits primários e nova regra fiscal para reduzir a dívida e os impostos. Fonte: Plano p.68-71
+- HERTZ DIAS (16, PSTU): Contra. Defende o fim da Lei de Responsabilidade Fiscal e a suspensão do pagamento da dívida pública aos grandes investidores; critica o arcabouço fiscal. Fonte: Plano p.3, 27
+- LEONARDO AVALANCHE (28, PRTB): Neutro ou ambíguo. Propõe corte drástico de impostos, mas não propõe corte de gastos; prevê mais gasto em defesa, pesquisa e saneamento e diz que a arrecadação subirá com o fim da sonegação. Fonte: Plano p.4-6, 19, 28, 45
+- LULA (13, PT): Tende contra. Mantém o arcabouço fiscal e o controle do gasto, mas sem prejudicar gastos sociais; resultado fiscal via crescimento e justiça tributária, não cortes amplos. Fonte: Plano p.10, 49
+- RENAN SANTOS (14, MISSÃO): A favor. Defende ajuste 'amargo' por PEC antes da posse: desindexar benefícios, desvincular pisos de saúde e educação e cortar renúncias; cita ajuste de R$ 250 bi por ano. Fonte: Plano p.9-10
+- RONALDO CAIADO (55, PSD): Tende a favor. Defende despesas obrigatórias crescendo abaixo do PIB, superávits progressivos e revisão de subsídios, de forma gradual e sem cortes lineares. Fonte: Plano p.12-13
+- RUI COSTA PIMENTA (29, PCO): Contra. Defende fim do teto de gastos e da Lei de Responsabilidade Fiscal e é contra o corte de gastos públicos. Fonte: Plano p.4
+- SAMARA (80, UP): Contra. Defende o fim do arcabouço fiscal e a suspensão do pagamento da dívida; sobre cortes no orçamento, disse: 'Somos terminantemente contrários aos cortes'. Fonte: Plano p.9, 15 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Neutro ou ambíguo. Diz crescer 'reduzindo atrito, não expandindo gasto'; reforma tributária com neutralidade de arrecadação e sem corte de despesa; apoia elevar o gasto com defesa a 2% do PIB. Fonte: Plano p.7, p.13, p.49
+- ZEMA (30, NOVO): A favor. Propõe 'choque fiscal': nova reforma da Previdência, reforma administrativa, revisão de despesas obrigatórias e superávits primários, com corte de gastos para reduzir impostos. Fonte: Plano p.14-16, 18
+
+## Ampliar programas de transferência de renda
+Ex.: Bolsa Família, auxílios e benefícios sociais.
+
+- CLARIANA BARAO (27, DC): Tende a favor. Diz que manter os programas de transferência de renda, como o Bolsa Família, é o principal acerto do atual governo; plano prevê apoio a famílias vulneráveis. Fonte: Plano p.3 | https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/
+- EDMILSON COSTA (21, PCB): Tende a favor. Propõe Lei de Responsabilidade Social para financiar programas sociais, ampliar seguro-desemprego e auxílios emergenciais e universalizar a previdência; não cita o Bolsa Família. Fonte: Plano p.13-14
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Neutro ou ambíguo. Critica o Bolsa Família ('ama a pobreza, mas não ama os pobres'), mas propõe manter o benefício por um período para quem se formalizar e ampliar programas de inclusão produtiva. Fonte: Plano p.62, p.98-99
+- FLAVIO BOLSONARO (22, PL): Neutro ou ambíguo. Promete manter e aperfeiçoar os programas sociais, com combate a fraudes e foco em "porta de saída"; não propõe ampliá-los. Fonte: Plano p.9, 42-43
+- HERTZ DIAS (16, PSTU): A favor. Considera o Bolsa Família 'bastante insuficiente' e propõe bolsa de um salário mínimo para desempregados enquanto não houver pleno emprego. Fonte: Plano p.1, 7
+- LEONARDO AVALANCHE (28, PRTB): Neutro ou ambíguo. Garante que beneficiários do Bolsa Família mantenham o benefício ao gerar renda extra e promete estudar se o valor do BPC é suficiente; não propõe ampliar transferências. Fonte: Plano p.7, 35
+- LULA (13, PT): A favor. Propõe manter, aperfeiçoar e ampliar as políticas de proteção social, incluindo o Bolsa Família. Fonte: Plano p.18-19
+- RENAN SANTOS (14, MISSÃO): Contra. Propõe substituir o Bolsa Família por frentes de trabalho remuneradas (Frentes Cidadãs). Fonte: Plano p.6, p.20-22
+- RONALDO CAIADO (55, PSD): Neutro ou ambíguo. Preserva as transferências de renda, com combate a fraudes e regra de transição ('porta de saída'); não propõe ampliá-las. Fonte: Plano p.2, 61
+- RUI COSTA PIMENTA (29, PCO): A favor. Propõe Bolsa Família de pelo menos um salário mínimo e auxílio emergencial ampliado. Fonte: Plano p.2
+- SAMARA (80, UP): A favor. Defende os programas de transferência de renda e critica a 'ofensiva' contra o Bolsa Família; plano propõe ampliar o BPC e reajustar benefícios assistenciais. Fonte: Plano p.9, 34 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Sem informação. Plano não trata do Bolsa Família nem de transferência de renda.
+- ZEMA (30, NOVO): Tende contra. Propõe unificar e focalizar programas, suspender o Bolsa Família de adultos aptos que recusem trabalho e pagar R$ 5 mil a quem deixar o programa; não propõe ampliá-los. Fonte: Plano p.15, 62-63
+
+## Acabar com a escala 6x1 / reduzir a jornada de trabalho por lei
+Mudar a lei para reduzir dias ou horas da jornada semanal.
+
+- CLARIANA BARAO (27, DC): A favor. Declarou-se favorável ao fim da escala 6x1, citando a sobrecarga das mulheres. Fonte: https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/
+- EDMILSON COSTA (21, PCB): A favor. Propõe o fim da escala 6x1 e jornada de 30 horas semanais sem redução salarial. Fonte: Plano p.2, 5, 14
+- ESCRITOR AUGUSTO CURY (70, AVANTE): A favor. Favorável a trocar a escala 6x1 pela 5x2, citando desgaste físico e emocional dos trabalhadores. Fonte: https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/
+- FLAVIO BOLSONARO (22, PL): Tende contra. Defende negociado sobre o legislado e jornada flexível; disse que o trabalhador, e não o governo, deve escolher quanto trabalha, e apoia alternativa do PL com remuneração por hora. Fonte: Plano p.44-45 | https://www.dgabc.com.br/Noticia/4320008/flavio-bolsonaro-mostra-favoritismo-da-escala-5x2-mas-pondera
+- HERTZ DIAS (16, PSTU): A favor. Fim da escala 6x1 e redução da jornada para 36 horas sem redução de salário. Fonte: Plano p.7
+- LEONARDO AVALANCHE (28, PRTB): Sem informação. Sem posição no plano nem em declarações públicas localizadas.
+- LULA (13, PT): A favor. Compromete-se com o fim da escala 6x1 e jornada de 40 horas sem redução salarial. Fonte: Plano p.75
+- RENAN SANTOS (14, MISSÃO): Contra. Chama o fim da escala 6x1 de 'farsa'; defende reforma trabalhista e contratação por hora. Fonte: https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/ | Plano p.5
+- RONALDO CAIADO (55, PSD): Tende a favor. Em agosto de 2026 disse aceitar a troca da 6x1 pela 5x2; em abril havia criticado a PEC e proposto modelo de hora trabalhada. O plano não trata do tema. Fonte: https://sbtnews.sbt.com.br/noticia/eleicoes/caiado-hesita-ao-falar-sobre-6x1-mas-diz-aceitar-reducao | https://www.cnnbrasil.com.br/eleicoes/caiado-defende-modelo-de-hora-trabalhada-como-alternativa-a-pec-6x1/
+- RUI COSTA PIMENTA (29, PCO): A favor. Defende jornada máxima de 7 horas por dia, 5 dias por semana (35 horas), sem redução salarial. Fonte: Plano p.2
+- SAMARA (80, UP): A favor. Fim imediato da escala 6x1 e jornada de 30 horas semanais sem redução salarial. Fonte: Plano p.9-10
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Sem informação. Plano foca em desonerar a folha; não trata da jornada de trabalho.
+- ZEMA (30, NOVO): Contra. Critica a PEC do fim da 6x1 como 'canetada' e defende negociação livre e uma CLT opcional, com jornada negociada até 44 horas semanais. Fonte: Plano p.23 | https://www.tribunadosertao.com.br/politica/2026/06/22/926433-zema-critica-pec-da-escala-6x1-e-defende-clt-opcional
+
+## Facilitar a posse e o porte de armas para cidadãos
+Regras mais flexíveis para comprar e carregar armas.
+
+- CLARIANA BARAO (27, DC): Sem informação
+- EDMILSON COSTA (21, PCB): Sem informação. O plano não trata de posse ou porte de armas por civis; propõe estatizar a indústria bélica (Avibras, Taurus) e desmilitarizar a segurança. Fonte: Plano p.6, 15
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Sem informação. Não foi encontrada posição sobre posse e porte de armas por cidadãos.
+- FLAVIO BOLSONARO (22, PL): A favor. Campanha trabalha em plano para revogar o Estatuto do Desarmamento e garantir posse a quem cumprir requisitos objetivos. O plano oficial não trata do tema. Fonte: https://www.gazetadopovo.com.br/republica/quem-planeja-o-fim-do-estatuto-do-desarmamento-no-brasil/
+- HERTZ DIAS (16, PSTU): Neutro ou ambíguo. Plano defende estimular a 'autodefesa' organizada dos trabalhadores, mas não trata de facilitar posse ou porte individual de armas. Fonte: Plano p.19
+- LEONARDO AVALANCHE (28, PRTB): Sem informação. Plano de segurança foca em mais policiais e tecnologia, sem tratar de posse ou porte de armas; sem declarações localizadas.
+- LULA (13, PT): Contra. Defende manter a política de controle de armas e munições e a revogação dos decretos que facilitavam o acesso. Fonte: Plano p.28
+- RENAN SANTOS (14, MISSÃO): Sem informação. Não foi encontrada posição sobre posse e porte de armas por cidadãos.
+- RONALDO CAIADO (55, PSD): Sem informação. O plano não trata de posse ou porte de armas por civis; não foi encontrada declaração recente sobre o tema.
+- RUI COSTA PIMENTA (29, PCO): Tende a favor. Defende o direito de autodefesa e o armamento de trabalhadores e indígenas, ligado à dissolução da PM; não trata de regras de posse e porte. Fonte: Plano p.4-5 | https://sbtnews.sbt.com.br/noticia/politica/rui-costa-pimenta-defende-fim-da-pm-e-legalizacao-de-drogas
+- SAMARA (80, UP): Tende contra. Plano defende 'forte fiscalização e controle das armas e munições' sob controle do governo; não trata de posse ou porte por cidadãos. Fonte: Plano p.48
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Tende contra. Propõe controle rigoroso da cadeia de armas e munições legais, com marcação e auditoria de estoque; afirma que parte das armas do crime começou legal. Fonte: Plano p.22
+- ZEMA (30, NOVO): Tende a favor. Propõe ampliar o porte de arma do produtor rural para toda a extensão da propriedade; não trata do porte para outros cidadãos. Fonte: Plano p.45
+
+## Endurecer penas e/ou reduzir a maioridade penal
+Punições mais longas, menos benefícios penais, julgar menores como adultos.
+
+- CLARIANA BARAO (27, DC): Neutro ou ambíguo. Considera insuficiente combater o crime apenas com aumento de penas; plano foca em inteligência e asfixia financeira, sem propor endurecimento de penas. Fonte: Plano p.9-10 | https://agazetapopular.com.br/quem-e-clariana-barao-conheca-a-candidata-do-dc-a-presidencia-e-as-principais-propostas-para-o-brasil/
+- EDMILSON COSTA (21, PCB): Contra. Declara-se contra a redução da maioridade penal e propõe medidas contra o encarceramento em massa. Fonte: Plano p.12
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Tende a favor. Defendeu prisão perpétua para crimes contra mulheres e crianças; o plano foca em integração policial, Justiça mais rápida e ressocialização. Fonte: Plano p.47 | https://www.em.com.br/politica/2026/07/7468008-augusto-cury-defende-prisao-perpetua-para-crimes-contra-mulheres-e-criancas.html
+- FLAVIO BOLSONARO (22, PL): A favor. Propõe maioridade penal aos 16 anos, fim da progressão para crimes hediondos, cumprimento integral de penas para agressores de mulheres e castração química. Fonte: Plano p.13-16
+- HERTZ DIAS (16, PSTU): Contra. Contra a redução da maioridade penal; defende desencarceramento em massa e descriminalização das drogas. Fonte: Plano p.18, 20
+- LEONARDO AVALANCHE (28, PRTB): A favor. Defende endurecer penas para crimes violentos e organizados e dobrar a pena mínima para exploração sexual infantil. Fonte: Plano p.13-14, 39-41
+- LULA (13, PT): Neutro ou ambíguo. Sancionou a Lei Antifacção, com penas de até 40 anos para líderes de facções; sobre maioridade penal, o PT se opõe à redução e o governo passou a admitir consulta popular. Fonte: Plano p.27 | https://www.poder360.com.br/brasil/lula-sanciona-pl-antifaccao-com-veto-e-sem-alcolumbre-no-planalto/ | https://www.folhape.com.br/noticia/amp/466999/governo-muda-tom-sobre-reducao-da-maioridade-penal-e-tenta-novo-folego/
+- RENAN SANTOS (14, MISSÃO): A favor. Direito Penal do Inimigo, penas maiores para reincidência e roubo de eletrônicos, superpresídios; em campanha, citou fim de saidinhas, da progressão de pena e mudança na maioridade penal. Fonte: Plano p.11-13 | https://www.gazetadopovo.com.br/eleicoes/2026/maioridade-penal-drones-castracao-quimica-presidio-amazonico-fim-da-pm-propostas-seguranca-candidatos-presidente/
+- RONALDO CAIADO (55, PSD): A favor. Propõe maioridade penal aos 16 anos em crimes graves, penas mínimas de 35 a 45 anos para facções e progressão só após 90% da pena em vários crimes. Fonte: Plano p.17-20
+- RUI COSTA PIMENTA (29, PCO): Tende contra. Plano defende "abaixo a repressão" e a dissolução da PM e do aparato repressivo; não trata diretamente de penas ou maioridade penal. Fonte: Plano p.5
+- SAMARA (80, UP): Contra. Contra a redução da maioridade penal; defende enfrentar o encarceramento em massa e trocar presídios por unidades de reeducação. Propõe criminalizar a misoginia. Fonte: Plano p.28, 30, 49-50
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Tende a favor. Propõe ampliar presídios federais de segurança máxima e o regime disciplinar diferenciado, e plebiscito sobre modelo de prisão inspirado em El Salvador; não propõe mudar penas nem a maioridade penal. Fonte: Plano p.21-25
+- ZEMA (30, NOVO): A favor. Propõe maioridade penal aos 16 anos (ou menos em crimes graves), fim da progressão de regime e penas mais duras para crimes violentos e corrupção. Fonte: Plano p.5-8
+
+## Ampliar o aborto legal / descriminalizar o aborto
+Hoje é permitido só em estupro, risco à vida da gestante e anencefalia.
+
+- CLARIANA BARAO (27, DC): Contra. Posiciona-se contra a legalização do aborto, com base na preservação da vida; defende atendimento digno a mulheres que chegam ao serviço de saúde após um aborto. Fonte: https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas | https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/
+- EDMILSON COSTA (21, PCB): A favor. Propõe a legalização do aborto com atendimento na rede pública de saúde. Fonte: Plano p.11
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Sem informação. Plano cita apenas 'planejamento reprodutivo nos termos da legislação brasileira'; não foi encontrada declaração específica.
+- FLAVIO BOLSONARO (22, PL): Contra. Plano defende a vida "desde a concepção" como valor inegociável; opõe-se a ampliar o aborto além das exceções legais. Fonte: Plano p.9 | https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas
+- HERTZ DIAS (16, PSTU): A favor. Defende aborto legal, seguro e gratuito pelo SUS. Fonte: Plano p.22
+- LEONARDO AVALANCHE (28, PRTB): Sem informação. Plano cita 'Deus, pátria e família', mas não trata de aborto; sem declarações localizadas.
+- LULA (13, PT): Neutro ou ambíguo. Diz ser pessoalmente contra o aborto, mas defende tratá-lo como questão de saúde pública; plano cita 'direitos sexuais e reprodutivos' sem propor mudança na lei. Fonte: Plano p.21 | https://www.congressoemfoco.com.br/area/governo/lula-volta-a-criticar-pl-do-estupro-e-defende-que-aborto-seja-tratado-como-questao-de-saude-publica/
+- RENAN SANTOS (14, MISSÃO): Tende contra. Diz ser favorável ao aborto apenas nos casos já previstos em lei (risco de vida, estupro e anencefalia); a campanha afirma não haver proposta, fala ou voto dele pela legalização. Fonte: https://www.renanpresidente.com.br/caixa-preta/renan-e-a-favor-do-aborto
+- RONALDO CAIADO (55, PSD): Contra. Declarou-se contra o aborto, exceto nos casos previstos em lei, e apoiou a derrubada da resolução do Conanda sobre aborto legal para menores (jun/2026). Fonte: https://diariodocomercio.com.br/politica/senado-aborto-zema-caiado/ | https://www.bahianoticias.com.br/folha/noticia/400390-zema-ataca-esquerda-e-caiado-cobra-congresso-apos-senado-dificultar-aborto-legal
+- RUI COSTA PIMENTA (29, PCO): A favor. Defende a legalização completa do aborto, dizendo que o Estado deve ser laico. Fonte: https://www.poder360.com.br/poder-eleicoes/estado-nao-pode-ser-religioso-diz-rui-costa-pimenta-sobre-aborto/
+- SAMARA (80, UP): A favor. Defende a descriminalização e a legalização do aborto, como questão de saúde pública. Fonte: Plano p.28
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Sem informação. Sem posição no plano ou em declarações encontradas.
+- ZEMA (30, NOVO): Contra. Apoiou a derrubada pelo Senado (jun/2026) da resolução do Conanda que facilitava o aborto legal para vítimas menores de violência sexual. O plano não trata do tema. Fonte: https://diariodocomercio.com.br/politica/senado-aborto-zema-caiado/
+
+## Anistiar os condenados pelos atos de 8 de janeiro de 2023
+Perdão aos condenados pela invasão das sedes dos Três Poderes.
+
+- CLARIANA BARAO (27, DC): Tende contra. Diz não ser favorável à anistia, mas defende rever os processos do 8 de janeiro com julgamento individualizado e pena proporcional. Fonte: https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/
+- EDMILSON COSTA (21, PCB): Contra. O plano não cita o 8 de janeiro; o PCB defende 'sem anistia para os golpistas' e prisão de Bolsonaro. Fonte: nota do partido: https://pcb.org.br/portal2/32251
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Tende a favor. Em abril/2026 disse que daria perdão a 'quase todos' os envolvidos, exceto organizadores; em agosto falou em revisar, com juristas, penas que considera desproporcionais. Fonte: https://www.cnnbrasil.com.br/eleicoes/daria-perdao-a-quase-todos-envolvidos-no-8-1-diz-augusto-cury-a-cnn/ | https://www.congressoemfoco.com.br/noticia/121759/augusto-cury-quer-reavaliar-sentencas-do-8-1--penas-desproporcionais
+- FLAVIO BOLSONARO (22, PL): A favor. Defende anistia aos condenados do 8 de janeiro. Disse que o Congresso vai aprová-la depois da eleição e que Jair Bolsonaro e 'todas as pessoas que foram perseguidas' subirão a rampa com ele em 2027. Fonte: https://www.infomoney.com.br/politica/flavio-diz-que-nao-apenas-bolsonaro-mas-todos-perseguidos-subirao-rampa-do-planalto/
+- HERTZ DIAS (16, PSTU): Contra [posição do programa do partido, não do próprio candidato]. Plano não trata do tema; o PSTU defende 'sem anistia' aos golpistas e critica o PL da Dosimetria. Fonte: programa do partido: https://www.opiniaosocialista.com.br/escandalo-por-debaixo-dos-panos-pt-participa-de-acordao-para-votar-anistia-a-golpistas/
+- LEONARDO AVALANCHE (28, PRTB): Sem informação. Sem posição no plano nem em declarações públicas localizadas.
+- LULA (13, PT): Contra. Vetou integralmente o PL da Dosimetria em janeiro de 2026 (veto derrubado pelo Congresso em abril); plano chama o 8/1 de tentativa golpista. Fonte: Plano p.8 | https://www.congressoemfoco.com.br/noticia/118503/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria
+- RENAN SANTOS (14, MISSÃO): Tende contra. Em 2026 rejeita anistia ampla e defende revisão proporcional das penas ('dosimetria'); em nov/2025 havia dito que os presos 'merecem anistia'. Fonte: https://www.cnnbrasil.com.br/eleicoes/renan-santos-quer-restringir-stf-e-vetar-escritorios-ligados-a-ministros/ | https://www.itatiaia.com.br/politica/presidente-do-partido-do-mbl-defende-prisao-para-bolsonaro-e-anistia-para-presos/
+- RONALDO CAIADO (55, PSD): A favor. Promete indulto a Bolsonaro e anistia 'ampla, geral e irrestrita' aos envolvidos no 8 de janeiro e na trama golpista. Fonte: https://www.infomoney.com.br/politica/caiado-promete-anistia-para-reus-do-8-de-janeiro-e-da-trama-golpista-se-eleito/ | https://ohoje.com/2026/07/28/caiado-volta-a-defender-anistia-aos-condenados-do-8-de-janeiro-e-indulto-a-bolsonaro/
+- RUI COSTA PIMENTA (29, PCO): A favor. O PCO defendeu publicamente anistia aos presos do 8 de janeiro (mar/2025); Rui chamou as penas aplicadas pelo STF de "absurdas". Fonte: https://revistaoeste.com/politica/pco-pede-anistia-para-os-presos-do-8-de-janeiro/ | https://revistaoeste.com/brasil/pco-critica-julgamento-de-reus-do-8-de-janeiro/
+- SAMARA (80, UP): Contra. Contra anistia a golpistas, financiadores e agentes do Estado envolvidos em tentativas de golpe; critica o PL da Anistia. Fonte: Plano p.54
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Sem informação. Sem posição no plano ou em declarações encontradas.
+- ZEMA (30, NOVO): A favor. Defende anistia a Bolsonaro, acusado de tentativa de golpe, para 'pacificar o Brasil'; nega que tenha havido golpe e chamou o 8 de janeiro de 'manifestação, baderna e insatisfação' (ago/2025). Fonte: https://www.infomoney.com.br/politica/zema-defende-anistia-a-bolsonaro-para-pacificar-o-brasil/
+
+## Limitar os poderes do STF
+Ex.: restringir decisões individuais, mandato para ministros, impeachment de ministros.
+
+- CLARIANA BARAO (27, DC): Tende a favor. Afirma que o STF excedeu suas competências e deve passar por reforma; não detalha as medidas. Fonte: https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/
+- EDMILSON COSTA (21, PCB): Tende a favor. Propõe mandatos fixos de 10 anos, eletivos e revogáveis, para juízes de tribunais superiores, em reforma ampla do Judiciário; não cita o STF nominalmente. Fonte: Plano p.4, 13
+- ESCRITOR AUGUSTO CURY (70, AVANTE): A favor. Propõe mandato de 8 anos, reduzir o STF para 9 ministros e tirar do presidente a indicação, que passaria a magistratura, MP e OAB. Fonte: Plano p.60, p.64 | https://www.congressoemfoco.com.br/noticia/121272/augusto-cury-propoe-semipresidencialismo-e-mandato-de-8-anos-no-stf
+- FLAVIO BOLSONARO (22, PL): A favor. Propõe limitar decisões monocráticas, acabar com a competência criminal originária, rever ADPFs e criar quarentena para ministros de Estado indicados. Fonte: Plano p.65-66
+- HERTZ DIAS (16, PSTU): Neutro ou ambíguo. Critica o Judiciário como protetor dos ricos e propõe outro Estado baseado em conselhos populares; não propõe medidas específicas sobre o STF. Fonte: Plano p.31
+- LEONARDO AVALANCHE (28, PRTB): Neutro ou ambíguo. Critica mudanças de entendimento do STF (prisão após condenação) e propõe responsabilizar magistrados lenientes em crimes contra crianças; não propõe limitar poderes da Corte. Fonte: Plano p.32-33, 40
+- LULA (13, PT): Tende contra. Plano propõe diálogo com o Judiciário respeitando a autonomia dos Poderes, sem limitar o STF; aliados atuaram contra a PEC das decisões monocráticas. Fonte: Plano p.16 | https://jovempan.com.br/noticias/politica/aliados-de-lula-atuam-para-derrotar-pec-que-limita-poderes-do-stf-mas-querem-evitar-desgaste-em-caso-de-derrota.html
+- RENAN SANTOS (14, MISSÃO): A favor. Propõe mandato máximo de 8 anos, proibir decisões monocráticas, tirar do STF os casos de políticos e restringi-lo a temas constitucionais. Fonte: https://www.correiobraziliense.com.br/politica/2026/09/7501450-precisamos-afastar-o-ministro-do-stf-diz-renan-santos.html | https://www.cnnbrasil.com.br/eleicoes/renan-santos-quer-restringir-stf-e-vetar-escritorios-ligados-a-ministros/
+- RONALDO CAIADO (55, PSD): Tende a favor. Critica o 'ativismo judicial', defendeu o afastamento de Alexandre de Moraes e propõe idade mínima de 60 anos e quarentena para ministros; não propõe mandato nem fim das decisões monocráticas. Fonte: https://acritica.net/eleicoes-2026/caiado-diz-que-stf-vive-momento-delicado-e-cobra-resposta-a-populacao/ | https://www.poder360.com.br/poder-justica/caiado-diz-que-moraes-ultrapassa-limites-institucionais/
+- RUI COSTA PIMENTA (29, PCO): A favor. Propõe o fim do STF e a eleição de todos os juízes e procuradores por voto popular, com mandatos revogáveis. Fonte: Plano p.6
+- SAMARA (80, UP): Neutro ou ambíguo. Propõe eleição direta para juízes, inclusive do STF, no lugar da indicação presidencial; não propõe limitar decisões ou poderes da Corte. Fonte: Plano p.49 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Sem informação. Plano promete 'respeito à decisão judicial' e não propõe mudanças no STF.
+- ZEMA (30, NOVO): A favor. Propõe acabar com decisões monocráticas, retirar matérias penais e tributárias do STF, criar corregedoria externa e tornar obrigatória a votação de impeachment de ministros pedida pela maioria do Senado. Fonte: Plano p.11-13
+
+## Priorizar proteção ambiental e clima, mesmo com restrições ao agro e à mineração
+Mais fiscalização, metas climáticas e limites a desmatamento e exploração.
+
+- CLARIANA BARAO (27, DC): Sem informação
+- EDMILSON COSTA (21, PCB): A favor. Propõe expropriar o agronegócio, reduzir a pecuária e os fósseis, revisar a mineração, não explorar a Margem Equatorial e ampliar áreas protegidas. Fonte: Plano p.8-9, 11, 14
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Neutro ou ambíguo. Diz que produção e preservação são compatíveis: monitoramento de queimadas, mercado de carbono e pagamento por serviços ambientais, mas também prazos máximos de licenciamento e meta de dobrar a produção agropecuária. Fonte: Plano p.47-52, p.182-184
+- FLAVIO BOLSONARO (22, PL): Tende contra. Propõe licença concedida por decurso de prazo, fracking e licenciamento ágil para mineração, "sem novas obrigações" ao produtor; mantém meta de zerar desmatamento ilegal até 2029. Fonte: Plano p.49-50, 52, 55, 58
+- HERTZ DIAS (16, PSTU): A favor. Defende fim de subsídios ao grande agronegócio, expropriação de grandes propriedades, fim dos agrotóxicos e veto ao petróleo na Margem Equatorial. Fonte: Plano p.14-17
+- LEONARDO AVALANCHE (28, PRTB): Tende contra. Propõe drones contra desmatamento e garimpo ilegais, mas prioriza o agro e a exploração mineral (potássio em Autazes-AM, nióbio, terras raras). Fonte: Plano p.21, 24, 28
+- LULA (13, PT): Tende a favor. Meta de desmatamento líquido zero até 2030 e vetos a 63 dispositivos da lei de licenciamento; plano também prevê expansão da exploração de petróleo e apoio ao agronegócio. Fonte: Plano p.61, 67, 70 | https://www.camara.leg.br/noticias/1186832-LULA-SANCIONA-NOVO-LICENCIAMENTO-AMBIENTAL-COM-63-VETOS
+- RENAN SANTOS (14, MISSÃO): Contra. Prioriza acelerar licenciamento (Lei 15.190/2025), mineração inclusive em terras indígenas e expansão do agro; propõe auditar livros que tratam o agro como antagonista da sustentabilidade. Fonte: Plano p.24, p.39, p.42-43
+- RONALDO CAIADO (55, PSD): Neutro ou ambíguo. Defende rigor contra desmatamento e garimpo ilegais e pagamento por serviços ambientais, mas também estabilidade do Código Florestal e licenciamento simplificado; não propõe novas restrições ao agro. Fonte: Plano p.3, 24, 50-51
+- RUI COSTA PIMENTA (29, PCO): Sem informação
+- SAMARA (80, UP): A favor. Defende proibir destruição de florestas, banir agrotóxicos proibidos no exterior e desapropriar grandes terras do agronegócio, com transição agroecológica. Fonte: Plano p.44, 61-63
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Neutro ou ambíguo. Combate ao desmatamento ilegal e rastreabilidade do gado antecipada por exigência da UE; também licenciamento com prazo definido e projeto para regulamentar mineração em terra indígena, com condições. Fonte: Plano p.32, p.46-48
+- ZEMA (30, NOVO): Tende contra. Defende 'conservar sem travar o desenvolvimento': sem novas restrições ao agro sem compensação, licenciamento mais rápido e facilitação da mineração; propõe combater grilagem e desmatamento ilegal. Fonte: Plano p.21, 35, 45, 47-48
+
+## Regular as plataformas digitais e responsabilizá-las por conteúdos
+Obrigações para redes sociais sobre desinformação e conteúdo ilegal.
+
+- CLARIANA BARAO (27, DC): Sem informação
+- EDMILSON COSTA (21, PCB): A favor. Propõe 'forte regulação' das Big Techs e redes sociais e criação de redes sociais estatais. Fonte: Plano p.4, 13
+- ESCRITOR AUGUSTO CURY (70, AVANTE): Neutro ou ambíguo. Diz não ser a favor de 'controlar' as redes e prioriza educação digital; defende taxar big techs, multas e responsabilizar executivos por danos à saúde mental. Plano cita 'regulação de conteúdos nocivos'. Fonte: Plano p.20, p.54 | https://www.infomoney.com.br/politica/cury-defende-taxar-big-techs-e-diz-que-levaria-zuckerberg-a-tribunal-internacional/
+- FLAVIO BOLSONARO (22, PL): Contra. Votou contra o PL das Fake News (PL 2630/2020) no Senado, em 2020. Propõe o 'Tesouraço na Censura': acabar com estruturas estatais que vigiem, rotulem ou punam o que as pessoas dizem e revogar atos do atual governo nessa área. Fonte: Plano p.66-67 | https://legis.senado.leg.br/dadosabertos/materia/votacoes/141944
+- HERTZ DIAS (16, PSTU): A favor. Defende responsabilizar plataformas que lucram com ódio contra mulheres e por fraudes, transparência e auditoria pública de algoritmos. Fonte: Plano p.8, 19, 22
+- LEONARDO AVALANCHE (28, PRTB): Tende a favor. Restrito à proteção infantil: plataformas obrigadas a integrar sistema de detecção de abuso, retirada imediata e multas; transparência de algoritmo para menores de 14. Fonte: Plano p.39-41, 43
+- LULA (13, PT): A favor. Defende avançar na regulação democrática das redes sociais e plataformas para impedir desinformação e campanhas de ódio. Fonte: Plano p.16, 82
+- RENAN SANTOS (14, MISSÃO): Tende contra. Plano declara 'oposição firme' a regulação da mídia e da internet que reduza a liberdade de expressão e propõe um código de imprensa; não trata de responsabilizar plataformas por conteúdos. Fonte: Plano p.28-29
+- RONALDO CAIADO (55, PSD): Tende a favor. Propõe consolidar em lei regras de responsabilidade, devido processo e transparência para plataformas e proteção de crianças, preservando os princípios do Marco Civil. Fonte: Plano p.26
+- RUI COSTA PIMENTA (29, PCO): Contra. Defende liberdade irrestrita de expressão na internet, fim de toda censura e revogação da "Lei Felca" (ECA Digital). Fonte: Plano p.6
+- SAMARA (80, UP): Tende a favor. Defende o fim do monopólio estrangeiro sobre redes digitais e combate à concentração das grandes plataformas; não detalha responsabilização por conteúdo. Fonte: Plano p.38, 40
+- VETERINÁRIO WILSON GRASSI (35, DEMOCRATA): Sem informação. Sem posição no plano ou em declarações encontradas.
+- ZEMA (30, NOVO): Contra. Propõe proibir a exclusão de perfis e a moderação de opiniões pelas plataformas, inclusive por ordem judicial, e evitar regulação ampla da inteligência artificial. Fonte: Plano p.21, 74

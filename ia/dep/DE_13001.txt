@@ -1,0 +1,31 @@
+# PEPE VARGAS (13001, PT): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: GILBERTO JOSÉ SPIER VARGAS. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+Comissões: Comissão de Assuntos Municipais; Comissão de Cidadania e Direitos Humanos.
+
+Frentes parlamentares que preside:
+- Frente Parlamentar em Defesa das Vítimas da Covid-19
+- Frente Parlamentar em Defesa dos Direitos dos Usuários de Rodovias Pedagiadas no Território do Estado do Rio Grande do Sul
+- Frente Parlamentar pela Prevenção da Doença Renal Crônica
+- Frente Parlamentar pelo Fortalecimento do SUS
+
+Projetos apresentados como primeiro signatário (15 no total):
+- PL 347/2026: Estabelece diretrizes para a atenção integral às pessoas com Síndrome de Dravet no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/347/2026/994127b8-8f47-11f1-aec7-a2dd1128206d
+- PL 248/2026: Dispõe sobre a vedação da utilização de aplicativos de mensagens instantâneas no serviço público estadual para fins de comunicação institucional fora do horário regular de expediente, assegura o direito à desconexão e estabelece medidas de… https://ww4.al.rs.gov.br/proposicao/PL/248/2026/2adbae76-6bec-11f1-a3ef-deba46ea2168
+- PL 139/2026: Estabelece diretrizes a serem observadas para uma política pública de primeiro atendimento a pessoas em crise aguda por conta de sofrimento psíquico e/ou abuso de substâncias e cria o Programa Estadual de Atendimento ELO. (Tramitação conjun… https://ww4.al.rs.gov.br/proposicao/PL/139/2026/9d8f2c7d-440f-11f1-94eb-122b94454506
+- PL 134/2026: Institui a Política Estadual de Desenvolvimento Sustentável e Resiliência Climática. https://ww4.al.rs.gov.br/proposicao/PL/134/2026/2f63fd58-4307-11f1-94eb-122b94454506
+- PL 40/2026: Institui a Semana Estadual de Promoção à Saúde dos Trabalhadores e Trabalhadoras por Aplicativos no Estado do Rio Grande do Sul e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e dat… https://ww4.al.rs.gov.br/proposicao/PL/40/2026/ffa9da9d-05e4-11f1-bb5d-da08d5ee8534
+- PL 39/2026: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/39/2026/9f2e5ef9-05e2-11f1-bb5d-da08d5ee8534
+- PL 35/2026: Dispõe sobre a isenção de cobrança da taxa de estacionamento por hospitais aos pacientes submetidos à sessão de quimioterapia, radioterapia e hemodiálise. https://ww4.al.rs.gov.br/proposicao/PL/35/2026/933d7493-036e-11f1-bb5d-da08d5ee8534
+- PL 550/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/550/2023/5052858f-b0d2-11ee-811f-0242c0a8a003
+- PL 524/2023: Institui o Dia do Policial Militar com Deficiência no Estado do Rio Grande do Sul, altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial… https://ww4.al.rs.gov.br/proposicao/PL/524/2023/9a4a07bf-8df9-11ee-92b3-0242c0a8a007
+- PLC 433/2023: No artigo 30 da Lei Complementar nº 15.145, de 5 de abril de 2018, que dispõe sobre o Sistema de Assistência à Saúde dos Servidores Públicos do Rio Grande do Sul – Sistema IPE Saúde –, altera a Lei Complementar n.º 12.066, de 29 de março de… https://ww4.al.rs.gov.br/proposicao/PLC/433/2023/6733c486-6f70-11ee-9cfe-0242c0a8a005
+- PL 232/2023: Institui a Política Estadual de Prevenção ao Abandono e Evasão Escolar, no âmbito do Estado do Rio Grande do Sul. (SEI 8260-0100/23-0) https://ww4.al.rs.gov.br/proposicao/PL/232/2023/e81b5d2a-597f-11ee-9cfe-0242c0a8a005
+- PL 228/2023: Declara o Município de Teutônia a “Capital Estadual dos Corais” do Estado do Rio Grande do Sul. (SEI 8084-0100/23-8)(Tramitação conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/228/2023/e5dba654-597f-11ee-9cfe-0242c0a8a005
+- PL 222/2023: Declara o Município de Teutônia a “Capital Estadual dos Corais” do Estado do Rio Grande do Sul. (SEI 7985-0100/23-7)(Tramitação conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/222/2023/e24a68ba-597f-11ee-9cfe-0242c0a8a005
+- PL 167/2023: Institui o Dia Estadual em Homenagem às Vítimas da Covid-19 e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Co… https://ww4.al.rs.gov.br/proposicao/PL/167/2023/585c5a8b-597f-11ee-9cfe-0242c0a8a005
+- PL 2/2023: Dispõe sobre o direito das mulheres a acompanhante em procedimentos de saúde nos estabelecimentos públicos e privados do Estado do Rio Grande do Sul. (SEI 3146-0100/23-8) https://ww4.al.rs.gov.br/proposicao/PL/2/2023/820326db-597e-11ee-9cfe-0242c0a8a005

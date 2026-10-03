@@ -1,0 +1,141 @@
+{
+  "id": "PRES_70",
+  "nome_urna": "ESCRITOR AUGUSTO CURY",
+  "resumo": "Plano com foco declarado em 'cultura da paz' e superação da polarização, unindo 'mente capitalista' e 'coração social'. Prioriza educação com gestão da emoção, empreendedorismo em massa (Banco do Empreendedor, 10 mil indústrias) e telemedicina. Propõe três reformas: semipresidencialismo, mandato para ministros do STF e nova diplomacia econômica.",
+  "trajetoria": "Psiquiatra e escritor de best-sellers, autor da Teoria da Inteligência Multifocal. É sua primeira candidatura; filiou-se ao Avante em 2026 e tem como vice o ex-deputado federal Júlio Delgado.",
+  "destaques": [
+    "Adotar o semipresidencialismo, com primeiro-ministro apoiado pela maioria do Congresso.",
+    "Mandato de 8 anos no STF e redução para 9 ministros, escolhidos por magistratura, Ministério Público e OAB, e não pelo presidente.",
+    "Banco do Empreendedor com crédito de até R$ 20 mil a juros de 5% a 6% ao ano; meta de financiar 2 milhões de negócios em 10 anos.",
+    "Programa para 10 mil novas indústrias e rede de 10 mil escolas e clubes de empreendedorismo.",
+    "Telemedicina pública para cerca de 80% das consultas básicas, com atendimento digital em até 30 minutos.",
+    "Meta de déficit público próximo de zero e carga tributária menor ao fim da reforma tributária.",
+    "Programa Mulheres Vivas contra o feminicídio, com botão de pânico e igualdade no crédito."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Déficit próximo de zero, controle rigoroso de gastos e alíquota final do novo IVA menor que a projetada (p.36-38).",
+      "Banco do Empreendedor (fundo inicial de R$ 30 a 50 bi) e Ministério do Empreendedorismo, financiado em parte com lucros de estatais (p.98, p.108).",
+      "10 mil novas indústrias, política de semicondutores, cinco corredores de exportação e Zonas de Processamento de Exportação (p.40-42).",
+      "Incentivo fiscal para empresas que contratarem jovens no primeiro emprego (p.57)."
+    ],
+    "Saúde": [
+      "Telemedicina para atender cerca de 80% das consultas básicas e reduzir a espera por especialista (p.44).",
+      "Meta nacional de atendimento digital em até 30 minutos nos casos compatíveis (p.162).",
+      "Programa Nacional de Saúde Mental e prevenção de ansiedade, automutilação e suicídio (p.44-45).",
+      "Programa de prevenção e detecção precoce do câncer (p.166)."
+    ],
+    "Educação": [
+      "Escola de tempo integral como 'clube de desenvolvimento humano' (p.75).",
+      "Gestão da Emoção, Educação Financeira e Empreendedorismo no currículo (p.75-76).",
+      "Ampliar o ensino técnico integrado ao médio e valorizar professores, com remuneração ligada também à qualificação (p.43).",
+      "Programa Brasil Neuroinclusivo para alunos neurodivergentes na rede pública (p.81-85)."
+    ],
+    "Segurança": [
+      "Recriar o Ministério da Segurança Pública (p.37, p.45).",
+      "Programa FATO: integração de PF, polícias estaduais e uma nova força municipal (FOCO) formada por 5% dos servidores municipais (p.45, p.186-187).",
+      "Asfixia financeira das facções com Receita e Coaf; Forças Armadas no controle das fronteiras (p.45-46).",
+      "Diretor-geral da PF escolhido em lista tríplice, com mandato de 2 anos (p.45)."
+    ],
+    "Meio ambiente e clima": [
+      "Programa Floresta Viva: satélites, IA e drones contra incêndios florestais (p.182).",
+      "Mercado de carbono regulamentado e pagamento por serviços ambientais a quem preserva (p.51-52).",
+      "Prazos máximos legais para licenciamento ambiental, com análise por nível de risco (p.47-48).",
+      "Meta de estar entre os 3 maiores exportadores de hidrogênio verde até 2035 (p.175)."
+    ],
+    "Social e direitos": [
+      "Mulheres Vivas: botão de pânico, transparência salarial e fim da diferença de juros no crédito para mulheres (p.53-56).",
+      "Compromisso de indicar mulheres ao STF (p.56).",
+      "Família do Bolsa Família não perde o benefício por um período ao assinar carteira ou abrir empresa (p.98-99).",
+      "Comunidades Empreendedoras: regularizar até 5 milhões de moradias em 10 anos, com urbanização, Escola e Banco do Empreendedor; custo estimado de R$ 145 a 280 bi em 10 anos, parte em fundo de crédito rotativo (p.105-111)."
+    ],
+    "Infraestrutura e cidades": [
+      "Ampliar concessões e parcerias público-privadas (p.49-50).",
+      "Programa nacional de integração logística e incentivo à construção de armazéns (p.50).",
+      "Cumprir o Marco Legal do Saneamento e levar internet de alta velocidade a escolas, hospitais e áreas rurais (p.50)."
+    ],
+    "Gestão e Estado": [
+      "Semipresidencialismo e reforma política com cláusulas de desempenho mais rígidas (p.60, p.63-64).",
+      "Metas anuais públicas para todos os ministérios e IA contra fraudes e desperdícios (p.38-39, p.52).",
+      "Rede de controle social 'Sociedade Está de Olho' (p.52).",
+      "Chanceler com status de 'Secretário de Estado' e embaixadas com metas de abertura de mercados (p.59, p.64-65)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 1,
+      "nota": "Diz que privatizará estatais 'que não forem eficientes', como os Correios se não forem recuperáveis; mantém a Petrobras. Plano amplia concessões e PPPs.",
+      "fonte": "Plano p.49-50 | https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais | https://www.dgabc.com.br/Noticia/4345516/cury-diz-que-privatizaria-correios-se-estatal-nao-for-recuperavel"
+    },
+    "impostos_ricos": {
+      "v": null,
+      "nota": "Plano promete carga tributária menor e não trata de taxar altas rendas, dividendos ou fortunas; em entrevistas defendeu taxar bets e big techs.",
+      "fonte": null
+    },
+    "ajuste_fiscal": {
+      "v": 1,
+      "nota": "Meta de déficit 'próximo de zero', controle rigoroso de gastos, reforma administrativa e carga menor; ao mesmo tempo propõe novos programas e fundos.",
+      "fonte": "Plano p.36-38"
+    },
+    "programas_sociais": {
+      "v": 0,
+      "nota": "Critica o Bolsa Família ('ama a pobreza, mas não ama os pobres'), mas propõe manter o benefício por um período para quem se formalizar e ampliar programas de inclusão produtiva.",
+      "fonte": "Plano p.62, p.98-99"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Favorável a trocar a escala 6x1 pela 5x2, citando desgaste físico e emocional dos trabalhadores.",
+      "fonte": "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/"
+    },
+    "armas": {
+      "v": null,
+      "nota": "Não foi encontrada posição sobre posse e porte de armas por cidadãos.",
+      "fonte": null
+    },
+    "penas": {
+      "v": 1,
+      "nota": "Defendeu prisão perpétua para crimes contra mulheres e crianças; o plano foca em integração policial, Justiça mais rápida e ressocialização.",
+      "fonte": "Plano p.47 | https://www.em.com.br/politica/2026/07/7468008-augusto-cury-defende-prisao-perpetua-para-crimes-contra-mulheres-e-criancas.html"
+    },
+    "aborto": {
+      "v": null,
+      "nota": "Plano cita apenas 'planejamento reprodutivo nos termos da legislação brasileira'; não foi encontrada declaração específica.",
+      "fonte": null
+    },
+    "anistia_8j": {
+      "v": 1,
+      "nota": "Em abril/2026 disse que daria perdão a 'quase todos' os envolvidos, exceto organizadores; em agosto falou em revisar, com juristas, penas que considera desproporcionais.",
+      "fonte": "https://www.cnnbrasil.com.br/eleicoes/daria-perdao-a-quase-todos-envolvidos-no-8-1-diz-augusto-cury-a-cnn/ | https://www.congressoemfoco.com.br/noticia/121759/augusto-cury-quer-reavaliar-sentencas-do-8-1--penas-desproporcionais"
+    },
+    "stf": {
+      "v": 2,
+      "nota": "Propõe mandato de 8 anos, reduzir o STF para 9 ministros e tirar do presidente a indicação, que passaria a magistratura, MP e OAB.",
+      "fonte": "Plano p.60, p.64 | https://www.congressoemfoco.com.br/noticia/121272/augusto-cury-propoe-semipresidencialismo-e-mandato-de-8-anos-no-stf"
+    },
+    "ambiente": {
+      "v": 0,
+      "nota": "Diz que produção e preservação são compatíveis: monitoramento de queimadas, mercado de carbono e pagamento por serviços ambientais, mas também prazos máximos de licenciamento e meta de dobrar a produção agropecuária.",
+      "fonte": "Plano p.47-52, p.182-184"
+    },
+    "redes": {
+      "v": 0,
+      "nota": "Diz não ser a favor de 'controlar' as redes e prioriza educação digital; defende taxar big techs, multas e responsabilizar executivos por danos à saúde mental. Plano cita 'regulação de conteúdos nocivos'.",
+      "fonte": "Plano p.20, p.54 | https://www.infomoney.com.br/politica/cury-defende-taxar-big-techs-e-diz-que-levaria-zuckerberg-a-tribunal-internacional/"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Ações concretas e algumas metas numéricas (10 mil indústrias, 2 milhões de empreendedores em 10 anos, telemedicina em 30 minutos) e custo estimado em um programa, mas grande parte do texto é de princípios e sem prazos."
+  },
+  "fontes": [
+    "https://www.cnnbrasil.com.br/eleicoes/quem-e-o-escritor-augusto-cury-candidato-do-avante-a-presidencia/",
+    "https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais",
+    "https://www.dgabc.com.br/Noticia/4345516/cury-diz-que-privatizaria-correios-se-estatal-nao-for-recuperavel",
+    "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/",
+    "https://www.em.com.br/politica/2026/07/7468008-augusto-cury-defende-prisao-perpetua-para-crimes-contra-mulheres-e-criancas.html",
+    "https://www.cnnbrasil.com.br/eleicoes/daria-perdao-a-quase-todos-envolvidos-no-8-1-diz-augusto-cury-a-cnn/",
+    "https://www.congressoemfoco.com.br/noticia/121759/augusto-cury-quer-reavaliar-sentencas-do-8-1--penas-desproporcionais",
+    "https://www.congressoemfoco.com.br/noticia/121272/augusto-cury-propoe-semipresidencialismo-e-mandato-de-8-anos-no-stf",
+    "https://www.infomoney.com.br/politica/cury-defende-taxar-big-techs-e-diz-que-levaria-zuckerberg-a-tribunal-internacional/"
+  ]
+}

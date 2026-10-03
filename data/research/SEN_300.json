@@ -1,0 +1,130 @@
+{
+  "id": "SEN_300",
+  "nome_urna": "MARCEL VAN HATTEM",
+  "resumo": "Deputado federal do NOVO (líder da bancada na Câmara em 2025), concorre na chapa de Zucco em dobradinha com Sanderson. Tem como prioridade eleger maioria no Senado para pautar o impeachment de ministros do STF. Defende corte de impostos, livre mercado, penas mais duras e um pacto federativo que deixe mais recursos no RS.",
+  "trajetoria": "Jornalista e cientista político de Dois Irmãos; vereador em Dois Irmãos (2005-2008), deputado estadual (2015-2018) e deputado federal desde 2019 (NOVO). Coordenou a comissão externa da Câmara sobre as enchentes do RS.",
+  "destaques": [
+    "Eleger maioria no Senado para pautar impeachment de ministros do STF; autor de pedido de CPI do 'abuso de autoridade' do STF.",
+    "Relator, na CCJ, da PEC que impede decisões monocráticas do STF de suspender leis do Congresso.",
+    "Penas mais duras: progressão mais rígida para crimes hediondos e fim das 'saidinhas'.",
+    "Revogar o Estatuto do Desarmamento.",
+    "Corte de impostos e privatização das instituições financeiras ligadas ao governo do RS (Banrisul, Badesul e BRDE).",
+    "Pacto federativo para que o imposto pago no RS fique no RS; fundos constitucionais para Sul e Sudeste.",
+    "Perdão definitivo da dívida do RS com a União."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Corte de impostos e livre mercado; diz nunca ter votado a favor de aumento de impostos.",
+      "Securitização das dívidas de produtores rurais e proibição de desapropriar terras produtivas para reforma agrária.",
+      "Socorro financeiro, desburocratização e incentivos fiscais para quem perdeu tudo nas enchentes.",
+      "Privatizar Banrisul, Badesul e BRDE, ligados ao governo do RS."
+    ],
+    "Saúde": [
+      "Reduzir filas com uso da rede privada complementar, telessaúde e interoperabilidade de sistemas (debate Amrigs).",
+      "Qualificação médica com protagonismo do CFM junto ao MEC."
+    ],
+    "Educação": [
+      "Proibir bancas de heteroidentificação ('tribunais raciais') em concursos e vestibulares."
+    ],
+    "Segurança": [
+      "Progressão de pena mais rígida para hediondos; estelionato contra idosos como crime hediondo.",
+      "Fim das 'saidinhas' e do voto de presos provisórios (proposta incluída na Lei Antifacção).",
+      "Revogar o Estatuto do Desarmamento.",
+      "Aumento de penas para crimes cometidos durante calamidade pública."
+    ],
+    "Meio ambiente e clima": [
+      "Recursos permanentes para contenção de cheias e prevenção de desastres via pacto federativo."
+    ],
+    "Social e direitos": [],
+    "Infraestrutura e cidades": [
+      "Atrair capital privado para reconstruir pontes, estradas e moradias."
+    ],
+    "Gestão e Estado": [
+      "Impeachment de ministros do STF e limites a decisões monocráticas.",
+      "Fim do sigilo de gastos de autoridades com diárias, passagens e cartões corporativos.",
+      "Distribuição de emendas por seleção técnica.",
+      "Votou contra a PEC da Blindagem (set/2025)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 2,
+      "nota": "Defende que o RS privatize Banrisul, Badesul e BRDE. Votou a favor da privatização dos Correios (2021) e contra a MP da Eletrobras (2021). O programa do NOVO propõe privatizar todas as estatais.",
+      "fonte": "https://www.jornaldocomercio.com/politica/2026/08/1260412-van-hattem-defende-privatizacao-de-bancos-publicos.html | Câmara, votação 2270894-103 (05/08/2021): https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos | Câmara, votação 2270789-73 (19/05/2021): https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos | programa do partido: Plano Zema/NOVO (TSE) p.15"
+    },
+    "impostos_ricos": {
+      "v": -1,
+      "nota": "Votou contra a tributação de fundos exclusivos e offshores (PL 4173/2023) e diz nunca ter votado por aumento de impostos. Votou a favor do PL 1087/2025 (isenção do IR até R$ 5 mil e imposto mínimo sobre altas rendas), aprovado por unanimidade.",
+      "fonte": "Câmara, votação 2383287-43 (25/10/2023): https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-43/votos | https://www.marcelvanhattem.com.br/ | Câmara, votação 2487436-169 (01/10/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos"
+    },
+    "ajuste_fiscal": {
+      "v": 2,
+      "nota": "Defende 'corte de impostos', 'responsabilidade fiscal' e combate à 'gastança pública'; o programa do NOVO prevê ajuste fiscal com corte de gastos.",
+      "fonte": "https://www.marcelvanhattem.com.br/ | programa do partido: Plano Zema/NOVO (TSE) p.14"
+    },
+    "programas_sociais": {
+      "v": -1,
+      "nota": "Sem declaração própria; o programa do NOVO propõe unificar e focalizar programas e criar 'porta de saída' do Bolsa Família, sem ampliá-lo.",
+      "fonte": "programa do partido: Plano Zema/NOVO (TSE) p.15, 62-63"
+    },
+    "escala_6x1": {
+      "v": -2,
+      "nota": "Votou contra a PEC do fim da escala 6x1 nos dois turnos (mai/2026), com a bancada do NOVO.",
+      "fonte": "Câmara, votação 2233802-424 (27/05/2026): https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos | Câmara, votação 2233802-438 (27/05/2026): https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos | https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/saiba-como-votaram-os-deputados-na-pec-que-acaba-com-escala-6x1"
+    },
+    "armas": {
+      "v": 2,
+      "nota": "Defende o direito à legítima defesa e a revogação do Estatuto do Desarmamento; votou a favor do PL 3723/2019.",
+      "fonte": "https://www.marcelvanhattem.com.br/ | Câmara, votação 2209381-100 (05/11/2019): https://dadosabertos.camara.leg.br/api/v2/votacoes/2209381-100/votos"
+    },
+    "penas": {
+      "v": 2,
+      "nota": "Defende aumento de penas, progressão mais rígida para hediondos e fim das 'saidinhas'; votou a favor do PL Antifacção.",
+      "fonte": "https://www.marcelvanhattem.com.br/ | https://www.youtube.com/watch?v=oZ9jp-bJO70 | Câmara, votação 2579832-62 (18/11/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2579832-62/votos"
+    },
+    "aborto": {
+      "v": -2,
+      "nota": "Votou na CCJ a favor da admissibilidade da PEC 164/2012, que inclui na Constituição a inviolabilidade do direito à vida 'desde a concepção' (nov/2024).",
+      "fonte": "Câmara, votação 543252-60 (27/11/2024, CCJC): https://dadosabertos.camara.leg.br/api/v2/votacoes/543252-60/votos"
+    },
+    "anistia_8j": {
+      "v": 2,
+      "nota": "Votou a favor da urgência do PL da Anistia (set/2025) e do PL da Dosimetria (dez/2025). Sobre a urgência, disse que era o dia de 'fazer o Brasil se reencontrar com a paz' e que batalhou por 'uma anistia que seja digna'.",
+      "fonte": "Câmara, votação 2562149-7 (17/09/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos | Câmara, votação 2358548-89 (09/12/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos | https://www.jornaldocomercio.com/colunas/reporter-brasilia/2025/09/1218840-dia-esperado-pelos-brasileiros-diz-van-hattem-sobre-projeto-da-anistia.html"
+    },
+    "stf": {
+      "v": 2,
+      "nota": "Prioriza impeachment de ministros do STF; relatou na CCJ a PEC que limita decisões monocráticas; pediu CPI do 'abuso de autoridade' do STF.",
+      "fonte": "https://sbtnews.sbt.com.br/noticia/politica/van-hattem-defende-maioria-no-senado-para-impeachment-do-stf | https://www.youtube.com/watch?v=iQRhkMgQ8uQ | https://www.marcelvanhattem.com.br/"
+    },
+    "ambiente": {
+      "v": -1,
+      "nota": "Votou a favor da Lei Geral do Licenciamento Ambiental (2021 e 2025); diz defender 'o agro e o meio ambiente'.",
+      "fonte": "Câmara, votação 257161-454 (16/07/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos | Câmara, votação 257161-337 (12/05/2021): https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos | https://www.marcelvanhattem.com.br/"
+    },
+    "redes": {
+      "v": -2,
+      "nota": "Atua contra o que chama de censura; votou contra a urgência do PL 2630 (Fake News); premiado em 2026 por defesa da liberdade de expressão.",
+      "fonte": "Câmara, votação 2310837-8 (25/04/2023): https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos | https://www.gazetadopovo.com.br/republica/deputado-do-novo-recebe-premio-internacional-defesa-liberdade-de-expressao/ | https://www.youtube.com/watch?v=MozdXaTTvSU"
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://www.marcelvanhattem.com.br/",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://sbtnews.sbt.com.br/noticia/politica/van-hattem-defende-maioria-no-senado-para-impeachment-do-stf",
+    "https://www.jornaldocomercio.com/politica/2026/08/1260412-van-hattem-defende-privatizacao-de-bancos-publicos.html",
+    "https://www.jornaldocomercio.com/colunas/reporter-brasilia/2025/09/1218840-dia-esperado-pelos-brasileiros-diz-van-hattem-sobre-projeto-da-anistia.html",
+    "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/saiba-como-votaram-os-deputados-na-pec-que-acaba-com-escala-6x1",
+    "https://www.gazetadopovo.com.br/republica/deputado-do-novo-recebe-premio-internacional-defesa-liberdade-de-expressao/",
+    "https://www.poder360.com.br/poder-congresso/ao-menos-147-deputados-apoiam-o-impeachment-de-moraes/",
+    "https://www.amrigs.org.br/candidatos-ao-senado-apresentam-propostas-para-a-saude-em-debate-na-amrigs/",
+    "https://www.youtube.com/watch?v=iQRhkMgQ8uQ",
+    "https://www.youtube.com/watch?v=oZ9jp-bJO70",
+    "https://www.youtube.com/watch?v=K2P2uTz72_8",
+    "https://www.youtube.com/watch?v=x9fSmXlTnMQ",
+    "https://www.extraclasse.org.br/ambiente/2025/07/como-os-deputados-votaram-na-aprovacao-do-pl-da-devastacao/",
+    "https://dadosabertos.camara.leg.br/api/v2 (votações 2233802-424, 2233802-438, 2562149-7, 2358548-89, 2270800-135, 257161-454, 257161-337, 2487436-169, 2270894-103, 2270789-73, 2579832-62, 2310837-8, 2209381-100)",
+    "Plano de governo Zema/NOVO (TSE) — prop_br/BR/2026BR280002539826_01.pdf"
+  ]
+}

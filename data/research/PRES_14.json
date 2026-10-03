@@ -1,0 +1,141 @@
+{
+  "id": "PRES_14",
+  "nome_urna": "RENAN SANTOS",
+  "resumo": "Plano 'Livro Amarelo' do Partido Missão, dividido em reforma do Estado, 'reformas de base' e projetos de longo prazo. O eixo central é um ajuste fiscal por PEC antes da posse, uma 'guerra ao crime' baseada no Direito Penal do Inimigo e em Estado de Defesa, e a desfavelização do país em dez anos.",
+  "trajetoria": "Empresário, cofundador e coordenador do Movimento Brasil Livre (MBL, 2014), que atuou pelo impeachment de Dilma Rousseff. Preside o partido Missão, registrado pelo TSE em 2025; não exerceu mandato eletivo.",
+  "destaques": [
+    "PEC de Transição para desindexar benefícios do salário mínimo e desvincular pisos de saúde e educação (economia projetada de R$ 1,1 tri até 2031).",
+    "'Guerra ao Crime' desde o 1º dia: Direito Penal do Inimigo, Estado de Defesa em áreas de facções, Lei Antifacção e superpresídios no modelo de El Salvador.",
+    "Substituir o Bolsa Família por 'Frentes Cidadãs', frentes de trabalho remuneradas para adultos em idade ativa.",
+    "Grande Consolidação Municipal: fundir municípios inviáveis, reduzindo-os em até 70% (de 5.570 para cerca de 1.656).",
+    "Desfavelização das 12.348 favelas em 10 anos, com título de propriedade financiado em 50 anos; custo estimado de R$ 1,2 a 1,5 tri.",
+    "Abolir as cotas e criar bolsas por mérito; escolas cívico-militares nas escolas em situação crítica.",
+    "Lei de Responsabilidade Gerencial: metas para municípios, tutela federal e inelegibilidade de gestores que não cumprirem."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Ajuste fiscal por PEC: desindexação de benefícios, revisão do abono salarial, corte de renúncias fiscais e fim dos supersalários (p.9-10).",
+      "Reforma trabalhista para flexibilizar relações de trabalho; Zonas Econômicas Especiais no Nordeste com licenças em até 15 dias (p.5, p.35-36).",
+      "Cadeia nacional de terras raras: planta-piloto em 2029-2030 e cerca de R$ 20 bi em dez anos, com BNDES e parceiros dos EUA e da UE (p.39-40).",
+      "Agro: fim das invasões de terra, nenhum novo assentamento até os atuais ficarem produtivos e meta de não depender de fertilizante russo, bielorrusso ou marroquino a partir de 2035 (p.42)."
+    ],
+    "Saúde": [
+      "Fila do SUS por grau de risco (Escala Nacional de Estratificação de Risco), no lugar da ordem cronológica (p.25-26).",
+      "Sistema digital de saúde com telemedicina e diagnóstico por IA, inspirado no DoctorSV de El Salvador, e prontuário nacional interoperável (p.26).",
+      "Meta de 80% de resolução na atenção primária; repasses a municípios condicionados a desempenho (p.26).",
+      "Isenções fiscais ligadas a atividades esportivas (p.26)."
+    ],
+    "Educação": [
+      "Levar a todo o país o modelo do Ceará e o método fônico de alfabetização (p.31-32).",
+      "Código nacional de conduta do aluno, com punições, e ranking de disciplina que define parte dos recursos das escolas (p.32).",
+      "Abolir cotas e criar bolsas por mérito; transferir recursos de cursos 'bacharelescos' para áreas STEM (p.31-32).",
+      "Trocar a autonomia universitária por 'alinhamento estratégico' e restringir a progressão continuada (p.32)."
+    ],
+    "Segurança": [
+      "Adotar o Direito Penal do Inimigo e decretar Estado de Defesa em áreas dominadas por facções (p.11-12).",
+      "Lei Antifacção: banimento judicial de facções, perda de direitos políticos de membros e inversão do ônus da prova no confisco de bens (p.12).",
+      "Federalizar casos de facções, intervenção federal e GLO com autorização para 'força pesada' (p.12-13).",
+      "Superpresídios em regiões remotas, drones, reconhecimento facial e penas maiores para reincidência e roubo de eletrônicos (p.13)."
+    ],
+    "Meio ambiente e clima": [
+      "Aplicação plena da nova Lei Geral do Licenciamento Ambiental (Lei 15.190/2025), com uso da Licença Ambiental Especial para acelerar obras (p.24).",
+      "Licenciamento simplificado para mineração de terras raras e marco para exploração mineral em terras indígenas (p.39, p.42).",
+      "Retomar Angra 3, explorar hidrogênio verde e destravar a transmissão de energia renovável do Nordeste (p.24)."
+    ],
+    "Social e direitos": [
+      "Substituir o Bolsa Família por Frentes Cidadãs de trabalho remunerado (p.20-22).",
+      "Fim das cotas na educação 'e em geral' (p.32).",
+      "Lei Rouanet com critérios objetivos e teto para artistas de alto faturamento; fusão dos ministérios da Educação e da Cultura (p.28-29).",
+      "Oposição a regulação da mídia e da internet que reduza a liberdade de expressão; proposta de um Código Unificado de imprensa (p.29)."
+    ],
+    "Infraestrutura e cidades": [
+      "Elevar o investimento em infraestrutura de cerca de 2% para pelo menos 4% do PIB (p.6).",
+      "Ferrovias: meta mínima de 40 mil km, Ferrogrão, FIOL e Ferrovia Transoceânica; portos no Norte e Nordeste (p.24).",
+      "Marco Nacional da Desfavelização: título de propriedade, 'crime de favelização' para quem organiza ocupação ilegal e reforma do Minha Casa Minha Vida (p.49).",
+      "Custo líquido da desfavelização estimado em R$ 50 a 85 bi por ano ao Tesouro (p.49)."
+    ],
+    "Gestão e Estado": [
+      "Grande Consolidação Municipal e nova lei do Fundo de Participação dos Municípios (p.15).",
+      "Comissariado Federal de Gestão Pública, com comissários nos municípios e dupla assinatura de gastos em casos críticos (p.18).",
+      "Inelegibilidade e cassação por 'improbidade gerencial'; Fundo Partidário ligado ao desempenho dos gestores (p.18).",
+      "Política externa: Brasil como 'árbitro do Sul Global', pacto interamericano contra o tráfico e domínio do ciclo nuclear completo (p.45-46)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 1,
+      "nota": "Privatizaria os Correios e estatais 'sem função estratégica'; descarta vender Petrobras e Embrapa.",
+      "fonte": "https://www.moneytimes.com.br/renan-santos-diz-que-e-contra-privatizacao-da-petrobras-e-embrapa-mas-nao-dos-correios-gaep/ | https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais"
+    },
+    "impostos_ricos": {
+      "v": null,
+      "nota": "Plano e declarações encontradas não tratam de taxar altas rendas, dividendos ou fortunas; fala em reduzir impostos e cortar renúncias fiscais.",
+      "fonte": null
+    },
+    "ajuste_fiscal": {
+      "v": 2,
+      "nota": "Defende ajuste 'amargo' por PEC antes da posse: desindexar benefícios, desvincular pisos de saúde e educação e cortar renúncias; cita ajuste de R$ 250 bi por ano.",
+      "fonte": "Plano p.9-10"
+    },
+    "programas_sociais": {
+      "v": -2,
+      "nota": "Propõe substituir o Bolsa Família por frentes de trabalho remuneradas (Frentes Cidadãs).",
+      "fonte": "Plano p.6, p.20-22"
+    },
+    "escala_6x1": {
+      "v": -2,
+      "nota": "Chama o fim da escala 6x1 de 'farsa'; defende reforma trabalhista e contratação por hora.",
+      "fonte": "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/ | Plano p.5"
+    },
+    "armas": {
+      "v": null,
+      "nota": "Não foi encontrada posição sobre posse e porte de armas por cidadãos.",
+      "fonte": null
+    },
+    "penas": {
+      "v": 2,
+      "nota": "Direito Penal do Inimigo, penas maiores para reincidência e roubo de eletrônicos, superpresídios; em campanha, citou fim de saidinhas, da progressão de pena e mudança na maioridade penal.",
+      "fonte": "Plano p.11-13 | https://www.gazetadopovo.com.br/eleicoes/2026/maioridade-penal-drones-castracao-quimica-presidio-amazonico-fim-da-pm-propostas-seguranca-candidatos-presidente/"
+    },
+    "aborto": {
+      "v": -1,
+      "nota": "Diz ser favorável ao aborto apenas nos casos já previstos em lei (risco de vida, estupro e anencefalia); a campanha afirma não haver proposta, fala ou voto dele pela legalização.",
+      "fonte": "https://www.renanpresidente.com.br/caixa-preta/renan-e-a-favor-do-aborto"
+    },
+    "anistia_8j": {
+      "v": -1,
+      "nota": "Em 2026 rejeita anistia ampla e defende revisão proporcional das penas ('dosimetria'); em nov/2025 havia dito que os presos 'merecem anistia'.",
+      "fonte": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-quer-restringir-stf-e-vetar-escritorios-ligados-a-ministros/ | https://www.itatiaia.com.br/politica/presidente-do-partido-do-mbl-defende-prisao-para-bolsonaro-e-anistia-para-presos/"
+    },
+    "stf": {
+      "v": 2,
+      "nota": "Propõe mandato máximo de 8 anos, proibir decisões monocráticas, tirar do STF os casos de políticos e restringi-lo a temas constitucionais.",
+      "fonte": "https://www.correiobraziliense.com.br/politica/2026/09/7501450-precisamos-afastar-o-ministro-do-stf-diz-renan-santos.html | https://www.cnnbrasil.com.br/eleicoes/renan-santos-quer-restringir-stf-e-vetar-escritorios-ligados-a-ministros/"
+    },
+    "ambiente": {
+      "v": -2,
+      "nota": "Prioriza acelerar licenciamento (Lei 15.190/2025), mineração inclusive em terras indígenas e expansão do agro; propõe auditar livros que tratam o agro como antagonista da sustentabilidade.",
+      "fonte": "Plano p.24, p.39, p.42-43"
+    },
+    "redes": {
+      "v": -1,
+      "nota": "Plano declara 'oposição firme' a regulação da mídia e da internet que reduza a liberdade de expressão e propõe um código de imprensa; não trata de responsabilizar plataformas por conteúdos.",
+      "fonte": "Plano p.28-29"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Ações concretas e metas quantificadas em vários capítulos (ajuste fiscal, ferrovias, saúde), com custo e fontes em dois programas (desfavelização e terras raras), mas educação, segurança e outras áreas sem metas ou prazos."
+  },
+  "fontes": [
+    "https://www.moneytimes.com.br/renan-santos-diz-que-e-contra-privatizacao-da-petrobras-e-embrapa-mas-nao-dos-correios-gaep/",
+    "https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais",
+    "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/",
+    "https://www.gazetadopovo.com.br/eleicoes/2026/maioridade-penal-drones-castracao-quimica-presidio-amazonico-fim-da-pm-propostas-seguranca-candidatos-presidente/",
+    "https://www.renanpresidente.com.br/caixa-preta/renan-e-a-favor-do-aborto",
+    "https://www.cnnbrasil.com.br/eleicoes/renan-santos-quer-restringir-stf-e-vetar-escritorios-ligados-a-ministros/",
+    "https://www.itatiaia.com.br/politica/presidente-do-partido-do-mbl-defende-prisao-para-bolsonaro-e-anistia-para-presos/",
+    "https://www.correiobraziliense.com.br/politica/2026/09/7501450-precisamos-afastar-o-ministro-do-stf-diz-renan-santos.html",
+    "https://www.cnnbrasil.com.br/eleicoes/quem-e-renan-santos-candidato-do-partido-missao-a-presidencia/"
+  ]
+}

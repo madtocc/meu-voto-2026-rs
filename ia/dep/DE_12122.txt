@@ -1,0 +1,56 @@
+# DR. THIAGO (12122, PDT): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: THIAGO PEREIRA DUARTE. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+Comissões: Comissão de Assuntos Municipais; Comissão de Saúde e Meio Ambiente; Comissão Mista Permanente de Defesa do Consumidor e do Contribuinte e Participação Legislativa Popular.
+
+Frentes parlamentares que preside:
+- Frente Parlamentar "S.O.S. Pediatria"
+- Frente Parlamentar Pró-Saúde Pulmonar
+- Frente Parlamentar da Construção Civil
+- Frente Parlamentar da Odontologia
+- Frente Parlamentar de Apoio e Fomento a Eventos, Casa de Shows, Festas, Entretenimento e Cultura
+- Frente Parlamentar de Apoio e Fomento ao Turismo e Esporte Náutico e Desenvolvimento da Orla do Guaíba
+- Frente Parlamentar de Apoio à Habitação, Urbanização e Saneamento do Rio grande do Sul
+- Frente Parlamentar de Combate às Doenças Crônicas e Autoimunes da Pele
+- Frente Parlamentar de Enfrentamento de Doenças Cérebro Cardiovascular
+- Frente Parlamentar de Prevenção à Prematuridade no Estado do Rio Grande do Sul
+- Frente Parlamentar de prevenção e combate à obesidade infanto-juvenil e adulta
+- Frente Parlamentar do Ensino Superior e Técnico
+- Frente Parlamentar em Defesa da Face
+- Frente Parlamentar em Defesa da Gestão Ambiental Local
+- Frente Parlamentar em Defesa da Saúde Emocional e Mental da Mulher e Família
+- Frente Parlamentar em Defesa da atualização das Políticas de Saúde Mental
+- Frente Parlamentar em Defesa do Hospital Psiquiátrico São Pedro
+- Frente Parlamentar em Defesa dos Bombeiros
+- Frente Parlamentar em Defesa dos Centros Obstétricos
+- Frente Parlamentar em defesa da Aplicação da Tecnológica na saúde
+- Frente Parlamentar em defesa da Odontológica Hospitalar
+- Frente Parlamentar pela Estomia e Cidadania
+- Frente Parlamentar pela Organização e Qualificação dos Serviços de Trauma no Estado do Rio Grande do Sul
+- Frente Parlamentar “Vamos Ouvir”? - trata de educação, conscientização e prevenção dos problemas relacionados à surdez e à saúde auditiva.
+
+Projetos apresentados como primeiro signatário (20 no total):
+- PEC 305/2026: Altera o § 1.º do art. 33 da Constituição do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PEC/305/2026/efed0fe0-8091-11f1-9c3b-12b2f7548530
+- PEC 304/2026: Altera a Constituição do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PEC/304/2026/3f859a94-4fa3-11f1-b569-7a925d58e3a3
+- PL 258/2026: Institui a Política Estadual de Proteção, Diagnóstico Precoce e Atenção Integral às Crianças e Adolescentes com Imunodeficiências Primárias (Erros Inatos da Imunidade), denominada Lei Lucca, no âmbito do Estado do Rio Grande do Sul, e dá ou… https://ww4.al.rs.gov.br/proposicao/PL/258/2026/974e70e2-6f16-11f1-a3ef-deba46ea2168
+- PL 133/2026: Institui o Programa Estadual de Educação Física Diária – Escola em Movimento, e dá outras providências. (Prejudicado pelo PL 405/2023) https://ww4.al.rs.gov.br/proposicao/PL/133/2026/b956e173-4258-11f1-94eb-122b94454506
+- PL 85/2026: Dispõe sobre o direito à instalação de estação de recarga individual para veículos elétricos em edificações residenciais e comerciais no Estado do Rio Grande do Sul e dá outras providências. (Tramitação conjunta com o PL 89/2026). https://ww4.al.rs.gov.br/proposicao/PL/85/2026/bef4ae67-1d58-11f1-a779-3e91954bdd22
+- PL 516/2025: Institui o Programa de Saúde Itinerante Equidades para a população negra, quilombola, indígena e cigana e os povos e as comunidades tradicionais de matriz africana e terreiro, com foco na promoção da equidade no acesso aos serviços de saúde… https://ww4.al.rs.gov.br/proposicao/PL/516/2025/c6ff9038-d1f7-11f0-ab82-fa1256ca0c28
+- PL 489/2025: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/489/2025/9a16b436-c550-11f0-9222-96d00cb53954
+- PL 204/2025: Institui a Conscientização para Combate ao Acidente Vascular Cerebral (AVC) – “Fast Heroes: Identifique e Aja Rápido” no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/204/2025/1e9215f8-456c-11f0-8ebc-0242ac130005
+- PL 131/2025: Institui a conscientização para o Combate ao Acidente Vascular Cerebral (AVC) – “Fast Heroes: Identifique e Aja Rápido” no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/131/2025/2295bac2-206c-11f0-8ebc-0242ac130005
+- PL 130/2025: Estabelece a obrigatoriedade de colocação de avisos ou placas informativas sobre como agir em uma situação de TRAUMA em locais públicos de grande circulação de pessoas no Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/130/2025/bb16a0a6-2050-11f0-8ebc-0242ac130005
+- PL 129/2025: Dispõe sobre a implementação de linhas de cuidado especializadas para o atendimento às vítimas de Acidente Vascular Cerebral (AVC) e Infarto Agudo do Miocárdio (IAM) e TRAUMA no Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/129/2025/bc735123-204d-11f0-8ebc-0242ac130005
+- PL 128/2025: Institui o Programa Estadual de Conscientização e Combate ao Acidente Vascular Cerebral (AVC), Infarto Agudo do Miocardio (IAM) e TRAUMA no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/128/2025/1c6156f5-204c-11f0-8ebc-0242ac130005
+- PL 127/2025: Estabelece a obrigatoriedade de colocação de avisos ou placas informativas sobre como identificar um Acidente Vascular Cerebral (AVC) e o Infarto Agudo do Miocárdio (IAM) em locais públicos de grande circulação de pessoas no Estado do Rio G… https://ww4.al.rs.gov.br/proposicao/PL/127/2025/6007418b-203c-11f0-8ebc-0242ac130005
+- PL 574/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/574/2023/6239f4d0-b0d2-11ee-811f-0242c0a8a003
+- PLC 326/2023: Cria o Programa de Incentivo ao Bem-estar Animal no Estado do Rio Grande do Sul.(SEI 11700-01.00/23-5) https://ww4.al.rs.gov.br/proposicao/PLC/326/2023/808d1750-5980-11ee-9cfe-0242c0a8a005
+- PL 49/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/49/2023/d29dc43a-597e-11ee-9cfe-0242c0a8a005
+- PL 47/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/47/2023/d193cdbe-597e-11ee-9cfe-0242c0a8a005
+- PL 46/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/46/2023/d0ee66b8-597e-11ee-9cfe-0242c0a8a005
+- PL 45/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/45/2023/d04a3732-597e-11ee-9cfe-0242c0a8a005
+- PL 44/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/44/2023/cf9b805c-597e-11ee-9cfe-0242c0a8a005

@@ -1,0 +1,53 @@
+# LUCIANA GENRO (50000, PSOL): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: LUCIANA KREBS GENRO. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+Comissões: Comissão de Cidadania e Direitos Humanos; Comissão de Constituição e Justiça; Comissão de Ética Parlamentar; Comissão Especial de Combate ao Feminicídio no RS.
+
+Frentes parlamentares que preside:
+- Frente Parlamentar Pró-Prevenção das Violências na Escola
+- Frente Parlamentar contra a Privatização da Trensurb
+- Frente Parlamentar de Combate à Discriminação nos Estádios
+- Frente Parlamentar de enfrentamento ao HIV, AIDS, Sífilis, Hepatites Virais, outras IST’s e Tuberculose
+- Frente Parlamentar em Defesa da Moradia Popular Digna
+- Frente Parlamentar em Defesa da População LGBT
+- Frente Parlamentar em Defesa do Transporte Público de Qualidade nos Municípios
+- Frente Parlamentar em Defesa dos Camelôs, Ambulantes e Feirantes do Rio Grande do Sul
+- Frente Parlamentar em Defesa dos Trabalhadores da Saúde
+- Frente Parlamentar pelos Direitos dos Brigadianos de Nível Médio
+- Frente Parlamentar pelos Direitos dos Servidores do Sistema Prisional
+
+Projetos apresentados como primeiro signatário (75 no total, abaixo os 30 mais recentes):
+- PL 361/2026: Institui o Programa de Agentes Populares de Alimentação (APA) no âmbito do Estado do Rio Grande do Sul, destinado a fornecer apoio técnico e financeiro do Estado às cozinhas solidárias. https://ww4.al.rs.gov.br/proposicao/PL/361/2026/568a76cb-95b5-11f1-a7be-024d77c36a98
+- PL 311/2026: Altera a Lei nº 13.320, de 21 de dezembro de 2009, para vedar a utilização de critério etário como fundamento para negativa ou alteração do atendimento educacional às pessoas com deficiência. https://ww4.al.rs.gov.br/proposicao/PL/311/2026/54d5b975-7ee1-11f1-9c3b-12b2f7548530
+- PL 285/2026: Altera a Lei nº 11.127, de 9 de janeiro de 1998, institui a política “Tarifa Zero”, cria a Taxa de Mobilidade Metropolitana (TMM), autoriza a adesão de municípios ao Sistema Estadual de Transporte Metropolitano Coletivo de Passageiros do Es… https://ww4.al.rs.gov.br/proposicao/PL/285/2026/140bb4d4-7618-11f1-b55e-3e36a417eaad
+- PL 263/2026: Institui a Política Estadual de Atenção Integral à Pessoa com Síndrome de Ehlers-Danlos (SED) e com Transtorno do Espectro da Hipermobilidade (TEH), no âmbito do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/263/2026/5d3fef81-6fde-11f1-a3ef-deba46ea2168
+- PL 254/2026: Veda a aquisição pela Administração Pública de produtos que contenham celulose submetida a determinados processos de branqueamento. https://ww4.al.rs.gov.br/proposicao/PL/254/2026/efb30ca4-6e6f-11f1-a3ef-deba46ea2168
+- PL 239/2026: Reconhece, no âmbito do Estado do Rio Grande do Sul, o documento expedido por entidade representativa das pessoas com estomias reconhecida em atos administrativos estaduais como meio idôneo de identificação da condição de pessoa estomizada… https://ww4.al.rs.gov.br/proposicao/PL/239/2026/1fe551e4-6992-11f1-adee-8e03df62345f
+- PL 184/2026: Institui o Documento de Identificação do Cuidador Atípico no Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/184/2026/56950494-55ee-11f1-b8a7-ae5c61debffa
+- PL 162/2026: Reconhece profissionais do magistério público da educação básica e dispõe sobre o enquadramento dos professores da educação infantil na carreira do magistério. https://ww4.al.rs.gov.br/proposicao/PL/162/2026/4b79d943-4d68-11f1-b569-7a925d58e3a3
+- PL 158/2026: Altera a Lei nº 15.434, de 9 de janeiro de 2020, que institui o Código Estadual do Meio Ambiente do Estado do Rio Grande do Sul, para o fim de vedar o confinamento de animais domésticos no Estado do Rio Grande do Sul e estabelecer critérios… https://ww4.al.rs.gov.br/proposicao/PL/158/2026/340380c0-4aef-11f1-b569-7a925d58e3a3
+- PL 126/2026: Institui o Sistema Estadual de Prevenção e Combate à Tortura do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/126/2026/026be142-3a8d-11f1-94eb-122b94454506
+- PL 117/2026: Institui o Protocolo Estadual de Enfrentamento à Violência de Gênero na rede pública de ensino do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/117/2026/5f164580-375c-11f1-93cd-963f5e4ba252
+- PL 80/2026: Regulamenta o uso de câmeras corporais por agentes públicos do Estado do Rio Grande do Sul. (Tramitação Conjunta com o PL 85/2023) https://ww4.al.rs.gov.br/proposicao/PL/80/2026/2bee39b2-1995-11f1-a779-3e91954bdd22
+- PL 37/2026: Institui o Protocolo Climático da Rede Pública Estadual de Ensino e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/37/2026/f759e5f5-05b1-11f1-bb5d-da08d5ee8534
+- PL 17/2026: Declara a “Porta-Estandarte” como bem integrante do Patrimônio Cultural Imaterial do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/17/2026/8e926e44-0201-11f1-bb5d-da08d5ee8534
+- PL 16/2026: Declara a “Romaria de São Miguel”, realizada anualmente em Passo Fundo, como bem integrante do Patrimônio Cultural Imaterial; e a “Imagem de São Miguel”, localizada em Passo Fundo, como bem integrante do Patrimônio Cultural Material do Esta… https://ww4.al.rs.gov.br/proposicao/PL/16/2026/0438a56f-0201-11f1-bb5d-da08d5ee8534
+- PL 8/2026: Altera a Lei 15.434, de 9 de janeiro de 2020, dispondo sobre multas administrativas por maus-tratos a animais domésticos e dá outras providências. (Tramitação conjunta com o PL 327/2026) https://ww4.al.rs.gov.br/proposicao/PL/8/2026/881f63ab-013c-11f1-bb5d-da08d5ee8534
+- PL 496/2025: Estabelece medidas para garantir o acesso seguro e eficaz ao spray de extratos vegetais como instrumento de legítima defesa para mulheres. (Tramitação conjunta com o PL 19/2025) https://ww4.al.rs.gov.br/proposicao/PL/496/2025/9bfba601-cc91-11f0-ab82-fa1256ca0c28
+- PL 452/2025: Reconhece a validade do casamento religioso celebrado conforme os ritos próprios das religiões de matriz africana, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/452/2025/afc4702e-bff3-11f0-be8a-ca4b2bf3343d
+- PL 451/2025: Institui o Dia Estadual para a Ação Climática e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do… https://ww4.al.rs.gov.br/proposicao/PL/451/2025/98fcdd65-bff0-11f0-be8a-ca4b2bf3343d
+- PL 436/2025: Estabelece percentual mínimo dos recursos destinados à publicidade institucional para campanhas de prevenção e combate à violência contra a mulher. https://ww4.al.rs.gov.br/proposicao/PL/436/2025/1cb38d0a-bb1d-11f0-881e-0242ac130006
+- PL 393/2025: Altera a Lei 15.434, de 9 de janeiro de 2020, que institui o Código Estadual do Meio Ambiente do Estado do Rio Grande do Sul, para prever a criação do Plano Estadual de Gerenciamento do Bioma Pampa (PEGPampa). https://ww4.al.rs.gov.br/proposicao/PL/393/2025/2d82168b-a51d-11f0-a992-0242ac130004
+- PL 378/2025: Altera a Lei nº 15.988, de 7 de agosto de 2023, que consolida a legislação relativa às mulheres vítimas de violência no âmbito do Estado do Rio Grande do Sul, para o fim de criar o benefício “Porto Seguro”. https://ww4.al.rs.gov.br/proposicao/PL/378/2025/975f0ce2-9eea-11f0-8bbe-0242ac130007
+- PL 363/2025: Altera a Lei Estadual nº 16.077, de 20 de dezembro de 2023, que dispõe sobre proteção dos trabalhadores terceirizados vinculados à Administração Pública Estadual, abrangendo todos os poderes e órgãos, para assegurar a manutenção dos emprega… https://ww4.al.rs.gov.br/proposicao/PL/363/2025/2d12ab27-956c-11f0-b541-0242ac170004
+- PL 362/2025: Altera a Lei Estadual nº 16.077, de 20 de dezembro de 2023, que dispõe sobre proteção dos trabalhadores terceirizados vinculados à Administração Pública Estadual, abrangendo todos os poderes e órgãos, criando novos mecanismos de proteção da… https://ww4.al.rs.gov.br/proposicao/PL/362/2025/cb250c6f-956a-11f0-b541-0242ac170004
+- PL 361/2025: Altera a Lei Estadual nº 16.328, de 8 de agosto de 2025, que institui a reserva de vagas, em percentual de no mínimo 20% (vinte por cento), nas empresas da área de segurança, vigilância e transportes de valores, para vigilantes do sexo femi… https://ww4.al.rs.gov.br/proposicao/PL/361/2025/59781231-9562-11f0-b541-0242ac170004
+- PLC 353/2025: Altera a Lei Complementar nº 10.990, de 18 de agosto de 1997, que dispõe sobre o Estatuto dos Militares Estaduais e dá outras providências; e altera a Lei Complementar nº 15.453, de 17 de fevereiro de 2020, que dispõe sobre aposentadoria es… https://ww4.al.rs.gov.br/proposicao/PLC/353/2025/4d2a13dc-9338-11f0-b541-0242ac170004
+- PL 302/2025: Proíbe a Administração Pública de celebrar contratos com empresas envolvidas em graves violações de direitos humanos. https://ww4.al.rs.gov.br/proposicao/PL/302/2025/6a8f9f49-7478-11f0-8ebc-0242ac130005
+- PL 292/2025: Dispõe sobre a identificação, recolhimento, proteção, preservação e acesso aos documentos e registros relacionados à separação compulsória de filhos e filhas de pessoas acometidas pela hanseníase no Estado do Rio Grande do Sul, como forma d… https://ww4.al.rs.gov.br/proposicao/PL/292/2025/c4a92086-713c-11f0-8ebc-0242ac130005
+- PL 200/2025: Declara o “Batuque Gaúcho” como bem integrante do Patrimônio Cultural Imaterial do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/200/2025/5fa728b7-4143-11f0-8ebc-0242ac130005
+- PL 197/2025: Declara o “Toque de Tambor” como bem integrante do Patrimônio Cultural Imaterial do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/197/2025/3b4778ec-407b-11f0-8ebc-0242ac130005

@@ -1,0 +1,139 @@
+{
+  "id": "PRES_16",
+  "nome_urna": "HERTZ DIAS",
+  "resumo": "Candidatura do PSTU (vice Vanessa Portugal) com programa socialista revolucionário, que o próprio texto define como 'guia para a ação' e não como conjunto de promessas eleitorais. Defende expropriar setores estratégicos e o grande agronegócio, suspender a dívida pública, reduzir a jornada para 36 horas e um governo dos trabalhadores apoiado em conselhos populares e na mobilização, e não em acordos no Congresso.",
+  "trajetoria": "Professor de história da rede pública do Maranhão, rapper e cofundador do Movimento Quilombo Urbano. Pelo PSTU, foi candidato a vice-governador do MA (2010), vice-presidente (2018, com Vera Lúcia), prefeito de São Luís (2020) e governador do MA (2022).",
+  "destaques": [
+    "Fim da escala 6x1 e jornada de 36 horas sem redução de salário (p.7).",
+    "Aumento de 100% no salário mínimo e bolsa de um salário mínimo para desempregados (p.7).",
+    "Expropriação de grandes empresas de mineração, petróleo, energia, siderurgia e do agronegócio; Petrobras 100% estatal (p.25).",
+    "Suspensão do pagamento da dívida pública aos grandes investidores, auditoria e fim da Lei de Responsabilidade Fiscal (p.27).",
+    "Imposto sobre fortunas acima de R$ 1 bilhão e isenção de IR até dez salários mínimos (p.26).",
+    "Desmilitarização da PM e polícia única civil com comandantes eleitos; descriminalização das drogas (p.18-19).",
+    "Vínculo empregatício para trabalhadores de aplicativos e plataformas públicas geridas por conselhos de trabalhadores (p.8-9)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Fim da escala 6x1 e jornada de 36 horas, rumo à escala móvel de horas (p.7).",
+      "Aumento de 100% no salário mínimo e plano nacional de obras públicas para gerar empregos (p.7).",
+      "Revogar a reforma trabalhista e a lei das terceirizações (p.7).",
+      "Limitar a 25% a distribuição de dividendos das grandes empresas privadas e controlar a saída de capitais (p.5, 26)."
+    ],
+    "Saúde": [
+      "SUS público, universal e 100% estatal, com fim da gestão por OS, fundações e PPP (p.10).",
+      "Proibir a transferência de leitos públicos para planos privados (p.10).",
+      "Produção pública de medicamentos e insumos estratégicos e expansão de hospitais, UPAs e UBS (p.10).",
+      "Ampliar CAPS e residências terapêuticas; nenhum recurso público para comunidades terapêuticas (p.10)."
+    ],
+    "Educação": [
+      "Nenhuma verba pública para grandes grupos privados de educação e fim das PPPs nas redes públicas (p.11).",
+      "Revogar a BNCC e o Novo Ensino Médio (p.11).",
+      "Contra a militarização das escolas e o Escola sem Partido (p.11).",
+      "Ampliar vagas em creches, escolas e universidades públicas, com permanência estudantil (p.11)."
+    ],
+    "Segurança": [
+      "Desmilitarizar a PM e unificar as polícias em instituição civil, com eleição de comandantes e delegados (p.18-19).",
+      "Descriminalizar as drogas e revogar a Lei Antidrogas, com prevenção e redução de danos (p.18).",
+      "Câmeras corporais para todos os agentes, com gravação ininterrupta sob controle civil; fim da Justiça Militar (p.18).",
+      "Combater o crime organizado por inteligência e confisco de bens, atingindo suas ligações com o sistema financeiro (p.18)."
+    ],
+    "Meio ambiente e clima": [
+      "Fim dos créditos públicos e subsídios ao grande agronegócio (p.14).",
+      "Contra a exploração de petróleo na Margem Equatorial e a privatização de rios e hidrovias da Amazônia (p.14-15).",
+      "Demarcação imediata de terras indígenas e titulação de territórios quilombolas (p.14, 24).",
+      "Fim dos agrotóxicos, transição agroecológica e planos de prevenção a enchentes e deslizamentos (p.14-16)."
+    ],
+    "Social e direitos": [
+      "Aborto legal, seguro e gratuito pelo SUS (p.22).",
+      "Licença parental de um ano compartilhada e creches públicas em tempo integral (p.22).",
+      "Revogar a reforma da Previdência e reduzir a idade mínima de aposentadoria (p.13).",
+      "Contra a redução da maioridade penal e pela manutenção e ampliação de cotas raciais (p.20)."
+    ],
+    "Infraestrutura e cidades": [
+      "Tarifa zero e estatização dos sistemas de transporte urbano (p.13).",
+      "Construção massiva de moradias por empresa pública e expropriação de imóveis ociosos ou especulativos (p.12).",
+      "Universalização do saneamento básico (p.12).",
+      "Correios modernizados como eixo logístico estatal integrado a uma plataforma pública de comércio eletrônico (p.9)."
+    ],
+    "Gestão e Estado": [
+      "Estatização do sistema financeiro, com crédito centralizado em banco único (p.27).",
+      "Proibição das bets e expropriação de seu capital para um fundo de tratamento de ludopatia (p.26-27).",
+      "Proibir hospedagem de dados governamentais sensíveis em nuvens estrangeiras e criar IA pública nacional (p.27).",
+      "Governo baseado em conselhos populares, com representantes eleitos e revogáveis (p.30-32)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -2,
+      "nota": "Defende expropriar e reestatizar empresas de mineração, petróleo, energia e siderurgia, Petrobras 100% estatal e proibição de privatizar empresas estratégicas.",
+      "fonte": "Plano p.5, 25"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Defende tributação fortemente progressiva sobre lucros, taxação de remessas ao exterior e imposto sobre fortunas acima de R$ 1 bilhão.",
+      "fonte": "Plano p.5, 26"
+    },
+    "ajuste_fiscal": {
+      "v": -2,
+      "nota": "Defende o fim da Lei de Responsabilidade Fiscal e a suspensão do pagamento da dívida pública aos grandes investidores; critica o arcabouço fiscal.",
+      "fonte": "Plano p.3, 27"
+    },
+    "programas_sociais": {
+      "v": 2,
+      "nota": "Considera o Bolsa Família 'bastante insuficiente' e propõe bolsa de um salário mínimo para desempregados enquanto não houver pleno emprego.",
+      "fonte": "Plano p.1, 7"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Fim da escala 6x1 e redução da jornada para 36 horas sem redução de salário.",
+      "fonte": "Plano p.7"
+    },
+    "armas": {
+      "v": 0,
+      "nota": "Plano defende estimular a 'autodefesa' organizada dos trabalhadores, mas não trata de facilitar posse ou porte individual de armas.",
+      "fonte": "Plano p.19"
+    },
+    "penas": {
+      "v": -2,
+      "nota": "Contra a redução da maioridade penal; defende desencarceramento em massa e descriminalização das drogas.",
+      "fonte": "Plano p.18, 20"
+    },
+    "aborto": {
+      "v": 2,
+      "nota": "Defende aborto legal, seguro e gratuito pelo SUS.",
+      "fonte": "Plano p.22"
+    },
+    "anistia_8j": {
+      "v": -2,
+      "nota": "Plano não trata do tema; o PSTU defende 'sem anistia' aos golpistas e critica o PL da Dosimetria.",
+      "fonte": "programa do partido: https://www.opiniaosocialista.com.br/escandalo-por-debaixo-dos-panos-pt-participa-de-acordao-para-votar-anistia-a-golpistas/"
+    },
+    "stf": {
+      "v": 0,
+      "nota": "Critica o Judiciário como protetor dos ricos e propõe outro Estado baseado em conselhos populares; não propõe medidas específicas sobre o STF.",
+      "fonte": "Plano p.31"
+    },
+    "ambiente": {
+      "v": 2,
+      "nota": "Defende fim de subsídios ao grande agronegócio, expropriação de grandes propriedades, fim dos agrotóxicos e veto ao petróleo na Margem Equatorial.",
+      "fonte": "Plano p.14-17"
+    },
+    "redes": {
+      "v": 2,
+      "nota": "Defende responsabilizar plataformas que lucram com ódio contra mulheres e por fraudes, transparência e auditoria pública de algoritmos.",
+      "fonte": "Plano p.8, 19, 22"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Medidas concretas com algumas metas numéricas (36 horas, +100% no salário mínimo, IR isento até dez salários mínimos, fortunas acima de R$ 1 bilhão), mas sem prazos, custos ou etapas; o texto se apresenta como guia de luta, não plano de execução."
+  },
+  "fontes": [
+    "Plano de governo (TSE) — prop_br/BR/2026BR280002541457_01.pdf",
+    "https://diariodonordeste.verdesmares.com.br/pontopoder/quem-e-hertz-dias-candidato-a-presidente-da-republica-pelo-pstu-em-2026-1.3781043",
+    "https://www.opiniaosocialista.com.br/escandalo-por-debaixo-dos-panos-pt-participa-de-acordao-para-votar-anistia-a-golpistas/",
+    "https://www.pstu.org.br/sem-anistia-para-golpistas-investigacao-ate-o-final-e-punicao-exemplar/",
+    "https://oimparcial.com.br/noticias/2026/03/hertz-dias-lanca-pre-candidatura-a-presidencia-e-defende-fim-da-escala-6x1-e-ruptura-com-o-capitalismo/",
+    "https://sbtnews.sbt.com.br/noticia/eleicoes/candidato-do-pstu-cita-boicote-ao-partido-e-critica-lula"
+  ]
+}

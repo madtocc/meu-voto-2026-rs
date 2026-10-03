@@ -1,0 +1,116 @@
+{
+  "id": "PRES_27",
+  "nome_urna": "CLARIANA BARAO",
+  "resumo": "Plano \"Proteger Hoje, Transformar o Amanhã\", com a proteção de mulheres e crianças como eixo transversal e seis capítulos (mulheres e crianças, economia, educação, segurança, saúde e gestão). O documento é genérico: lista diretrizes e indicadores sugeridos, e diz que as metas numéricas serão definidas depois.",
+  "trajetoria": "Advogada, preside o diretório estadual do Democracia Cristã em Mato Grosso e foi presidente da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande. Disputa eleição pela primeira vez.",
+  "destaques": [
+    "Rede nacional de proteção e resposta à violência contra mulheres, integrando saúde, assistência, segurança e justiça (Plano p.3).",
+    "Primeira infância como prioridade nacional: pré-natal, nutrição, vacinação e creches (p.3).",
+    "Monitoramento de fronteiras com sensores, radares, drones e centros integrados de comando (p.9).",
+    "Asfixia financeira das facções com inteligência financeira e recuperação de ativos (p.9).",
+    "Revisão de gastos e subsídios com avaliação de impacto (p.6).",
+    "Governo digital com o princípio de pedir os dados ao cidadão uma única vez (p.13).",
+    "Defende o fim da escala 6x1 (entrevista ao Poder360)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Simplificação regulatória, digitalização e abertura rápida de empresas (p.5).",
+      "Crédito produtivo com garantias e compras públicas acessíveis a pequenos negócios (p.5).",
+      "Revisão de gastos e subsídios e planejamento plurianual orientado a metas (p.6).",
+      "Autonomia econômica das mulheres: qualificação, crédito e rede de cuidado (p.3)."
+    ],
+    "Saúde": [
+      "Atenção primária com equipes completas e prontuário interoperável (p.11).",
+      "Vacinação e rastreamento baseados em evidências, com foco em saúde da mulher e da criança (p.11).",
+      "Telemedicina, regulação inteligente de filas e IA como apoio clínico (p.12).",
+      "Avaliação científica de novas terapias antes da incorporação ao SUS (p.11, 15)."
+    ],
+    "Educação": [
+      "Alfabetização na idade adequada e recomposição de aprendizagem (p.7).",
+      "Formação de professores baseada em evidências e redução de burocracia (p.7).",
+      "Tecnologia e IA com uso responsável, educação financeira e competências digitais (p.7).",
+      "Expansão do ensino técnico ligado às vocações regionais (p.7-8)."
+    ],
+    "Segurança": [
+      "Fronteiras com sensores, radares, drones e centros integrados de comando (p.9).",
+      "Inteligência financeira contra lavagem de dinheiro e recuperação de ativos das facções (p.9).",
+      "Policiamento baseado em evidências e mapas de risco (p.9).",
+      "Separação de lideranças criminosas e trabalho e educação para presos (p.10)."
+    ],
+    "Meio ambiente e clima": [],
+    "Social e direitos": [
+      "Rede nacional de proteção e resposta à violência contra mulheres (p.3).",
+      "Primeira infância: pré-natal, nutrição, vacinação e creches (p.3).",
+      "Prevenção de abuso e ambiente digital seguro para crianças e adolescentes (p.3).",
+      "Busca ativa de crianças fora da escola (p.3)."
+    ],
+    "Infraestrutura e cidades": [
+      "Manutenção de rodovias por desempenho; ferrovias, hidrovias, portos e cabotagem (p.5).",
+      "Concessões, PPPs e planejamento de longo prazo em infraestrutura (p.5).",
+      "Segurança energética e expansão da conectividade (p.5)."
+    ],
+    "Gestão e Estado": [
+      "Identidade e serviços digitais integrados, pedindo os dados uma única vez (p.13).",
+      "Gestão por metas, painéis públicos e encerramento de programas ineficazes (p.13).",
+      "Compras públicas rastreáveis e dados abertos (p.13).",
+      "Transferências a estados e municípios associadas a indicadores (p.14)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 0,
+      "nota": "Plano cita concessões e PPPs em infraestrutura; não trata da venda de estatais.",
+      "fonte": "Plano p.5 | https://agazetapopular.com.br/quem-e-clariana-barao-conheca-a-candidata-do-dc-a-presidencia-e-as-principais-propostas-para-o-brasil/"
+    },
+    "impostos_ricos": null,
+    "ajuste_fiscal": {
+      "v": 1,
+      "nota": "Defende responsabilidade fiscal com revisão de gastos e subsídios; não detalha cortes.",
+      "fonte": "Plano p.5-6"
+    },
+    "programas_sociais": {
+      "v": 1,
+      "nota": "Diz que manter os programas de transferência de renda, como o Bolsa Família, é o principal acerto do atual governo; plano prevê apoio a famílias vulneráveis.",
+      "fonte": "Plano p.3 | https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Declarou-se favorável ao fim da escala 6x1, citando a sobrecarga das mulheres.",
+      "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/"
+    },
+    "armas": null,
+    "penas": {
+      "v": 0,
+      "nota": "Considera insuficiente combater o crime apenas com aumento de penas; plano foca em inteligência e asfixia financeira, sem propor endurecimento de penas.",
+      "fonte": "Plano p.9-10 | https://agazetapopular.com.br/quem-e-clariana-barao-conheca-a-candidata-do-dc-a-presidencia-e-as-principais-propostas-para-o-brasil/"
+    },
+    "aborto": {
+      "v": -2,
+      "nota": "Posiciona-se contra a legalização do aborto, com base na preservação da vida; defende atendimento digno a mulheres que chegam ao serviço de saúde após um aborto.",
+      "fonte": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas | https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/"
+    },
+    "anistia_8j": {
+      "v": -1,
+      "nota": "Diz não ser favorável à anistia, mas defende rever os processos do 8 de janeiro com julgamento individualizado e pena proporcional.",
+      "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/"
+    },
+    "stf": {
+      "v": 1,
+      "nota": "Afirma que o STF excedeu suas competências e deve passar por reforma; não detalha as medidas.",
+      "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/"
+    },
+    "ambiente": null,
+    "redes": null
+  },
+  "detalhamento": {
+    "nota": 2,
+    "justificativa": "Lista ações genéricas e indicadores sugeridos por área, com horizontes de implementação, mas sem metas numéricas; o próprio plano diz que as metas serão calibradas depois."
+  },
+  "fontes": [
+    "https://jovempan.com.br/?p=282058",
+    "https://www.congressoemfoco.com.br/noticia/121056/dc-define-chapa-feminina-com-a-advogada-clariana-barao-para-presidente",
+    "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+    "https://agazetapopular.com.br/quem-e-clariana-barao-conheca-a-candidata-do-dc-a-presidencia-e-as-principais-propostas-para-o-brasil/",
+    "https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas"
+  ]
+}

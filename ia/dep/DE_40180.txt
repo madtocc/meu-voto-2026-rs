@@ -1,0 +1,53 @@
+# BRUNA RODRIGUES (40180, PSB): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: BRUNA LIEGE DA SILVA RODRIGUES. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+Comissões: Comissão de Cidadania e Direitos Humanos; Comissão de Finanças, Planejamento, Fiscalização e Controle; Comissão Especial de Combate ao Feminicídio no RS; Comissão Mista Permanente de Defesa do Consumidor e do Contribuinte e Participação Legislativa Popular.
+
+Frentes parlamentares que preside:
+- Frente Parlamentar Contra o Trabalho Análogo à Escravidão e pelo Trabalho Digno
+- Frente Parlamentar contra a Violência Política de Gênero
+- Frente Parlamentar das Cozinhas Solidárias e Comunitárias
+- Frente Parlamentar de Enfrentamento ao Encarceramento da Juventude
+- Frente Parlamentar em Defesa da Educação Antirracista
+- Frente Parlamentar em Defesa da Juventude Viva
+- Frente Parlamentar em Defesa das Trabalhadoras e Trabalhadores Terceirizadas no Estado do Rio Grande do Sul
+- Frente Parlamentar em Defesa do Futebol Feminino
+- Frente Parlamentar em Defesa do Samba e do Carnaval
+- Frente Parlamentar em Defesa dos Povos Tradicionais de Matriz Africana
+- Frente Parlamentar pela Garantia de Vaga nas Creches
+
+Projetos apresentados como primeiro signatário (61 no total, abaixo os 30 mais recentes):
+- PL 169/2026: Institui a Política Estadual de Promoção do Direito à Ancestralidade da População Negra no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/169/2026/a344f397-4fa1-11f1-b569-7a925d58e3a3
+- PL 149/2026: Estabelece diretrizes para a promoção de infraestrutura sanitária adequada e dignidade menstrual nos banheiros de escolas públicas estaduais e equipamentos públicos estaduais no âmbito do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/149/2026/8b07c340-4957-11f1-b569-7a925d58e3a3
+- PL 148/2026: Institui a Política Estadual de Produção e Divulgação de Indicadores sobre Dignidade Menstrual no Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/148/2026/69962af7-4956-11f1-b569-7a925d58e3a3
+- PL 147/2026: Institui a Política Estadual de Educação em Saúde Menstrual e Dignidade Menstrual nas escolas da rede pública estadual do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/147/2026/5cd6934b-4955-11f1-b569-7a925d58e3a3
+- PL 112/2026: Institui o “Selo Samba bom é Samba sem Violência” no âmbito do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/112/2026/c109cd61-2ded-11f1-93cd-963f5e4ba252
+- PL 111/2026: Dispõe sobre a tramitação prioritária dos processos administrativos que figurem como parte ou interessada a pessoa em situação de violência doméstica e familiar. https://ww4.al.rs.gov.br/proposicao/PL/111/2026/9a341062-2de5-11f1-93cd-963f5e4ba252
+- PL 109/2026: Institui a Política de Enfrentamento e Combate à Discriminação Racial na Atenção Obstétrica e Neonatal, assegura direitos às mulheres negras no ciclo gravídico-puerperal e autoriza a elaboração do plano de parto. https://ww4.al.rs.gov.br/proposicao/PL/109/2026/a5c18dc7-2de2-11f1-93cd-963f5e4ba252
+- PL 108/2026: Institui incentivo fiscal no âmbito do ICMS para empresas que concedem licença remunerada a mulheres vítimas de violência doméstica e familiar no Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/108/2026/1c37660b-2de1-11f1-93cd-963f5e4ba252
+- PL 107/2026: Institui diretrizes para a valorização, promoção e ampliação do acesso à literatura voltada à promoção da igualdade de gênero nas bibliotecas públicas estaduais e das instituições de ensino superior mantidas pelo Estado do Rio Grande do Sul… https://ww4.al.rs.gov.br/proposicao/PL/107/2026/27061411-2de0-11f1-93cd-963f5e4ba252
+- PL 88/2026: Altera a Lei nº 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais incluindo o dia 17 de outubro como o Dia de Luto e de Memória às Mulheres Vítimas de Feminicídio no âmbito do, no Cale… https://ww4.al.rs.gov.br/proposicao/PL/88/2026/1a033996-1e4d-11f1-a779-3e91954bdd22
+- PL 51/2026: Institui o Dia Estadual da Mulher Sambista e altera a Lei nº 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Est… https://ww4.al.rs.gov.br/proposicao/PL/51/2026/da03a72e-0cf1-11f1-9186-8e763d41cf4c
+- PL 532/2025: Institui o Dia Estadual do Festival de Oxum e altera a Lei nº 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Es… https://ww4.al.rs.gov.br/proposicao/PL/532/2025/b3297085-d9c4-11f0-97d5-fac0e840c578
+- PL 528/2025: Institui a Política Estadual dos Cuidados e o Programa Estadual de Reconhecimento e Reparação do Trabalho de Cuidados, no âmbito do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/528/2025/ab5cda74-d775-11f0-97d5-fac0e840c578
+- PL 519/2025: Garante a proteção e o exercício das atividades religiosas no Estado do Rio Grande do Sul, assegurando a realização de cultos, rituais e práticas litúrgicas, inclusive em horários de silêncio, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/519/2025/714e5374-d43c-11f0-97d5-fac0e840c578
+- PL 502/2025: Institui a Política Estadual de Reconhecimento, Valorização e Fomento aos Saberes Ancestrais e Tradicionais no Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/502/2025/66ce6b60-cee2-11f0-ab82-fa1256ca0c28
+- PL 501/2025: Institui a Política Estadual de Promoção, Preservação, Valorização e Desenvolvimento da Cultura Negra no Rio Grande do Sul e autoriza a criação do Fundo Estadual de Fomento à Cultura Negra. https://ww4.al.rs.gov.br/proposicao/PL/501/2025/5dac94a4-cee1-11f0-ab82-fa1256ca0c28
+- PL 500/2025: Institui o Programa Estadual de Prevenção, Monitoramento e Cuidado Integral da Hipertensão na População Negra e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/500/2025/73df545d-cedf-11f0-ab82-fa1256ca0c28
+- PL 499/2025: Institui a Política Estadual de Prevenção e Combate ao Racismo Religioso no Ambiente Escolar no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/499/2025/c0b3413c-cede-11f0-ab82-fa1256ca0c28
+- PL 376/2025: Institui a Política Estadual das Cozinhas Solidárias no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/376/2025/8ef9b603-9d41-11f0-b541-0242ac170004
+- PL 369/2025: Declara as cozinhas solidárias como de interesse social, público e econômico no âmbito do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/369/2025/4799b820-9a21-11f0-b541-0242ac170004
+- PL 368/2025: Altera a Lei nº 15.950, de 9 de janeiro de 2023,que consolida a legislação estadual relativa a eventos e datas estaduais incluindo o Dia Estadual do Musicoterapeuta, no Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Gr… https://ww4.al.rs.gov.br/proposicao/PL/368/2025/f5de5e08-9a1f-11f0-b541-0242ac170004
+- PL 290/2025: Declara como de relevante interesse cultural do Estado do Rio Grande do Sul, o Passo dos Negros, no Município de Pelotas. (Tramitação Conclusiva CECDCT) https://ww4.al.rs.gov.br/proposicao/PL/290/2025/9483f5ae-627f-11f0-8ebc-0242ac130005
+- PL 248/2025: Institui a Política Estadual de Mapeamento e Pesquisa sobre a População LGBTQIAPN+ no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/248/2025/1d12bb41-55df-11f0-8ebc-0242ac130005
+- PL 247/2025: Institui a Política Estadual de Combate à Violência e à Discriminação contra Pessoas LGBTQIAPN+ – RS pela Diversidade no Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/247/2025/3fac43a7-55de-11f0-8ebc-0242ac130005
+- PL 246/2025: Inclui o inciso x no artigo 2º da Lei nº 11.872, de 19 de dezembro de 2002, que dispõe sobre a promoção e reconhecimento da liberdade de orientação, prática, manifestação, identidade, preferência sexual e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/246/2025/2196a76c-55dd-11f0-8ebc-0242ac130005
+- PL 238/2025: Altera a Lei nº 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais incluindo o dia da família atípica, no Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do… https://ww4.al.rs.gov.br/proposicao/PL/238/2025/964788e5-5058-11f0-8ebc-0242ac130005
+- PL 237/2025: Institui a Política Estadual de Renda para famílias atípicas no âmbito do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/237/2025/7ca2b506-5057-11f0-8ebc-0242ac130005
+- PL 236/2025: Institui a Política Estadual de Cuidado às Famílias Atípicas no âmbito do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/236/2025/0a34b0d1-5056-11f0-8ebc-0242ac130005
+- PL 203/2025: Institui o dia da pessoa trancista e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do… https://ww4.al.rs.gov.br/proposicao/PL/203/2025/1d3a9355-4555-11f0-8ebc-0242ac130005
+- PL 167/2025: Altera a Lei Ordinária n.º 15.988 de 07 de agosto de 2023, que consolida a legislação relativa às mulheres vítimas de violência no âmbito do Estado do Rio Grande do Sul https://ww4.al.rs.gov.br/proposicao/PL/167/2025/59b9264f-34b0-11f0-8ebc-0242ac130005

@@ -1,0 +1,119 @@
+{
+  "id": "GOV_80",
+  "nome_urna": "PRISCILA VOIGT",
+  "resumo": "Candidatura da Unidade Popular (UP), com vice Naf Nascimento (UP), em chapa pura. Programa socialista curto, com 12 pontos: reverter privatizações (CEEE, Corsan, Sulgás), obras contra cheias e moradias definitivas executadas pelo Estado sem empreiteiras, auditoria e suspensão da dívida, reforma agrária e desmilitarização da Brigada Militar.",
+  "trajetoria": "Nutricionista, presidente da UP no RS e integrante da Executiva Nacional do partido, com atuação em movimentos populares. Já disputou eleições para vereadora de Porto Alegre e deputada federal.",
+  "destaques": [
+    "Reverter as privatizações de CEEE, Corsan e Sulgás e de atividades terceirizadas, com redução de tarifas.",
+    "Obras de defesa contra cheias e moradias definitivas para todas as famílias atingidas, feitas pelo Estado sem empreiteiras.",
+    "Auditoria e suspensão da dívida pública do estado, com recursos redirecionados a áreas sociais.",
+    "Proibir militarização, privatização e PPPs nas escolas; eleição direta de diretores.",
+    "Desmilitarização da Brigada Militar e proibição de operações militares em vilas e favelas.",
+    "Reforma agrária e fim das isenções fiscais a latifundiários do agronegócio.",
+    "Reestatizar o transporte coletivo e garantir passe livre a estudantes e trabalhadores."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Frentes emergenciais de trabalho em obras públicas nos bairros e cidades mais pobres (item 2, p.6).",
+      "Controle social dos monopólios e planificação da economia (item 11, p.8).",
+      "Imposto sobre grandes fortunas e progressivo; anular \"impostos extorsivos cobrados do povo\" (item 11, p.8).",
+      "Lutar nacionalmente pelo fim da escala 6x1 e aumento de 100% do salário mínimo (item 9, p.7)."
+    ],
+    "Saúde": [
+      "\"Investimento massivo\" na saúde estadual, com concursos e convocação de aprovados (item 5, p.7).",
+      "Contratação direta em 100% das atividades do SUS em todos os municípios (item 5, p.7).",
+      "Obrigar políticos eleitos e suas famílias a usar o SUS (item 5, p.7).",
+      "Fim de recursos públicos para planos privados (item 5, p.7)."
+    ],
+    "Educação": [
+      "Proibir militarização, privatização e PPPs nas escolas (item 4, p.7).",
+      "Eleição direta de diretores, concursos e contratação direta em 100% das atividades escolares (item 4, p.7).",
+      "Investir na UERGS, com unidades em todas as cidades-polo, e fortalecer a Fapergs (item 3, p.6-7).",
+      "Filhos de políticos eleitos obrigatoriamente matriculados na escola pública (item 4, p.7)."
+    ],
+    "Segurança": [
+      "Desmilitarização da Brigada Militar (item 7, p.7).",
+      "Proibir operações militares em vilas e favelas (item 7, p.7).",
+      "Punir policiais por tortura e execuções; combater o crime organizado \"combatendo os ricos que o financiam\" (item 7, p.7).",
+      "Delegacias 24h para mulheres em todas as regiões (item 6, p.7)."
+    ],
+    "Meio ambiente e clima": [
+      "Construir e reconstruir diques e sistemas de defesa contra cheias, com universidades e técnicos populares (item 2, p.6).",
+      "Moradias definitivas para todas as famílias atingidas, incluindo as que estão em moradias temporárias (item 2, p.6).",
+      "Regulamentar o uso de agrotóxicos (item 8, p.7).",
+      "Critica a flexibilização do código ambiental e o projeto da CMPC em Barra do Ribeiro (p.2-4)."
+    ],
+    "Social e direitos": [
+      "Reforma agrária com desapropriação e titulação de terras para camponeses pobres (item 8, p.7).",
+      "Mercados populares com alimentos a preço reduzido para combater a fome (item 8, p.7).",
+      "Moradia e emprego para mulheres vítimas de violência; fortalecer casas de referência (item 6, p.7).",
+      "Campanha de memória, verdade e reparação às vítimas da violência de Estado (item 7, p.7)."
+    ],
+    "Infraestrutura e cidades": [
+      "Reestatização do transporte coletivo e passe livre para estudantes e trabalhadores (item 10, p.8).",
+      "Saneamento, postos de saúde, escolas e calçamento em bairros pobres, sem empreiteiras (item 2, p.6).",
+      "Reativar parques industriais abandonados (item 2, p.6)."
+    ],
+    "Gestão e Estado": [
+      "Auditoria e suspensão da dívida pública do estado (item 12, p.8).",
+      "Concursos públicos e contratação direta pelo Estado no lugar de terceirizações (item 1, p.6).",
+      "Reverter retrocessos nas carreiras dos servidores estaduais (item 9, p.7-8)."
+    ]
+  },
+  "posicoes": {
+    "banrisul": {
+      "v": -2,
+      "nota": "Plano não cita o Banrisul; defende reverter todas as privatizações e terceirizações de empresas públicas.",
+      "fonte": "Plano p.6 (item 1)"
+    },
+    "concessoes": {
+      "v": -2,
+      "nota": "Reverter privatizações (CEEE, Corsan, Sulgás), reestatizar o transporte coletivo e barrar PPPs nas escolas.",
+      "fonte": "Plano p.4, p.6 (item 1), p.7 (item 4) e p.8 (item 10)"
+    },
+    "icms": {
+      "v": 0,
+      "nota": "Propõe anular \"impostos extorsivos cobrados do povo\" e taxar grandes fortunas, sem detalhar o ICMS.",
+      "fonte": "Plano p.2 e p.8 (item 11)"
+    },
+    "incentivos": {
+      "v": -2,
+      "nota": "Fim das isenções e benefícios fiscais ao agronegócio; critica renúncia de cerca de R$ 1 bilhão por mês a empresas.",
+      "fonte": "Plano p.2 e p.7 (item 8)"
+    },
+    "servidores": {
+      "v": 1,
+      "nota": "Defende valorizar profissionais e reverter retrocessos nas carreiras; critica \"arrocho salarial\". Não cita índice de reajuste.",
+      "fonte": "Plano p.5, p.7 (item 4) e p.7-8 (item 9)"
+    },
+    "civico_militar": {
+      "v": -2,
+      "nota": "\"Não permitir a militarização das escolas\".",
+      "fonte": "Plano p.7 (item 4)"
+    },
+    "licenciamento": {
+      "v": -2,
+      "nota": "Critica o corte de mais de 400 pontos do código ambiental e o autolicenciamento, que associa às enchentes de 2024.",
+      "fonte": "Plano p.2-3"
+    },
+    "divida_uniao": {
+      "v": 2,
+      "nota": "Auditoria e suspensão da dívida pública do estado.",
+      "fonte": "Plano p.8 (item 12)"
+    },
+    "seguranca_dura": {
+      "v": -2,
+      "nota": "Desmilitarização da Brigada Militar e proibição de operações militares em vilas e favelas.",
+      "fonte": "Plano p.7 (item 7)"
+    }
+  },
+  "detalhamento": {
+    "nota": 2,
+    "justificativa": "Doze propostas com ações definidas, mas sem metas, prazos, custos ou fontes de recursos."
+  },
+  "fontes": [
+    "https://www.nsctotal.com.br/?p=7995220",
+    "https://revistaoeste.com/politica/rio-grande-do-sul-conheca-os-7-candidatos-ao-governo-do-estado/",
+    "https://www.jornaldocomercio.com/politica/2026/07/1257806-unidade-popular-homologa-candidatura-de-priscila-voigt-ao-piratini-em-convencao-partidaria.html"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "SEN_500",
+  "nome_urna": "MANUELA D ÁVILA",
+  "resumo": "Ex-deputada federal, filiada ao PSOL desde dez/2025, concorre na mesma coligação de Pimenta, com apoio a Lula. Apresenta 12 eixos: fim da escala 6x1, combate a golpes digitais e às bets, enfrentamento ao feminicídio, regulação de plataformas e adaptação climática.",
+  "trajetoria": "Jornalista; vereadora de Porto Alegre (2005-2007), deputada federal (2007-2015) e deputada estadual (2015-2019). Foi candidata a vice-presidente em 2018 (PCdoB) e deixou o PCdoB em 2024.",
+  "destaques": [
+    "Fim da escala 6x1, direito à desconexão e proteção a trabalhadores de aplicativos.",
+    "Lei Nacional de Proteção contra Golpes Digitais, com ressarcimento rápido às vítimas e força nacional contra crime digital.",
+    "Proibir publicidade e patrocínio de bets e ampliar tratamento de dependentes em jogos.",
+    "Punir o ódio às mulheres como crime de discriminação, como o racismo; recursos obrigatórios contra o feminicídio.",
+    "Lei que responsabilize plataformas por design viciante e por recomendar a adolescentes conteúdos de apostas e automutilação.",
+    "Política Nacional de Apoio às Mães Atípicas, com isenção de IR.",
+    "Adaptação climática como política permanente, com financiamento federal estável para prevenção e Defesa Civil."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Fim da escala 6x1.",
+      "Regras contra exploração por algoritmos e proteção trabalhista e previdenciária em aplicativos.",
+      "Crédito para mulheres empreendedoras e igualdade salarial.",
+      "Defesa da economia gaúcha diante do tarifaço dos EUA."
+    ],
+    "Saúde": [
+      "Mais investimento no SUS, vacinação e redução de filas (debate Amrigs).",
+      "Tabela SUS que remunere hospitais filantrópicos; cumprir os 12% constitucionais na saúde do RS.",
+      "Atendimento multidisciplinar pelo SUS para famílias de mães atípicas."
+    ],
+    "Educação": [
+      "Universidades e institutos federais fortes, formação tecnológica e primeiro emprego.",
+      "Educação inclusiva com mediadores nas escolas."
+    ],
+    "Segurança": [
+      "Lei Nacional de Proteção contra Golpes Digitais e força nacional contra crime digital (PF, polícias, BC e Coaf).",
+      "Política nacional contra feminicídio: casas de acolhimento, patrulhas, tornozeleiras e cadastro integrado de agressores e armas."
+    ],
+    "Meio ambiente e clima": [
+      "Financiamento federal estável para prevenção, alertas, drenagem, diques e habitação segura.",
+      "Considerar riscos climáticos em todo grande investimento público.",
+      "Alívio fiscal e crédito especial para estados e municípios atingidos por desastres."
+    ],
+    "Social e direitos": [
+      "Política Nacional de Apoio às Mães Atípicas: BPC menos burocrático, isenção de IR e reconhecimento previdenciário do cuidado.",
+      "Criminalizar o ódio às mulheres como discriminação.",
+      "Proibir publicidade de bets e financiar tratamento de dependência em jogos.",
+      "Diversidade nas indicações para tribunais e agências aprovadas pelo Senado."
+    ],
+    "Infraestrutura e cidades": [
+      "Reconstrução da infraestrutura gaúcha com critérios de risco climático.",
+      "Moradia acessível para a juventude."
+    ],
+    "Gestão e Estado": [
+      "Responsabilizar financiadores de desinformação e de redes coordenadas de mentira.",
+      "Agenda comum entre União, Estado, municípios e bancada gaúcha.",
+      "Diplomacia pela paz e soberania nacional."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -1,
+      "nota": "Em 2018, criticou propostas de vender a Eletrobras e privatizar bancos públicos e defendeu combater a sonegação. Não trata do tema na campanha de 2026.",
+      "fonte": "https://vermelho.org.br/?p=374907 | https://manuelanosenado.com.br/"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Em 2018 defendeu reforma tributária progressiva: tributar dividendos, grandes fortunas, heranças e consumo de luxo. Em 2026 propõe isenção de IR para mães atípicas.",
+      "fonte": "https://vermelho.org.br/?p=374907 | https://manuelanosenado.com.br/"
+    },
+    "ajuste_fiscal": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "programas_sociais": {
+      "v": 1,
+      "nota": "Propõe acesso menos burocrático ao BPC e apoio a famílias cuidadoras; não trata do Bolsa Família.",
+      "fonte": "https://manuelanosenado.com.br/"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Defende o fim da escala 6x1 como eixo da campanha.",
+      "fonte": "https://manuelanosenado.com.br/ | https://www.youtube.com/watch?v=68suQpS7MXM"
+    },
+    "armas": {
+      "v": null,
+      "nota": "Sem posição sobre posse e porte; propõe integrar dados de agressores e armas de fogo no combate ao feminicídio.",
+      "fonte": null
+    },
+    "penas": {
+      "v": 0,
+      "nota": "Propõe punir o ódio às mulheres como crime de discriminação; não trata de penas em geral nem de maioridade penal.",
+      "fonte": "https://manuelanosenado.com.br/"
+    },
+    "aborto": {
+      "v": 1,
+      "nota": "Em 2018 disse que o aborto é questão de saúde pública e deve ser tratado com urgência; não trata do tema na campanha de 2026.",
+      "fonte": "https://vermelho.org.br/2018/06/13/manuela-aborto-e-questao-de-saude-publica-e-deve-ser-tratado/"
+    },
+    "anistia_8j": {
+      "v": -1,
+      "nota": "Não há declaração direta localizada; o plano defende responsabilizar quem financia ameaças e diz que liberdade de expressão não inclui 'organizar um golpe de Estado'.",
+      "fonte": "https://manuelanosenado.com.br/"
+    },
+    "stf": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "ambiente": {
+      "v": 1,
+      "nota": "Defende adaptação climática como política de Estado, baseada na ciência; não trata de restrições ao agro ou à mineração.",
+      "fonte": "https://manuelanosenado.com.br/ | https://www.youtube.com/watch?v=vzeVAV6Gm4A"
+    },
+    "redes": {
+      "v": 2,
+      "nota": "Propõe lei que imponha às plataformas dever de cuidado, vede design manipulativo e responsabilize algoritmos; defende responsabilizar redes de desinformação.",
+      "fonte": "https://manuelanosenado.com.br/ | https://www.youtube.com/watch?v=e9x3MldSKyQ"
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://manuelanosenado.com.br/",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://www.poder360.com.br/poder-eleicoes/manuela-davila-lanca-pre-candidatura-ao-senado-e-evoca-rocky-balboa/",
+    "https://www.cnnbrasil.com.br/politica/psol-anuncia-filiacao-de-manuela-davila-e-disputa-pelo-senado-no-rs/",
+    "https://www.amrigs.org.br/candidatos-ao-senado-apresentam-propostas-para-a-saude-em-debate-na-amrigs/",
+    "https://vermelho.org.br/?p=374907",
+    "https://vermelho.org.br/2018/06/13/manuela-aborto-e-questao-de-saude-publica-e-deve-ser-tratado/",
+    "https://www.youtube.com/watch?v=68suQpS7MXM",
+    "https://www.youtube.com/watch?v=vzeVAV6Gm4A",
+    "https://www.youtube.com/watch?v=e9x3MldSKyQ",
+    "https://www.youtube.com/watch?v=OONa-8PJFF0"
+  ]
+}

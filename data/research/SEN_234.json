@@ -1,0 +1,96 @@
+{
+  "id": "SEN_234",
+  "nome_urna": "RENATO JAGUARÃO",
+  "resumo": "Músico e servidor público de Jaguarão, concorre pelo Cidadania na federação PSDB-Cidadania. Há poucas propostas públicas localizadas; no debate da Amrigs, defendeu avaliação obrigatória para formados em Medicina, como no exame da OAB, e disse que o MEC não tem capacidade de fiscalizar adequadamente todos os cursos.",
+  "trajetoria": "Cantor, declamador e compositor gaúcho e servidor público, pós-graduado em Gestão Pública. Sem cargos eletivos anteriores registrados.",
+  "destaques": [
+    "Exame obrigatório para egressos de Medicina, nos moldes do exame da OAB.",
+    "Contra a formação em Medicina a distância.",
+    "Critica a capacidade do MEC de fiscalizar cerca de 500 faculdades de Medicina."
+  ],
+  "propostas": {
+    "Economia e emprego": [],
+    "Saúde": [
+      "Avaliação obrigatória de egressos de Medicina, como no exame da OAB.",
+      "Contra cursos de Medicina online."
+    ],
+    "Educação": [
+      "Diz que o MEC não tem capacidade de fiscalizar adequadamente os cursos de Medicina, oferecidos por cerca de 500 instituições."
+    ],
+    "Segurança": [],
+    "Meio ambiente e clima": [],
+    "Social e direitos": [],
+    "Infraestrutura e cidades": [],
+    "Gestão e Estado": []
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "impostos_ricos": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "ajuste_fiscal": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "programas_sociais": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "escala_6x1": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "armas": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "penas": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "aborto": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "anistia_8j": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "stf": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "ambiente": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "redes": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://www.amrigs.org.br/candidatos-ao-senado-apresentam-propostas-para-a-saude-em-debate-na-amrigs/",
+    "https://www.jornaldocomercio.com/politica/2026/07/1256805-debate-da-fecomercio-rs-reune-oito-pre-candidatos-ao-senado.html",
+    "https://www.tiktok.com/@renato_jaguarao",
+    "https://www.facebook.com/renatojaguarao"
+  ]
+}

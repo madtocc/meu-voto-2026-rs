@@ -1,0 +1,85 @@
+{
+  "id": "PRES_21",
+  "nome_urna": "EDMILSON COSTA",
+  "resumo": "Programa do PCB de ruptura anticapitalista ('Construir o Poder Popular, rumo ao Socialismo'): estatização do sistema financeiro e de setores estratégicos, suspensão do pagamento da dívida pública durante auditoria e revogação do arcabouço fiscal e da LRF. Propõe jornada de 30 horas sem redução salarial, Assembleia Constituinte com metade dos membros escolhida por organizações populares e extinção do Senado. Vice: Cleusa Santos (PCB).",
+  "trajetoria": "Economista, doutor pela Unicamp e secretário-geral do PCB desde 2016. Foi candidato a prefeito de São Paulo (2008) e a vice-presidente (2010).",
+  "destaques": [
+    "Estatização do sistema financeiro e reestatização de empresas privatizadas, com Petrobras 100% estatal.",
+    "Suspensão do pagamento de juros e amortizações da dívida pública durante auditoria.",
+    "Jornada de 30 horas semanais sem redução salarial e fim da escala 6x1.",
+    "Constituinte em até dois anos, com metade dos membros eleita por organizações populares, e extinção do Senado.",
+    "Legalização do aborto e descriminalização do uso de drogas.",
+    "Saúde e educação 100% públicas, com estatização dos setores privados.",
+    "Tarifa zero no transporte público em todo o país."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Estatizar o sistema financeiro e criar o Banco dos Trabalhadores para gerir fundos previdenciários (p.4).",
+      "Suspender juros e amortizações da dívida pública enquanto uma comissão investiga sua origem (p.4).",
+      "Revogar o arcabouço fiscal, a LRF, a Lei das Estatais e a autonomia do Banco Central (p.4).",
+      "Jornada de 30 horas sem redução salarial e salário mínimo do Dieese em até quatro anos (p.5)."
+    ],
+    "Saúde": [
+      "Estatizar todo o setor privado de saúde e revogar contratos com OSs (p.10).",
+      "Investir 10% do PIB na saúde pública (p.10).",
+      "Ampliar o Complexo Econômico-Industrial da Saúde e levar Fiocruz e Butantan a outros estados (p.6, 10).",
+      "Criar Conselhos Populares de Saúde e proibir as comunidades terapêuticas (p.6, 10)."
+    ],
+    "Educação": [
+      "Ensino 100% público, das creches à pós-graduação, com estatização do ensino privado (p.7).",
+      "Fim do vestibular nas federais e ampliação das cotas (54% para a população negra) (p.7).",
+      "Piso salarial nacional como vencimento básico da carreira docente (p.7).",
+      "Fim das escolas cívico-militares e expansão dos Institutos Federais (p.7, 10)."
+    ],
+    "Segurança": [
+      "Desmilitarizar e unificar as polícias, com ciclo completo e controle social (p.6, 12).",
+      "Fim da 'guerra às drogas', descriminalização do uso e legalização da maconha a curto prazo (p.6, 12).",
+      "Contra a redução da maioridade penal; adoção das 16 medidas do IBCCRIM contra o encarceramento em massa (p.12).",
+      "Revogar a Lei Antidrogas e acabar com a privatização de presídios (p.12)."
+    ],
+    "Meio ambiente e clima": [
+      "Expropriação do agronegócio e desapropriação sem indenização de latifúndios improdutivos (p.6, 9).",
+      "Reduzir a pecuária e a geração por combustíveis fósseis e taxar emissões poluentes (p.8).",
+      "Contra a exploração da Margem Equatorial; fundo da renda do petróleo para energia limpa (p.5, 14).",
+      "Ampliar unidades de conservação e demarcar terras indígenas, com fim do marco temporal (p.8, 11-12)."
+    ],
+    "Social e direitos": [
+      "Legalização do aborto, com atendimento na rede pública (p.11).",
+      "Licença-maternidade e paternidade de um ano (p.11).",
+      "Revogar as reformas trabalhista e da Previdência; estabilidade no emprego após cinco anos de vínculo (p.5).",
+      "Carteira assinada e piso salarial para trabalhadores de aplicativos (p.5)."
+    ],
+    "Infraestrutura e cidades": [
+      "Tarifa zero, com transporte 100% público em todo o território nacional (p.7, 11).",
+      "Reestatizar portos, aeroportos, ferrovias e rodovias (p.11).",
+      "Reestatizar a Eletrobras, revogar o marco do saneamento e criar monopólio estatal em gás, energia e saneamento (p.10).",
+      "Destinar imóveis ociosos à moradia popular e programa habitacional até zerar o déficit (p.6)."
+    ],
+    "Gestão e Estado": [
+      "Assembleia Constituinte em até dois anos, com metade dos membros eleita por organizações populares (p.3-4).",
+      "Extinção do Senado e criação de Parlamento unicameral (p.4).",
+      "Revogação de mandatos por referendo e Orçamento Popular 100% deliberativo (p.3-4).",
+      "Mandatos de 10 anos, eletivos e revogáveis, para juízes de tribunais superiores (p.13)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {"v": -2, "nota": "Propõe reestatizar empresas privatizadas (Eletrobras, BR Distribuidora), Petrobras 100% estatal e estatização do sistema financeiro.", "fonte": "Plano p.4-5, 10, 14"},
+    "impostos_ricos": {"v": 2, "nota": "Propõe imposto especial sobre lucros e dividendos, grandes fortunas, transações financeiras e heranças, com IR progressivo.", "fonte": "Plano p.4, 14"},
+    "ajuste_fiscal": {"v": -2, "nota": "Propõe revogar o arcabouço fiscal e a Lei de Responsabilidade Fiscal e reverter cortes orçamentários na área social.", "fonte": "Plano p.2, 4, 13"},
+    "programas_sociais": {"v": 1, "nota": "Propõe Lei de Responsabilidade Social para financiar programas sociais, ampliar seguro-desemprego e auxílios emergenciais e universalizar a previdência; não cita o Bolsa Família.", "fonte": "Plano p.13-14"},
+    "escala_6x1": {"v": 2, "nota": "Propõe o fim da escala 6x1 e jornada de 30 horas semanais sem redução salarial.", "fonte": "Plano p.2, 5, 14"},
+    "armas": {"v": null, "nota": "O plano não trata de posse ou porte de armas por civis; propõe estatizar a indústria bélica (Avibras, Taurus) e desmilitarizar a segurança.", "fonte": "Plano p.6, 15"},
+    "penas": {"v": -2, "nota": "Declara-se contra a redução da maioridade penal e propõe medidas contra o encarceramento em massa.", "fonte": "Plano p.12"},
+    "aborto": {"v": 2, "nota": "Propõe a legalização do aborto com atendimento na rede pública de saúde.", "fonte": "Plano p.11"},
+    "anistia_8j": {"v": -2, "nota": "O plano não cita o 8 de janeiro; o PCB defende 'sem anistia para os golpistas' e prisão de Bolsonaro.", "fonte": "nota do partido: https://pcb.org.br/portal2/32251"},
+    "stf": {"v": 1, "nota": "Propõe mandatos fixos de 10 anos, eletivos e revogáveis, para juízes de tribunais superiores, em reforma ampla do Judiciário; não cita o STF nominalmente.", "fonte": "Plano p.4, 13"},
+    "ambiente": {"v": 2, "nota": "Propõe expropriar o agronegócio, reduzir a pecuária e os fósseis, revisar a mineração, não explorar a Margem Equatorial e ampliar áreas protegidas.", "fonte": "Plano p.8-9, 11, 14"},
+    "redes": {"v": 2, "nota": "Propõe 'forte regulação' das Big Techs e redes sociais e criação de redes sociais estatais.", "fonte": "Plano p.4, 13"}
+  },
+  "detalhamento": {"nota": 3, "justificativa": "Ações concretas (leis a revogar, órgãos a criar) com algumas metas e prazos (Constituinte em 2 anos, salário mínimo do Dieese em 4 anos, 10% do PIB na saúde), mas sem custos nem fontes de financiamento."},
+  "fontes": [
+    "https://pcb.org.br/portal2/32251",
+    "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-edmilson-costa-pre-candidato-a-presidencia/",
+    "https://mais.opovo.com.br/jornal/politica/2026/08/07/candidato-a-presidencia-do-pcb-destaca-propostas.html"
+  ]
+}

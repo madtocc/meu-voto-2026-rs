@@ -1,0 +1,116 @@
+{
+  "id": "SEN_151",
+  "nome_urna": "RIGOTTO",
+  "resumo": "Ex-governador do RS pelo MDB, apresenta-se como articulador acima de disputas ideológicas. Foca em temas federativos: dívida do RS com a União, ajustes na reforma tributária, fundo constitucional para o Sul e pacto federativo. Também defende o Simples, a tabela SUS e a renegociação de dívidas rurais.",
+  "trajetoria": "Dentista e advogado de Caxias do Sul; vereador, deputado estadual (1983-1991), deputado federal (1991-2003) e governador do RS (2003-2007). Foi líder do governo FHC no Congresso e candidato a vice-presidente em 2018.",
+  "destaques": [
+    "Negociar a prorrogação, por ao menos 36 meses, da suspensão do pagamento da dívida do RS com a União.",
+    "Aperfeiçoar a reforma tributária na implementação, evitando aumento de carga e compensando estados mais frágeis.",
+    "Criar um Fundo Constitucional para o Sul, no modelo proposto pela Fiergs.",
+    "Novo pacto federativo, com mais recursos e autonomia para estados e municípios.",
+    "Aproximar a tabela SUS do custo real dos procedimentos.",
+    "Renegociar dívidas de produtores rurais, com condições especiais para atingidos por eventos climáticos.",
+    "Fortalecer o Simples Nacional e ampliar o limite de faturamento."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Ajustes na reforma tributária para não prejudicar pequenos e médios empreendedores e consumidores.",
+      "Fortalecer o Simples Nacional, ampliar o limite de faturamento, reduzir burocracia e ampliar crédito.",
+      "Renegociar dívidas de produtores rurais com prazos e juros adequados.",
+      "Políticas permanentes de resposta rápida a emergências no campo."
+    ],
+    "Saúde": [
+      "Mecanismos para aproximar a tabela SUS do custo real.",
+      "Apoia prova de proficiência para egressos de Medicina conduzida pelo CFM; critica abertura de cursos sem hospital-escola (debate Amrigs)."
+    ],
+    "Educação": [],
+    "Segurança": [],
+    "Meio ambiente e clima": [
+      "Condições diferenciadas de crédito para produtores atingidos por eventos climáticos extremos."
+    ],
+    "Social e direitos": [
+      "Cita como legado o programa Primeira Infância Melhor (PIM)."
+    ],
+    "Infraestrutura e cidades": [
+      "Mais autonomia e recursos para municípios investirem em infraestrutura."
+    ],
+    "Gestão e Estado": [
+      "Prorrogar a suspensão da dívida do RS e buscar solução definitiva.",
+      "Fundo Constitucional para o Sul.",
+      "Novo pacto federativo.",
+      "Defende que o Senado investigue e decida sobre a situação do ministro Alexandre de Moraes."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "impostos_ricos": {
+      "v": null,
+      "nota": "Sem posição sobre taxar altas rendas; defende evitar aumento da carga tributária na reforma.",
+      "fonte": null
+    },
+    "ajuste_fiscal": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "programas_sociais": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "escala_6x1": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "armas": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "penas": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "aborto": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "anistia_8j": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "stf": {
+      "v": 1,
+      "nota": "Em programa eleitoral, disse que a situação de Alexandre de Moraes 'se tornou insustentável' e que o Senado precisa 'agir, investigar e decidir'. Não propôs mudanças nos poderes do STF.",
+      "fonte": "https://www.youtube.com/watch?v=yzban7P3BSM"
+    },
+    "ambiente": {
+      "v": null,
+      "nota": "Sem posição sobre restrições ambientais; defende políticas permanentes para o agro diante de secas e enchentes.",
+      "fonte": null
+    },
+    "redes": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://rigottosenador151.com.br/",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://pt.wikipedia.org/wiki/Germano_Rigotto",
+    "https://www.youtube.com/watch?v=yzban7P3BSM",
+    "https://www.youtube.com/watch?v=iUHJH47Fdgg",
+    "https://www.youtube.com/watch?v=-Y1gO1kj85s",
+    "https://www.amrigs.org.br/candidatos-ao-senado-apresentam-propostas-para-a-saude-em-debate-na-amrigs/"
+  ]
+}

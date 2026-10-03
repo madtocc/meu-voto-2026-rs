@@ -1,0 +1,78 @@
+# MARCELO MORAES (2214, PL): histórico parlamentar
+
+Candidato(a) a deputado federal pelo Rio Grande do Sul em 2026. Nome civil: MARCELO PIRES MORAES. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Votações nominais na Câmara dos Deputados (2023-2026)
+- Arcabouço fiscal (PLP 93/2023) (2023-05-23): Não
+- Reforma tributária (PEC 45/2019, 1º turno) (2023-07-06): Não
+- Aumento do número de deputados (PLP 177/2023) (2025-05-06): Não
+- Lei Geral do Licenciamento Ambiental (PL 2159/2021) (2025-07-16): Sim
+- PEC da Blindagem / das Prerrogativas (PEC 3/2021, 1º turno) (2025-09-16): Sim
+- Urgência do PL da Anistia (PL 2162/2023) (2025-09-17): Sim
+- Isenção do IR até R$ 5 mil (PL 1087/2025) (2025-10-01): Sim
+- PL Antifacção (PL 5582/2025) (2025-11-18): Sim
+- PL da Dosimetria (substitutivo ao PL 2162/2023) (2025-12-09): Sim
+- Fim da escala 6x1 (PEC 221/2019, 1º turno) (2026-05-27): Sim
+
+## Atuação na Câmara dos Deputados (coletado em 2026-10-03)
+Comissões: Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural.
+Temas dos projetos apresentados (classificação oficial): Finanças Públicas e Orçamento (5); Administração Pública (3); Agricultura, Pecuária, Pesca e Extrativismo (3); Meio Ambiente e Desenvolvimento Sustentável (3); Economia (2); Cidades e Desenvolvimento Urbano (1); Direitos Humanos e Minorias (1); Indústria, Comércio e Serviços (1); Relações Internacionais e Comércio Exterior (1); Trabalho e Emprego (1).
+
+Frentes parlamentares a que aderiu (assinou a lista de adesão):
+- Frente Parlamentar Brasil - Coréia do Sul
+- Frente Parlamentar Conservadora em Defesa da Liberdade
+- Frente Parlamentar Evangélica do Congresso Nacional
+- Frente Parlamentar Mista Brasil Competitivo
+- Frente Parlamentar Mista da Contabilidade Brasileira (FCB)
+- Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)
+- Frente Parlamentar Mista das Micro e Pequenas Empresas
+- Frente Parlamentar Mista de Combate à Corrupção
+- Frente Parlamentar Mista de Proteção aos Colecionadores, Atiradores Desportivos, Caçadores e Clubes de Tiro
+- Frente Parlamentar Mista do Sistema Penitenciário
+- Frente Parlamentar Mista dos Correspondentes Bancários
+- Frente Parlamentar Mista dos Técnicos Agrícolas
+- Frente Parlamentar Mista em Apoio ao Bambu - Frente do Bambu
+- Frente Parlamentar Mista em Apoio ao Programa Antártico Brasileiro
+- Frente Parlamentar Mista em Defesa da Tradição e Cultura Gaúcha
+- Frente Parlamentar Mista em Defesa das APAES
+- Frente Parlamentar Mista em Defesa das Práticas Integrativas e Complementares em Saúde e da Felicidade – Frente Holística
+- Frente Parlamentar Mista em Defesa do Setor Coureiro - Calçadista
+- Frente Parlamentar Mista em Defesa do Turismo - Frentur
+- Frente Parlamentar Mista em Defesa dos Fretadores - FrenFret
+- Frente Parlamentar Mista em Prol do Semiárido
+- Frente Parlamentar Mista para Garantia do Direito à Identidade
+- Frente Parlamentar Mista para a Defesa e Valorização das Polícias Institucionais
+- Frente Parlamentar Mista pela Duplicação da BR-304 ligando Natal, no Rio Grande do Norte, a Russas, no Ceará
+- Frente Parlamentar Mista pelo Fortalecimento das Relações Comerciais Brasil-Texas
+- Frente Parlamentar Parlamentar Mista da Agricultura Familiar e Desenvolvimento Rural Sustentável (FPAF)
+- Frente Parlamentar da Mineração e Construção Civil
+- Frente Parlamentar da Segurança Pública
+- Frente Parlamentar de Acolhimento e Desenvolvimento Integrado
+- Frente Parlamentar de Combate ao Câncer Infantil
+- Frente Parlamentar de Combate à Ludopatia e de Proteção de Crianças e Adolescentes contra os Riscos das Apostas e Jogos de Azar.
+- Frente Parlamentar em Apoio ao Petróleo, Gás e Energia - FREPPEGEN
+- Frente Parlamentar em Defesa da Duplicação da BR-423 em Pernambuco
+- Frente Parlamentar em Defesa da Educação Sem Doutrinação Ideológica - FPDE
+- Frente Parlamentar em Defesa da Extensão da BR-448
+- Frente Parlamentar em Defesa da Indústria Naval Brasileira
+- Frente Parlamentar em Defesa da Liberdade de Expressão - FPDLE
+- Frente Parlamentar em Defesa da Ética na Saúde Suplementar
+- Frente Parlamentar em Defesa das Cooperativas e Pequenos Laticínios do Brasil com Leite Nacional e da Pecuária Leiteira Brasileira (FPDCPLB)
+- Frente Parlamentar em Defesa do Comércio de Material de Construção
+- Frente Parlamentar em Defesa do Futebol Feminino
+- Frente Parlamentar em Defesa dos Caminhoneiros Autônomos
+- Frente Parlamentar em prol dos Jogos Eletrônicos e Games
+- Frente Parlamentar para o Desenvolvimento Sustentável do Petróleo e Energias Renováveis (FREPER)
+- Frente Parlamentar pela Duplicação da BR-290
+- Frente Parlamentar pelo Fortalecimento do SAMU - Serviço de Atendimento Móvel de Urgência.
+
+Projetos apresentados como primeiro signatário (7 no total):
+- PL 1753/2026: Altera a Lei nº 9.279, de 14 de maio de 1996, que “Regula direitos e obrigações relativos à propriedade industrial”, para fins de dispor sobre a patente em biotecnologia transgênica. https://www.camara.leg.br/propostas-legislativas/2615284
+- PL 4459/2025: Altera a Lei nº 14.981, de 20 de setembro de 2024, para dispor sobre a flexibilização da cláusula de manutenção ou ampliação de empregos nos contratos de financiamento emergencial destinados a empresas situadas em áreas atingidas por calami… https://www.camara.leg.br/propostas-legislativas/2557433
+- PL 716/2025: Autoriza a postergação do pagamento de parcelas vencidas e vincendas em 2025 relativas às operações de crédito rural que especifica. https://www.camara.leg.br/propostas-legislativas/2485611
+- PL 2954/2024: Autoriza a União a anistiar a dívida do Estado do Rio Grande do Sul nas condições que especifica. https://www.camara.leg.br/propostas-legislativas/2449950
+- PL 2764/2024: Autoriza e estabelece diretrizes para o Poder Público federal adquirir alimentos de países estrangeiros para recomposição de estoques públicos em caso de calamidade pública, assegurando prioridade aos produtores nacionais e dá outras provid… https://www.camara.leg.br/propostas-legislativas/2447053
+- PLP 110/2024: Define mecanismo de transferência de recursos da União para Estados e Municípios atingidos por calamidades públicas. https://www.camara.leg.br/propostas-legislativas/2439516
+- PL 2224/2024: Dispõe sobre a isenção da cobrança das faturas de energia elétrica, água, esgoto e telecomunicações para os consumidores domiciliados em regiões afetadas pela calamidade pública reconhecida no Estado do Rio Grande do Sul em maio de 2024. https://www.camara.leg.br/propostas-legislativas/2438686

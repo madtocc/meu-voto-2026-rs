@@ -1,0 +1,94 @@
+{
+  "id": "SEN_455",
+  "nome_urna": "MILTON CARDOSO",
+  "resumo": "Jornalista de São Leopoldo, concorre pela federação PSDB-Cidadania com o slogan 'Senador Coragem'. Há poucas propostas públicas localizadas; no debate da Amrigs, focou na crise da saúde pública e na abertura de cursos de Medicina.",
+  "trajetoria": "Jornalista, nascido em São Leopoldo (1957). Sem cargos eletivos anteriores registrados.",
+  "destaques": [
+    "Critica a crise na saúde pública, com médicos sem receber e concursos com salários baixos.",
+    "Preocupação com a flexibilização do exercício da Medicina e com a abertura de faculdades sem a estrutura necessária.",
+    "Campanha com o slogan 'Senador Coragem'."
+  ],
+  "propostas": {
+    "Economia e emprego": [],
+    "Saúde": [
+      "Critica atrasos de pagamento a médicos e salários baixos em concursos públicos.",
+      "Critica a abertura de faculdades de Medicina sem a estrutura necessária."
+    ],
+    "Educação": [],
+    "Segurança": [],
+    "Meio ambiente e clima": [],
+    "Social e direitos": [],
+    "Infraestrutura e cidades": [],
+    "Gestão e Estado": []
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "impostos_ricos": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "ajuste_fiscal": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "programas_sociais": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "escala_6x1": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "armas": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "penas": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "aborto": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "anistia_8j": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "stf": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "ambiente": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "redes": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://www.amrigs.org.br/candidatos-ao-senado-apresentam-propostas-para-a-saude-em-debate-na-amrigs/",
+    "https://www.jornaldocomercio.com/politica/2026/07/1256805-debate-da-fecomercio-rs-reune-oito-pre-candidatos-ao-senado.html",
+    "https://www.tiktok.com/@miltoncardoso455",
+    "https://www.instagram.com/miltoncardososenadorcoragem/"
+  ]
+}

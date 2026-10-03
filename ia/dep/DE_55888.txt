@@ -1,0 +1,33 @@
+# PROFESSOR BONATTO (55888, PSD): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: VALDIR BONATTO. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+
+Frentes parlamentares que preside:
+- Frente Parlamentar dos Caminhos para mudança do transporte público metropolitano (de Porto Alegre)
+
+Projetos apresentados como primeiro signatário (21 no total):
+- PL 328/2026: Declara o Município de Tucunduva como a “Capital Estadual das Bandinhas” no Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/328/2026/25f4d881-8117-11f1-9441-9221133be28e
+- PL 326/2026: Declara o Município de Tuparendi como a "Capital Estadual do Acordeon" no Estado do Rio Grande do Sul, estabelece diretrizes para a valorização cultural, turística e econômica do instrumento, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/326/2026/ca276182-8085-11f1-9c3b-12b2f7548530
+- PL 303/2026: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/303/2026/40cf69eb-7c87-11f1-9c3b-12b2f7548530
+- PL 243/2026: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/243/2026/5a55e452-6b2b-11f1-adee-8e03df62345f
+- PL 394/2025: Denomina como “Rodovia das margaridas - Jornalista Julieta Amaral”, trecho da rodovia ERS 734, conforme específica. (Tramitação Conclusiva CSSP) https://ww4.al.rs.gov.br/proposicao/PL/394/2025/5fc986c8-a51e-11f0-a992-0242ac130004
+- PL 387/2025: Reconhece a CASA MUSEU DOUTOR CARLOS BARBOSA GONÇALVES, na cidade de Jaguarão, como de relevante interesse cultural, cientifico e histórico do Rio Grande do Sul. (Tramitação Conclusiva CECDCT) https://ww4.al.rs.gov.br/proposicao/PL/387/2025/abaf87ee-a05f-11f0-a992-0242ac130004
+- PL 358/2025: Institui a Política Estadual de Desenvolvimento Sustentável da Cadeia Produtiva da Tilapicultura no Estado do Rio Grande do Sul – TILAPIASUL, dispõe sobre segurança jurídica, incentivos econômicos e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/358/2025/ea951b95-948f-11f0-b541-0242ac170004
+- PL 345/2025: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, incluindo o evento… https://ww4.al.rs.gov.br/proposicao/PL/345/2025/1b014d28-8e85-11f0-ba0e-0242ac130004
+- PL 234/2025: Estabelece requisitos institucionais e de planejamento para que os Municípios do Estado do Rio Grande do Sul acessem recursos financeiros e participem de programas estaduais voltados ao fomento da agricultura e produção sustentável, e dá ou… https://ww4.al.rs.gov.br/proposicao/PL/234/2025/2d078a07-4dea-11f0-8ebc-0242ac130005
+- PL 233/2025: Institui, no âmbito do Estado do Rio Grande do Sul, o Programa Estadual de Incentivo à Suinocultura Sustentável – Leitão Gaúcho, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/233/2025/de70c5b7-4de4-11f0-8ebc-0242ac130005
+- PL 232/2025: Institui o Plano Estadual de Recuperação Ambiental do Vale do Taquari, no âmbito do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/232/2025/4e4b1940-4de1-11f0-8ebc-0242ac130005
+- PL 231/2025: Institui o Programa Estadual “Frango Vida RS” de incentivo à cadeia produtiva da avicultura de corte e postura (ovos) no Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/231/2025/579b4f60-4dde-11f0-8ebc-0242ac130005
+- PL 215/2025: Institui a Política Estadual de Educação Digital no âmbito do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/215/2025/516adf7a-4899-11f0-8ebc-0242ac130005
+- PL 46/2025: Estabelece critérios para concessão de acesso aos sistemas informatizados do DETRAN/RS e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/46/2025/bdf55831-ee03-11ef-9ac3-0242ac1d0005
+- PL 420/2024: Dispõe sobre a Programa Estadual do Mercado Regulado de Créditos de Carbono no Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/420/2024/4130f50b-bd77-11ef-ad27-0242ac1b0007
+- PL 255/2024: Altera a Lei n.º 15.434, de 9 de janeiro de 2020, que institui o Código Estadual do Meio Ambiente do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/255/2024/1a249a63-55c1-11ef-813d-0242ac170004
+- PL 204/2024: Institui o Auxílio Catador no Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/204/2024/639b1747-34c3-11ef-813d-0242ac170004
+- PL 92/2024: Concede ao munícipio de Viamão, o título de Capital da Bubalinocultura, no âmbito do Estado do Rio Grande do Sul. (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/92/2024/87ec8608-f69c-11ee-a33c-0242ac170004
+- PL 89/2024: Declara o Município de Viamão como a "Terra de Oportunidades". (Tramitação conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/89/2024/883359d3-f5bb-11ee-b733-0242ac170004
+- PL 60/2024: Declara o Município de Viamão "A Capital do Beach Tennis". (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/60/2024/4f706367-e60e-11ee-b733-0242ac170004
+- PL 57/2024: Institui regramentos sobre a arquitetura hostil no âmbito do Estado do Rio Grande do Sul e dá outras providências. (Tramitação Conjunta com o PL 21/23) https://ww4.al.rs.gov.br/proposicao/PL/57/2024/4d27c2ae-e55b-11ee-b733-0242ac170004

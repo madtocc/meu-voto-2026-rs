@@ -1,0 +1,140 @@
+{
+  "id": "PRES_13",
+  "nome_urna": "LULA",
+  "resumo": "Plano de continuidade do atual governo, com eixos em combate às desigualdades, soberania nacional e transição ecológica. Propõe manter o arcabouço fiscal, ampliar a proteção social, acabar com a escala 6x1 e reforçar o combate ao crime organizado com integração federativa.",
+  "trajetoria": "Presidente da República em 2003-2010 e desde 2023. Ex-líder sindical metalúrgico, fundador do PT e deputado federal constituinte (1987-1991).",
+  "destaques": [
+    "Fim da escala 6x1 e jornada de 40 horas sem redução salarial (Plano p.75).",
+    "Manter o novo arcabouço fiscal e buscar redução sustentada dos juros com inflação controlada (p.49).",
+    "Criar o Ministério da Segurança Pública após aprovação da PEC da Segurança (p.30).",
+    "Programa Brasil Contra o Crime Organizado com R$ 10 bilhões do FIIS para estados e municípios (p.27-28).",
+    "Desmatamento líquido zero até 2030 (p.70).",
+    "Meta de 80% das crianças alfabetizadas na idade certa e conectividade universal nas escolas (p.31-32).",
+    "Avançar na regulação democrática das redes sociais e plataformas digitais (p.16)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Manter o arcabouço fiscal e o controle do gasto primário, com resultado fiscal via crescimento e justiça tributária (p.49).",
+      "Continuar a política de valorização real do salário mínimo (p.74).",
+      "Fim da escala 6x1 e jornada de 40 horas sem redução salarial; combate à pejotização (p.74-75).",
+      "Aprofundar a Nova Indústria Brasil e criar política para minerais críticos e terras raras com agregação de valor no país (p.50-52)."
+    ],
+    "Saúde": [
+      "Ampliar o Agora Tem Especialistas: terceiro turno, carretas, mutirões e parceria com hospitais privados em troca de créditos (p.37).",
+      "Fila única digital ordenada por risco clínico, com IA, e prontuário único do cidadão (p.35, 38).",
+      "Manter a Farmácia Popular 100% gratuita e incluir exames laboratoriais de doenças crônicas (p.36).",
+      "Ampliar a rede de atenção psicossocial e os CAPS (p.39)."
+    ],
+    "Educação": [
+      "Chegar a 80% das crianças alfabetizadas na idade certa (p.31).",
+      "Prioridade à educação em tempo integral e universalização da conectividade nas escolas (p.31-32).",
+      "Manter e fortalecer o Pé-de-Meia e o Piso Nacional do Magistério (p.32-33).",
+      "Expandir os institutos federais e fazer novo ciclo de interiorização do ensino superior público (p.33)."
+    ],
+    "Segurança": [
+      "Criar o Ministério da Segurança Pública após a PEC da Segurança (p.30).",
+      "Fortalecer o Programa Brasil Contra o Crime Organizado e a asfixia financeira das facções (p.27-28).",
+      "Manter a política de controle de armas e munições e ampliar a rastreabilidade (p.28).",
+      "Ampliar câmeras corporais com padrões nacionais e policiamento de proximidade (p.30)."
+    ],
+    "Meio ambiente e clima": [
+      "Desmatamento líquido zero até 2030 (p.70).",
+      "Cumprir a NDC (redução de 59% a 67% das emissões até 2035 em relação a 2005) e implementar o TFFF (p.69-71).",
+      "Ampliar renováveis e biocombustíveis e acelerar a redução da produção de carvão (p.64-68).",
+      "Institucionalizar a adaptação climática e a prevenção de desastres no planejamento público (p.72-73)."
+    ],
+    "Social e direitos": [
+      "Manter, aperfeiçoar e ampliar o Bolsa Família e as políticas de proteção social (p.18-19).",
+      "Concluir 30 Casas da Mulher Brasileira e 15 Centros de Referência da Mulher (p.21).",
+      "Dar escala à Política Nacional de Cuidados: Cuidotecas, lavanderias públicas e cozinhas solidárias (p.26).",
+      "Continuar demarcação de terras indígenas e titulação de territórios quilombolas (p.20)."
+    ],
+    "Infraestrutura e cidades": [
+      "Nova edição do Novo PAC, com concessões rodoviárias e mais concessões de ferrovias (p.53).",
+      "Manter e ampliar o Minha Casa Minha Vida para todas as faixas de renda (p.45).",
+      "Apoiar estados e municípios na universalização de água e esgoto, priorizando periferias (p.46).",
+      "Reduzir o déficit de fibra óptica (11% dos municípios) e ampliar o 5G no campo (p.55)."
+    ],
+    "Gestão e Estado": [
+      "Debater com a sociedade o atual sistema de emendas parlamentares (p.15-16).",
+      "PPA 2028-2031 participativo e participação social no ciclo orçamentário (p.15).",
+      "Criar a Política Nacional de Letramento Digital e o Conselho Nacional pela Soberania Digital (p.17).",
+      "Evoluir o Portal da Transparência com dados abertos e IA; aprofundar o Plano de Integridade (p.18)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -2,
+      "nota": "Descartou privatizar os Correios; plano prevê Petrobras ampliando atuação, inclusive voltando à distribuição de combustíveis. Mantém concessões de infraestrutura.",
+      "fonte": "Plano p.53, 67 | https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/lula-descarta-privatizacao-dos-correios"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Defende 'colocar o rico no Imposto de Renda'; cita tributação de super-ricos, offshores e fundos exclusivos e isenção até R$ 5 mil.",
+      "fonte": "Plano p.10-11, 19"
+    },
+    "ajuste_fiscal": {
+      "v": -1,
+      "nota": "Mantém o arcabouço fiscal e o controle do gasto, mas sem prejudicar gastos sociais; resultado fiscal via crescimento e justiça tributária, não cortes amplos.",
+      "fonte": "Plano p.10, 49"
+    },
+    "programas_sociais": {
+      "v": 2,
+      "nota": "Propõe manter, aperfeiçoar e ampliar as políticas de proteção social, incluindo o Bolsa Família.",
+      "fonte": "Plano p.18-19"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Compromete-se com o fim da escala 6x1 e jornada de 40 horas sem redução salarial.",
+      "fonte": "Plano p.75"
+    },
+    "armas": {
+      "v": -2,
+      "nota": "Defende manter a política de controle de armas e munições e a revogação dos decretos que facilitavam o acesso.",
+      "fonte": "Plano p.28"
+    },
+    "penas": {
+      "v": 0,
+      "nota": "Sancionou a Lei Antifacção, com penas de até 40 anos para líderes de facções; sobre maioridade penal, o PT se opõe à redução e o governo passou a admitir consulta popular.",
+      "fonte": "Plano p.27 | https://www.poder360.com.br/brasil/lula-sanciona-pl-antifaccao-com-veto-e-sem-alcolumbre-no-planalto/ | https://www.folhape.com.br/noticia/amp/466999/governo-muda-tom-sobre-reducao-da-maioridade-penal-e-tenta-novo-folego/"
+    },
+    "aborto": {
+      "v": 0,
+      "nota": "Diz ser pessoalmente contra o aborto, mas defende tratá-lo como questão de saúde pública; plano cita 'direitos sexuais e reprodutivos' sem propor mudança na lei.",
+      "fonte": "Plano p.21 | https://www.congressoemfoco.com.br/area/governo/lula-volta-a-criticar-pl-do-estupro-e-defende-que-aborto-seja-tratado-como-questao-de-saude-publica/"
+    },
+    "anistia_8j": {
+      "v": -2,
+      "nota": "Vetou integralmente o PL da Dosimetria em janeiro de 2026 (veto derrubado pelo Congresso em abril); plano chama o 8/1 de tentativa golpista.",
+      "fonte": "Plano p.8 | https://www.congressoemfoco.com.br/noticia/118503/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria"
+    },
+    "stf": {
+      "v": -1,
+      "nota": "Plano propõe diálogo com o Judiciário respeitando a autonomia dos Poderes, sem limitar o STF; aliados atuaram contra a PEC das decisões monocráticas.",
+      "fonte": "Plano p.16 | https://jovempan.com.br/noticias/politica/aliados-de-lula-atuam-para-derrotar-pec-que-limita-poderes-do-stf-mas-querem-evitar-desgaste-em-caso-de-derrota.html"
+    },
+    "ambiente": {
+      "v": 1,
+      "nota": "Meta de desmatamento líquido zero até 2030 e vetos a 63 dispositivos da lei de licenciamento; plano também prevê expansão da exploração de petróleo e apoio ao agronegócio.",
+      "fonte": "Plano p.61, 67, 70 | https://www.camara.leg.br/noticias/1186832-LULA-SANCIONA-NOVO-LICENCIAMENTO-AMBIENTAL-COM-63-VETOS"
+    },
+    "redes": {
+      "v": 2,
+      "nota": "Defende avançar na regulação democrática das redes sociais e plataformas para impedir desinformação e campanhas de ódio.",
+      "fonte": "Plano p.16, 82"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Ações concretas e programas nomeados em todas as áreas, com algumas metas quantificadas (alfabetização, desmatamento, NDC), mas a maioria sem prazos, custos ou fontes."
+  },
+  "fontes": [
+    "https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/lula-descarta-privatizacao-dos-correios",
+    "https://www.poder360.com.br/brasil/lula-sanciona-pl-antifaccao-com-veto-e-sem-alcolumbre-no-planalto/",
+    "https://www.folhape.com.br/noticia/amp/466999/governo-muda-tom-sobre-reducao-da-maioridade-penal-e-tenta-novo-folego/",
+    "https://www.congressoemfoco.com.br/area/governo/lula-volta-a-criticar-pl-do-estupro-e-defende-que-aborto-seja-tratado-como-questao-de-saude-publica/",
+    "https://www.congressoemfoco.com.br/noticia/118503/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria",
+    "https://jovempan.com.br/noticias/politica/aliados-de-lula-atuam-para-derrotar-pec-que-limita-poderes-do-stf-mas-querem-evitar-desgaste-em-caso-de-derrota.html",
+    "https://www.camara.leg.br/noticias/1186832-LULA-SANCIONA-NOVO-LICENCIAMENTO-AMBIENTAL-COM-63-VETOS"
+  ]
+}

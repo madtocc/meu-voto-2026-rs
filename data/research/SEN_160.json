@@ -1,0 +1,107 @@
+{
+  "id": "SEN_160",
+  "nome_urna": "DANIELA MULHERES SOCIALISTAS",
+  "resumo": "Advogada de Porto Alegre, candidata do PSTU com nome de urna ligado ao coletivo Mulheres Socialistas. Não foram localizadas propostas próprias; as posições abaixo vêm do programa nacional do PSTU, que defende ruptura com o capitalismo, reestatizações e o fim da escala 6x1.",
+  "trajetoria": "Advogada, nascida em Porto Alegre (1977). Sem cargos eletivos anteriores registrados.",
+  "destaques": [
+    "Fim da escala 6x1 e jornada de 36 horas sem redução salarial (programa do PSTU).",
+    "Aborto legal, seguro e gratuito pelo SUS (programa do PSTU).",
+    "Reestatização de empresas estratégicas e Petrobras 100% estatal (programa do PSTU).",
+    "Taxação fortemente progressiva sobre lucros de grandes empresas (programa do PSTU).",
+    "Fim da Lei de Responsabilidade Fiscal e suspensão da dívida pública aos grandes investidores (programa do PSTU)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Fim da escala 6x1 e jornada de 36 horas sem redução salarial (programa do PSTU).",
+      "Reestatizar empresas estratégicas e Petrobras 100% estatal sob controle dos trabalhadores (programa do PSTU).",
+      "Taxação fortemente progressiva sobre lucros de empresas bilionárias e fim da Lei de Responsabilidade Fiscal (programa do PSTU)."
+    ],
+    "Saúde": [],
+    "Educação": [],
+    "Segurança": [
+      "Desmilitarização da PM e contra o encarceramento em massa (programa do PSTU)."
+    ],
+    "Meio ambiente e clima": [
+      "Fim dos agrotóxicos e veto ao petróleo na Margem Equatorial (programa do PSTU)."
+    ],
+    "Social e direitos": [
+      "Aborto legal, seguro e gratuito pelo SUS (programa do PSTU).",
+      "Bolsa de um salário mínimo para desempregados (programa do PSTU)."
+    ],
+    "Infraestrutura e cidades": [],
+    "Gestão e Estado": [
+      "Conselhos populares no lugar das instituições atuais (programa do PSTU)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -2,
+      "nota": "Posição do partido: defende expropriar e reestatizar empresas de mineração, petróleo, energia e siderurgia, Petrobras 100% estatal e proibição de privatizar empresas estratégicas.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.5, 25"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Posição do partido: defende tributação fortemente progressiva sobre lucros, taxação de remessas ao exterior e imposto sobre fortunas acima de R$ 1 bilhão.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.5, 26"
+    },
+    "ajuste_fiscal": {
+      "v": -2,
+      "nota": "Posição do partido: defende o fim da Lei de Responsabilidade Fiscal e a suspensão do pagamento da dívida pública aos grandes investidores; critica o arcabouço fiscal.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.3, 27"
+    },
+    "programas_sociais": {
+      "v": 2,
+      "nota": "Posição do partido: considera o Bolsa Família 'bastante insuficiente' e propõe bolsa de um salário mínimo para desempregados enquanto não houver pleno emprego.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.1, 7"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Posição do partido: fim da escala 6x1 e redução da jornada para 36 horas sem redução de salário.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.7"
+    },
+    "armas": {
+      "v": 0,
+      "nota": "Posição do partido: plano defende estimular a 'autodefesa' organizada dos trabalhadores, mas não trata de facilitar posse ou porte individual de armas.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.19"
+    },
+    "penas": {
+      "v": -2,
+      "nota": "Posição do partido: contra a redução da maioridade penal; defende desencarceramento em massa e descriminalização das drogas.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.18, 20"
+    },
+    "aborto": {
+      "v": 2,
+      "nota": "Posição do partido: defende aborto legal, seguro e gratuito pelo SUS.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.22"
+    },
+    "anistia_8j": {
+      "v": -2,
+      "nota": "Posição do partido: plano não trata do tema; o PSTU defende 'sem anistia' aos golpistas e critica o PL da Dosimetria.",
+      "fonte": "programa do partido: https://www.opiniaosocialista.com.br/escandalo-por-debaixo-dos-panos-pt-participa-de-acordao-para-votar-anistia-a-golpistas/"
+    },
+    "stf": {
+      "v": 0,
+      "nota": "Posição do partido: critica o Judiciário como protetor dos ricos e propõe outro Estado baseado em conselhos populares; não propõe medidas específicas sobre o STF.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.31"
+    },
+    "ambiente": {
+      "v": 2,
+      "nota": "Posição do partido: defende fim de subsídios ao grande agronegócio, expropriação de grandes propriedades, fim dos agrotóxicos e veto ao petróleo na Margem Equatorial.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.14-17"
+    },
+    "redes": {
+      "v": 2,
+      "nota": "Posição do partido: defende responsabilizar plataformas que lucram com ódio contra mulheres e por fraudes, transparência e auditoria pública de algoritmos.",
+      "fonte": "programa do partido: Plano PSTU/TSE (Hertz Dias) p.8, 19, 22"
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "Plano de governo PSTU/Hertz Dias (TSE) — prop_br/BR/2026BR280002541457_01.pdf",
+    "https://www.pstu.org.br/sem-anistia-para-golpistas-investigacao-ate-o-final-e-punicao-exemplar/",
+    "https://www.opiniaosocialista.com.br/escandalo-por-debaixo-dos-panos-pt-participa-de-acordao-para-votar-anistia-a-golpistas/",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://www.instagram.com/coletiva_senadors/",
+    "https://www.facebook.com/danielamaidana.adv/"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "GOV_15",
+  "nome_urna": "GABRIEL SOUZA",
+  "resumo": "Candidatura de continuidade do governo Eduardo Leite, do qual é vice. O plano se organiza em quatro eixos: cuidar das contas, cuidar das pessoas, desenvolvimento e liberdade econômica, e resiliência climática. Propõe manter o equilíbrio fiscal, aderir ao Propag e ampliar programas já em execução.",
+  "trajetoria": "Vice-governador do RS desde 2023, no governo Eduardo Leite. Foi deputado estadual por dois mandatos (2015-2022), líder do governo Sartori na Assembleia e presidente da Assembleia Legislativa em 2021.",
+  "destaques": [
+    "Manter a alíquota modal do ICMS em 17% (Plano p.10).",
+    "Aderir ao Propag e pedir à União a prorrogação da suspensão da dívida e do Funrigs (p.9).",
+    "Usar a adesão ao Propag para o \"maior programa de ensino técnico da história\" (p.16).",
+    "Criar o Reassentar RS, programa permanente de reassentamento de famílias em áreas de enchente e deslizamento (p.26).",
+    "Ampliar obras de proteção contra cheias com recursos do FIRECE (p.58).",
+    "Instituir o Plano Safra Gaúcho como política agrícola estadual permanente (p.44).",
+    "Criar o IPVA Verde, com critérios ambientais e incentivo à renovação da frota de carga (p.9)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Manter o ICMS em 17%, preparar o Estado para a reforma tributária e fortalecer o Devolve ICMS (p.9-10).",
+      "Aprimorar incentivos fiscais e criar fundos de desenvolvimento que substituam aos poucos os incentivos tradicionais (p.9-10).",
+      "Criar o Conselho de Competitividade com o setor produtivo e integrar Invest RS, Banrisul, BRDE e Badesul na atração de investimentos (p.41).",
+      "Instituir o Plano Safra Gaúcho e ampliar Irriga+ e Operação Terra Forte (p.44)."
+    ],
+    "Saúde": [
+      "Reduzir filas de consultas, exames e cirurgias com gestão regional das filas e mais oferta especializada (p.18).",
+      "Aprimorar SUS Gaúcho, Assistir e regionalização para dar sustentabilidade aos hospitais (p.18).",
+      "Ampliar Saúde 60+, TEAcolhe, rede de saúde mental (RAPS) e telemedicina (p.18-19)."
+    ],
+    "Educação": [
+      "Expandir o ensino técnico com recursos do Propag, com estágio e Jovem Aprendiz (p.16).",
+      "Fortalecer a alfabetização (Alfabetiza Tchê) e ampliar a educação integral nos anos finais e no ensino médio (p.15).",
+      "Manter o Todo Jovem na Escola (bolsa de permanência) e adaptar a infraestrutura escolar ao clima (p.16).",
+      "Criar 80 mil vagas de ensino técnico com recursos da renegociação da dívida (entrevista ao Estadão, 20/08/2026)."
+    ],
+    "Segurança": [
+      "Manter e ampliar o RS Seguro, com gestão por dados e integração das forças (p.20).",
+      "Recompor efetivos, ampliar tecnologia (IA, drones, videomonitoramento) e policiamento de proximidade (p.20-21).",
+      "Restabelecer o Gabinete de Gestão Integrada de Fronteira e reforçar o combate a crimes rurais (p.21).",
+      "Ampliar vagas prisionais nas regiões com déficit e o programa Presença Plena (p.22-23)."
+    ],
+    "Meio ambiente e clima": [
+      "Obras de proteção contra cheias com o FIRECE e Plano Estadual de Segurança Hídrica, com foco em barragens (p.57-58).",
+      "Ampliar monitoramento e alertas à população e financiar de forma permanente as Defesas Civis municipais (p.55-56).",
+      "Regulamentar o Plano de Ação Climática (PLAC-RS) e criar instrumento permanente de financiamento para adaptação (p.53-54).",
+      "Plano de Transição Energética Justa para regiões carboníferas e Plano Estadual de Mineração, incluindo terras raras (p.59)."
+    ],
+    "Social e direitos": [
+      "Ampliar o cofinanciamento do SUAS e o programa Família Gaúcha (p.24-25).",
+      "Criar política estadual de cuidado à pessoa idosa, com expansão dos Centros Dia (p.36).",
+      "Fortalecer o combate ao feminicídio e a rede de proteção à mulher (p.21, 33).",
+      "Manter políticas para população LGBTQIA+, igualdade racial e redução de danos (p.28)."
+    ],
+    "Infraestrutura e cidades": [
+      "Reassentar RS e ampliação de A Casa é Sua e Porta de Entrada, com foco em áreas atingidas por enchentes (p.26).",
+      "Concluir acessos asfálticos municipais e criar programa de pontes estratégicas (p.49-50).",
+      "Logística multimodal com ferrovias, hidrovias e aeroportos regionais; agilizar Porto Meridional e Aeroporto de Vila Oliva (p.49-50).",
+      "Viabilizar um Centro de Convenções em Porto Alegre (p.52)."
+    ],
+    "Gestão e Estado": [
+      "Gestão por resultados, governo digital e uso de IA na administração (p.7).",
+      "Mutirões de licenciamento e banco de projetos para municípios (p.11).",
+      "Defender o Fundo Constitucional do Sul e Sudeste e reduzir o estoque de precatórios (p.9)."
+    ]
+  },
+  "posicoes": {
+    "banrisul": {
+      "v": -2,
+      "nota": "Defende manter o Banrisul público, com gestão técnica e dividendos para políticas públicas; diz que o banco está em \"cenário diferente\" das estatais vendidas.",
+      "fonte": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-gabriel-souza-se-contrapoe-a-venda-do-banrisul-cenario-diferente/ | Plano p.40-41"
+    },
+    "concessoes": {
+      "v": 1,
+      "nota": "Defende as privatizações de CEEE e Corsan (votou a favor da CEEE em 2019), mas não a do Banrisul. O plano propõe aperfeiçoar as concessões rodoviárias existentes e dar segurança regulatória a concessões e PPPs.",
+      "fonte": "Plano p.8, 50 | https://www.cnnbrasil.com.br/eleicoes/a-cnn-gabriel-souza-se-contrapoe-a-venda-do-banrisul-cenario-diferente/ | https://www.cut.org.br/noticias/36-deputados-que-votaram-a-favor-da-privatizacao-da-ceee-sao-candidatos-no-rs-e1ac"
+    },
+    "icms": {
+      "v": 0,
+      "nota": "Promete manter a alíquota modal em 17%; destaca reduções já feitas, mas não propõe novo corte.",
+      "fonte": "Plano p.8, 10"
+    },
+    "incentivos": {
+      "v": 1,
+      "nota": "Defende aprimorar os incentivos fiscais; prevê revisá-los e substituí-los aos poucos por fundos e novos instrumentos com a reforma tributária.",
+      "fonte": "Plano p.9-10"
+    },
+    "servidores": {
+      "v": 0,
+      "nota": "Promete manter o piso do magistério e não fazer novas reformas de carreira; não promete reajuste acima da inflação. Plano fala em valorização ligada a desempenho.",
+      "fonte": "Plano p.7, 20 | https://portalarauto.com.br/30-09-2026/gabriel-souza-cita-cadeia-do-tabaco-e-promete-avancos-em-saude-infraestrutura-e-educacao/"
+    },
+    "civico_militar": null,
+    "licenciamento": {
+      "v": 1,
+      "nota": "Propõe mutirões para destravar licenças, simplificar licenciamentos e avaliar redução de custos; diz não comprometer padrões ambientais.",
+      "fonte": "Plano p.11, 41, 58, 60"
+    },
+    "divida_uniao": {
+      "v": 0,
+      "nota": "Defende aderir ao Propag (tirar juros e manter correção) e prorrogar a suspensão; critica \"juros sobre juros\", mas descarta perdão e não propõe auditoria. Vê o RRF como acerto.",
+      "fonte": "Plano p.8-9 | https://www.terra.com.br/noticias/brasil/politica/rs-gabriel-souza-quer-aderir-ao-propag-e-prorrogar-suspensao-da-divida-de-r-100-bi-com-uniao,71b8c4f3b4784a50c8c052d4f98a340eu6f4tlc2.html"
+    },
+    "seguranca_dura": {
+      "v": 0,
+      "nota": "Prioriza governança do RS Seguro, inteligência, tecnologia e policiamento de proximidade; também prevê mais vagas prisionais.",
+      "fonte": "Plano p.20-23"
+    }
+  },
+  "detalhamento": {
+    "nota": 2,
+    "justificativa": "Lista ações e programas nomeados por área, mas quase sem metas numéricas ou prazos para 2027-2030 (os números citados são do governo atual)."
+  },
+  "fontes": [
+    "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-gabriel-souza-pre-candidato-ao-governo-do-rs/",
+    "https://www.cnnbrasil.com.br/eleicoes/a-cnn-gabriel-souza-se-contrapoe-a-venda-do-banrisul-cenario-diferente/",
+    "https://www.terra.com.br/noticias/brasil/politica/rs-gabriel-souza-quer-aderir-ao-propag-e-prorrogar-suspensao-da-divida-de-r-100-bi-com-uniao,71b8c4f3b4784a50c8c052d4f98a340eu6f4tlc2.html",
+    "https://portalarauto.com.br/30-09-2026/gabriel-souza-cita-cadeia-do-tabaco-e-promete-avancos-em-saude-infraestrutura-e-educacao/",
+    "https://www.cut.org.br/noticias/36-deputados-que-votaram-a-favor-da-privatizacao-da-ceee-sao-candidatos-no-rs-e1ac"
+  ]
+}

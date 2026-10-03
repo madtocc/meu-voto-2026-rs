@@ -1,0 +1,252 @@
+# ZUCCO (22, PL): histórico parlamentar
+
+Candidato(a) a governador pelo Rio Grande do Sul em 2026. Nome civil: LUCIANO LORENZINI ZUCCO. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Votações nominais na Câmara dos Deputados (2023-2026)
+- Arcabouço fiscal (PLP 93/2023) (2023-05-23): Não
+- Reforma tributária (PEC 45/2019, 1º turno) (2023-07-06): Não
+- Aumento do número de deputados (PLP 177/2023) (2025-05-06): Não
+- Lei Geral do Licenciamento Ambiental (PL 2159/2021) (2025-07-16): Sim
+- PEC da Blindagem / das Prerrogativas (PEC 3/2021, 1º turno) (2025-09-16): Sim
+- Urgência do PL da Anistia (PL 2162/2023) (2025-09-17): Sim
+- Isenção do IR até R$ 5 mil (PL 1087/2025) (2025-10-01): Sim
+- PL Antifacção (PL 5582/2025) (2025-11-18): Sim
+- PL da Dosimetria (substitutivo ao PL 2162/2023) (2025-12-09): Sim
+- Fim da escala 6x1 (PEC 221/2019, 1º turno) (2026-05-27): Sim
+
+## Atuação na Câmara dos Deputados (coletado em 2026-10-03)
+Temas dos projetos apresentados (classificação oficial): Defesa e Segurança (12); Direito Penal e Processual Penal (9); Direitos Humanos e Minorias (9); Administração Pública (8); Finanças Públicas e Orçamento (7); Educação (5); Meio Ambiente e Desenvolvimento Sustentável (5); Saúde (5); Cidades e Desenvolvimento Urbano (4); Esporte e Lazer (3); Agricultura, Pecuária, Pesca e Extrativismo (2); Comunicações (2); Direito Civil e Processual Civil (2); Economia (2); Homenagens e Datas Comemorativas (2); Trabalho e Emprego (2); Arte, Cultura e Religião (1); Direito e Justiça (1); Energia, Recursos Hídricos e Minerais (1); Estrutura Fundiária (1); Indústria, Comércio e Serviços (1); Previdência e Assistência Social (1); Viação, Transporte e Mobilidade (1).
+
+Frentes parlamentares a que aderiu (assinou a lista de adesão):
+- Frente Parlamentar Brasil - Coréia do Sul
+- Frente Parlamentar Brasil - Israel
+- Frente Parlamentar Brasil - Líbano
+- Frente Parlamentar Brasil Singapura
+- Frente Parlamentar Brasil-China
+- Frente Parlamentar Brasil-EUA
+- Frente Parlamentar Católica Apostólica Romana
+- Frente Parlamentar Conservadora em Defesa da Liberdade
+- Frente Parlamentar Contra o Abuso e Exploração Sexual de Crianças e Adolescentes
+- Frente Parlamentar Evangélica do Congresso Nacional
+- Frente Parlamentar Mista Brasil - Itália
+- Frente Parlamentar Mista Brasil Competitivo
+- Frente Parlamentar Mista Cristã e em Defesa da Religião
+- Frente Parlamentar Mista Municipalista
+- Frente Parlamentar Mista PROSUL
+- Frente Parlamentar Mista contra o Aborto e em Defesa da Vida
+- Frente Parlamentar Mista da Agricultura Familiar
+- Frente Parlamentar Mista da Aquicultura e Pesca
+- Frente Parlamentar Mista da Causa QESA
+- Frente Parlamentar Mista da Contabilidade Brasileira (FCB)
+- Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)
+- Frente Parlamentar Mista da Energia Limpa
+- Frente Parlamentar Mista da Indústria
+- Frente Parlamentar Mista da Inovação e Tecnologias em Saúde para Doenças Raras
+- Frente Parlamentar Mista da Ligação Seca Santos-Guarujá
+- Frente Parlamentar Mista da Medicina
+- Frente Parlamentar Mista da Mineração Sustentável
+- Frente Parlamentar Mista da Mulher Catadora
+- Frente Parlamentar Mista da Primeira Infância
+- Frente Parlamentar Mista da Saúde Digital
+- Frente Parlamentar Mista da Tecnologia e Atividades Nucleares (FPN)
+- Frente Parlamentar Mista das Micro e Pequenas Empresas
+- Frente Parlamentar Mista das Profissões do Sistema Confea/Crea e Mútua
+- Frente Parlamentar Mista de Apoio e Fortalecimento das Defensorias Públicas dos Estados e da União
+- Frente Parlamentar Mista de Combate à Corrupção
+- Frente Parlamentar Mista de Combate às Drogas
+- Frente Parlamentar Mista de Fiscalização, Integridade e Transparência - FIT
+- Frente Parlamentar Mista de Logística e Infraestrutura – Frenlogi
+- Frente Parlamentar Mista de Portos e Aeroportos
+- Frente Parlamentar Mista de Proteção aos Colecionadores, Atiradores Desportivos, Caçadores e Clubes de Tiro
+- Frente Parlamentar Mista de Telecomunicações e Soluções Digitais.
+- Frente Parlamentar Mista do Biodiesel - FPBio
+- Frente Parlamentar Mista do Cooperativismo de Seguros e do Mutualismo de Proteção Patrimonial - FREPAM
+- Frente Parlamentar Mista do Desenvolvimento Tecnológico e Cultural do Brasil e Coreia do Sul
+- Frente Parlamentar Mista do Empreendedorismo - FPE
+- Frente Parlamentar Mista do Rodeio, da Vaquejada e das Provas Equestres
+- Frente Parlamentar Mista do Setor de Serviços - FPS
+- Frente Parlamentar Mista do Sistema Penitenciário
+- Frente Parlamentar Mista do Transporte Público
+- Frente Parlamentar Mista dos Estados da Amazônia Legal
+- Frente Parlamentar Mista dos Lojistas e Lojistas de Shoppings Centers
+- Frente Parlamentar Mista dos Portos Nacionais
+- Frente Parlamentar Mista dos Técnicos Agrícolas
+- Frente Parlamentar Mista em Apoio ao Acolhimento Humanitário de Migrantes Transnacionais e Refugiados
+- Frente Parlamentar Mista em Apoio ao Bambu - Frente do Bambu
+- Frente Parlamentar Mista em Apoio aos Consórcios Públicos
+- Frente Parlamentar Mista em Defesa da Advocacia
+- Frente Parlamentar Mista em Defesa da Criança, do Adolescentes e dos Conselhos Tutelares
+- Frente Parlamentar Mista em Defesa da Desoneração da Folha de Pagamento
+- Frente Parlamentar Mista em Defesa da Doação de Órgãos e Tecidos
+- Frente Parlamentar Mista em Defesa da Indústria e Comércio de Moto Peças
+- Frente Parlamentar Mista em Defesa da Lavoura Cacaueira, da CEPLAC e do Cacau Cabruca
+- Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria
+- Frente Parlamentar Mista em Defesa da Tradição e Cultura Gaúcha
+- Frente Parlamentar Mista em Defesa da Transição Climática Justa
+- Frente Parlamentar Mista em Defesa da União Nacional dos Legisladores e Legislativos Estaduais
+- Frente Parlamentar Mista em Defesa das APAES
+- Frente Parlamentar Mista em Defesa das Práticas Integrativas e Complementares em Saúde e da Felicidade – Frente Holística
+- Frente Parlamentar Mista em Defesa do Consumidor
+- Frente Parlamentar Mista em Defesa do Empreendedorismo Rural
+- Frente Parlamentar Mista em Defesa do Ensino Técnico e Profissionalizante - Frente do Ensino Técnico
+- Frente Parlamentar Mista em Defesa do Saneamento Básico
+- Frente Parlamentar Mista em Defesa do Serviço Público
+- Frente Parlamentar Mista em Defesa do Setor Coureiro - Calçadista
+- Frente Parlamentar Mista em Defesa dos Aposentados e Pensionistas
+- Frente Parlamentar Mista em Defesa dos Cuidados Paliativos
+- Frente Parlamentar Mista em Defesa dos Municípios Sedes de Usinas Hidroelétricas e Alagados
+- Frente Parlamentar Mista em Defesa dos Serviços de Saúde
+- Frente Parlamentar Mista em Defesa dos Vereadores e das Câmaras Municipais
+- Frente Parlamentar Mista em Defesa e Valorização dos Servidores da Segurança Pública Civil
+- Frente Parlamentar Mista em Prol da Luta Contra o Câncer
+- Frente Parlamentar Mista em Prol da Saúde 4.0 e do Acesso e Uso Racional de Equipamentos e Dispositivos Médicos - FPMedTEC
+- Frente Parlamentar Mista em Prol do Combate às Doenças Cardiovasculares
+- Frente Parlamentar Mista em Prol do Semiárido
+- Frente Parlamentar Mista em prol da Luta pela Prevenção de Cegueira - FPPC
+- Frente Parlamentar Mista em prol da Saúde do Sono - FPMSSono.
+- Frente Parlamentar Mista para a Defesa e Valorização das Polícias Institucionais
+- Frente Parlamentar Mista para o Desenvolvimento da Indústria Elétrica e Eletrônica
+- Frente Parlamentar Mista para o Desenvolvimento da Navegação Interior
+- Frente Parlamentar Mista pela Democratização do Crédito e Serviços Financeiros
+- Frente Parlamentar Mista pela Duplicação da BR-304 ligando Natal, no Rio Grande do Norte, a Russas, no Ceará
+- Frente Parlamentar Mista pela Inclusão e Qualidade na Educação Particular - FPeduQ
+- Frente Parlamentar Mista pela Inovação na Bioeconomia - FPBioeconomia
+- Frente Parlamentar Mista pela Mulher Empreendedora
+- Frente Parlamentar Mista pela Transparência Pública
+- Frente Parlamentar Mista pelo Fortalecimento das Relações Comerciais Brasil-Texas
+- Frente Parlamentar Mista pelo Livre Mercado - FPLM
+- Frente Parlamentar da Agropecuária - FPA
+- Frente Parlamentar da Baixada Fluminense do Rio de Janeiro
+- Frente Parlamentar da Ciência, Tecnologia, Pesquisa e Inovação
+- Frente Parlamentar da Juventude
+- Frente Parlamentar da Mineração e Construção Civil
+- Frente Parlamentar da Nefrologia (FPN)
+- Frente Parlamentar da Neurodiversidade
+- Frente Parlamentar da Odontologia
+- Frente Parlamentar da Segurança Pública
+- Frente Parlamentar da Telemedicina
+- Frente Parlamentar das Cooperativas de Transportes Rodoviário de Cargas - FreCoopTRC
+- Frente Parlamentar das Defensorias Públicas
+- Frente Parlamentar de Acolhimento e Desenvolvimento Integrado
+- Frente Parlamentar de Apoio ao Empreendedorismo do Jovem Aprendiz
+- Frente Parlamentar de Apoio às Santas Casas, Hospitais e Entidades Filantrópicas
+- Frente Parlamentar de Combate ao Câncer Infantil
+- Frente Parlamentar de Combate à Ludopatia e de Proteção de Crianças e Adolescentes contra os Riscos das Apostas e Jogos de Azar.
+- Frente Parlamentar de Cuidado das Mães de Crianças e Adolescentes com Deficiência, Autismo e Doenças Raras
+- Frente Parlamentar de Enfrentamento à Pedofilia
+- Frente Parlamentar de Gestão de Riscos e Desastres
+- Frente Parlamentar de Infraestrutura Logística
+- Frente Parlamentar de Prevenção de Desastres e Apoio Humanitário
+- Frente Parlamentar de Prevenção de Doenças Pulmonares Graves
+- Frente Parlamentar de Proteção às Pessoas com Transtorno do Espectro Autista
+- Frente Parlamentar de Valorização do Clínico e Resgate da Identidade Médica
+- Frente Parlamentar do Café
+- Frente Parlamentar do Congresso Nacional BRICS
+- Frente Parlamentar do Cooperativismo (Frencoop)
+- Frente Parlamentar do Desporto Escolar
+- Frente Parlamentar do Empreendedorismo Paulista
+- Frente Parlamentar do Etanol
+- Frente Parlamentar do Norte
+- Frente Parlamentar do Programa Nacional de Imunizações
+- Frente Parlamentar dos Portos Nacionais e Transportes Aquaviários
+- Frente Parlamentar dos Recicladores do Brasil
+- Frente Parlamentar em Apoio ao Petróleo, Gás e Energia - FREPPEGEN
+- Frente Parlamentar em Apoio ao Produtor de Leite
+- Frente Parlamentar em Defesa da BR-319, ligando Manaus, no Amazonas, a Porto Velho, em Rondônia
+- Frente Parlamentar em Defesa da BR-364
+- Frente Parlamentar em Defesa da Cadeia Produtiva da Reciclagem no Brasil
+- Frente Parlamentar em Defesa da Duplicação da BR - 235
+- Frente Parlamentar em Defesa da Duplicação da BR-423 em Pernambuco
+- Frente Parlamentar em Defesa da Educação Sem Doutrinação Ideológica - FPDE
+- Frente Parlamentar em Defesa da Empreendedora e Microempreendedora no Mercado Formal, Informal e E-commerce
+- Frente Parlamentar em Defesa da Extensão da BR-448
+- Frente Parlamentar em Defesa da Indústria Naval Brasileira
+- Frente Parlamentar em Defesa da Liberdade de Expressão - FPDLE
+- Frente Parlamentar em Defesa da Oftalmologia - FPOF
+- Frente Parlamentar em Defesa da Polícia Federal
+- Frente Parlamentar em Defesa da Polícia Judiciária (Civil)
+- Frente Parlamentar em Defesa da Polícia Penal
+- Frente Parlamentar em Defesa da Radiodifusão
+- Frente Parlamentar em Defesa da Regularização Fundiária Rural no Brasil
+- Frente Parlamentar em Defesa da Saúde Mental e Emocional
+- Frente Parlamentar em Defesa da Vida e da Família
+- Frente Parlamentar em Defesa da Ética na Saúde Suplementar
+- Frente Parlamentar em Defesa das Bacias Hidrográficas Brasileiras
+- Frente Parlamentar em Defesa das Cirurgias Eletivas
+- Frente Parlamentar em Defesa das Comunidades Terapêuticas
+- Frente Parlamentar em Defesa das Cooperativas e Pequenos Laticínios do Brasil com Leite Nacional e da Pecuária Leiteira Brasileira (FPDCPLB)
+- Frente Parlamentar em Defesa das Estradas e Rodovias
+- Frente Parlamentar em Defesa das Guardas Municipais
+- Frente Parlamentar em Defesa das Pessoas com Doenças Reumáticas
+- Frente Parlamentar em Defesa do Benefício de Prestação Continuada (BPC)
+- Frente Parlamentar em Defesa do Ciclista
+- Frente Parlamentar em Defesa do Comércio de Material de Construção
+- Frente Parlamentar em Defesa do Comércio e Serviços - FCS
+- Frente Parlamentar em Defesa do Esporte Escolar e Universitário
+- Frente Parlamentar em Defesa do Fomento ao Empreendedorismo da Juventude
+- Frente Parlamentar em Defesa do Futebol Feminino
+- Frente Parlamentar em Defesa do Secretário Parlamentar e Cargos de Natureza Especiais
+- Frente Parlamentar em Defesa do Sistema de Modelagem da Informação da Construção (FPBIM)
+- Frente Parlamentar em Defesa dos Caminhoneiros Autônomos
+- Frente Parlamentar em Defesa dos Conselheiros Tutelares
+- Frente Parlamentar em Defesa dos Direitos das Pessoas com Deficiência
+- Frente Parlamentar em Defesa dos Direitos dos Idosos
+- Frente Parlamentar em Defesa dos Motoristas de Aplicativos - FPMA
+- Frente Parlamentar em Defesa dos Oficiais de Justiça
+- Frente Parlamentar em Defesa dos Usuários do Sistema Único de Saúde
+- Frente Parlamentar em Defesa e Proteção das Crianças e Adolescentes durante as Festas Populares e Grandes Eventos
+- Frente Parlamentar em prol dos Jogos Eletrônicos e Games
+- Frente Parlamentar para a Defesa do SUSP (Sistema Único de Segurança Pública) e Desburocratização na Alocação e Execução dos Recursos em prol dos Estados, do Fundo Nacional de Segurança Pública
+- Frente Parlamentar para o Desenvolvimento Sustentável do Petróleo e Energias Renováveis (FREPER)
+- Frente Parlamentar para o Fomento da Qualificação, Inclusão e Subsistência das Mulheres na Construção Civil
+- Frente Parlamentar para o Fortalecimento da COP-30 no Brasil
+- Frente Parlamentar para o Fortalecimento da Mulher
+- Frente Parlamentar para o Fortalecimento do Nordeste
+- Frente Parlamentar pela Administração
+- Frente Parlamentar pela Defesa e Valorização dos Profissionais de Segurança Pública e da Segurança Privada
+- Frente Parlamentar pela Duplicação da BR-290
+- Frente Parlamentar pelo Fortalecimento do SAMU - Serviço de Atendimento Móvel de Urgência.
+- Frente Parlamentar pelos Pequenos e Médios Municípios
+- Frente Parlamentar por Melhorias da Rodovia Federal BR-153
+
+Projetos apresentados como primeiro signatário (38 no total):
+- PL 2485/2026: Dispõe sobre a flexibilização temporária de procedimentos licitatórios e administrativos para ações de reconstrução e prevenção em Municípios e Estados atingidos por calamidade pública decorrente de eventos climáticos extremos. https://www.camara.leg.br/propostas-legislativas/2625947
+- PL 1673/2026: Dispõe sobre a obrigatoriedade do trabalho do preso para compensação dos custos do sistema prisional e estabelece a destinação da remuneração auferida. https://www.camara.leg.br/propostas-legislativas/2614060
+- PL 6193/2025: Institui o Número Único Nacional de Emergência e a criação do Sistema Integrado de Atendimento de Emergências (SIAE), e dá outras providências. https://www.camara.leg.br/propostas-legislativas/2593225
+- PL 5628/2025: Institui o Protocolo Nacional de Atendimento às Pessoas Vítimas de Crimes Violentos ou de Grave Ameaça. https://www.camara.leg.br/propostas-legislativas/2581216
+- PL 5552/2025: Acrescenta o art. 150-A ao Código Penal, para criar o delito de tentativa de expulsão de moradores para fins de ocupação ilícita de suas residências. https://www.camara.leg.br/propostas-legislativas/2579697
+- PL 5004/2025: Permite a dedução dos gastos com medicamentos de uso contínuo e de alto custo da base de cálculo do Imposto de Renda da Pessoa Física (IRPF) do contribuinte (e seus dependentes) portador(es) de Transtorno do Espectro Autista (TEA), cegueira… https://www.camara.leg.br/propostas-legislativas/2568006
+- PL 4629/2025: Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos) e a Lei nº 14.903, de 27 de junho de 2024 (Marco Regulatório de Fomento à Cultura), para dispor sobre a proibição ao profissional do setor artíst… https://www.camara.leg.br/propostas-legislativas/2561771
+- PL 3847/2025: Cria o Cadastro Nacional e os Cadastros Estaduais de Protetores e Associações da Causa Animal, e dá outras providências. https://www.camara.leg.br/propostas-legislativas/2542048
+- PL 3747/2025: Inclui os parágrafos único no caput do art. 5º e os §§ 3º e 4º no caput do art. 6º da Lei nº 12.514, de 28 de outubro de 2011 que dá nova redação ao art. 4º da Lei nº 6.932, de 7 de julho de 1981, que dispõe sobre as atividades do médico-re… https://www.camara.leg.br/propostas-legislativas/2540525
+- PL 3694/2025: Altera os art. 22 e 23, inclui parágrafo único no art. 22 e acrescenta o art. 23-A na Lei n.º 5.292, de 8 de junho de 1967, que dispõe sobre a prestação do Serviço Militar pelos estudantes de Medicina, Farmácia, Odontologia e Veterinária e… https://www.camara.leg.br/propostas-legislativas/2539383
+- PL 3656/2025: Institui o Cadastro Nacional de Condenados por Violência Doméstica e Familiar contra a Mulher – CNVD-Mulher – e dá outras providências. https://www.camara.leg.br/propostas-legislativas/2539065
+- PL 3654/2025: Dispõe sobre a vedação à participação, em delegações esportivas oficiais do Brasil, de atletas condenados com trânsito em julgado por crimes hediondos e por crimes praticados contra mulheres, crianças ou idosos, e determina a anulação de pr… https://www.camara.leg.br/propostas-legislativas/2539062
+- PL 3642/2025: Dispõe sobre a autorização, de forma facultativa, para o transporte de animais domésticos de até 50 (cinquenta) quilogramas na cabine de aeronaves em voos comerciais em território nacional https://www.camara.leg.br/propostas-legislativas/2539016
+- PL 3441/2025: Cria o Fundo Nacional para o Bem-Estar Animal (FUNBEA) e dá outras providências. https://www.camara.leg.br/propostas-legislativas/2536816
+- PL 1903/2025: Institui o Sistema Nacional de Busca de Foragidos por Videomonitoramento e dá outras providências. https://www.camara.leg.br/propostas-legislativas/2500981
+- PL 1853/2025: Altera o Código Penal para criar causa genérica de aumento de pena, quando do crime resultar, direta ou indiretamente, prejuízo financeiro a segurado do Regime Geral da Previdência Social – RGPS ou beneficiário da Assistência Social. https://www.camara.leg.br/propostas-legislativas/2500251
+- PL 234/2025: Faculta às pessoas físicas ou jurídicas a opção pela aplicação de parcelas do Imposto sobre a Renda, a título de doações para projetos especificados ou contribuições ao FUNCAP- Fundo Nacional para Calamidades, Proteção e Defesa Civil. https://www.camara.leg.br/propostas-legislativas/2482711
+- PL 4657/2024: Inscreve no Livro de Heróis e Heroínas da Pátria o nome de Ayrton Senna da Silva. https://www.camara.leg.br/propostas-legislativas/2474856
+- PL 2860/2024: Institui a cobrança de multa pelo porte e uso de entorpecentes em ambientes públicos. https://www.camara.leg.br/propostas-legislativas/2448942
+- PL 1700/2024: Dispõe sobre a suspensão, por até 360 (trezentos e sessenta) dias, do cumprimento de obrigações financeiras referentes a débitos contraídos a título de empréstimo consignado junto a instituições financeiras por pessoas naturais residentes e… https://www.camara.leg.br/propostas-legislativas/2432365
+- PL 1538/2024: Concede isenção do pagamento de tarifa de energia elétrica e de água em situações que estados e municípios decretarem estado de calamidade pública ou em situações decorrentes de desastres naturais. https://www.camara.leg.br/propostas-legislativas/2430862
+- PL 1536/2024: Concede anistia ao pagamento das parcelas mensais de crédito de custeio adquiridos em 2024 pelos produtores rurais do Estado do Rio Grande do Sul para pagamentos até dezembro de 2024; suspende o pagamento das parcelas mensais de crédito de… https://www.camara.leg.br/propostas-legislativas/2430859
+- PL 1008/2024: Dispõe sobre o Relatório com o Diagnóstico Socioeconômico Anual da Mulher. https://www.camara.leg.br/propostas-legislativas/2423889
+- PL 961/2024: Extingue benefícios penais de conversão ou diminuição de pena em razão da circunstância de ser o réu primário. https://www.camara.leg.br/propostas-legislativas/2423302
+- PL 2921/2023: Altera a Lei nº 12.546, de 14 de dezembro de 2011, para prorrogar o prazo referente à contribuição previdenciária sobre a receita bruta, e a Lei nº 10.865, de 30 de abril de 2004, para prorrogar o prazo referente a acréscimo de alíquota da… https://www.camara.leg.br/propostas-legislativas/2367075
+- PL 2604/2023: Estabelece a obrigatoriedade da instalação de sistema de alarme de emergência nos estabelecimentos de ensino de todos os entes federados. https://www.camara.leg.br/propostas-legislativas/2362557
+- PL 2403/2023: Dispõe sobre o direito à gratuidade de justiça aos portadores de doenças graves. https://www.camara.leg.br/propostas-legislativas/2360682
+- PL 2363/2023: Institui a Política Nacional das Escolas Cívico-Militares – Pnacim. https://www.camara.leg.br/propostas-legislativas/2360152
+- PL 1812/2023: Insere nova circunstância agravante no Código Penal, consistente na prática do delito em ambiente escolar. https://www.camara.leg.br/propostas-legislativas/2355826
+- PL 1721/2023: Declara a cidade de Porto Alegre, no estado do Rio Grande do Sul, como Capital Nacional do Skate. https://www.camara.leg.br/propostas-legislativas/2355210
+- PL 1342/2023: Tipifica como qualificadora o homicídio cometido contra autoridades e servidores públicos no exercício de sua função, amplia a proteção aos agentes públicos e processuais envolvidos no combate ao crime organizado e tipifica a conduta de obs… https://www.camara.leg.br/propostas-legislativas/2352550
+- PL 895/2023: Dispõe sobre sanções administrativas e restrições aplicadas aos ocupantes e invasores de propriedades rurais e urbanas em todo o território nacional. https://www.camara.leg.br/propostas-legislativas/2350188
+- PL 878/2023: Altera a redação do art. 505 do Código de Processo Civil, Lei nº 13.105, de 16 de março de 2015 para impedir que a revisão sobre decisão transitada em julgado possa retroagir. https://www.camara.leg.br/propostas-legislativas/2350085
+- PL 243/2023: Dispõe sobre o emprego de tecnologia de reconhecimento facial de crianças e adolescentes desaparecidos. https://www.camara.leg.br/propostas-legislativas/2347040
+- PL 28/2023: Dispõe sobre o exercício de funções de magistério, administrativas e de monitoria, por militares das Forças Armadas, em apoio a instituições públicas de ensino dos três níveis da Federação. https://www.camara.leg.br/propostas-legislativas/2345670
+- PL 27/2023: Altera o Código Penal para tornar automática a perda da função pública do agente público condenado por corrupção passiva. https://www.camara.leg.br/propostas-legislativas/2345669
+- PL 24/2023: Altera a Lei nº 13.812, de 2019, para dispor que prestadoras de serviços de telecomunicações e provedores de aplicações de internet participem de sistema de alertas urgentes sobre crianças e adolescentes desaparecidos. https://www.camara.leg.br/propostas-legislativas/2345665
+- PL 18/2023: Institui o Cadastro Nacional de Pesquisa em Drogas Experimentais para o Tratamento do Câncer – Banco Nacional de Combate ao Câncer. https://www.camara.leg.br/propostas-legislativas/2345653

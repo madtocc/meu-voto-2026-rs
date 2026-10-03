@@ -1,0 +1,118 @@
+{
+  "id": "SEN_290",
+  "nome_urna": "RIC JONES",
+  "resumo": "Médico obstetra do PCO; candidatura indeferida com recurso (votos sub judice). Defende mais verbas para o SUS sem limite de gastos, plano de emergência para hospitais e postos e abertura de cursos públicos de Medicina e Enfermagem com livre acesso. As demais posições vêm do programa do PCO.",
+  "trajetoria": "Médico obstetra, ginecologista e homeopata com mais de 30 anos de atendimento em Porto Alegre; escritor e ativista da humanização do parto (ReHuNa). Sem cargos eletivos anteriores registrados.",
+  "destaques": [
+    "Mais verbas para a saúde pública, sem limite de gastos.",
+    "Plano de emergência para construir hospitais e postos de saúde em todo o país.",
+    "Abrir centenas de cursos públicos de Medicina e Enfermagem com livre acesso, sem vestibular.",
+    "Denuncia o 'lobby da cesárea' e defende a humanização do parto.",
+    "Programa do PCO: cancelar privatizações, Petrobras 100% estatal e imposto sobre grandes fortunas.",
+    "Programa do PCO: jornada de 35 horas e fim do STF, com eleição de juízes."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Jornada de 7 horas por dia, 5 dias por semana, e salário mínimo de ao menos R$ 7.500 (programa do PCO).",
+      "Cancelar privatizações e Petrobras 100% estatal (programa do PCO).",
+      "Imposto sobre grandes fortunas e fim de impostos sobre consumo e salários (programa do PCO).",
+      "Estatização do sistema financeiro (programa do PCO)."
+    ],
+    "Saúde": [
+      "Mais verbas para o SUS, sem limite de gastos.",
+      "Plano de emergência para construir hospitais e postos de saúde.",
+      "Abrir cursos públicos de Medicina e Enfermagem com livre acesso; volta do Mais Médicos (programa do PCO).",
+      "Humanização do parto e combate ao excesso de cesáreas."
+    ],
+    "Educação": [
+      "Fim do vestibular (programa do PCO)."
+    ],
+    "Segurança": [
+      "Dissolução da PM e do 'aparato repressivo'; direito de autodefesa dos trabalhadores (programa do PCO)."
+    ],
+    "Meio ambiente e clima": [],
+    "Social e direitos": [
+      "Bolsa Família de pelo menos um salário mínimo (programa do PCO).",
+      "Reforma agrária com expropriação do latifúndio e demarcação de terras indígenas (programa do PCO)."
+    ],
+    "Infraestrutura e cidades": [
+      "Plano nacional de moradias populares e proibição de despejos (programa do PCO)."
+    ],
+    "Gestão e Estado": [
+      "Fim do STF e eleição de juízes e procuradores (programa do PCO).",
+      "Fim do teto de gastos e da Lei de Responsabilidade Fiscal (programa do PCO)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -2,
+      "nota": "Posição do partido: propõe cancelar todas as privatizações, reestatizar empresas e tornar a Petrobras 100% estatal.",
+      "fonte": "programa do partido: Plano PCO/TSE (Rui Costa Pimenta) p.3"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Posição do partido: defende imposto sobre grandes fortunas e tributar só os ganhos dos capitalistas, acabando com impostos sobre consumo e salários.",
+      "fonte": "programa do partido: Plano PCO/TSE (Rui Costa Pimenta) p.3, 6"
+    },
+    "ajuste_fiscal": {
+      "v": -2,
+      "nota": "Posição do partido: defende fim do teto de gastos e da Lei de Responsabilidade Fiscal e é contra o corte de gastos públicos.",
+      "fonte": "programa do partido: Plano PCO/TSE (Rui Costa Pimenta) p.4"
+    },
+    "programas_sociais": {
+      "v": 2,
+      "nota": "Posição do partido: propõe Bolsa Família de pelo menos um salário mínimo e auxílio emergencial ampliado.",
+      "fonte": "programa do partido: Plano PCO/TSE (Rui Costa Pimenta) p.2"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Posição do partido: defende jornada máxima de 7 horas por dia, 5 dias por semana (35 horas), sem redução salarial.",
+      "fonte": "programa do partido: Plano PCO/TSE (Rui Costa Pimenta) p.2"
+    },
+    "armas": {
+      "v": 1,
+      "nota": "Posição do partido: defende o direito de autodefesa e o armamento de trabalhadores e indígenas, ligado à dissolução da PM; não trata de regras de posse e porte.",
+      "fonte": "programa do partido: Plano PCO/TSE (Rui Costa Pimenta) p.4-5 | https://sbtnews.sbt.com.br/noticia/politica/rui-costa-pimenta-defende-fim-da-pm-e-legalizacao-de-drogas"
+    },
+    "penas": {
+      "v": -1,
+      "nota": "Posição do partido: plano defende \"abaixo a repressão\" e a dissolução da PM e do aparato repressivo; não trata diretamente de penas ou maioridade penal.",
+      "fonte": "programa do partido: Plano PCO/TSE (Rui Costa Pimenta) p.5"
+    },
+    "aborto": {
+      "v": 2,
+      "nota": "Posição do partido: defende a legalização completa do aborto, dizendo que o Estado deve ser laico.",
+      "fonte": "programa do partido: https://www.poder360.com.br/poder-eleicoes/estado-nao-pode-ser-religioso-diz-rui-costa-pimenta-sobre-aborto/"
+    },
+    "anistia_8j": {
+      "v": 2,
+      "nota": "Posição do partido: o PCO defendeu publicamente anistia aos presos do 8 de janeiro (mar/2025); Rui chamou as penas aplicadas pelo STF de \"absurdas\".",
+      "fonte": "programa do partido: https://revistaoeste.com/politica/pco-pede-anistia-para-os-presos-do-8-de-janeiro/ | https://revistaoeste.com/brasil/pco-critica-julgamento-de-reus-do-8-de-janeiro/"
+    },
+    "stf": {
+      "v": 2,
+      "nota": "Posição do partido: propõe o fim do STF e a eleição de todos os juízes e procuradores por voto popular, com mandatos revogáveis.",
+      "fonte": "programa do partido: Plano PCO/TSE (Rui Costa Pimenta) p.6"
+    },
+    "ambiente": {
+      "v": null,
+      "nota": "Sem posição no programa do partido; defende reforma agrária e 'não à internacionalização da Amazônia'.",
+      "fonte": null
+    },
+    "redes": {
+      "v": -2,
+      "nota": "Posição do partido: defende 'fim de todo tipo de censura' e 'liberdade irrestrita de expressão' na internet e pede 'abaixo a Lei Felca' (ECA Digital).",
+      "fonte": "programa do partido: https://candidatos.pco.org.br/wp-content/uploads/2026/08/PCO-programa-de-governo-2026.pdf (item 10)"
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://candidatos.pco.org.br/c/ric-jones/",
+    "https://candidatos.pco.org.br/wp-content/uploads/2026/08/PCO-programa-de-governo-2026.pdf",
+    "Plano de governo PCO/Rui Costa Pimenta (TSE) — prop_br/BR/2026BR280002552487_01.pdf",
+    "https://www.poder360.com.br/poder-eleicoes/estado-nao-pode-ser-religioso-diz-rui-costa-pimenta-sobre-aborto/",
+    "https://revistaoeste.com/politica/pco-pede-anistia-para-os-presos-do-8-de-janeiro/",
+    "https://sbtnews.sbt.com.br/noticia/politica/rui-costa-pimenta-defende-fim-da-pm-e-legalizacao-de-drogas",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"
+  ]
+}

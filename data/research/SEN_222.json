@@ -1,0 +1,122 @@
+{
+  "id": "SEN_222",
+  "nome_urna": "SANDERSON",
+  "resumo": "Deputado federal do PL e ex-policial federal, apresenta-se como 'o candidato da segurança' e escolhido por Bolsonaro. Promete priorizar projetos de segurança, como endurecimento contra o crime organizado e redução da maioridade penal. Faz campanha em dobradinha com Van Hattem na chapa de Zucco.",
+  "trajetoria": "Ex-oficial do Exército e policial federal por mais de 25 anos (atuou na Lava Jato); presidiu o sindicato dos policiais federais no RS. Deputado federal desde 2019 (PSL, depois PL); presidiu a Comissão de Segurança Pública da Câmara em 2023.",
+  "destaques": [
+    "Priorizar projetos de segurança pública no Senado.",
+    "Modernizar a legislação de combate ao terrorismo e ao crime organizado.",
+    "Redução da maioridade penal.",
+    "Fim do foro privilegiado.",
+    "Oposição à reforma tributária, que diria aumentar impostos sobre negócios.",
+    "Resolver a dívida do RS com a União em articulação com o futuro governador.",
+    "Atrair investimentos em tecnologia, como semicondutores e games."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Defender agro, indústria, turismo e microempreendedores.",
+      "Atrair investimentos em semicondutores, games e novas tecnologias.",
+      "Crítica à reforma tributária por elevar a carga sobre empresas."
+    ],
+    "Saúde": [
+      "Apoia exame de proficiência para egressos de Medicina, com o CFM no papel da OAB (debate Amrigs)."
+    ],
+    "Educação": [],
+    "Segurança": [
+      "Modernizar leis contra terrorismo e crime organizado.",
+      "Redução da maioridade penal.",
+      "Autor de PDL para anular o decreto de Lula que suspendeu registros de CACs e clubes de tiro."
+    ],
+    "Meio ambiente e clima": [
+      "Critica a entrega de recursos federais prometidos para a reconstrução pós-enchentes."
+    ],
+    "Social e direitos": [],
+    "Infraestrutura e cidades": [],
+    "Gestão e Estado": [
+      "Fim do foro privilegiado.",
+      "Solução para a dívida do RS com a União.",
+      "Votou a favor da PEC da Blindagem (set/2025)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 1,
+      "nota": "Votou a favor da MP de desestatização da Eletrobras (2021). O programa do PL prevê retomar desestatizações caso a caso.",
+      "fonte": "Câmara, votação 2270789-73 (19/05/2021): https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos | programa do partido: Plano Flávio Bolsonaro/PL (TSE) p.70"
+    },
+    "impostos_ricos": {
+      "v": -1,
+      "nota": "Votou contra a tributação de fundos exclusivos e offshores (PL 4173/2023) e critica a reforma tributária por aumentar impostos sobre negócios. Votou a favor do PL 1087/2025 (isenção do IR até R$ 5 mil e imposto mínimo sobre altas rendas), aprovado por unanimidade.",
+      "fonte": "Câmara, votação 2383287-43 (25/10/2023): https://dadosabertos.camara.leg.br/api/v2/votacoes/2383287-43/votos | Câmara, votação 2487436-169 (01/10/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos | https://www.sandersonsenador.com.br/em-defesa-da-economia"
+    },
+    "ajuste_fiscal": {
+      "v": 2,
+      "nota": "Sem declaração própria; o programa do PL propõe corte de gastos e ministérios e superávits para reduzir dívida e impostos. Votou contra o arcabouço fiscal (2023).",
+      "fonte": "programa do partido: Plano Flávio Bolsonaro/PL (TSE) p.68-71 | Câmara, votação 2357053-47 (23/05/2023): https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos"
+    },
+    "programas_sociais": {
+      "v": 0,
+      "nota": "Sem declaração própria; o programa do PL promete manter e aperfeiçoar programas sociais, com foco em 'porta de saída', sem ampliá-los.",
+      "fonte": "programa do partido: Plano Flávio Bolsonaro/PL (TSE) p.9, 42-43"
+    },
+    "escala_6x1": {
+      "v": 1,
+      "nota": "Votou a favor da PEC do fim da escala 6x1 nos dois turnos (mai/2026); não faz do tema bandeira de campanha.",
+      "fonte": "Câmara, votação 2233802-424 (27/05/2026): https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos | Câmara, votação 2233802-438 (27/05/2026): https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+    },
+    "armas": {
+      "v": 2,
+      "nota": "Autor do PDL 3/2023 para anular o decreto de Lula que suspendeu registros de CACs; chamou o decreto de 'revanche'. Votou a favor do PL 3723/2019, que alterava o Estatuto do Desarmamento (regras para CACs, posse e porte).",
+      "fonte": "https://www.poder360.com.br/congresso/decreto-de-armas-de-lula-foi-revanche-diz-sanderson/ | https://jornalcontabil.com.br/noticia/proposta-anula-decreto-que-suspendeu-a-concessao-de-novos-registros-de-cacs/amp/ | Câmara, votação 2209381-100 (05/11/2019): https://dadosabertos.camara.leg.br/api/v2/votacoes/2209381-100/votos"
+    },
+    "penas": {
+      "v": 2,
+      "nota": "Defende a redução da maioridade penal e leis mais duras contra o crime organizado; votou a favor do PL Antifacção.",
+      "fonte": "https://www.sandersonsenador.com.br/noticias | https://www.sandersonsenador.com.br/o-candidato-da-seguranca | Câmara, votação 2579832-62 (18/11/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2579832-62/votos"
+    },
+    "aborto": {
+      "v": -2,
+      "nota": "Sem declaração própria localizada; o programa do PL defende a vida 'desde a concepção' como valor inegociável.",
+      "fonte": "programa do partido: Plano Flávio Bolsonaro/PL (TSE) p.9"
+    },
+    "anistia_8j": {
+      "v": 2,
+      "nota": "Votou a favor da urgência do PL da Anistia (set/2025) e do PL da Dosimetria (dez/2025).",
+      "fonte": "Câmara, votação 2562149-7 (17/09/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos | Câmara, votação 2358548-89 (09/12/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+    },
+    "stf": {
+      "v": 1,
+      "nota": "Em 2022, disse não aceitar 'Alexandre de Moraes ministro do STF ou qualquer outro ministro atacando a liberdade de expressão'; defende o fim do foro privilegiado. Não detalha propostas para limitar o STF.",
+      "fonte": "https://www.tribunadosertao.com.br/politica/2022/05/01/434424-deputado-aliado-de-bolsonaro-critica-stf-e-defende-indulto-a-silveira | https://www.sandersonsenador.com.br/"
+    },
+    "ambiente": {
+      "v": -1,
+      "nota": "Votou a favor da Lei Geral do Licenciamento Ambiental (2021 e 2025), que flexibilizou o licenciamento.",
+      "fonte": "Câmara, votação 257161-454 (16/07/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos | Câmara, votação 257161-337 (12/05/2021): https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos"
+    },
+    "redes": {
+      "v": -2,
+      "nota": "Votou contra a urgência do PL 2630 (PL das Fake News) e cobrou explicações de Moraes sobre suspensão de perfis de parlamentares, que chamou de cerceamento da liberdade de expressão.",
+      "fonte": "Câmara, votação 2310837-8 (25/04/2023): https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos | https://jovempan.com.br/politica/vice-lider-do-governo-quer-explicacao-de-moraes-sobre-censura-nas-redes-sociais/"
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://www.sandersonsenador.com.br/",
+    "https://www.sandersonsenador.com.br/em-defesa-da-economia",
+    "https://www.sandersonsenador.com.br/o-candidato-da-seguranca",
+    "https://www.sandersonsenador.com.br/quem-e-o-sanderson",
+    "https://www.sandersonsenador.com.br/atuacao-nas-enchentes",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://www.jornaldocomercio.com/politica/2026/08/1260080-sanderson-quer-priorizar-projetos-para-a-seguranca-no-senado-federal.html",
+    "https://www.amrigs.org.br/candidatos-ao-senado-apresentam-propostas-para-a-saude-em-debate-na-amrigs/",
+    "https://www.poder360.com.br/congresso/decreto-de-armas-de-lula-foi-revanche-diz-sanderson/",
+    "https://jornalcontabil.com.br/noticia/proposta-anula-decreto-que-suspendeu-a-concessao-de-novos-registros-de-cacs/amp/",
+    "https://www.tribunadosertao.com.br/politica/2022/05/01/434424-deputado-aliado-de-bolsonaro-critica-stf-e-defende-indulto-a-silveira",
+    "https://jovempan.com.br/politica/vice-lider-do-governo-quer-explicacao-de-moraes-sobre-censura-nas-redes-sociais/",
+    "https://www.band.com.br/noticias/veja-como-votou-cada-deputado-na-urgencia-do-projeto-de-anistia-202509172310",
+    "https://www.band.com.br/noticias/pec-da-blindagem-veja-como-cada-deputado-votou-202509162236",
+    "https://dadosabertos.camara.leg.br/api/v2 (votações 2233802-424, 2233802-438, 2562149-7, 2358548-89, 2270800-135, 257161-454, 257161-337, 2487436-169, 2270789-73, 2579832-62, 2310837-8, 2209381-100, 2357053-47)",
+    "Plano de governo Flávio Bolsonaro/PL (TSE) — prop_br/BR/2026BR280002551544_01.pdf"
+  ]
+}

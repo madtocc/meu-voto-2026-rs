@@ -1,0 +1,27 @@
+# Sistema e ferramentas
+.DS_Store
+__pycache__/
+.wrangler/
+data/.venv/
+
+# Saída do publicar.py (cópia do guia, de ia/ e dos planos em PDF)
+site/
+
+# Downloads do TSE (dadosabertos.tse.jus.br): entram no build_base.py e viram data/base.json
+data/*.zip
+data/*_2026_*.csv
+data/compl/
+data/fotos/
+data/prop_br/
+data/prop_rs/
+data/leiame.pdf
+
+# Respostas guardadas das APIs da Câmara e da Assembleia
+data/research/*/cache/
+
+# Credenciais e rascunhos locais
+.env
+.env.*
+data/research_backup/
+data/verif_grupos.json
+sandbox-test.html

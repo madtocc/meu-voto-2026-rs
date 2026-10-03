@@ -1,0 +1,35 @@
+# DANRLEI (5501, PSD): histórico parlamentar
+
+Candidato(a) a deputado federal pelo Rio Grande do Sul em 2026. Nome civil: DANRLEI DE DEUS HINTERHOLZ. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Votações nominais na Câmara dos Deputados (2023-2026)
+- Arcabouço fiscal (PLP 93/2023) (2023-05-23): —
+- Reforma tributária (PEC 45/2019, 1º turno) (2023-07-06): —
+- Aumento do número de deputados (PLP 177/2023) (2025-05-06): Não
+- Lei Geral do Licenciamento Ambiental (PL 2159/2021) (2025-07-16): Sim
+- PEC da Blindagem / das Prerrogativas (PEC 3/2021, 1º turno) (2025-09-16): Sim
+- Urgência do PL da Anistia (PL 2162/2023) (2025-09-17): Sim
+- Isenção do IR até R$ 5 mil (PL 1087/2025) (2025-10-01): Sim
+- PL Antifacção (PL 5582/2025) (2025-11-18): Ausente
+- PL da Dosimetria (substitutivo ao PL 2162/2023) (2025-12-09): Sim
+- Fim da escala 6x1 (PEC 221/2019, 1º turno) (2026-05-27): Sim
+
+## Atuação na Câmara dos Deputados (coletado em 2026-10-03)
+Comissões: Comissão de Viação e Transportes; Comissão do Esporte.
+Temas dos projetos apresentados (classificação oficial): Direitos Humanos e Minorias (5); Previdência e Assistência Social (2); Educação (1); Esporte e Lazer (1); Homenagens e Datas Comemorativas (1); Indústria, Comércio e Serviços (1); Saúde (1).
+
+Frentes parlamentares a que aderiu (assinou a lista de adesão):
+- Frente Parlamentar Mista da Primeira Infância
+- Frente Parlamentar Mista em Defesa dos Vereadores e das Câmaras Municipais
+- Frente Parlamentar de Combate à Violência em Ambiente Digital contra Crianças e Adolescentes
+
+Projetos apresentados como primeiro signatário (7 no total):
+- PL 4551/2025: Altera a Lei nº 15.139, de 23 de maio de 2025, que Institui a Política Nacional de Humanização do Luto Materno e Parental, para adequar terminologias e expressões da norma e dá outras providências. https://www.camara.leg.br/propostas-legislativas/2560729
+- PL 2784/2025: Altera a Lei nº 14.597 de 14 de junho de 2023 – Lei Geral do Esporte – a fim de regulamentar a comercialização, distribuição e o consumo de bebidas alcoólicas nos estádios de futebol e arenas esportivas em todo o território nacional, unifor… https://www.camara.leg.br/propostas-legislativas/2523678
+- PL 545/2023: Dispõe sobre a destinação de espaços reservados e adaptados para pessoas com Transtorno de Espectro Autista (TEA) em estádios e arenas esportivas com capacidade igual ou superior a vinte mil pessoas. https://www.camara.leg.br/propostas-legislativas/2348876
+- PL 532/2023: Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), a fim de estabelecer o uso de cordão com estampa de girassol como símbolo de identificação de deficiência oculta. https://www.camara.leg.br/propostas-legislativas/2348822
+- PL 531/2023: Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para ampliar o acesso ao Benefício de Prestação Continuada para as Pessoas com Transtorno do Espectro Autista. https://www.camara.leg.br/propostas-legislativas/2348821
+- PL 529/2023: Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para ampliar o acesso ao Benefício de Prestação Continuada. https://www.camara.leg.br/propostas-legislativas/2348819
+- PL 432/2023: Altera a Lei nº 14.113, de 25 de dezembro de 2020 que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), para incluir, em caráter excepcional, a matrícula na educa… https://www.camara.leg.br/propostas-legislativas/2348334

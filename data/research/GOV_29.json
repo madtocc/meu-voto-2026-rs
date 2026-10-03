@@ -1,0 +1,108 @@
+{
+  "id": "GOV_29",
+  "nome_urna": "CESAR PONTES",
+  "resumo": "Candidatura do PCO, com vice Tiago Nilo (PCO). O registro está indeferido com recurso no TSE: o nome segue na urna, mas os votos ficam sub judice. O documento protocolado é o programa nacional do PCO (\"Programa de Luta\", São Paulo, agosto de 2026), idêntico ao do presidenciável Rui Costa Pimenta, sem propostas específicas para o RS e sem menção às enchentes de 2024.",
+  "trajetoria": "Professor de história aposentado e militante do PCO. Disputou a Prefeitura de Porto Alegre em 2024 e registrou candidatura ao governo do RS em 2022.",
+  "destaques": [
+    "Programa nacional, não estadual: reposição de 100% das perdas e aumento emergencial de 50% de todos os salários.",
+    "Jornada máxima de 35 horas semanais (7 horas por dia, 5 dias) e proibição de demissões.",
+    "Cancelar todas as privatizações e reestatizar empresas; estatizar sem indenização reservas minerais e refinarias.",
+    "Fim do teto de gastos e da Lei de Responsabilidade Fiscal; concursos periódicos.",
+    "Dissolução da polícia militar e comitês de autodefesa dos trabalhadores.",
+    "Fim dos impostos sobre consumo e salários; tributar só ganhos de capitalistas e grandes fortunas.",
+    "Fim do STF e eleição de juízes e procuradores por voto popular."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Aumento emergencial de 50% dos salários e reajuste automático a cada 3% de alta do custo de vida (p.2).",
+      "Salário mínimo de pelo menos R$ 7.500 e jornada de 35h (p.2).",
+      "Proibição de demissões e controle dos trabalhadores sobre empresas que demitirem (p.2).",
+      "Estatização do sistema financeiro, com banco estatal único (p.6)."
+    ],
+    "Saúde": [
+      "Mais verbas para a saúde pública, sem limite de gastos (p.5).",
+      "Plano de emergência para construir hospitais e postos de saúde (p.5).",
+      "Volta do Mais Médicos e abertura de cursos de medicina e enfermagem sem vestibular (p.5).",
+      "Piso salarial de R$ 8 mil para profissionais da saúde (p.5)."
+    ],
+    "Educação": [
+      "Piso nacional de professores de pelo menos R$ 8,5 mil e jornada máxima de 30h (p.5).",
+      "Eleição direta de diretores e de todos os postos de gestão pela comunidade escolar (p.5).",
+      "Fim do vestibular e estatização do ensino pago (p.5).",
+      "Fim da proibição de celulares nas escolas (p.5)."
+    ],
+    "Segurança": [
+      "Dissolução da polícia militar e de \"todo o aparato repressivo\" (p.5).",
+      "Direito de autodefesa e comitês de autodefesa de trabalhadores e comunidades indígenas (p.5)."
+    ],
+    "Meio ambiente e clima": [
+      "Nacionalização sem indenização de reservas minerais e empresa estatal para terras raras (p.3).",
+      "Controle das organizações populares e dos indígenas sobre as riquezas da Amazônia (p.7)."
+    ],
+    "Social e direitos": [
+      "Bolsa Família de pelo menos um salário mínimo (p.2).",
+      "Anulação das dívidas dos trabalhadores com o sistema financeiro (p.2).",
+      "Reforma agrária com expropriação do latifúndio e demarcação de terras indígenas (p.4).",
+      "Expropriação de imóveis vagos e proibição de despejos (p.4)."
+    ],
+    "Infraestrutura e cidades": [
+      "Passe livre para desempregados e trabalhadores informais (p.2).",
+      "Plano nacional de construção de milhões de moradias populares (p.4).",
+      "Internet gratuita para toda a população (p.6)."
+    ],
+    "Gestão e Estado": [
+      "Fim do teto de gastos e da Lei de Responsabilidade Fiscal (p.4).",
+      "Concursos periódicos e estabilidade para servidores contratados precariamente (p.4).",
+      "Cancelamento das dívidas interna e externa com bancos e grandes credores (p.6).",
+      "Fim do STF e eleição de juízes e procuradores com mandatos revogáveis (p.6)."
+    ]
+  },
+  "posicoes": {
+    "banrisul": {
+      "v": -2,
+      "nota": "Defende estatizar todo o sistema financeiro e cancelar privatizações de bancos; não cita o Banrisul.",
+      "fonte": "Plano p.3 e p.6 (programa nacional do PCO)"
+    },
+    "concessoes": {
+      "v": -2,
+      "nota": "Cancelar todas as privatizações e reestatizar empresas entregues ao capital privado.",
+      "fonte": "Plano p.3 (programa nacional do PCO)"
+    },
+    "icms": {
+      "v": 1,
+      "nota": "Defende o fim dos impostos sobre consumo e salários, tributando só ganhos de capitalistas e grandes fortunas; não trata do ICMS gaúcho.",
+      "fonte": "Plano p.6 (programa nacional do PCO)"
+    },
+    "incentivos": null,
+    "servidores": {
+      "v": 2,
+      "nota": "Reposição de 100% das perdas e aumento emergencial de 50% de todos os salários; piso de R$ 8,5 mil para professores.",
+      "fonte": "Plano p.2 e p.5 (programa nacional do PCO)"
+    },
+    "civico_militar": {
+      "v": -1,
+      "nota": "Não cita escolas cívico-militares; defende o fim da \"ditadura nas escolas\" e gestão eleita pela comunidade escolar.",
+      "fonte": "Plano p.5 (programa nacional do PCO)"
+    },
+    "licenciamento": null,
+    "divida_uniao": {
+      "v": 1,
+      "nota": "Defende cancelar dívidas interna e externa \"com os bancos e grandes credores\" e acabar com a LRF; não trata da dívida do RS com a União.",
+      "fonte": "Plano p.4 e p.6 (programa nacional do PCO)"
+    },
+    "seguranca_dura": {
+      "v": -2,
+      "nota": "Defende a dissolução da polícia militar e do aparato repressivo.",
+      "fonte": "Plano p.5 (programa nacional do PCO)"
+    }
+  },
+  "detalhamento": {
+    "nota": 2,
+    "justificativa": "Documento é o programa nacional do partido: traz reivindicações concretas, algumas com valores, mas quase todas de competência federal e sem ação, meta ou prazo específico para o RS."
+  },
+  "fontes": [
+    "https://www.nsctotal.com.br/?p=7995220",
+    "https://revistaoeste.com/politica/rio-grande-do-sul-conheca-os-7-candidatos-ao-governo-do-estado/",
+    "https://www.jornaldocomercio.com/politica/2024/09/1170249-pontes-diz-ver-na-eleicao-um-meio-e-nao-um-fim.html"
+  ]
+}

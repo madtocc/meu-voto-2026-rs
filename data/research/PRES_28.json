@@ -1,0 +1,144 @@
+{
+  "id": "PRES_28",
+  "nome_urna": "LEONARDO AVALANCHE",
+  "resumo": "Plano próprio de Leonardo Avalanche protocolado no TSE ('Avalanche neles'), com 19 propostas centradas em corte drástico de impostos (imposto único de 3,5%, IPVA fixo de R$ 50), empreendedorismo digital e segurança com 'tolerância zero', sob o lema 'Deus, pátria e família'. Ele substituiu Pablo Marçal, cujo registro o TSE indeferiu em 11/09/2026, e sua candidatura consta como pendente de julgamento no TSE (dados abertos de 02/10/2026). Em 30/09/2026 anunciou que desistiu da disputa, sem apoiar outro candidato; o nome segue na urna e, se a renúncia for homologada, os votos serão anulados.",
+  "trajetoria": "Empresário de Anápolis (GO), preside o PRTB desde fevereiro de 2024 e coordenou a campanha de Pablo Marçal à Prefeitura de São Paulo em 2024. Lançado pré-candidato em julho de 2026, passou a vice de Marçal e voltou à cabeça de chapa em 14/09/2026, com Silvia Hellen da Silva Pereira como vice.",
+  "destaques": [
+    "Imposto único de 3,5% no lugar de ICMS, ISS, IPI, PIS/Cofins, IR, INSS e outros tributos (p.4).",
+    "iPhone de última geração e um ano de internet para quem concluir curso de empreendedorismo do governo, pago com verba de publicidade oficial (p.7).",
+    "IPVA fixo de R$ 50 por mês e isenção nacional de IPVA para caminhoneiros (p.18).",
+    "Zerar a fila do SUS com mutirões, hospitais privados ociosos, telemedicina e IA no controle de estoque de remédios (p.9).",
+    "Taxa de 3,5% para apps de transporte, sob pena de restrição e criação de app estatal, e financiamento de carro sem imposto para motoristas (p.11).",
+    "Penas mais duras para crimes violentos e pena mínima dobrada para exploração sexual infantil (p.13, 39).",
+    "Programa Meu Primeiro Emprego: governo paga parte do salário de jovens de 18 a 29 anos por seis meses, com carteira garantida por um ano (p.42)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Imposto único de 3,5% para pessoas e empresas, cobrado na fonte (p.4).",
+      "Meu Primeiro Emprego e plataforma nacional de talentos com incentivo fiscal à contratação de jovens (p.42).",
+      "Reindustrialização com desoneração, crédito e capital público em indústria estratégica, com prioridade a nióbio e terras raras (p.21-22).",
+      "Fábricas nacionais de fertilizantes (como a jazida de potássio de Autazes-AM) e 'Crédito Raiz' ligando renegociação de dívida a crédito novo ao produtor (p.24)."
+    ],
+    "Saúde": [
+      "Zerar a fila do SUS com mutirões, parceria com hospitais privados ociosos e telemedicina (p.9).",
+      "Sistema de IA para monitorar estoques e evitar falta de remédios (p.9).",
+      "Programa nacional para mulheres no climatério e menopausa e mais geriatras no SUS (p.9-10).",
+      "Rede 'Respira' de centros de saúde mental para jovens, sem encaminhamento (p.43)."
+    ],
+    "Educação": [
+      "IA para personalizar o ensino e currículo com educação financeira e empreendedorismo desde o fundamental (p.15).",
+      "Ensino técnico em toda escola pública a partir dos 14-15 anos e inglês como prioridade (p.15-16).",
+      "Apoio à regulamentação da educação domiciliar (homeschooling), com fiscalização (p.42-44).",
+      "Recompor orçamento de Capes e CNPq e criar polo tecnológico com incentivo fiscal a empresas brasileiras (p.19)."
+    ],
+    "Segurança": [
+      "Endurecer penas para crimes violentos e organizados e isolar líderes de facção presos (p.13-14).",
+      "Sistema Único Nacional de Segurança integrando bases policiais, com reconhecimento facial (p.13).",
+      "Mais concursos para polícia e salário digno para policiais (p.13).",
+      "Dobrar a pena mínima para exploração sexual infantil e acompanhamento de vítimas até a maioridade (p.39-41)."
+    ],
+    "Meio ambiente e clima": [
+      "Rede de drones para vigiar a Amazônia contra desmatamento, garimpo ilegal e contaminação de rios (p.28).",
+      "Coleta seletiva em todas as cidades e aproveitamento energético do lixo (p.45-46).",
+      "Redução de imposto federal sobre carros elétricos e híbridos e rede de recarga (p.30-31)."
+    ],
+    "Social e direitos": [
+      "Rede 'Abraço Azul' para mães atípicas e profissional certificado para crianças autistas nas escolas (p.34).",
+      "Expansão de casas de acolhimento para mulheres e idosos vítimas de violência e tratamento de agressores (p.36-37).",
+      "Lei nacional de vagão exclusivo para mulheres em metrôs e trens (p.37).",
+      "Teste genético como critério da categoria feminina no esporte a partir de 2027 (p.37)."
+    ],
+    "Infraestrutura e cidades": [
+      "Acelerar o Marco Legal das Ferrovias com ampliação da malha operada pelo setor privado (p.26).",
+      "Investimento em portos, terminais e dragagem de hidrovias (p.26-27).",
+      "Saneamento como prioridade, com equipe federal para apoiar prefeituras e fiscalizar contratos (p.45).",
+      "Pontos de apoio para motoristas de aplicativo e plano de saúde exclusivo para a categoria (p.11-12)."
+    ],
+    "Gestão e Estado": [
+      "Mutirão nacional para reduzir processos parados e meta de redução do tempo de julgamento (p.32).",
+      "Aumento real do orçamento de defesa e indústria nacional de defesa (p.28-29).",
+      "Órgão federal independente para fiscalizar assédio no trabalho em empresas de qualquer porte (p.38).",
+      "Redirecionar verba de publicidade oficial para contratar cidadãos capacitados na divulgação do governo (p.7-8)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 0,
+      "nota": "Não trata de privatizar estatais; defende ampliar ferrovias operadas pelo setor privado e, ao mesmo tempo, investimento estatal direto em indústria estratégica.",
+      "fonte": "Plano p.22, 26"
+    },
+    "impostos_ricos": {
+      "v": -2,
+      "nota": "Propõe alíquota única de 3,5% para todos, 'do pequeno ao grande, sem exceção', substituindo inclusive o IR progressivo.",
+      "fonte": "Plano p.4-5"
+    },
+    "ajuste_fiscal": {
+      "v": 0,
+      "nota": "Propõe corte drástico de impostos, mas não propõe corte de gastos; prevê mais gasto em defesa, pesquisa e saneamento e diz que a arrecadação subirá com o fim da sonegação.",
+      "fonte": "Plano p.4-6, 19, 28, 45"
+    },
+    "programas_sociais": {
+      "v": 0,
+      "nota": "Garante que beneficiários do Bolsa Família mantenham o benefício ao gerar renda extra e promete estudar se o valor do BPC é suficiente; não propõe ampliar transferências.",
+      "fonte": "Plano p.7, 35"
+    },
+    "escala_6x1": {
+      "v": null,
+      "nota": "Sem posição no plano nem em declarações públicas localizadas.",
+      "fonte": null
+    },
+    "armas": {
+      "v": null,
+      "nota": "Plano de segurança foca em mais policiais e tecnologia, sem tratar de posse ou porte de armas; sem declarações localizadas.",
+      "fonte": null
+    },
+    "penas": {
+      "v": 2,
+      "nota": "Defende endurecer penas para crimes violentos e organizados e dobrar a pena mínima para exploração sexual infantil.",
+      "fonte": "Plano p.13-14, 39-41"
+    },
+    "aborto": {
+      "v": null,
+      "nota": "Plano cita 'Deus, pátria e família', mas não trata de aborto; sem declarações localizadas.",
+      "fonte": null
+    },
+    "anistia_8j": {
+      "v": null,
+      "nota": "Sem posição no plano nem em declarações públicas localizadas.",
+      "fonte": null
+    },
+    "stf": {
+      "v": 0,
+      "nota": "Critica mudanças de entendimento do STF (prisão após condenação) e propõe responsabilizar magistrados lenientes em crimes contra crianças; não propõe limitar poderes da Corte.",
+      "fonte": "Plano p.32-33, 40"
+    },
+    "ambiente": {
+      "v": -1,
+      "nota": "Propõe drones contra desmatamento e garimpo ilegais, mas prioriza o agro e a exploração mineral (potássio em Autazes-AM, nióbio, terras raras).",
+      "fonte": "Plano p.21, 24, 28"
+    },
+    "redes": {
+      "v": 1,
+      "nota": "Restrito à proteção infantil: plataformas obrigadas a integrar sistema de detecção de abuso, retirada imediata e multas; transparência de algoritmo para menores de 14.",
+      "fonte": "Plano p.39-41, 43"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Propostas com mecanismos descritos e algumas metas (alíquota de 3,5%, IPVA de R$ 50, prazo de 2027 no esporte) e fonte de recursos em poucos casos, mas a maioria sem prazos ou custos e várias remetidas a 'estudo técnico'."
+  },
+  "fontes": [
+    "Plano de governo (TSE) — prop_br/BR/2026BR280002554479_01.pdf",
+    "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/leonardo-avalanche",
+    "https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf",
+    "https://sbtnews.sbt.com.br/noticia/politica/prtb-lanca-avalanche-a-presidencia-apos-tse-recusar-marcal-1",
+    "https://www.acordacidade.com.br/politica/eleicoes/leonardo-avalanche-assume-candidatura-do-prtb-a-presidencia-apos-renuncia-de-pablo-marcal/",
+    "https://revistaoeste.com/politica/substituto-de-marcal-leonardo-avalanche-desiste-de-disputar-a-presidencia/",
+    "https://jornaldebrasilia.com.br/noticias/politica-e-poder/leonardo-avalanche-desiste-da-disputa-presidencial-pelo-prtb",
+    "https://www.poder360.com.br/poder-eleicoes-2026/prtb-lanca-leonardo-avalanche-como-pre-candidato-a-presidencia/",
+    "https://www.poder360.com.br/poder-eleicoes-2026/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia/",
+    "https://www.acessa.com/politica/2026/09/amp/340120-leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus.html"
+  ],
+  "alerta": "Anunciou em 30/09 que desistiu da disputa (Revista Oeste, Jornal de Brasília). O nome segue na urna; se a renúncia for homologada, os votos serão anulados.",
+  "alerta_curto": "anunciou desistência em 30/09"
+}

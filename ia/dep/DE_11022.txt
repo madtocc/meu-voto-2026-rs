@@ -1,0 +1,34 @@
+# RODRIGO LORENZONI (11022, PP): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: RODRIGO MARQUES LORENZONI. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+Comissões: Comissão de Constituição e Justiça; Comissão de Finanças, Planejamento, Fiscalização e Controle.
+
+Frentes parlamentares que preside:
+- Frente Parlamentar da Liberdade Econômica
+- Frente Parlamentar de Combate aos Crimes de Maus-Tratos Contra Animais
+- Frente Parlamentar em Defesa da Simplificação e Redução da Carga Tributária
+- Frente Parlamentar em Defesa do Conservadorismo
+- Frente Parlamentar pelo Livre Mercado no Estado do Rio Grande do Sul
+
+Projetos apresentados como primeiro signatário (17 no total):
+- PL 407/2026: Dispõe sobre a identificação qualificada das adaptações veiculares destinadas a pessoas com deficiência nos sistemas, certidões, laudos e documentos expedidos no âmbito do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/407/2026/6b15159a-abb5-11f1-b1ca-26b9513aaa36
+- PL 403/2026: Autoriza o Poder Executivo a instituir o Programa Estadual de Monitoramento Contínuo da Glicose no âmbito do Sistema Único de Saúde – SUS no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/403/2026/be6745a6-a57d-11f1-b1ca-26b9513aaa36
+- PL 327/2026: Altera a Lei nº 15.363, de 5 de novembro de 2019, que consolida a legislação relativa à proteção aos animais no Estado do Rio Grande do Sul, para dispor sobre sanções administrativas aplicáveis aos casos de maus-tratos. (Tramitação conjunta… https://ww4.al.rs.gov.br/proposicao/PL/327/2026/7c408a92-808b-11f1-9c3b-12b2f7548530
+- PL 317/2026: Altera o art. 3º da Lei nº 15.458, de 26 de março de 2020. https://ww4.al.rs.gov.br/proposicao/PL/317/2026/c73fd355-806f-11f1-9c3b-12b2f7548530
+- PL 201/2025: Reconhece o Instituto Caldeira como de relevante interesse cultural e cientifico do Rio Grande do Sul. (Tramitação Conclusiva CECDCT) https://ww4.al.rs.gov.br/proposicao/PL/201/2025/4b6b572a-4145-11f0-8ebc-0242ac130005
+- PL 180/2025: Institui o Programa Estadual de Incentivo ao Uso do Calcário, no âmbito do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/180/2025/6b5f668d-37e8-11f0-8ebc-0242ac130005
+- PL 190/2024: Altera a redação da Lei nº 16.134, de 24 de maio de 2024, que institui o Plano Rio Grande, Programa de Reconstrução, Adaptação e Resiliência Climática do Estado do Rio Grande do Sul e cria o Fundo do Plano Rio Grande – FUNRIGS. https://ww4.al.rs.gov.br/proposicao/PL/190/2024/85169651-2e61-11ef-813d-0242ac170004
+- PL 115/2024: Reconhece o município de Muitos Capões como a Capital do Pinhão no Estado do Rio Grande do Sul. (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/115/2024/f44fa061-032f-11ef-a33c-0242ac170004
+- PL 73/2024: Institui o Sistema de Voucher Educacional no Estado do Rio Grande do Sul e adota outras providências. https://ww4.al.rs.gov.br/proposicao/PL/73/2024/4ce9c03a-ec45-11ee-b733-0242ac170004
+- PL 44/2024: Declara como de relevante interesse social e sanitário do Estado do Rio Grande do Sul a Liga de Combate ao Câncer de Bento Gonçalves. https://ww4.al.rs.gov.br/proposicao/PL/44/2024/8deb6e6e-dd76-11ee-b733-0242ac170004
+- PL 599/2023: Altera a Lei nº 8.109, de 19 de dezembro de 1985, que dispõe sobre a Taxa de Serviços Diversos. (ePRO 109084/2023) https://ww4.al.rs.gov.br/proposicao/PL/599/2023/a914e160-b0d3-11ee-811f-0242c0a8a003
+- PL 509/2023: Institui a proibição do ensino ou abordagem disciplinar do Holocausto e do Sionismo sob os prismas do negacionismo ou revisionismo histórico, no âmbito do Sistema Estadual de Educação Básica do Estado do Rio Grande do Sul. (SEI 16169-01.00/… https://ww4.al.rs.gov.br/proposicao/PL/509/2023/8e8b6ff9-8df9-11ee-92b3-0242c0a8a007
+- PL 372/2023: Altera o §1º e §2º e acrescenta o § 3º no art. 1º da Lei Estadual nº 12.903, de 14 de janeiro de 2008, bem como altera o caput do art. 2º da referida lei, que dispõe sobre a comercialização de produtos ópticos e o licenciamento do comércio… https://ww4.al.rs.gov.br/proposicao/PL/372/2023/2261b2b7-5f04-11ee-9cfe-0242c0a8a005
+- PEC 295/2023: Institui a proteção e imutabilidade dos símbolos do Estado do Rio Grande do Sul.(SEI 5735-01.00/23-7) https://ww4.al.rs.gov.br/proposicao/PEC/295/2023/368e2da4-597f-11ee-9cfe-0242c0a8a005
+- PL 173/2023: Reconhece o município de Porto Alegre como a Capital do Skate no Estado do Rio Grande do Sul. (SEI 6806-0100/23-0)(Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/173/2023/5bebc24c-597f-11ee-9cfe-0242c0a8a005
+- PL 150/2023: Dispõe sobre o Plano Estadual de Revisão dos Gastos Públicos (SEI 5728-0100/23-3) https://ww4.al.rs.gov.br/proposicao/PL/150/2023/2b241ec0-597f-11ee-9cfe-0242c0a8a005
+- PL 148/2023: Determina a fixação no solo das bases das goleiras que se destinam a práticas esportivas nos espaços públicos e privados no Estado do Rio Grande do Sul. (SEI 5726-0100/23-8) https://ww4.al.rs.gov.br/proposicao/PL/148/2023/29a398cc-597f-11ee-9cfe-0242c0a8a005

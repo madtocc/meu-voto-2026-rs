@@ -1,0 +1,120 @@
+{
+  "id": "GOV_16",
+  "nome_urna": "REJANE DE OLIVEIRA",
+  "resumo": "Candidatura do PSTU, com vice Adão Lima (PSTU), em chapa isolada. Programa socialista que propõe tirar \"o poder e o dinheiro dos bilionários\": fim da escala 6x1, reestatização de CEEE, Corsan e Sulgás, cancelamento da dívida com a União e fim das isenções fiscais a grandes empresas. Sobre as enchentes, defende controle popular do Funrigs e obras públicas estatais de proteção e moradia.",
+  "trajetoria": "Professora aposentada da rede estadual, ex-presidente do CPERS Sindicato e dirigente da CSP-Conlutas. Foi candidata ao governo do RS em 2022.",
+  "destaques": [
+    "Jornada máxima de 36 horas semanais sem redução de salário, também para servidores estaduais.",
+    "Duplicar o salário dos servidores, \"rumo ao salário mínimo do DIEESE\" (R$ 8.110,92, segundo o plano).",
+    "\"Nem RRF, nem Propag\": cancelar a dívida com a União e fazer auditoria com participação social.",
+    "Suspender isenções fiscais a grandes empresas e auditar as renúncias (R$ 14 bilhões em 2025, segundo o plano).",
+    "Reestatizar sem indenização CEEE, Corsan e Sulgás e cancelar contratos com Equatorial e Aegea.",
+    "Funrigs controlado pelas comunidades atingidas e usado só em sistemas antienchente, escolas, postos e moradias.",
+    "Desmilitarização da Brigada Militar e polícia civil unificada controlada pela comunidade."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Fim da escala 6x1 e jornada de 36h sem redução salarial (p.7, p.15).",
+      "Fundo público de investimento produtivo abastecido por empresas expropriadas e por 50% dos bens dos bilionários gaúchos (p.7, p.15).",
+      "Limitar a 25% a distribuição de dividendos de grandes empresas e proibir remessa de lucros ao exterior (p.15).",
+      "Reforma agrária, nenhum benefício fiscal ao agronegócio e crédito público à agricultura familiar (p.7, p.20)."
+    ],
+    "Saúde": [
+      "SUS 100% estatal, com fim das OSs e das PPPs na saúde (p.8, p.49).",
+      "Aplicar imediatamente 12% da receita em saúde (p.8, p.49).",
+      "Construir hospitais e abrir leitos públicos em todas as microrregiões (p.8, p.50).",
+      "Taxar em 50% os lucros dos grandes grupos privados de saúde (p.49)."
+    ],
+    "Educação": [
+      "Fim da PPP das escolas e das terceirizações na educação (p.8, p.53).",
+      "Concurso público imediato e efetivação de professores contratados (p.8, p.54).",
+      "Fim imediato da militarização das escolas e gestão democrática com eleição direta (p.54).",
+      "Revogar a Lei estadual 15.451/2020 (plano de carreira do magistério) e defender a revogação do Novo Ensino Médio (p.53-54)."
+    ],
+    "Segurança": [
+      "Desmilitarização da Brigada e polícia civil unificada sob controle da comunidade (p.8, p.60).",
+      "Fim do encarceramento em massa e descriminalização das drogas, com tratamento de saúde (p.60).",
+      "Ações de segurança nos bairros submetidas a conselhos populares; iluminação e espaços de lazer (p.60).",
+      "Orçamento de emergência contra o feminicídio, com mais delegacias 24h e casas-abrigo (p.8, p.70)."
+    ],
+    "Meio ambiente e clima": [
+      "Reverter a Lei estadual 15.434/2020 (Código Ambiental) e revisá-lo com debate popular (p.8, p.42).",
+      "Proibir novas fábricas de celulose e novos empreendimentos de carvão; contra o projeto da CMPC, o Porto de Arroio do Sal e a \"cidade dos data centers\" (p.8, p.42).",
+      "Empresa pública de obras para macrodrenagem e contenção de encostas, sem licitação (p.33).",
+      "Plano estadual vinculante de adaptação climática por bacia, com sistema público de alertas e abrigos (p.34)."
+    ],
+    "Social e direitos": [
+      "Desapropriação sem indenização de imóveis vazios para moradia e fim dos despejos (p.9, p.34).",
+      "Indenização imediata de trabalhadores e pequenos negócios atingidos pela enchente de 2024 (p.8, p.34).",
+      "Cotas raciais e trans em todos os concursos públicos do RS (p.9).",
+      "Aborto legal, seguro e gratuito pelo SUS (p.70)."
+    ],
+    "Infraestrutura e cidades": [
+      "Tarifa zero no transporte metropolitano e estatização das empresas de ônibus (p.9).",
+      "Romper o contrato com a Rumo e reestatizar a ferrovia (p.29).",
+      "Plano de obras públicas de saneamento com subsídio cruzado e tarifa social de água e luz (p.29).",
+      "Contra o repasse das rodovias à gestão privada e a extinção da EGR (p.27)."
+    ],
+    "Gestão e Estado": [
+      "Conselhos populares decidindo 100% do orçamento; eleição de secretários e chefias (p.7, p.9).",
+      "Salário do governador igual ao de uma professora e mandatos revogáveis (p.6, p.9).",
+      "Auditoria popular do orçamento e cobrança da dívida ativa com expropriação de grandes devedores (p.8).",
+      "Aplicar já os mínimos de 12% em saúde e 25% em educação, sem o prazo acordado com o MP (p.8, p.24)."
+    ]
+  },
+  "posicoes": {
+    "banrisul": {
+      "v": -2,
+      "nota": "Plano não cita o Banrisul; defende suspender \"todas privatizações em curso\" e reestatizar empresas vendidas.",
+      "fonte": "Plano p.25 e p.29"
+    },
+    "concessoes": {
+      "v": -2,
+      "nota": "Fim das PPPs e terceirizações; reestatização de CEEE, Corsan e Sulgás; contra concessão de rodovias e PPP de escolas.",
+      "fonte": "Plano p.8 e p.27-29"
+    },
+    "icms": {
+      "v": 1,
+      "nota": "Defende reduzir impostos indiretos sobre alimentos, gás, energia e consumo popular, taxando propriedade e lucros de grandes empresas.",
+      "fonte": "Plano p.24"
+    },
+    "incentivos": {
+      "v": -2,
+      "nota": "Suspender isenções fiscais a grandes empresas, auditar todas as renúncias e nenhum benefício ao agronegócio; apoio só a pequenos negócios.",
+      "fonte": "Plano p.8, p.20 e p.24"
+    },
+    "servidores": {
+      "v": 2,
+      "nota": "Propõe duplicar o salário dos servidores, rumo ao salário mínimo do DIEESE, e anular perdas de carreira e previdência.",
+      "fonte": "Plano p.7-8"
+    },
+    "civico_militar": {
+      "v": -2,
+      "nota": "Defende o \"fim imediato da militarização das escolas\".",
+      "fonte": "Plano p.8 e p.54"
+    },
+    "licenciamento": {
+      "v": -2,
+      "nota": "Quer reverter o Código Ambiental de 2020, que simplificou o licenciamento, e proibir novas celuloses e empreendimentos de carvão.",
+      "fonte": "Plano p.8, p.35-36 e p.42"
+    },
+    "divida_uniao": {
+      "v": 2,
+      "nota": "\"Nem RRF, nem Propag\": cancelamento da dívida com a União e auditoria integral com participação social.",
+      "fonte": "Plano p.8 e p.24"
+    },
+    "seguranca_dura": {
+      "v": -2,
+      "nota": "Defende fim do encarceramento em massa, desmilitarização da Brigada e polícia unificada sob controle comunitário.",
+      "fonte": "Plano p.60"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Diagnóstico extenso e ações concretas, algumas com valores (36h, duplicar salários, 12% e 25%) e fontes de recursos indicadas, mas quase sem prazos ou metas mensuráveis."
+  },
+  "fontes": [
+    "https://www.nsctotal.com.br/?p=7995220",
+    "https://revistaoeste.com/politica/rio-grande-do-sul-conheca-os-7-candidatos-ao-governo-do-estado/"
+  ]
+}

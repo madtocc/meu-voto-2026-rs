@@ -1,0 +1,140 @@
+{
+  "id": "PRES_22",
+  "nome_urna": "FLAVIO BOLSONARO",
+  "resumo": "Plano que se define como \"liberal, conservador e reformista\", com prioridade para segurança pública com medidas duras, corte de gastos (\"Tesouraço\") e redução de impostos. Inclui reforma do STF, programa para mulheres (\"Brasil por Elas\") e digitalização de serviços públicos.",
+  "trajetoria": "Senador pelo Rio de Janeiro desde 2019; foi deputado estadual no RJ por quatro mandatos (2003-2019). É filho do ex-presidente Jair Bolsonaro.",
+  "destaques": [
+    "Apoiar a redução da maioridade penal de 18 para 16 anos e punir maiores de 14 anos por crimes graves (Plano p.13).",
+    "Declarar facções como organizações narcoterroristas; 5 novos presídios de segurança máxima e 500 mil vagas prisionais em 4 anos (p.13-14).",
+    "Fim da progressão de regime para crimes hediondos e castração química para estupradores condenados (p.14-15).",
+    "\"Tesouraço\": corte de no mínimo 10 ministérios, superávits primários e nova regra fiscal para reduzir a dívida (p.69-71).",
+    "Revisar a reforma tributária para reduzir o IVA e os impostos sobre consumo, energia e combustíveis (p.30-31).",
+    "Reforma do STF: limitar decisões monocráticas e acabar com a competência criminal originária (p.65).",
+    "Investir R$ 900 bilhões em 4 anos em logística e retomar o Casa Verde e Amarela com meta de 2,5 milhões de moradias (p.47, 51)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Revisar a reforma tributária e os aumentos de impostos do atual governo para reduzir a carga sobre produção e consumo (p.30, 71).",
+      "Reduzir gradualmente o custo do trabalho, com contratos de menor custo para jovens de 18 a 24 anos e pessoas com 50+ desempregadas (p.43-44).",
+      "Negociado sobre o legislado e jornada flexível (p.44).",
+      "Meta de crescimento de 4% ao ano e adesão à OCDE, com fim gradual do IOF sobre câmbio (p.49, 63)."
+    ],
+    "Saúde": [
+      "Prontuário eletrônico único vinculado ao CPF, interoperável entre redes pública e privada (p.26).",
+      "Garantir condições para a correção efetiva da tabela SUS (p.37).",
+      "Contratar exames na rede privada em horários ociosos, ampliar telessaúde e entrega de remédios em domicílio (p.37-38).",
+      "Ampliar a Estratégia Saúde da Família e criar o Programa de Atendimento aos Idosos (p.37)."
+    ],
+    "Educação": [
+      "Priorizar o método fônico na alfabetização e criar o Programa Acolher (reforço dado por alunos remunerados) (p.35).",
+      "Ampliar escolas cívico-militares e educação \"livre de doutrinação\" (p.35).",
+      "Voucher educacional e voucher-creche onde faltar vaga na rede pública (p.21, 36).",
+      "Adotar o Empréstimo Contingente à Renda no financiamento estudantil e transferir o ensino superior para o MCTI (p.36-37)."
+    ],
+    "Segurança": [
+      "Redução da maioridade penal para 16 anos (p.13).",
+      "Complexo federal de segurança máxima (TREVA) e 500 mil novas vagas prisionais em 4 anos (p.14).",
+      "Dobrar o investimento federal em segurança e criar o Muralha Brasileira, com reconhecimento facial e 1 milhão de câmeras (p.15).",
+      "Sistema Nacional de Fronteira com Forças Armadas e tropas especiais em portos e aeroportos (p.13-15)."
+    ],
+    "Meio ambiente e clima": [
+      "Meta de zerar o desmatamento ilegal até 2029 (p.58).",
+      "Licenciamento com prazos definidos e concessão da licença se o órgão não decidir no prazo (p.49-50).",
+      "Ampliar pagamento por serviços ambientais e consolidar o mercado regulado de carbono (p.55, 57).",
+      "Permitir a exploração de gás não convencional (fracking) e ampliar biocombustíveis (p.52-53)."
+    ],
+    "Social e direitos": [
+      "Manter os programas sociais com combate a fraudes, prioridade dos beneficiários em qualificação e retorno sem fila ao benefício (p.42-43).",
+      "Central da Mulher, assistente virtual ClarIA e tornozeleira para agressores sob medida protetiva (p.17-19).",
+      "Proibir o uso de recursos de programas sociais em apostas (p.33).",
+      "Restringir a categoria feminina no esporte a atletas do sexo feminino (p.40-41)."
+    ],
+    "Infraestrutura e cidades": [
+      "R$ 900 bilhões em 4 anos em rodovias, hidrovias, portos, aeroportos e ferrovias, com PPPs e concessões (p.50-51).",
+      "Destravar a Ferrogrão, implantar o Trem do Nordeste e concluir a Transnordestina (p.51, 60).",
+      "Retomar o Casa Verde e Amarela com meta de 2,5 milhões de moradias (p.47).",
+      "Acelerar concessões de saneamento e nenhuma escola sem água até 2030 (p.47)."
+    ],
+    "Gestão e Estado": [
+      "Cortar no mínimo 10 ministérios, cargos comissionados, penduricalhos e supersalários (p.69).",
+      "Retomar o Programa Nacional de Desestatização caso a caso e fortalecer a Lei das Estatais (p.70).",
+      "Fim da reeleição para presidente (p.66).",
+      "Digitalizar 100% dos serviços federais passíveis de digitalização (p.25)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 1,
+      "nota": "Plano retoma o Programa Nacional de Desestatização caso a caso; defendeu privatizar os Correios. A campanha diz que a Petrobras seguirá estatal.",
+      "fonte": "Plano p.70 | https://revistaoeste.com/politica/flavio-defende-privatizacao-dos-correios/ | https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-diz-que-mantera-petrobras-estatal/"
+    },
+    "impostos_ricos": {
+      "v": -1,
+      "nota": "Plano promete rever os aumentos de impostos do atual governo; não propõe taxar altas rendas. No projeto do IR, propôs excluir dividendos de sociedades profissionais da nova tributação mínima.",
+      "fonte": "Plano p.30, 71 | https://sbtnews.sbt.com.br/noticia/politica/flavio-propos-isencao-no-ir-que-beneficiaria-escritorio-dele"
+    },
+    "ajuste_fiscal": {
+      "v": 2,
+      "nota": "Propõe o \"Tesouraço\": corte de gastos e ministérios, superávits primários e nova regra fiscal para reduzir a dívida e os impostos.",
+      "fonte": "Plano p.68-71"
+    },
+    "programas_sociais": {
+      "v": 0,
+      "nota": "Promete manter e aperfeiçoar os programas sociais, com combate a fraudes e foco em \"porta de saída\"; não propõe ampliá-los.",
+      "fonte": "Plano p.9, 42-43"
+    },
+    "escala_6x1": {
+      "v": -1,
+      "nota": "Defende negociado sobre o legislado e jornada flexível; disse que o trabalhador, e não o governo, deve escolher quanto trabalha, e apoia alternativa do PL com remuneração por hora.",
+      "fonte": "Plano p.44-45 | https://www.dgabc.com.br/Noticia/4320008/flavio-bolsonaro-mostra-favoritismo-da-escala-5x2-mas-pondera"
+    },
+    "armas": {
+      "v": 2,
+      "nota": "Campanha trabalha em plano para revogar o Estatuto do Desarmamento e garantir posse a quem cumprir requisitos objetivos. O plano oficial não trata do tema.",
+      "fonte": "https://www.gazetadopovo.com.br/republica/quem-planeja-o-fim-do-estatuto-do-desarmamento-no-brasil/"
+    },
+    "penas": {
+      "v": 2,
+      "nota": "Propõe maioridade penal aos 16 anos, fim da progressão para crimes hediondos, cumprimento integral de penas para agressores de mulheres e castração química.",
+      "fonte": "Plano p.13-16"
+    },
+    "aborto": {
+      "v": -2,
+      "nota": "Plano defende a vida \"desde a concepção\" como valor inegociável; opõe-se a ampliar o aborto além das exceções legais.",
+      "fonte": "Plano p.9 | https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas"
+    },
+    "anistia_8j": {
+      "v": 2,
+      "nota": "Defende anistia aos condenados do 8 de janeiro. Disse que o Congresso vai aprová-la depois da eleição e que Jair Bolsonaro e 'todas as pessoas que foram perseguidas' subirão a rampa com ele em 2027.",
+      "fonte": "https://www.infomoney.com.br/politica/flavio-diz-que-nao-apenas-bolsonaro-mas-todos-perseguidos-subirao-rampa-do-planalto/"
+    },
+    "stf": {
+      "v": 2,
+      "nota": "Propõe limitar decisões monocráticas, acabar com a competência criminal originária, rever ADPFs e criar quarentena para ministros de Estado indicados.",
+      "fonte": "Plano p.65-66"
+    },
+    "ambiente": {
+      "v": -1,
+      "nota": "Propõe licença concedida por decurso de prazo, fracking e licenciamento ágil para mineração, \"sem novas obrigações\" ao produtor; mantém meta de zerar desmatamento ilegal até 2029.",
+      "fonte": "Plano p.49-50, 52, 55, 58"
+    },
+    "redes": {
+      "v": -2,
+      "nota": "Votou contra o PL das Fake News (PL 2630/2020) no Senado, em 2020. Propõe o 'Tesouraço na Censura': acabar com estruturas estatais que vigiem, rotulem ou punam o que as pessoas dizem e revogar atos do atual governo nessa área.",
+      "fonte": "Plano p.66-67 | https://legis.senado.leg.br/dadosabertos/materia/votacoes/141944"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Ações concretas em todas as áreas e várias metas numéricas (vagas prisionais, investimento em logística, moradias, ministérios), mas sem custos ou fontes de financiamento na maioria."
+  },
+  "fontes": [
+    "https://revistaoeste.com/politica/flavio-defende-privatizacao-dos-correios/",
+    "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-diz-que-mantera-petrobras-estatal/",
+    "https://sbtnews.sbt.com.br/noticia/politica/flavio-propos-isencao-no-ir-que-beneficiaria-escritorio-dele",
+    "https://www.dgabc.com.br/Noticia/4320008/flavio-bolsonaro-mostra-favoritismo-da-escala-5x2-mas-pondera",
+    "https://www.gazetadopovo.com.br/republica/quem-planeja-o-fim-do-estatuto-do-desarmamento-no-brasil/",
+    "https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas",
+    "https://www.infomoney.com.br/politica/flavio-diz-que-nao-apenas-bolsonaro-mas-todos-perseguidos-subirao-rampa-do-planalto/"
+  ]
+}

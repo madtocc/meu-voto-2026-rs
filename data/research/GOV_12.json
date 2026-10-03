@@ -1,0 +1,127 @@
+{
+  "id": "GOV_12",
+  "nome_urna": "JULIANA BRIZOLA",
+  "resumo": "Candidatura da frente PDT-PT-PSOL e aliados, crítica ao modelo de privatizações e contenção salarial dos últimos governos. O plano prioriza educação integral (CIEPs), fortalecimento do Estado e dos bancos públicos, valorização de servidores e um novo ciclo de desenvolvimento com apoio do governo federal. Propõe renegociar encargos da dívida e prorrogar o Funrigs.",
+  "trajetoria": "Neta de Leonel Brizola, foi vereadora de Porto Alegre (eleita em 2008) e deputada estadual de 2011 a 2023 (eleita em 2010 e 2018; na legislatura 2015-2019 assumiu como suplente). Foi candidata a vice-prefeita de Porto Alegre em 2016, a prefeita em 2020 e 2024 e a deputada federal em 2022, sem se eleger.",
+  "destaques": [
+    "Implantar gradualmente CIEPs com educação em tempo integral (Plano p.6).",
+    "Manter o Banrisul, o Badesul e o BRDE públicos, tratados como \"inegociáveis\" (p.35).",
+    "Buscar prorrogar por mais três anos a suspensão da dívida e o Funrigs e negociar redução dos encargos (p.34, 36).",
+    "Força-tarefa estadual para zerar filas de cirurgias eletivas, exames e consultas (p.7).",
+    "RS Mulher Segura, coordenado pela governadora, com efetivo dobrado nas DEAMs e Casas da Mulher Gaúcha (p.9-10).",
+    "Bilhete Único Metropolitano integrando ônibus e Trensurb (p.28).",
+    "Garantir o Piso Nacional do Magistério e reconstruir carreiras da educação (p.6)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Valorização permanente do Piso Salarial Regional (p.11).",
+      "CrediGaúcho via Banrisul/Badesul, com juros subsidiados para MEIs e economia popular (p.11).",
+      "Atualizar Fundopem e Integrar para atrair indústrias e elaborar Plano de Desenvolvimento Econômico (p.34, 37).",
+      "Retomar o Plano Safra Gaúcho e criar Programa Estadual de Abastecimento com a agricultura familiar (p.29)."
+    ],
+    "Saúde": [
+      "Aplicar integralmente o mínimo constitucional de 12% em saúde (p.7).",
+      "Força-tarefa para zerar filas, com hospitais filantrópicos, turnos extras e unidades móveis de diagnóstico (p.7).",
+      "Regionalizar média e alta complexidade e ampliar CAPS e atenção ao TEA (p.7).",
+      "Criar a Força Estadual de Resposta Rápida do SUS para emergências e desastres (p.7)."
+    ],
+    "Educação": [
+      "Implantar CIEPs em tempo integral (p.6).",
+      "Garantir o Piso do Magistério, concursos e reconstrução das carreiras (p.6).",
+      "Restabelecer eleição de diretores e gestão democrática das escolas (p.6).",
+      "Reestruturar escolas técnicas na rede IERS e fortalecer a UERGS (p.6-7)."
+    ],
+    "Segurança": [
+      "Programa RS Contra o Crime Organizado: asfixia financeira de facções, bloqueio de celulares nos presídios e rastreamento de todas as armas apreendidas (lançado em 02/09/2026).",
+      "Centro Integrado de Inteligência de Fronteira e estrutura contra crimes cibernéticos (p.8).",
+      "Recompor efetivos por concurso e usar câmeras corporais com protocolos de uso da força (p.8).",
+      "Programa Territórios de Paz e expansão do POD para jovens em áreas vulneráveis (p.8-9)."
+    ],
+    "Meio ambiente e clima": [
+      "Transformar a Defesa Civil em política de gestão preditiva de riscos, com Sistema de Alerta Precoce e meteorologistas e geólogos no quadro (p.27).",
+      "Reassentar famílias de áreas sujeitas a inundações e deslizamentos (p.13).",
+      "Recompor quadros técnicos da Sema e da Fepam e ampliar fiscalização ambiental (p.26-27).",
+      "Plano de Energia e Transição Energética Justa 2027-2035, com reconversão de Candiota e Baixo Jacuí (p.24)."
+    ],
+    "Social e direitos": [
+      "Programa Comida no Prato com cozinhas comunitárias e restaurantes populares (p.12).",
+      "Reconstruir Secretaria da Mulher e criar Sistema Único de Proteção das Mulheres (p.9-10).",
+      "Política Estadual de Cuidados com creches em tempo integral e Centros-Dia (p.10, 12).",
+      "Programas para igualdade racial, população LGBTQIA+ e pessoas com deficiência (p.16-20)."
+    ],
+    "Infraestrutura e cidades": [
+      "Revisar o modelo de concessões rodoviárias e reestruturar DAER e EGR (p.23).",
+      "Banco Estadual de Terras Públicas e aporte estadual para reduzir a entrada no Minha Casa, Minha Vida (p.13-14).",
+      "Bilhete Único Metropolitano e defesa da Trensurb como empresa pública (p.28).",
+      "Drenagem sustentável (parques lineares, bacias de retenção) e adaptação de estações de água e esgoto a cheias (p.26)."
+    ],
+    "Gestão e Estado": [
+      "Manter Banrisul, Badesul e BRDE como bancos públicos estratégicos (p.35).",
+      "Reajustes a professores e servidores e fim do desconto previdenciário de professores aposentados no 1º ano (entrevista, 28/09/2026).",
+      "Retomar Orçamento Participativo e Consulta Popular (p.33).",
+      "Lutar pela criação do Fundo Constitucional da Região Sul (p.34, 37)."
+    ]
+  },
+  "posicoes": {
+    "banrisul": {
+      "v": -2,
+      "nota": "Defende preservar o controle público do Banrisul, chamado de \"inegociável\".",
+      "fonte": "Plano p.35"
+    },
+    "concessoes": {
+      "v": -1,
+      "nota": "Critica a venda de patrimônio público e se opõe a privatizar serviços essenciais; diz não ser contra concessão \"bem feita\" e propõe revisar as concessões rodoviárias.",
+      "fonte": "Plano p.3, 23, 33, 36 | https://leouve.com.br/politica/juliana-brizola-critica-concessao-ers-122-recuperar-competitividade-rs-farroupilha/"
+    },
+    "icms": {
+      "v": 1,
+      "nota": "Promete não elevar o ICMS e diz que buscará reduzir alíquotas gradualmente; o plano fala só em não aumentar impostos.",
+      "fonte": "https://www.osul.com.br/juliana-brizola-promete-nao-aumentar-icms-e-defende-reducao-gradual-de-aliquotas-no-rs/ | Plano p.34"
+    },
+    "incentivos": {
+      "v": 1,
+      "nota": "Propõe atualizar Fundopem e Integrar para atrair indústrias, com exigências como igualdade salarial nas empresas beneficiadas.",
+      "fonte": "Plano p.10, 34"
+    },
+    "servidores": {
+      "v": 1,
+      "nota": "Critica \"arrocho salarial\"; promete reajustes a professores e outros servidores, o Piso do Magistério e o fim do desconto previdenciário de aposentados, sem fixar índice.",
+      "fonte": "Plano p.6, 33, 36 | https://horadopovo.com.br/juliana-brizola-promete-acabar-com-desconto-previdenciario-de-professores-aposentados/"
+    },
+    "civico_militar": {
+      "v": -1,
+      "nota": "Votou a favor do modelo como deputada e disse ter se arrependido; em debate, discordou do modelo defendido por Zucco e defendeu escola laica e de tempo integral.",
+      "fonte": "https://horadopovo.com.br/juliana-brizola-defende-escola-de-tempo-integral-e-acoes-diretas-contra-feminicidio-no-rs/ | https://vermelho.org.br/2026/09/30/juliana-brizola-critica-falta-de-acoes-contra-enchentes-e-defende-avancos-na-educacao/"
+    },
+    "licenciamento": {
+      "v": -1,
+      "nota": "Propõe recompor e fortalecer a fiscalização da Sema e da Fepam e regras rigorosas para mineração; prevê simplificar a regularização ambiental rural.",
+      "fonte": "Plano p.25-27, 30"
+    },
+    "divida_uniao": {
+      "v": 1,
+      "nota": "Propõe trocar o RRF pelo Propag, negociar redução dos encargos e prorrogar a suspensão por três anos; critica o RRF. Não fala em auditoria.",
+      "fonte": "Plano p.34, 36 | https://horadopovo.com.br/juliana-brizola-defende-escola-de-tempo-integral-e-acoes-diretas-contra-feminicidio-no-rs/"
+    },
+    "seguranca_dura": {
+      "v": -1,
+      "nota": "Diz que atuação \"predominantemente ostensiva\" é insuficiente; prioriza inteligência, asfixia financeira de facções, controle de presídios e prevenção social.",
+      "fonte": "Plano p.8 | https://pdt.org.br/index.php/juliana-brizola-lanca-programa-rs-contra-o-crime-organizado/"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Ações concretas em todas as áreas e algumas metas e prazos (zerar filas, dobrar efetivo nas DEAMs, Funrigs por mais três anos, plano de energia 2027-2035), sem custos detalhados."
+  },
+  "fontes": [
+    "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-juliana-brizola-pre-candidata-ao-governo-do-rs/",
+    "https://www.nsctotal.com.br/?p=8018309",
+    "https://www.osul.com.br/juliana-brizola-promete-nao-aumentar-icms-e-defende-reducao-gradual-de-aliquotas-no-rs/",
+    "https://horadopovo.com.br/juliana-brizola-promete-acabar-com-desconto-previdenciario-de-professores-aposentados/",
+    "https://horadopovo.com.br/juliana-brizola-defende-escola-de-tempo-integral-e-acoes-diretas-contra-feminicidio-no-rs/",
+    "https://vermelho.org.br/2026/09/30/juliana-brizola-critica-falta-de-acoes-contra-enchentes-e-defende-avancos-na-educacao/",
+    "https://www.cnnbrasil.com.br/eleicoes/debate-ao-governo-do-rs-tem-propostas-para-enchentes-e-escolas-militares/",
+    "https://leouve.com.br/politica/juliana-brizola-critica-concessao-ers-122-recuperar-competitividade-rs-farroupilha/",
+    "https://pdt.org.br/index.php/juliana-brizola-lanca-programa-rs-contra-o-crime-organizado/"
+  ]
+}

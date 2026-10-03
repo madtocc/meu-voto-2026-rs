@@ -1,0 +1,93 @@
+{
+  "id": "PRES_55",
+  "nome_urna": "RONALDO CAIADO",
+  "resumo": "Plano com 26 temas, centrado em segurança pública sob comando direto da Presidência, estabilização fiscal sem aumento de impostos e gestão por metas e indicadores. Propõe tratar facções e milícias como terrorismo doméstico, reduzir a maioridade penal e reorganizar o SUS com metas para 2030. Vice: Gilberto Kassab (PSD).",
+  "trajetoria": "Médico e produtor rural. Foi deputado federal por cinco mandatos, senador por Goiás (2015-2018) e governador de Goiás (2019-2026); disputou a Presidência em 1989.",
+  "destaques": [
+    "Lei do Terrorismo Doméstico para facções e milícias, com penas mínimas de 35 a 45 anos e uso das Forças Armadas sem GLO.",
+    "Redução da maioridade penal para 16 anos em crimes graves.",
+    "Criação do Ministério da Segurança Pública e de rede nacional de presídios de segurança máxima.",
+    "PEC para acabar com a reeleição no Executivo, valendo já para o mandato iniciado em 2027.",
+    "Ajuste fiscal gradual sem criar tributos, com despesas obrigatórias crescendo abaixo do PIB.",
+    "SUS com fila por prioridade clínica e metas nacionais de saúde para 2030.",
+    "Promete indulto a Bolsonaro e anistia aos envolvidos no 8 de janeiro (declarações públicas)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Estratégia Brasil 2040 para elevar o investimento de cerca de 17% para cerca de 25% do PIB (p.14).",
+      "Depreciação acelerada e crédito de longo prazo para modernizar a indústria (p.43).",
+      "Plano Safra plurianual de cinco anos e fundo garantidor para o crédito agrícola privado (p.23).",
+      "Meta de preço do gás industrial perto de US$ 8 por MMBtu, com abertura do mercado de gás (p.37)."
+    ],
+    "Saúde": [
+      "Sistema Nacional de Acesso e Regulação Inteligente, com fila por prioridade clínica; meta de reduzir em 50% a espera mediana até 2030 (p.77).",
+      "Redes de infarto, AVC e câncer; meta indicativa de reduzir em 30% a mortalidade cardiovascular prematura até 2030 (p.79-80).",
+      "Cobertura de 100% do SAMU e meta indicativa de reduzir em 30% a mortalidade materna até 2030 (p.81, p.87).",
+      "Aliança Nacional de Ciência e Produção em Saúde para vacinas, biossimilares e terapias avançadas (p.90)."
+    ],
+    "Educação": [
+      "Pacto Nacional pela Alfabetização e Matemática até o fim do 2º ano (p.32).",
+      "Universalizar a pré-escola e ampliar creches para famílias vulneráveis (p.32).",
+      "Expandir educação profissional e escola em tempo integral em territórios vulneráveis (p.33).",
+      "Bolsa de permanência focalizada em estudantes de baixa renda com risco de abandono (p.33)."
+    ],
+    "Segurança": [
+      "Criar o Ministério da Segurança Pública e o Sistema Integrado de Proteção à Soberania Nacional (p.16-17).",
+      "Enquadrar facções como terrorismo doméstico, com regime disciplinar especial e progressão só após 90% da pena (p.17-18).",
+      "Redução da maioridade penal para 16 anos em crimes graves e furto de celular equiparado a roubo (p.20).",
+      "Asfixia financeira do crime: inversão do ônus da prova patrimonial e leilão imediato de bens apreendidos (p.17-18)."
+    ],
+    "Meio ambiente e clima": [
+      "Combate integrado a desmatamento, grilagem e garimpo ilegal, com inteligência financeira (p.51).",
+      "Mercado de carbono regulado e pagamento por serviços ambientais em escala (p.51).",
+      "Licenciamento por risco, com prazos definidos e rito simplificado para baixo impacto (p.47, p.50).",
+      "Planos de adaptação climática, alertas de desastre e programa Água para o Futuro (p.51)."
+    ],
+    "Social e direitos": [
+      "Preservar transferências de renda, com regra de transição gradual para quem entra no emprego formal (p.61).",
+      "Pacto Nacional pelo Fim do Feminicídio, com monitoramento eletrônico de agressores (p.58).",
+      "Orçamento federal identificado e coordenação na Presidência para crianças e adolescentes (p.62).",
+      "Metas de equidade racial nas políticas públicas e regularização de territórios quilombolas (p.67-68)."
+    ],
+    "Infraestrutura e cidades": [
+      "Plano Nacional de Infraestrutura de 30 anos e triagem obrigatória das obras paradas (p.46-47).",
+      "Calendário permanente de concessões e PPPs, inclusive hospitais e escolas (p.47).",
+      "Universalização do saneamento até 2033, conforme o marco legal (p.48).",
+      "Política Nacional de Financiamento do transporte coletivo no 1º ano, sem novo imposto (p.56)."
+    ],
+    "Gestão e Estado": [
+      "PEC para extinguir a reeleição no Executivo, inclusive para o mandato iniciado em 2027 (p.8).",
+      "Adoção do voto distrital misto e transparência total das emendas parlamentares (p.10-11).",
+      "Publicar um 'Orçamento da Verdade' e fazer as despesas obrigatórias crescerem abaixo do PIB (p.12).",
+      "Aplicar o teto salarial em todos os Poderes contra supersalários (p.12)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {"v": 1, "nota": "Descarta privatizar a Petrobras por inteiro, mas admite negociar o segmento de gás e privatizar os Correios; plano amplia concessões e PPPs e mantém estatais com governança.", "fonte": "Plano p.35, 47 | https://tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais"},
+    "impostos_ricos": {"v": -1, "nota": "Promete ajuste fiscal sem criar tributos nem elevar alíquotas; não trata de taxar altas rendas, dividendos ou fortunas.", "fonte": "Plano p.12-13 | https://sbtnews.sbt.com.br/noticia/eleicoes/impostos-veja-propostas-de-presidenciaveis-em-2026"},
+    "ajuste_fiscal": {"v": 1, "nota": "Defende despesas obrigatórias crescendo abaixo do PIB, superávits progressivos e revisão de subsídios, de forma gradual e sem cortes lineares.", "fonte": "Plano p.12-13"},
+    "programas_sociais": {"v": 0, "nota": "Preserva as transferências de renda, com combate a fraudes e regra de transição ('porta de saída'); não propõe ampliá-las.", "fonte": "Plano p.2, 61"},
+    "escala_6x1": {"v": 1, "nota": "Em agosto de 2026 disse aceitar a troca da 6x1 pela 5x2; em abril havia criticado a PEC e proposto modelo de hora trabalhada. O plano não trata do tema.", "fonte": "https://sbtnews.sbt.com.br/noticia/eleicoes/caiado-hesita-ao-falar-sobre-6x1-mas-diz-aceitar-reducao | https://www.cnnbrasil.com.br/eleicoes/caiado-defende-modelo-de-hora-trabalhada-como-alternativa-a-pec-6x1/"},
+    "armas": {"v": null, "nota": "O plano não trata de posse ou porte de armas por civis; não foi encontrada declaração recente sobre o tema.", "fonte": null},
+    "penas": {"v": 2, "nota": "Propõe maioridade penal aos 16 anos em crimes graves, penas mínimas de 35 a 45 anos para facções e progressão só após 90% da pena em vários crimes.", "fonte": "Plano p.17-20"},
+    "aborto": {"v": -2, "nota": "Declarou-se contra o aborto, exceto nos casos previstos em lei, e apoiou a derrubada da resolução do Conanda sobre aborto legal para menores (jun/2026).", "fonte": "https://diariodocomercio.com.br/politica/senado-aborto-zema-caiado/ | https://www.bahianoticias.com.br/folha/noticia/400390-zema-ataca-esquerda-e-caiado-cobra-congresso-apos-senado-dificultar-aborto-legal"},
+    "anistia_8j": {"v": 2, "nota": "Promete indulto a Bolsonaro e anistia 'ampla, geral e irrestrita' aos envolvidos no 8 de janeiro e na trama golpista.", "fonte": "https://www.infomoney.com.br/politica/caiado-promete-anistia-para-reus-do-8-de-janeiro-e-da-trama-golpista-se-eleito/ | https://ohoje.com/2026/07/28/caiado-volta-a-defender-anistia-aos-condenados-do-8-de-janeiro-e-indulto-a-bolsonaro/"},
+    "stf": {"v": 1, "nota": "Critica o 'ativismo judicial', defendeu o afastamento de Alexandre de Moraes e propõe idade mínima de 60 anos e quarentena para ministros; não propõe mandato nem fim das decisões monocráticas.", "fonte": "https://acritica.net/eleicoes-2026/caiado-diz-que-stf-vive-momento-delicado-e-cobra-resposta-a-populacao/ | https://www.poder360.com.br/poder-justica/caiado-diz-que-moraes-ultrapassa-limites-institucionais/"},
+    "ambiente": {"v": 0, "nota": "Defende rigor contra desmatamento e garimpo ilegais e pagamento por serviços ambientais, mas também estabilidade do Código Florestal e licenciamento simplificado; não propõe novas restrições ao agro.", "fonte": "Plano p.3, 24, 50-51"},
+    "redes": {"v": 1, "nota": "Propõe consolidar em lei regras de responsabilidade, devido processo e transparência para plataformas e proteção de crianças, preservando os princípios do Marco Civil.", "fonte": "Plano p.26"}
+  },
+  "detalhamento": {"nota": 3, "justificativa": "Ações concretas nos 26 temas e metas quantificadas com prazo (2030) na saúde e em poucos outros pontos; nas demais áreas há indicadores sem números, e não há custos nem fontes de financiamento."},
+  "fontes": [
+    "https://tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais",
+    "https://sbtnews.sbt.com.br/noticia/eleicoes/impostos-veja-propostas-de-presidenciaveis-em-2026",
+    "https://sbtnews.sbt.com.br/noticia/eleicoes/caiado-hesita-ao-falar-sobre-6x1-mas-diz-aceitar-reducao",
+    "https://www.cnnbrasil.com.br/eleicoes/caiado-defende-modelo-de-hora-trabalhada-como-alternativa-a-pec-6x1/",
+    "https://diariodocomercio.com.br/politica/senado-aborto-zema-caiado/",
+    "https://www.bahianoticias.com.br/folha/noticia/400390-zema-ataca-esquerda-e-caiado-cobra-congresso-apos-senado-dificultar-aborto-legal",
+    "https://www.infomoney.com.br/politica/caiado-promete-anistia-para-reus-do-8-de-janeiro-e-da-trama-golpista-se-eleito/",
+    "https://ohoje.com/2026/07/28/caiado-volta-a-defender-anistia-aos-condenados-do-8-de-janeiro-e-indulto-a-bolsonaro/",
+    "https://acritica.net/eleicoes-2026/caiado-diz-que-stf-vive-momento-delicado-e-cobra-resposta-a-populacao/",
+    "https://www.poder360.com.br/poder-justica/caiado-diz-que-moraes-ultrapassa-limites-institucionais/",
+    "https://tribunadosertao.com.br/politica/2026/09/15/979263-caiado-pede-afastamento-de-moraes-zema-diz-que-brasil-esta-virando-republiqueta-de-bananas"
+  ]
+}

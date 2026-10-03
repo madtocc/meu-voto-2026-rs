@@ -1,0 +1,129 @@
+{
+  "id": "PRES_29",
+  "nome_urna": "RUI COSTA PIMENTA",
+  "resumo": "Programa do PCO, que trata a eleição como tribuna de propaganda pela revolução, por um governo operário e pelo comunismo. Propõe reajustes salariais amplos, redução da jornada, reestatização de empresas, estatização do sistema financeiro e fim do STF.",
+  "trajetoria": "Preside o Partido da Causa Operária (PCO) desde 1995. Foi candidato a presidente em 2002, 2010 e 2014; em 2006, o TSE negou o registro da candidatura.",
+  "destaques": [
+    "Salário mínimo de pelo menos R$ 7.500 e aumento emergencial de 50% de todos os salários (Plano p.2).",
+    "Jornada máxima de 35 horas semanais sem redução salarial e proibição de demissões (p.2).",
+    "Cancelar todas as privatizações e tornar a Petrobras 100% estatal sob controle dos trabalhadores (p.3).",
+    "Estatização do sistema financeiro e cancelamento das dívidas interna e externa (p.6).",
+    "Fim do STF e eleição de juízes e procuradores por voto popular (p.6).",
+    "Dissolução da polícia militar e direito de autodefesa dos trabalhadores (p.5).",
+    "Fim dos impostos sobre consumo e salários; imposto só sobre ganhos de capitalistas e grandes fortunas (p.6)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Reposição integral das perdas, aumento emergencial de 50% e escala móvel dos salários (p.2).",
+      "Salário mínimo vital de pelo menos R$ 7.500 (p.2).",
+      "Jornada de 35 horas semanais e proibição das demissões (p.2).",
+      "Revogar a reforma trabalhista e a da Previdência; estatizar o sistema financeiro e acabar com a independência do Banco Central (p.3, 6)."
+    ],
+    "Saúde": [
+      "Mais verbas para a saúde pública, sem limite de gastos (p.5).",
+      "Plano de emergência para construir hospitais e postos de saúde (p.5).",
+      "Volta do Mais Médicos e validação imediata de diplomas de médicos (p.5).",
+      "Piso de R$ 8 mil para profissionais de saúde e abertura de cursos de medicina sem vestibular (p.5)."
+    ],
+    "Educação": [
+      "Fim dos vestibulares e livre ingresso nas universidades (p.5).",
+      "Piso nacional de pelo menos R$ 8,5 mil para professores e jornada máxima de 30 horas (p.5).",
+      "Estatização do ensino pago e verbas públicas só para o ensino público (p.5).",
+      "Eleição direta de diretores e fim da proibição de celulares nas escolas (p.5)."
+    ],
+    "Segurança": [
+      "Dissolução da polícia militar e de todo o aparato repressivo (p.5).",
+      "Direito de autodefesa e comitês de autodefesa de trabalhadores, comunidades e indígenas (p.4-5)."
+    ],
+    "Meio ambiente e clima": [
+      "Contra a internacionalização da Amazônia; riquezas amazônicas sob controle de organizações populares e indígenas (p.7)."
+    ],
+    "Social e direitos": [
+      "Bolsa Família de pelo menos um salário mínimo (p.2).",
+      "Reforma agrária com expropriação do latifúndio e demarcação de terras indígenas (p.4).",
+      "Expropriação de imóveis vagos de especuladores e proibição de despejos (p.4).",
+      "Aposentadoria com no máximo 25 anos de trabalho para mulheres e 30 para homens (p.3)."
+    ],
+    "Infraestrutura e cidades": [
+      "Plano nacional de construção de milhões de moradias populares (p.4).",
+      "Passe livre no transporte para desempregados e trabalhadores informais (p.2).",
+      "Internet gratuita para toda a população (p.6).",
+      "Redução imediata de 50% no preço dos combustíveis e fim da paridade com o dólar (p.3)."
+    ],
+    "Gestão e Estado": [
+      "Fim do STF e eleição de juízes e procuradores com mandatos revogáveis (p.6).",
+      "Fim do teto de gastos e da Lei de Responsabilidade Fiscal (p.4).",
+      "Contra o fim da estabilidade dos servidores; concursos públicos periódicos (p.4).",
+      "Cancelar leis como a Ficha Limpa e a cláusula de barreira (p.6)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -2,
+      "nota": "Propõe cancelar todas as privatizações, reestatizar empresas e tornar a Petrobras 100% estatal.",
+      "fonte": "Plano p.3"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Defende imposto sobre grandes fortunas e tributar só os ganhos dos capitalistas, acabando com impostos sobre consumo e salários.",
+      "fonte": "Plano p.3, 6"
+    },
+    "ajuste_fiscal": {
+      "v": -2,
+      "nota": "Defende fim do teto de gastos e da Lei de Responsabilidade Fiscal e é contra o corte de gastos públicos.",
+      "fonte": "Plano p.4"
+    },
+    "programas_sociais": {
+      "v": 2,
+      "nota": "Propõe Bolsa Família de pelo menos um salário mínimo e auxílio emergencial ampliado.",
+      "fonte": "Plano p.2"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Defende jornada máxima de 7 horas por dia, 5 dias por semana (35 horas), sem redução salarial.",
+      "fonte": "Plano p.2"
+    },
+    "armas": {
+      "v": 1,
+      "nota": "Defende o direito de autodefesa e o armamento de trabalhadores e indígenas, ligado à dissolução da PM; não trata de regras de posse e porte.",
+      "fonte": "Plano p.4-5 | https://sbtnews.sbt.com.br/noticia/politica/rui-costa-pimenta-defende-fim-da-pm-e-legalizacao-de-drogas"
+    },
+    "penas": {
+      "v": -1,
+      "nota": "Plano defende \"abaixo a repressão\" e a dissolução da PM e do aparato repressivo; não trata diretamente de penas ou maioridade penal.",
+      "fonte": "Plano p.5"
+    },
+    "aborto": {
+      "v": 2,
+      "nota": "Defende a legalização completa do aborto, dizendo que o Estado deve ser laico.",
+      "fonte": "https://www.poder360.com.br/poder-eleicoes/estado-nao-pode-ser-religioso-diz-rui-costa-pimenta-sobre-aborto/"
+    },
+    "anistia_8j": {
+      "v": 2,
+      "nota": "O PCO defendeu publicamente anistia aos presos do 8 de janeiro (mar/2025); Rui chamou as penas aplicadas pelo STF de \"absurdas\".",
+      "fonte": "https://revistaoeste.com/politica/pco-pede-anistia-para-os-presos-do-8-de-janeiro/ | https://revistaoeste.com/brasil/pco-critica-julgamento-de-reus-do-8-de-janeiro/"
+    },
+    "stf": {
+      "v": 2,
+      "nota": "Propõe o fim do STF e a eleição de todos os juízes e procuradores por voto popular, com mandatos revogáveis.",
+      "fonte": "Plano p.6"
+    },
+    "ambiente": null,
+    "redes": {
+      "v": -2,
+      "nota": "Defende liberdade irrestrita de expressão na internet, fim de toda censura e revogação da \"Lei Felca\" (ECA Digital).",
+      "fonte": "Plano p.6"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Reivindicações concretas com alguns valores (salário mínimo, jornada, pisos salariais, preço dos combustíveis), mas sem prazos, custos ou fontes detalhadas."
+  },
+  "fontes": [
+    "https://www.acessa.com/politica/2026/08/337241-sindicalista-rui-costa-pimenta-concorrera-a-presidencia-pelo-pco.html",
+    "https://www.poder360.com.br/poder-eleicoes/estado-nao-pode-ser-religioso-diz-rui-costa-pimenta-sobre-aborto/",
+    "https://sbtnews.sbt.com.br/noticia/politica/rui-costa-pimenta-defende-fim-da-pm-e-legalizacao-de-drogas",
+    "https://revistaoeste.com/politica/pco-pede-anistia-para-os-presos-do-8-de-janeiro/",
+    "https://revistaoeste.com/brasil/pco-critica-julgamento-de-reus-do-8-de-janeiro/"
+  ]
+}

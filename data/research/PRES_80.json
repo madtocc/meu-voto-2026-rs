@@ -1,0 +1,138 @@
+{
+  "id": "PRES_80",
+  "nome_urna": "SAMARA",
+  "resumo": "Candidatura da Unidade Popular (UP), com chapa feminina (vice Raquel Brício), que apresenta um programa socialista de ruptura com o capitalismo e 'Governo Popular dos Trabalhadores'. O eixo é elevar salários e direitos (aumento de 100% do salário mínimo, fim da escala 6x1 com jornada de 30 horas), suspender o pagamento da dívida pública e estatizar bancos e empresas estratégicas sob controle popular.",
+  "trajetoria": "Cirurgiã-dentista do SUS em Belo Horizonte (MG), vice-presidente nacional da UP e ex-diretora de mulheres da UNE. Foi candidata a vice-presidente em 2022, na chapa de Leo Péricles (UP).",
+  "destaques": [
+    "Aumento imediato de 100% do salário mínimo, rumo ao valor calculado pelo Dieese (p.9).",
+    "Fim da escala 6x1 e jornada de 30 horas semanais sem redução salarial (p.10).",
+    "Suspensão do pagamento de juros e amortizações da dívida pública, com auditoria cidadã (p.14-16).",
+    "Nacionalização dos bancos em sistema único estatal e fim da autonomia do Banco Central (p.18).",
+    "Reestatização de Petrobras (100% estatal), Eletrobras, Vale, ferrovias, saneamento e telecomunicações (p.60).",
+    "Isenção de IR para trabalhadores e imposto progressivo sobre grandes fortunas, lucros, dividendos e heranças (p.16-17).",
+    "Desmilitarização e unificação das polícias e eleição direta de juízes e tribunais superiores (p.48-49)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Aumento de 100% do salário mínimo no início do governo, com valorização permanente acima da inflação (p.9).",
+      "Fim da escala 6x1 e jornada de 30 horas (escala 4x3 ou turnos de 6 horas) sem redução salarial (p.10).",
+      "Frentes Emergenciais de Emprego Público para obras de moradia, saneamento, creches e postos de saúde (p.12).",
+      "Planificação da economia, proibição de remessas ao exterior sem autorização do Estado e comércio exterior estatal (p.56-58)."
+    ],
+    "Saúde": [
+      "SUS 100% estatal, com fim da gestão por Organizações Sociais, fundações privadas e cooperativas (p.20).",
+      "Fim da exploração dos planos de saúde privados (p.20).",
+      "Produção estatal massiva de medicamentos, vacinas e insumos, com distribuição gratuita (p.20).",
+      "Obrigação legal de presidente, parlamentares, governadores, prefeitos e juízes usarem só o SUS (p.13)."
+    ],
+    "Educação": [
+      "Destinar pelo menos 10% do PIB à educação pública, da creche à pós-graduação (p.22).",
+      "Revogar o Novo Ensino Médio e as reformas curriculares empresariais (p.22).",
+      "Suspender verbas públicas ao ensino privado, estatizar progressivamente grandes grupos educacionais e anistiar dívidas do FIES (p.22).",
+      "Livre acesso à universidade e a cursos técnicos, com fim do vestibular (p.21)."
+    ],
+    "Segurança": [
+      "Desmilitarização e unificação das polícias em estrutura civil, preventiva e comunitária (p.48).",
+      "Fim da 'guerra às drogas', com paradigma de saúde pública e combate à lavagem de dinheiro do crime organizado (p.48).",
+      "Contra a redução da maioridade penal (p.30).",
+      "Transformar presídios em 'Unidades de Reeducação' e enfrentar o encarceramento em massa e o abuso da prisão provisória (p.49-50)."
+    ],
+    "Meio ambiente e clima": [
+      "Proibição da destruição de florestas e controle popular sobre a Amazônia, com expulsão de monopólios estrangeiros (p.61).",
+      "Proibir agrotóxicos banidos no exterior e incentivar a transição agroecológica (p.63).",
+      "Combater desmatamento ilegal, garimpo, grilagem e crimes ambientais de grandes empresas (p.63).",
+      "Frentes emergenciais de trabalho para reflorestamento, proteção de nascentes e prevenção de incêndios (p.63)."
+    ],
+    "Social e direitos": [
+      "Descriminalização e legalização do aborto, tratado como questão de saúde pública (p.28).",
+      "Criminalização da misoginia, Delegacias da Mulher 24 horas e rede pública de cuidados (creches, lavanderias, restaurantes populares) (p.28).",
+      "Fortalecer e ampliar o BPC, com critério de renda que considere gastos com deficiência (p.34).",
+      "Revogar as reformas trabalhista e previdenciária e a terceirização irrestrita (p.12-13)."
+    ],
+    "Infraestrutura e cidades": [
+      "Estatização das empresas de ônibus e transição para tarifa zero no transporte coletivo (p.52).",
+      "Reestatização da CBTU e plano nacional de trens, metrôs e VLTs elétricos (p.52).",
+      "Produção pública massiva de moradias e desapropriação de imóveis que não cumpram função social (p.45-46).",
+      "Reforma agrária com desapropriação de grandes terras do agronegócio (p.44)."
+    ],
+    "Gestão e Estado": [
+      "Fim dos supersalários e penduricalhos de juízes, parlamentares, generais e altos executivos (p.13).",
+      "Eleição direta para juízes e tribunais superiores (p.49).",
+      "Conselhos Populares com poder orçamentário, plebiscitos e referendos (p.37).",
+      "Estatização dos monopólios de TV e rádio e confisco de bens de corruptos e sonegadores (p.25, p.37)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -2,
+      "nota": "Contra privatizações; defende reestatizar Petrobras, Eletrobras, Vale, ferrovias, saneamento e telecomunicações e rever concessões de portos, aeroportos e estradas.",
+      "fonte": "Plano p.58, 60 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Defende imposto progressivo sobre grandes fortunas, lucros, dividendos e heranças, com isenção de IR para trabalhadores.",
+      "fonte": "Plano p.16-17 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "ajuste_fiscal": {
+      "v": -2,
+      "nota": "Defende o fim do arcabouço fiscal e a suspensão do pagamento da dívida; sobre cortes no orçamento, disse: 'Somos terminantemente contrários aos cortes'.",
+      "fonte": "Plano p.9, 15 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "programas_sociais": {
+      "v": 2,
+      "nota": "Defende os programas de transferência de renda e critica a 'ofensiva' contra o Bolsa Família; plano propõe ampliar o BPC e reajustar benefícios assistenciais.",
+      "fonte": "Plano p.9, 34 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Fim imediato da escala 6x1 e jornada de 30 horas semanais sem redução salarial.",
+      "fonte": "Plano p.9-10"
+    },
+    "armas": {
+      "v": -1,
+      "nota": "Plano defende 'forte fiscalização e controle das armas e munições' sob controle do governo; não trata de posse ou porte por cidadãos.",
+      "fonte": "Plano p.48"
+    },
+    "penas": {
+      "v": -2,
+      "nota": "Contra a redução da maioridade penal; defende enfrentar o encarceramento em massa e trocar presídios por unidades de reeducação. Propõe criminalizar a misoginia.",
+      "fonte": "Plano p.28, 30, 49-50"
+    },
+    "aborto": {
+      "v": 2,
+      "nota": "Defende a descriminalização e a legalização do aborto, como questão de saúde pública.",
+      "fonte": "Plano p.28"
+    },
+    "anistia_8j": {
+      "v": -2,
+      "nota": "Contra anistia a golpistas, financiadores e agentes do Estado envolvidos em tentativas de golpe; critica o PL da Anistia.",
+      "fonte": "Plano p.54"
+    },
+    "stf": {
+      "v": 0,
+      "nota": "Propõe eleição direta para juízes, inclusive do STF, no lugar da indicação presidencial; não propõe limitar decisões ou poderes da Corte.",
+      "fonte": "Plano p.49 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "ambiente": {
+      "v": 2,
+      "nota": "Defende proibir destruição de florestas, banir agrotóxicos proibidos no exterior e desapropriar grandes terras do agronegócio, com transição agroecológica.",
+      "fonte": "Plano p.44, 61-63"
+    },
+    "redes": {
+      "v": 1,
+      "nota": "Defende o fim do monopólio estrangeiro sobre redes digitais e combate à concentração das grandes plataformas; não detalha responsabilização por conteúdo.",
+      "fonte": "Plano p.38, 40"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Lista extensa de medidas concretas com algumas metas (aumento de 100% do salário mínimo no início do governo, 30 horas, 10% do PIB para educação), mas sem prazos, custos ou etapas na maioria das áreas."
+  },
+  "fontes": [
+    "Plano de governo (TSE) — prop_br/BR/2026BR280002538811_01.pdf",
+    "https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf",
+    "https://www.gazetadopovo.com.br/eleicoes/2026/quem-e-samara-martins-pre-candidata-a-presidente-pelo-unidade-popular/",
+    "https://www.cartacapital.com.br/?p=625633",
+    "https://almapreta.com.br/?p=76572"
+  ]
+}

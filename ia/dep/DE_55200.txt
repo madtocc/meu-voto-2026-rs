@@ -1,0 +1,53 @@
+# CLASSMANN (55200, PSD): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: ALOISIO TALSO CLASSMANN. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+Comissões: Comissão de Agricultura, Pecuária, Pesca e Cooperativismo; Comissão de Economia, Trabalho, Desenvolvimento Sustentável e Turismo; Comissão Mista Permanente do Mercosul e Assuntos Internacionais.
+
+Frentes parlamentares que preside:
+- Frente Parlamentar Gaúcha em Defesa do Setor Leiteiro
+- Frente Parlamentar Rio Grande do Sul + Alemanha
+- Frente Parlamentar de Apoio aos Hospitais de Pequeno Porte (HPPs)
+- Frente Parlamentar de Apoio e Estímulo ao Reconhecimento dos Profissionais Podólogo
+- Frente Parlamentar de Apoio à Avicultura Gaúcha
+- Frente Parlamentar de Apoio à Suinocultura Gaúcha
+- Frente Parlamentar em Defesa dos Direitos das Mães e Pessoas Atípicas
+- Frente Parlamentar em Defesa e Estímulo à Produção de Própolis do Pampa
+- Frente Parlamentar para a Legalização e Preservação da Fauna Silvestre e Exótica
+- Frente Parlamentar para tratar da Securitização Rural e da Desoneração do Setor Agrícola
+- Frente Parlamentar pela Pesca Esportiva do Peixe Dourado
+
+Projetos apresentados como primeiro signatário (36 no total, abaixo os 30 mais recentes):
+- PL 319/2026: Institui a Política Estadual de Saúde dos Pés e de Estímulo ao Reconhecimento da Atividade da Podologia no Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/319/2026/48dd8492-8072-11f1-9c3b-12b2f7548530
+- PL 306/2026: Cria o Programa Pró-Causa Animal – PROPETS/RS no âmbito do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/306/2026/c21228fd-7c94-11f1-9c3b-12b2f7548530
+- PL 296/2026: Denomina como “Osvaldo Afonso Bender”, a Rodovia ERS-305, no trecho compreendido entre os Municípios de Três Passos e Crissiumal. (Tramitação Conclusiva CSSP) https://ww4.al.rs.gov.br/proposicao/PL/296/2026/6c464448-7af0-11f1-b55e-3e36a417eaad
+- PL 293/2026: Denomina como “Eduardo Jorge Horst”, a Rodovia ERS-305, no trecho compreendido entre os Municípios de Horizontina e Crissiumal. (Tramitação Conclusiva CSSP) https://ww4.al.rs.gov.br/proposicao/PL/293/2026/a94bf7a6-7a01-11f1-b55e-3e36a417eaad
+- PL 221/2026: Institui o “Dia do Cuteleiro Artesanal Gaúcho” e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas d… https://ww4.al.rs.gov.br/proposicao/PL/221/2026/7ec207ab-64fb-11f1-b8a7-ae5c61debffa
+- PL 205/2026: Institui o Programa Estadual Memória Viva - Projeto Avós da História do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/205/2026/2aec44b4-634b-11f1-b8a7-ae5c61debffa
+- PL 161/2026: Dispõe sobre os procedimentos de uso, manejo, criação, reprodução, comercialização e controle sanitário de aves das ordens Anseriformes, Casuariiformes, Galliformes, Gruiformes e Musophagiformes, pertencentes à fauna silvestre exótica, e dá… https://ww4.al.rs.gov.br/proposicao/PL/161/2026/236c08ad-4d49-11f1-b569-7a925d58e3a3
+- PL 119/2026: Reconhece a Pesca Esportiva como atividade de relevante interesse econômico, social, ambiental e cultural do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/119/2026/111477b2-3763-11f1-93cd-963f5e4ba252
+- PL 67/2026: Institui a Política de Incentivo ao Consumo da Carne Suína no âmbito do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/67/2026/93bd4329-1186-11f1-9186-8e763d41cf4c
+- PL 66/2026: Reconhece o Município de Palmitinho como “Campeão Estadual na produção de suínos para abate no Estado do Rio Grande do Sul, no ano de 2025”. (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/66/2026/5862ab8c-1185-11f1-9186-8e763d41cf4c
+- PL 65/2026: Denomina como “Guerino Rebelato”, a Rodovia ERS-518, no trecho compreendido entre os Municípios de Campo Novo e Braga. (Tramitação Conclusiva CSSP) https://ww4.al.rs.gov.br/proposicao/PL/65/2026/ead02a1b-1181-11f1-9186-8e763d41cf4c
+- PL 42/2026: Dispõe sobre a implantação em caráter permanente, da Escola Pública de Trânsito como política pública do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/42/2026/497ad605-0685-11f1-bb5d-da08d5ee8534
+- PL 30/2026: Altera a Lei nº. 15.549, de 4 de novembro de 2020, que dispõe sobre a comunicação aos órgãos de segurança sobre eventual ocorrência ou indício de violência doméstica e familiar contra mulheres, crianças, adolescentes, idosos e pessoas com d… https://ww4.al.rs.gov.br/proposicao/PL/30/2026/174fcc69-02ce-11f1-bb5d-da08d5ee8534
+- PL 15/2026: Institui o “Dia Estadual do Queijo” e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do… https://ww4.al.rs.gov.br/proposicao/PL/15/2026/3cd090c5-01d1-11f1-bb5d-da08d5ee8534
+- PL 12/2026: Dispõe sobre a isenção do IPVA para motocicletas, motonetas e ciclomotores de até 170 cilindradas, condicionada à comprovação de curso especializado de motofrete, no âmbito do Estado do Rio Grande do Sul. (Tramitação conjunta com os PLs 119… https://ww4.al.rs.gov.br/proposicao/PL/12/2026/ee7eb7d6-0141-11f1-bb5d-da08d5ee8534
+- PL 547/2025: Dispõe sobre o atendimento prioritário nos locais que especifica, a advogados no exercício profissional, e dá outras providencias. https://ww4.al.rs.gov.br/proposicao/PL/547/2025/b72bd29e-df2d-11f0-81f8-ea8abe32d547
+- PL 533/2025: Inclui a Semana Municipal do Turismo de São José do Inhacorá no Calendário Estadual de Eventos do Estado do Rio Grande do Sul, e altera a Lei nº. 15.950, de 09 de janeiro de 2023, que “Consolida a legislação estadual relativa a eventos e da… https://ww4.al.rs.gov.br/proposicao/PL/533/2025/505ef480-daa3-11f0-97d5-fac0e840c578
+- PL 508/2025: Altera a Lei nº. 15.950, de 09 de janeiro de 2023, que “Consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras prov… https://ww4.al.rs.gov.br/proposicao/PL/508/2025/c7533ed3-cf75-11f0-ab82-fa1256ca0c28
+- PL 507/2025: Declara o Município de Cândido Godói como a “Capital Estadual dos Gêmeos” e dá outras providências. (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/507/2025/eb0f0049-cf74-11f0-ab82-fa1256ca0c28
+- PL 482/2025: Dispõe sobre a juntada de documentos por advogados no processo administrativo no âmbito da Administração Pública Estadual Direta e Indireta do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/482/2025/62c2642e-c3e1-11f0-9222-96d00cb53954
+- PL 367/2025: Reconhece o Município de Santo Cristo como “Hexacampeão Gaúcho de Produção de Leite e Suínos do ano de 2024”. (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/367/2025/c89eb82b-9886-11f0-b541-0242ac170004
+- PL 47/2025: Reconhece o Município de Santo Cristo como 'Pentacampeão Gaúcho de Produção de Leite e Suínos do ano de 2023'. (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/47/2025/28496879-ee18-11ef-9ac3-0242ac1d0005
+- PL 35/2025: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/35/2025/24e19b36-ea21-11ef-9ac3-0242ac1d0005
+- PL 359/2024: Denomina como “Prefeita Fátima Marli Fink”, a Rodovia ERS-330, no trecho compreendido entre os Municípios de Tenente Portela e Miraguaí. (Tramitação Conclusiva CSSP) https://ww4.al.rs.gov.br/proposicao/PL/359/2024/f8a339cf-a110-11ef-a892-0242ac130008
+- PL 235/2024: Dispõe sobre procedimentos de manejo de Passeriformes, Psitaciformes e Columbiformes, das faunas silvestres, nativas e exóticas, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/235/2024/93da48fc-3fc8-11ef-813d-0242ac170004
+- PL 180/2024: Assegura a continuidade no fornecimento de energia elétrica à unidade consumidora habitada por pessoa idosa ou com doença crônica cujo tratamento requeira o uso continuado de equipamentos elétricos, no âmbito do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/180/2024/0ff64493-29bd-11ef-a33c-0242ac170004
+- PL 596/2023: Dispõe sobre a realização de feiras de adoção de animais (pets) em eventos declarados oficiais pelo Estado do Rio Grande do Sul, conforme especifica, e dá outras providências. (SEI 17244-01.00/23-6) https://ww4.al.rs.gov.br/proposicao/PL/596/2023/a6870aac-b0d3-11ee-811f-0242c0a8a003
+- PL 564/2023: Dispõe sobre a reposição de hidrômetros furtados e dá outras providências. (SEI 17277-0100/23-0) https://ww4.al.rs.gov.br/proposicao/PL/564/2023/5aa446a0-b0d2-11ee-811f-0242c0a8a003
+- PL 515/2023: Dispõe sobre a criação do Cartão de Atendimento Prioritário – CAP, para pessoas submetidas à terapia médica de revascularização miocárdica, e para aquelas acometidas pelas patologias enumeradas e portadoras do equipamento protético que espe… https://ww4.al.rs.gov.br/proposicao/PL/515/2023/931bce36-8df9-11ee-92b3-0242c0a8a007
+- PL 496/2023: Altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e Datas Comemorativas do Estado do Rio Grande do Sul, e dá outras provid… https://ww4.al.rs.gov.br/proposicao/PL/496/2023/5d4acc03-8df9-11ee-92b3-0242c0a8a007

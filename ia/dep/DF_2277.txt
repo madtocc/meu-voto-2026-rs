@@ -1,0 +1,171 @@
+# MAURÍCIO MARCON (2277, PL): histórico parlamentar
+
+Candidato(a) a deputado federal pelo Rio Grande do Sul em 2026. Nome civil: MAURICIO BEDIN MARCON. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Votações nominais na Câmara dos Deputados (2023-2026)
+- Arcabouço fiscal (PLP 93/2023) (2023-05-23): Não
+- Reforma tributária (PEC 45/2019, 1º turno) (2023-07-06): Não
+- Aumento do número de deputados (PLP 177/2023) (2025-05-06): Não
+- Lei Geral do Licenciamento Ambiental (PL 2159/2021) (2025-07-16): Sim
+- PEC da Blindagem / das Prerrogativas (PEC 3/2021, 1º turno) (2025-09-16): Sim
+- Urgência do PL da Anistia (PL 2162/2023) (2025-09-17): Sim
+- Isenção do IR até R$ 5 mil (PL 1087/2025) (2025-10-01): Sim
+- PL Antifacção (PL 5582/2025) (2025-11-18): Sim
+- PL da Dosimetria (substitutivo ao PL 2162/2023) (2025-12-09): Sim
+- Fim da escala 6x1 (PEC 221/2019, 1º turno) (2026-05-27): Não
+
+## Atuação na Câmara dos Deputados (coletado em 2026-10-03)
+Comissões: Comissão de Desenvolvimento Econômico.
+Temas dos projetos apresentados (classificação oficial): Direito Penal e Processual Penal (8); Finanças Públicas e Orçamento (8); Saúde (6); Indústria, Comércio e Serviços (5); Trabalho e Emprego (5); Direito Civil e Processual Civil (4); Política, Partidos e Eleições (4); Viação, Transporte e Mobilidade (4); Administração Pública (3); Direito e Defesa do Consumidor (3); Direitos Humanos e Minorias (3); Economia (3); Homenagens e Datas Comemorativas (3); Cidades e Desenvolvimento Urbano (2); Defesa e Segurança (2); Esporte e Lazer (2); Previdência e Assistência Social (2); Comunicações (1); Direito Constitucional (1); Direito e Justiça (1); Energia, Recursos Hídricos e Minerais (1); Meio Ambiente e Desenvolvimento Sustentável (1); Relações Internacionais e Comércio Exterior (1).
+
+Frentes parlamentares a que aderiu (assinou a lista de adesão):
+- Frente Parlamentar Brasil - ASEAN
+- Frente Parlamentar Brasil - Israel
+- Frente Parlamentar Brasil - Líbano
+- Frente Parlamentar Brasil Singapura
+- Frente Parlamentar Católica Apostólica Romana
+- Frente Parlamentar Conservadora em Defesa da Liberdade
+- Frente Parlamentar Mista Brasil - Espanha
+- Frente Parlamentar Mista Brasil Competitivo
+- Frente Parlamentar Mista Cristã e em Defesa da Religião
+- Frente Parlamentar Mista PROSUL
+- Frente Parlamentar Mista contra o Aborto e em Defesa da Vida
+- Frente Parlamentar Mista da Causa QESA
+- Frente Parlamentar Mista da Contabilidade Brasileira (FCB)
+- Frente Parlamentar Mista da Economia e Cidadania Digitais (Frente Digital)
+- Frente Parlamentar Mista da Hotelaria Brasileira
+- Frente Parlamentar Mista da Indústria
+- Frente Parlamentar Mista da Indústria de Máquinas e Equipamentos - FPMaq
+- Frente Parlamentar Mista da Medicina
+- Frente Parlamentar Mista da Mineração Sustentável
+- Frente Parlamentar Mista da Optometria
+- Frente Parlamentar Mista da Saúde Digital
+- Frente Parlamentar Mista da Tecnologia e Atividades Nucleares (FPN)
+- Frente Parlamentar Mista das Micro e Pequenas Empresas
+- Frente Parlamentar Mista das Profissões do Sistema Confea/Crea e Mútua
+- Frente Parlamentar Mista de Combate à Corrupção
+- Frente Parlamentar Mista de Fiscalização, Integridade e Transparência - FIT
+- Frente Parlamentar Mista de Logística e Infraestrutura – Frenlogi
+- Frente Parlamentar Mista de Proteção aos Colecionadores, Atiradores Desportivos, Caçadores e Clubes de Tiro
+- Frente Parlamentar Mista do Ambiente de Negócios (FPN)
+- Frente Parlamentar Mista do Biodiesel - FPBio
+- Frente Parlamentar Mista do Desenvolvimento Tecnológico e Cultural do Brasil e Coreia do Sul
+- Frente Parlamentar Mista do Empreendedorismo - FPE
+- Frente Parlamentar Mista do Jogo Responsável
+- Frente Parlamentar Mista do Novo Pacto Federativo em Defesa dos Municípios Brasileiros
+- Frente Parlamentar Mista do Rodeio, da Vaquejada e das Provas Equestres
+- Frente Parlamentar Mista do Serviço Exterior Brasileiro
+- Frente Parlamentar Mista do Setor de Serviços - FPS
+- Frente Parlamentar Mista do Sistema Penitenciário
+- Frente Parlamentar Mista dos Correspondentes Bancários
+- Frente Parlamentar Mista dos Técnicos Agrícolas
+- Frente Parlamentar Mista em Apoio ao Acolhimento Humanitário de Migrantes Transnacionais e Refugiados
+- Frente Parlamentar Mista em Apoio ao Programa Antártico Brasileiro
+- Frente Parlamentar Mista em Defesa da Cannabis Medicinal e do Cânhamo Industrial
+- Frente Parlamentar Mista em Defesa da Doação de Órgãos e Tecidos
+- Frente Parlamentar Mista em Defesa da Propriedade Intelectual e Combate à Pirataria
+- Frente Parlamentar Mista em Defesa da Tradição e Cultura Gaúcha
+- Frente Parlamentar Mista em Defesa da União Nacional dos Legisladores e Legislativos Estaduais
+- Frente Parlamentar Mista em Defesa das Organizações da Sociedade Civil
+- Frente Parlamentar Mista em Defesa do Comércio Internacional e do Investimento - Frencomex
+- Frente Parlamentar Mista em Defesa do Ensino Técnico e Profissionalizante - Frente do Ensino Técnico
+- Frente Parlamentar Mista em Defesa do Setor Coureiro - Calçadista
+- Frente Parlamentar Mista em Defesa do Trânsito Seguro
+- Frente Parlamentar Mista em Defesa dos Fretadores - FrenFret
+- Frente Parlamentar Mista em Defesa dos Serviços de Saúde
+- Frente Parlamentar Mista em Prol do Semiárido
+- Frente Parlamentar Mista em prol da Luta pela Prevenção de Cegueira - FPPC
+- Frente Parlamentar Mista para a Defesa e Valorização das Polícias Institucionais
+- Frente Parlamentar Mista para o Desenvolvimento da Indústria Elétrica e Eletrônica
+- Frente Parlamentar Mista para o Desenvolvimento da Navegação Interior
+- Frente Parlamentar Mista para o Fortalecimento da Gestão Pública
+- Frente Parlamentar Mista pela Competitividade da Cadeia Produtiva do Setor Químico, Petroquímico e de Plástico e da Química Fina
+- Frente Parlamentar Mista pela Duplicação da BR-304 ligando Natal, no Rio Grande do Norte, a Russas, no Ceará
+- Frente Parlamentar Mista pela Inclusão e Qualidade na Educação Particular - FPeduQ
+- Frente Parlamentar Mista pela Integração Sul-Americana
+- Frente Parlamentar Mista pela Mulher Empreendedora
+- Frente Parlamentar Mista pelo Fortalecimento das Entidades Fechadas de Previdência Complementar (EFPC)
+- Frente Parlamentar Mista pelo Fortalecimento das Relações Comerciais Brasil-Texas
+- Frente Parlamentar Mista pelo Livre Mercado - FPLM
+- Frente Parlamentar da Agropecuária - FPA
+- Frente Parlamentar da Endometriose
+- Frente Parlamentar da Longevidade
+- Frente Parlamentar da Segurança Pública
+- Frente Parlamentar da Telemedicina
+- Frente Parlamentar das Cooperativas de Transportes Rodoviário de Cargas - FreCoopTRC
+- Frente Parlamentar de Acolhimento e Desenvolvimento Integrado
+- Frente Parlamentar de Apoio às Santas Casas, Hospitais e Entidades Filantrópicas
+- Frente Parlamentar de Combate ao Câncer Infantil
+- Frente Parlamentar de Combate à Ludopatia e de Proteção de Crianças e Adolescentes contra os Riscos das Apostas e Jogos de Azar.
+- Frente Parlamentar de Enfrentamento à Pedofilia
+- Frente Parlamentar de Gestão de Riscos e Desastres
+- Frente Parlamentar de Prevenção de Desastres e Apoio Humanitário
+- Frente Parlamentar de Prevenção de Doenças Pulmonares Graves
+- Frente Parlamentar de Representação dos Importadores e Comércio Internacional
+- Frente Parlamentar do Programa Nacional de Imunizações
+- Frente Parlamentar dos Portos Nacionais e Transportes Aquaviários
+- Frente Parlamentar em Apoio ao Petróleo, Gás e Energia - FREPPEGEN
+- Frente Parlamentar em Defesa da Cadeia Produtiva da Reciclagem no Brasil
+- Frente Parlamentar em Defesa da Duplicação da BR-423 em Pernambuco
+- Frente Parlamentar em Defesa da Educação Sem Doutrinação Ideológica - FPDE
+- Frente Parlamentar em Defesa da Liberdade de Expressão - FPDLE
+- Frente Parlamentar em Defesa da Regularização Fundiária Rural no Brasil
+- Frente Parlamentar em Defesa da Segurança nas Escolas
+- Frente Parlamentar em Defesa da Vida e da Família
+- Frente Parlamentar em Defesa da Ética na Saúde Suplementar
+- Frente Parlamentar em Defesa das Bacias Hidrográficas Brasileiras
+- Frente Parlamentar em Defesa das Comunidades Terapêuticas
+- Frente Parlamentar em Defesa das Cooperativas e Pequenos Laticínios do Brasil com Leite Nacional e da Pecuária Leiteira Brasileira (FPDCPLB)
+- Frente Parlamentar em Defesa das Vítimas de Acidentes de Trânsito
+- Frente Parlamentar em Defesa do Comércio de Material de Construção
+- Frente Parlamentar em Defesa do Comércio e Serviços - FCS
+- Frente Parlamentar em Defesa do Futebol Feminino
+- Frente Parlamentar em Defesa do Secretário Parlamentar e Cargos de Natureza Especiais
+- Frente Parlamentar em Defesa do Sistema de Modelagem da Informação da Construção (FPBIM)
+- Frente Parlamentar em Defesa dos Caminhoneiros Autônomos
+- Frente Parlamentar em Defesa dos Profissionais do Sistema Socioeducativo
+- Frente Parlamentar em prol dos Jogos Eletrônicos e Games
+- Frente Parlamentar para o Desenvolvimento Sustentável do Petróleo e Energias Renováveis (FREPER)
+- Frente Parlamentar pela Duplicação da BR-290
+- Frente Parlamentar por Doenças Crônicas de Pele
+
+Projetos apresentados como primeiro signatário (37 no total):
+- PL 3342/2026: Altera a Lei nº 9.503, de 23 de setembro de 1997 — Código de Trânsito Brasileiro, para instituir a possibilidade de conversão da penalidade pecuniária decorrente de infração de trânsito de natureza leve em medida de incentivo à doação volun… https://www.camara.leg.br/propostas-legislativas/2635589
+- PLP 154/2026: Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reduzir a zero as alíquotas do Imposto sobre Bens e Serviços — IBS e da Contribuição Social sobre Bens e Serviços — CBS incidentes sobre produtos alimentícios industrializados… https://www.camara.leg.br/propostas-legislativas/2629783
+- PL 2673/2026: Altera a Lei nº 5.768, de 20 de dezembro de 1971, para modernizar o regime jurídico da distribuição gratuita de prêmios a título de propaganda, delimitar seu escopo de incidência, instituir hipóteses de dispensa de autorização prévia, disci… https://www.camara.leg.br/propostas-legislativas/2628478
+- PL 2638/2026: Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para dispor sobre o diferimento do adiantamento de custas processuais na fase de cumprimento de sentença e na execução de título extrajudicial, bem como sobre a poss… https://www.camara.leg.br/propostas-legislativas/2628186
+- PL 2609/2026: Inscreve o nome de Irineu Evangelista de Sousa, o Barão e Visconde de Mauá, no Livro dos Heróis e Heroínas da Pátria. https://www.camara.leg.br/propostas-legislativas/2627762
+- PL 2382/2026: Dispõe sobre a restituição dos valores arrecadados pela União a título de Imposto de Importação incidente sobre remessas internacionais de valor até US$ 50, no período de 1º de agosto de 2024 até 12 de maio de 2026, e dá outras providências… https://www.camara.leg.br/propostas-legislativas/2624550
+- PL 2174/2026: Dispõe sobre a política de valorização do salário mínimo. https://www.camara.leg.br/propostas-legislativas/2621524
+- PL 576/2026: Altera a Lei 9.504, de 1997 - Lei das Eleições -, com o intuito de propor novo marco temporal para as vedações que especifica. https://www.camara.leg.br/propostas-legislativas/2603146
+- PEC 40/2025: Altera o Art. 7° da Constituição Federal para prever a possibilidade de opção pelos empregados quanto à jornada de trabalho, podendo escolher entre o regime comum previsto pela Consolidação das Leis do Trabalho (CLT), ou um regime flexível… https://www.camara.leg.br/propostas-legislativas/2578996
+- PL 4917/2025: Altera o art. 362 da Lei nº 13.105, de 16 de março de 2015 – Código de Processo Civil, de forma a determinar o adiamento da audiência por atraso de seu início em tempo superior a 30 (trinta) minutos do horário marcado, mediante requerimento… https://www.camara.leg.br/propostas-legislativas/2566609
+- PL 3153/2025: Altera o art. 362 da Lei nº 13.105, de 16 de março de 2015 – Código de Processo Civil, de forma a determinar o adiamento da audiência por atraso injustificado de seu início em tempo superior a 30 (trinta) minutos do horário marcado, mediant… https://www.camara.leg.br/propostas-legislativas/2529731
+- PL 2897/2025: Altera a Lei nº 9.099, de 26 de setembro de 1995, dispondo sobre a citação e a intimação por meio eletrônico nos Juizados Especiais Cíveis. https://www.camara.leg.br/propostas-legislativas/2525616
+- PL 2073/2025: Altera a Lei nº 8.213, de 24 de julho de 1991, estabelecendo critérios específicos para descontos em benefícios previdenciários. https://www.camara.leg.br/propostas-legislativas/2503702
+- PL 1928/2025: Dispõe sobre as cores do uniforme de atletas, equipes e seleções que representem a República Federativa do Brasil em competições internacionais de qualquer natureza. https://www.camara.leg.br/propostas-legislativas/2501403
+- PL 217/2025: Dispõe sobre a concessão de incentivos fiscais do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) para empresas que participarem diretamente da coordenação, contratação e execução de ati… https://www.camara.leg.br/propostas-legislativas/2482682
+- PLP 11/2025: Altera a Lei Complementar nº 101, de 4 maio de 2000, para dispensar as renúncias de receita relativas a ações de enfrentamento de calamidade pública e de seus efeitos sociais e econômicos, durante a vigência de calamidade pública reconhecid… https://www.camara.leg.br/propostas-legislativas/2482676
+- PL 212/2025: Dispõe sobre a dedução, no imposto de renda devido por pessoas físicas e jurídicas, de valores despendidos a título de doação viabilizados por meio de plataformas virtuais de financiamento coletivo (crowdfunding) para as campanhas que espec… https://www.camara.leg.br/propostas-legislativas/2482672
+- PL 4554/2024: Altera o artigo 473 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para permitir que o empregado falte ao serviço, sem prejuízo do salário, pelo tempo necessário para comparecer à esco… https://www.camara.leg.br/propostas-legislativas/2472405
+- PL 4342/2024: Altera a Lei 11.340/2006 (Lei Maria da Penha), estabelecendo nova previsão de sanção ao crime de descumprimento de medidas protetivas de urgência previsto no dispositivo. https://www.camara.leg.br/propostas-legislativas/2468523
+- PL 3897/2024: Concede às pessoas físicas e jurídicas a possibilidade de dedução, do imposto sobre a renda, das importâncias correspondentes às doações de alimentos diretamente efetuadas a órgãos públicos e entidades e organizações que se dedicam ao forne… https://www.camara.leg.br/propostas-legislativas/2462078
+- PL 3787/2024: Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), e a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para instituir a obrigatoriedade de se realizar prévio exame toxicológico de candidatos a cargos do Poder Legi… https://www.camara.leg.br/propostas-legislativas/2459745
+- PL 3407/2024: Altera a Lei n° 14.133, de 1º de abril de 2021, para estabelecer exigência de tempo mínimo de constituição da empresa para participar de processos licitatórios e celebrar contratos com administração pública. https://www.camara.leg.br/propostas-legislativas/2456309
+- PL 3141/2024: Dispõe sobre a criação do Selo "Posto Amigo do Frentista" e concede incentivo fiscal do Imposto sobre a Renda da Pessoa Jurídica (IRPJ). https://www.camara.leg.br/propostas-legislativas/2452409
+- PLP 104/2024: Isenta do pagamento de tributos as pessoas jurídicas do Estado do Rio Grande do Sul. https://www.camara.leg.br/propostas-legislativas/2437003
+- PL 1907/2024: Cria o tipo penal de evasão e insere a evasão qualificada pelo resultado morte no rol dos crimes hediondos. https://www.camara.leg.br/propostas-legislativas/2434515
+- PL 1609/2024: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, visando agravar as penas referentes ao crime de estelionato nas modalidades e condições que especifica. https://www.camara.leg.br/propostas-legislativas/2431607
+- PL 1573/2024: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e a Lei nº 8.072, de 25 de julho de 1990, que dispõe sobre crimes hediondos, visando agravar as penas referentes aos crimes de furto e roubo nas modalidades e condições… https://www.camara.leg.br/propostas-legislativas/2431071
+- PL 491/2024: Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para conferir maior segurança aos adquirentes de veículos automotores. https://www.camara.leg.br/propostas-legislativas/2418922
+- PL 5887/2023: Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para conferir agilidade à disponibilização de permissão para dirigir a novos condutores. https://www.camara.leg.br/propostas-legislativas/2410202
+- PL 4481/2023: Altera a Lei nº 9.478, de agosto de 1997, que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo e dá outras pr… https://www.camara.leg.br/propostas-legislativas/2387943
+- PL 4469/2023: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e a Lei nº 8.072, de 25 de julho de 1990, que dispõe sobre crimes hediondos, visando agravar as penas referentes ao crime de aborto, em suas diversas modalidades, e inc… https://www.camara.leg.br/propostas-legislativas/2387628
+- PL 3937/2023: Acrescenta artigo à Lei nº 4.737, de 15 de junho de 1965 (Código Eleitoral), para facilitar o exercício do direito-dever do voto de pacientes internados em hospitais, asilos e similares, bem como de seus respectivos acompanhantes e dos prof… https://www.camara.leg.br/propostas-legislativas/2379933
+- PL 3936/2023: Altera a redação dos arts. 117, 145 e 233-A da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a fim de conferir maior flexibilidade aos trabalhadores do setor de transporte rodoviário quanto ao exercício do direito de voto em trân… https://www.camara.leg.br/propostas-legislativas/2379931
+- PL 3935/2023: Altera a Lei nº 9.656, de 3 de junho de 1998, para modificar a regra de ressarcimento pelos serviços de atendimento à saúde prestados aos consumidores de planos privados de assistência à saúde em instituições públicas ou privadas, conveniad… https://www.camara.leg.br/propostas-legislativas/2379927
+- PL 2003/2023: Altera a Lei nº 10.671, de 15 de maio de 2003, que dispõe sobre o Estatuto de Defesa do Torcedor e dá outras providências, para aumentar e estabelecer novas penas aos indivíduos envolvidos em manipulação de resultados. https://www.camara.leg.br/propostas-legislativas/2357373
+- PL 1628/2023: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, visando agravar as penas referentes a crimes de homicídio qualificado, mormente nos casos envolvendo menores de quatorze anos. https://www.camara.leg.br/propostas-legislativas/2355031
+- PL 1390/2023: Altera a redação dos arts. 513, 545, 548, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 592, 600, 602, 605, 606, 609 e 611-B e acrescenta o art. 579-A ao Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), a… https://www.camara.leg.br/propostas-legislativas/2353368

@@ -1,0 +1,457 @@
+# Meu voto 2026: candidatos a deputado federal pelo Rio Grande do Sul
+
+Guia de voto das eleições de 4 de outubro de 2026 (https://meu-voto-2026-bs0.pages.dev). Dados do TSE atualizados em 02/10/2026 19:30:38.
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor.
+
+Total: 447 candidatos, um por linha, em ordem alfabética do nome de urna. Deputados não apresentam plano de governo: de quase todos só há o que declararam ao TSE. Quem já é deputado tem um arquivo próprio com projetos apresentados, frentes parlamentares e votações (coluna "histórico").
+
+Colunas: número | nome de urna | partido | ocupação declarada | idade | bens declarados | situação (vazia = deferido) | mandato atual | histórico
+
+3000 | ADA MUNARETTO | NOVO | Vereador | 51 anos | R$ 152.300 |  | vereador(a) | 
+4577 | ADAVILSON TCHÁ-TCHÁ | PSDB | Comerciante | 44 anos | R$ 211.000 |  |  | 
+3053 | ADEMAR RODRIGUES MORAES | NOVO | Professor de ensino superior | 55 anos | R$ 628.000 |  |  | 
+1577 | ADENIR DALLÉ | MDB | Corretor de imóveis, seguros, títulos e valores | 62 anos | R$ 1.309.604 |  |  | 
+5560 | ADILSON TROCA | PSD | Contador | 77 anos | R$ 1.910.003 |  |  | 
+1502 | ADRI PARISE | MDB | Fisioterapeuta e terapeuta ocupacional | 44 anos | R$ 239.953 |  |  | 
+5522 | ADRIANA LEAL | PSD | Servidor público estadual | 51 anos | R$ 50.000 |  |  | 
+1550 | ADRIANA PALLADINO | MDB | Outros | 55 anos | R$ 38.382 |  |  | 
+2701 | ADRIANA RAMOS | DC | Administrador | 53 anos | nada declarado |  |  | 
+2223 | ADRIANE FONSECA | PL | Aposentado (exceto servidor público) | 54 anos | R$ 564.153 |  |  | 
+1166 | AFONSO HAMM | PP | Agrônomo | 65 anos | R$ 2.217.576 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1166.txt
+1200 | AFONSO MOTTA | PDT | Advogado | 77 anos | R$ 23.269.000 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1200.txt
+7711 | AIESA CAROLINA | SOLIDARIEDADE | Outros | 45 anos | R$ 90.000 |  |  | 
+1500 | ALCEU MOREIRA | MDB | Comerciante | 72 anos | R$ 6.289.828 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1500.txt
+5521 | ALEX BUYU | PSD | Vendedor de comércio varejista e atacadista | 43 anos | R$ 150.000 |  |  | 
+2221 | ALEXANDRE BOBADRA | PL | Servidor público estadual | 47 anos | R$ 811.000 |  |  | 
+1313 | ALEXANDRE LINDENMEYER | PT | Deputado | 63 anos | R$ 1.043.069 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1313.txt
+1250 | ALEXANDRE VIEIRA | PDT | Professor de ensino fundamental | 49 anos | R$ 235.000 |  |  | 
+2577 | ALEXSANDRO ORQUIZ ALVES | PRD | Corretor de imóveis, seguros, títulos e valores | 49 anos | R$ 45.800 |  |  | 
+4070 | ALINE CONSTANTINO BENTO | PSB | Outros | 33 anos | nada declarado |  |  | 
+7000 | ALINE DOS ANIMAIS | AVANTE | Contador | 48 anos | R$ 228.000 |  |  | 
+3007 | ALINI ARTIOLI | NOVO | Economista | 35 anos | nada declarado |  |  | 
+5007 | ALISSON OLIVEIRA | PSOL | Outros | 33 anos | R$ 35.000 |  |  | 
+1499 | ALLAN AGUIAR | MISSÃO | Motorista particular | 40 anos | R$ 25.000 |  |  | 
+4529 | ALTAIR ALVES | PSDB | Servidor público civil aposentado | 75 anos | nada declarado |  |  | 
+4525 | ALTEMIR DA FARMÁCIA | PSDB | Enfermeiro | 52 anos | R$ 157.624 |  |  | 
+4560 | ALVARO ARAÚJO | PSDB | Outros | 50 anos | R$ 460.000 |  |  | 
+4567 | AMANDA ALBA | PSDB | Empresário | 31 anos | R$ 20.000 | Pendente de julgamento |  | 
+2225 | ANA BOMBOM | PL | Outros | 76 anos | nada declarado |  |  | 
+4400 | ANA CLÁUDIA | UNIÃO | Empresário | 56 anos | R$ 1.720.116 |  |  | 
+2790 | ANA PATRICIA SUD | DC | Outros | 40 anos | nada declarado |  |  | 
+3510 | ANDRE MINHO | DEMOCRATA | Outros | 61 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+4026 | ANELIZE CARRICONDE | PSB | Empresário | 56 anos | nada declarado |  |  | 
+4546 | ANGELICA MENEGAS | PSDB | Advogado | 45 anos | R$ 250.000 |  |  | 
+2557 | ANNE KARENINE RODRIGUES MARTIN | PRD | Estudante, bolsista, estagiário e assemelhados | 40 anos | nada declarado |  |  | 
+1220 | ANTÔNIO CARLOS CÔRTES | PDT | Advogado | 78 anos | R$ 330.000 |  |  | 
+1123 | ANY ORTIZ | PP | Deputado | 43 anos | R$ 2.523.615 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1123.txt
+7710 | ARI GAMBIN | SOLIDARIEDADE | Aposentado (exceto servidor público) | 73 anos | R$ 549.957 | Renúncia: votos serão anulados |  | 
+4556 | ARLEI ROMEIRO | PSDB | Empresário | 54 anos | nada declarado |  |  | 
+7785 | ARLINDO MENÇA  BAIA | SOLIDARIEDADE | Outros | 66 anos | R$ 30.000 |  |  | 
+1510 | ARTHUR SCHMIDT | MDB | Bancário e economiário | 47 anos | R$ 435.911 |  |  | 
+1399 | ARY VANAZZI | PT | Historiador | 68 anos | R$ 1.627.911 |  |  | 
+5001 | ATENA | PSOL | Vereador | 36 anos | nada declarado |  | vereador(a) | 
+2766 | AVILAKING | DC | Cientista político | 65 anos | nada declarado |  |  | 
+5011 | BAIANA MÁRCIA FRANÇA | PSOL | Auxiliar de escritório e assemelhados | 44 anos | nada declarado |  |  | 
+5045 | BETINA TORRIANI | PSOL | Professor de ensino médio | 32 anos | R$ 55.954 |  |  | 
+4040 | BETO ALBUQUERQUE | PSB | Advogado | 64 anos | R$ 4.804.920 |  |  | 
+2709 | BETTO ALMEIDA | DC | Artista plástico e assemelhados | 53 anos | nada declarado |  |  | 
+2200 | BIBO NUNES | PL | Empresário | 70 anos | R$ 12.515.586 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_2200.txt
+1320 | BOHN GASS | PT | Deputado | 65 anos | R$ 2.314.359 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1320.txt
+2255 | BOLACHA MELO | PL | Servidor público estadual | 59 anos | R$ 77.268 |  |  | 
+1093 | BOMBEIRO BIRA | REPUBLICANOS | Bombeiro militar | 46 anos | R$ 770.000 |  |  | 
+1503 | BRUNO BARCELOS | MDB | Enfermeiro | 31 anos | R$ 40.000 |  |  | 
+4010 | BRUNO CARDOZO | PSB | Outros | 26 anos | R$ 100.000 |  |  | 
+8080 | BRUNO DO MLB | UP | Psicólogo | 32 anos | R$ 485 |  |  | 
+4444 | BUSATO | UNIÃO | Deputado | 78 anos | R$ 1.217.520 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_4444.txt
+1070 | CAMPIOL | REPUBLICANOS | Outros | 46 anos | R$ 313.000 |  |  | 
+5587 | CANAAN FARIAS | PSD | Servidor público estadual | 39 anos | nada declarado |  |  | 
+7099 | CAPITÃO RODRIGO GOMES | AVANTE | Bombeiro militar | 41 anos | R$ 12.000 |  |  | 
+3033 | CARLA DAITX | NOVO | Vereador | 50 anos | R$ 608.939 |  | vereador(a) | 
+3600 | CARLOS ALBERTO ESTEVÃO (CACO) | AGIR | Vigilante | 54 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+1244 | CARLOS BRIZOLA | PDT | Vereador | 52 anos | R$ 1.095.000 |  | vereador(a) | 
+1010 | CARLOS GOMES | REPUBLICANOS | Deputado | 54 anos | R$ 463.452 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1010.txt
+2707 | CARLOS RENATO SEVERO | DC | Outros | 61 anos | R$ 16.000 |  |  | 
+2085 | CARMEM DO TAXI | PODE | Outros | 63 anos | R$ 99.000 |  |  | 
+2525 | CAROLINE COSTA DA SILVA | PRD | Estudante, bolsista, estagiário e assemelhados | 42 anos | nada declarado |  |  | 
+2099 | CAUÊ FISCALIZADOR | PODE | Vereador | 34 anos | R$ 293.031 |  | vereador(a) | 
+5551 | CELENI VIANA | PSD | Cabeleireiro e barbeiro | 64 anos | nada declarado |  |  | 
+7740 | CHEYENE RODRIGUEZ | SOLIDARIEDADE | Jornalista e redator | 40 anos | nada declarado |  |  | 
+1280 | CIDA BRIZOLA | PDT | Médico | 66 anos | R$ 416.733 |  |  | 
+5525 | CLAITON MANFRO | PSD | Cientista político | 59 anos | R$ 1.312.000 |  |  | 
+1240 | CLAU EBERHARDT | PDT | Vereador | 44 anos | R$ 94.000 |  | vereador(a) | 
+1207 | CLAUDIA SOUZA | PDT | Estudante, bolsista, estagiário e assemelhados | 52 anos | R$ 62.300 |  |  | 
+1501 | CLAUDIO CAVALO | MDB | Vigilante | 52 anos | R$ 3.000 |  |  | 
+3555 | CLAUDIOMIRO | DEMOCRATA | Outros | 57 anos | R$ 121.800 | Indeferido em prazo recursal ou com recurso |  | 
+1523 | CLEBER NUNES | MDB | Outros | 46 anos | R$ 81.118 |  |  | 
+2090 | CLEMENTE | PODE | Vereador | 62 anos | R$ 133.611 |  | vereador(a) | 
+1210 | CLEO HICKMANN | PDT | Atleta profissional e técnico em desportos | 68 anos | R$ 43.000 |  |  | 
+4545 | CLEUSA SILVEIRA | PSDB | Outros | 66 anos | nada declarado |  |  | 
+4008 | CLEUSA ZAIKOWSKI | PSB | Dona de casa | 56 anos | R$ 2.400.000 |  |  | 
+1511 | CLÉO DO ONZE | MDB | Empresário | 43 anos | R$ 50.000 |  |  | 
+3645 | COLLARES | AGIR | Empresário | 48 anos | R$ 18.000 | Indeferido em prazo recursal ou com recurso |  | 
+2002 | COMANDANTE TRONI | PODE | Outros | 48 anos | nada declarado |  |  | 
+2011 | CORINHA MOLLING | PODE | Professor de ensino fundamental | 63 anos | R$ 236.162 |  |  | 
+1065 | CORONEL FROTA | REPUBLICANOS | Policial militar | 63 anos | R$ 289.000 |  |  | 
+3019 | CORONEL MARCO SANTOS | NOVO | Policial militar | 64 anos | R$ 400.000 |  |  | 
+2212 | CORONEL USTRA | PL | Vereador | 48 anos | R$ 246.000 |  | vereador(a) | 
+1111 | COVATTI FILHO | PP | Deputado | 39 anos | R$ 1.331.960 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1111.txt
+1078 | CRIS COUTO | REPUBLICANOS | Outros | 39 anos | R$ 135.000 |  |  | 
+1407 | CRIS FERREIRA | MISSÃO | Outros | 46 anos | nada declarado |  |  | 
+4555 | CRIS GONÇALVES | PSDB | Empresário | 48 anos | R$ 103.000 |  |  | 
+5015 | CRIS MACHADO | PSOL | Outros | 41 anos | nada declarado |  |  | 
+4343 | CRIS MORAES | PV | Vereador | 49 anos | R$ 319.900 |  | vereador(a) | 
+7778 | CRISTIANO ZACARIAS | SOLIDARIEDADE | Outros | 48 anos | nada declarado |  |  | 
+4002 | CRISTINA OLIVEIRA | PSB | Outros | 47 anos | nada declarado |  |  | 
+1560 | CÁTIA SIQUEIRA | MDB | Enfermeiro | 49 anos | R$ 95.165 |  |  | 
+6565 | DAIANA SANTOS | PCDOB | Agente de saúde e sanitarista | 45 anos | R$ 165.040 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_6565.txt
+1444 | DAIANE FERREIRA | MISSÃO | Outros | 37 anos | R$ 110.000 |  |  | 
+1818 | DAIANE MARTINS | REDE | Outros | 38 anos | R$ 143.000 |  |  | 
+3551 | DANIEL BOSS | DEMOCRATA | Corretor de imóveis, seguros, títulos e valores | 57 anos | R$ 198.000 | Indeferido em prazo recursal ou com recurso |  | 
+5500 | DANIEL MUSSI | PSD | Advogado | 41 anos | R$ 30.000 |  |  | 
+4500 | DANIEL TRZECIAK  DANIEL DA TV | PSDB | Deputado | 40 anos | R$ 2.029.139 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_4500.txt
+5577 | DANILO MORAES | PSD | Comerciário | 67 anos | nada declarado |  |  | 
+5501 | DANRLEI | PSD | Atleta profissional e técnico em desportos | 54 anos | R$ 1.218.907 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_5501.txt
+5556 | DEIVIS OSS | PSD | Policial civil | 38 anos | R$ 191.463 |  |  | 
+1508 | DELIANE PONZI | MDB | Gerente | 49 anos | R$ 65.500 |  |  | 
+1333 | DENISE PESSÔA | PT | Deputado | 43 anos | R$ 278.181 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1333.txt
+4580 | DIANHO | PSDB | Jardineiro | 43 anos | nada declarado | Indeferido: votos serão anulados |  | 
+7723 | DIEGO DOS SANTOS | SOLIDARIEDADE | Estudante, bolsista, estagiário e assemelhados | 43 anos | nada declarado |  |  | 
+1514 | DINIZ COGO | MDB | Advogado | 65 anos | R$ 972.700 |  |  | 
+4022 | DIOGO DAS MÁQUINAS | PSB | Outros | 43 anos | R$ 597.082 |  |  | 
+2244 | DIOGO SIQUEIRA | PL | Odontólogo | 47 anos | R$ 429.900 |  |  | 
+1011 | DIVALDO LARA | REPUBLICANOS | Outros | 47 anos | R$ 247.000 | Indeferido em prazo recursal ou com recurso |  | 
+3070 | DOUGLAS WINTER | NOVO | Empresário | 45 anos | R$ 843.274 |  |  | 
+7015 | DOUTORA MEL BRIZOLA | AVANTE | Sacerdote ou membro de ordem ou seita religiosa | 53 anos | R$ 1.048.800 |  |  | 
+2026 | DR LEVI | PODE | Médico | 62 anos | R$ 7.796.305 |  |  | 
+2006 | DR VINI CONEJO | PODE | Médico | 34 anos | R$ 3.088.546 |  |  | 
+1569 | DR. ANTONIO MOELER | MDB | Médico | 69 anos | nada declarado |  |  | 
+4522 | DR. BENEDETTI | PSDB | Médico | 64 anos | R$ 4.478.260 |  |  | 
+2728 | DR. ESPERON | DC | Médico | 61 anos | R$ 848.000 |  |  | 
+1311 | DR. JULIO STOBBE | PT | Médico | 56 anos | R$ 148.404 |  |  | 
+7044 | DR.. ALAN MELLO | AVANTE | Advogado | 48 anos | nada declarado | Indeferido: votos serão anulados |  | 
+1005 | DR.DEINER SALOMÉ GOULART O PAI | REPUBLICANOS | Advogado | 55 anos | nada declarado |  |  | 
+2242 | DRA TATI FURLAN | PL | Médico | 61 anos | R$ 1.210.000 |  |  | 
+2040 | DRA. JOCASTA TAGUCHI | PODE | Outros | 38 anos | R$ 26.432 |  |  | 
+1208 | DUDA BARIN | PDT | Bancário e economiário | 47 anos | R$ 508.000 |  |  | 
+1516 | DUDA MONTEIRO | MDB | Empresário | 42 anos | nada declarado |  |  | 
+3009 | EDUARDO CARREIRA | NOVO | Advogado | 51 anos | R$ 250.000 |  |  | 
+1331 | EDUARDO MANIQUE | PT | Contador | 29 anos | R$ 214.437 |  |  | 
+1432 | EDUARDO MENEGOL | MISSÃO | Estudante, bolsista, estagiário e assemelhados | 23 anos | nada declarado |  |  | 
+1557 | EDUARDO PETRARCA LÉO | MDB | Outros | 69 anos | nada declarado |  |  | 
+3075 | EDUARDO WARTCHOW | NOVO | Contador | 51 anos | R$ 31.000 |  |  | 
+3599 | ELIANE AQUARIUS | DEMOCRATA | Representante comercial | 50 anos | R$ 547.000 | Indeferido em prazo recursal ou com recurso |  | 
+1314 | ELIAS CABREIRA | PT | Advogado | 57 anos | R$ 185.000 |  |  | 
+1599 | ELIDIANE LOBATO | MDB | Empresário | 34 anos | nada declarado |  |  | 
+2000 | ELITON AVILA | PODE | Vereador | 30 anos | R$ 53.500 |  | vereador(a) | 
+3020 | EMILIA FRARE | NOVO | Administrador | 56 anos | R$ 15.000 |  |  | 
+5540 | ENFERMEIRA FABIA RICHTER | PSD | Enfermeiro | 53 anos | R$ 15.000 |  |  | 
+5588 | ENGENHEIRO NILTON | PSD | Engenheiro | 64 anos | R$ 1.867.343 |  |  | 
+1277 | ENIO BACCI | PDT | Advogado | 68 anos | R$ 401.500 |  |  | 
+4013 | ERIANE PACHECO | PSB | Assistente social | 38 anos | R$ 360.000 |  |  | 
+1414 | EVANDRO AUGUSTO | MISSÃO | Servidor público federal | 45 anos | R$ 1.175.000 |  |  | 
+7010 | EVERSON BITENCOURT | AVANTE | Técnico contabilidade, estatística, economia doméstica e administração | 51 anos | R$ 990.000 |  |  | 
+3018 | FABIANA HILARIO | NOVO | Advogado | 51 anos | nada declarado |  |  | 
+1188 | FABIANE | PP | Outros | 44 anos | nada declarado |  |  | 
+4513 | FABIELLY KLIMBERG | PSDB | Cabeleireiro e barbeiro | 46 anos | nada declarado |  |  | 
+1007 | FABIO NUNES | REPUBLICANOS | Outros | 41 anos | R$ 980.104 |  |  | 
+3003 | FABIO OSTERMANN | NOVO | Professor de ensino superior | 42 anos | R$ 800.353 |  |  | 
+1077 | FABRÍCIA SOUZA | REPUBLICANOS | Vereador | 49 anos | R$ 300.000 |  | vereador(a) | 
+7007 | FABRÍCIO DE CASTRO | AVANTE | Empresário | 45 anos | R$ 50.500 |  |  | 
+1020 | FAISAL KARAM | REPUBLICANOS | Outros | 66 anos | R$ 450.000 |  |  | 
+4557 | FARIAS VIGILANTE | PSDB | Vigilante | 52 anos | R$ 235.000 |  |  | 
+3030 | FELIPE CAMOZZATO | NOVO | Deputado | 39 anos | R$ 1.115.000 |  | deputado(a) estadual | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_3030.txt
+1015 | FELIPE FALLER | REPUBLICANOS | Contador | 32 anos | R$ 40.000 |  |  | 
+2023 | FELIPE FORÇA TAREFA | PODE | Empresário | 38 anos | nada declarado |  |  | 
+2228 | FELIPE PEDRI | PL | Empresário | 48 anos | nada declarado |  |  | 
+1255 | FELIPPE RIETH | PDT | Servidor público municipal | 40 anos | R$ 460.000 |  |  | 
+2210 | FERNANDA BARTH | PL | Jornalista e redator | 55 anos | R$ 152.425 |  |  | 
+2054 | FERNANDA JULIANA | PODE | Administrador | 47 anos | R$ 788.993 |  |  | 
+1544 | FERNANDA LEITE | MDB | Advogado | 35 anos | R$ 64.161 |  |  | 
+5050 | FERNANDA MELCHIONNA | PSOL | Deputado | 43 anos | R$ 251.957 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_5050.txt
+1222 | FERNANDINHO MACIEL - O LEÃO | PDT | Locutor e comentarista de rádio e televisão e radialista | 49 anos | R$ 119.092 |  |  | 
+5502 | FERNANDO BARBOSA | PSD | Empresário | 48 anos | nada declarado |  |  | 
+3038 | FILIPE ILHA | NOVO | Empresário | 43 anos | R$ 4.685.500 |  |  | 
+5566 | FISIO RENATA DORNELLES | PSD | Fisioterapeuta e terapeuta ocupacional | 40 anos | R$ 104.872 |  |  | 
+2789 | FOGAÇA | DC | Administrador | 66 anos | nada declarado |  |  | 
+1302 | FORTUNATI | PT | Advogado | 71 anos | R$ 140.000 |  |  | 
+1012 | FRAN BAYER | REPUBLICANOS | Deputado | 39 anos | R$ 455.898 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1012.txt
+1221 | FRAN BONACI | PDT | Empresário | 32 anos | R$ 139.000 |  |  | 
+7749 | FRANCINE ANTUNES | SOLIDARIEDADE | Estudante, bolsista, estagiário e assemelhados | 32 anos | nada declarado |  |  | 
+1215 | FRANCISCO ISAIAS BANCADA NEGRA | PDT | Farmacêutico | 62 anos | R$ 1.112.000 |  |  | 
+2788 | FRATER FRANCISCO | DC | Sacerdote ou membro de ordem ou seita religiosa | 45 anos | nada declarado |  |  | 
+4000 | FRED NUNES | PSB | Servidor público federal | 47 anos | R$ 792.500 |  |  | 
+1377 | FUFA | PT | Empresário | 46 anos | R$ 689.671 |  |  | 
+3678 | FÁBIO CASEMIRO | AGIR | Motorista particular | 53 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+1530 | FÁTIMA DAUDT | MDB | Arquiteto | 60 anos | R$ 881.648 |  |  | 
+1505 | GABI PANAZZOLO | MDB | Vereador | 44 anos | R$ 320.000 |  | vereador(a) | 
+1507 | GABRIEL GONÇALVES | MDB | Administrador | 41 anos | R$ 38.607 |  |  | 
+1404 | GABRIELA COSTA | MISSÃO | Médico | 37 anos | R$ 123.582 |  |  | 
+2288 | GAUCHINHA DOS PAMPAS | PL | Outros | 50 anos | nada declarado |  |  | 
+2266 | GAUCHINHO DE DEUS | PL | Cantor e compositor | 54 anos | R$ 565.000 |  |  | 
+7022 | GELSON BRAGA | AVANTE | Servidor público municipal | 62 anos | R$ 513.000 |  |  | 
+3612 | GENTIL ALVES | AGIR | Comerciante | 62 anos | R$ 40.000 | Indeferido: votos serão anulados |  | 
+4007 | GILBERTO BELTRAME | PSB | Advogado | 52 anos | R$ 3.132.890 |  |  | 
+4570 | GILSON PADEIRO | PSDB | Vereador | 60 anos | R$ 489.305 |  | vereador(a) | 
+3553 | GIORDANO | DEMOCRATA | Policial militar | 56 anos | R$ 82.000 | Indeferido em prazo recursal ou com recurso |  | 
+2222 | GIOVANI CHERINI | PL | Deputado | 66 anos | R$ 7.218.726 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_2222.txt
+1177 | GLADIS FRIZZO | PP | Aposentado (exceto servidor público) | 65 anos | R$ 166.150 |  |  | 
+1008 | GLENIO GUIMARÃES | REPUBLICANOS | Agricultor | 48 anos | R$ 4.893.959 |  |  | 
+2217 | GOLD | PL | Empresário | 71 anos | R$ 3.500.000 |  |  | 
+3002 | GRACIANO SAIS | NOVO | Comerciante | 66 anos | nada declarado |  |  | 
+1466 | GRAZI RANCAN | MISSÃO | Professor de ensino médio | 40 anos | R$ 660.000 |  |  | 
+5010 | GUIDO CNR | PSOL | Músico | 47 anos | R$ 32.000 |  |  | 
+2233 | GUILHERME TODESCHINI | PL | Servidor público municipal | 40 anos | R$ 214.088 |  |  | 
+8000 | GUSTAVO RAMOS | UP | Outros | 26 anos | R$ 103 |  |  | 
+1022 | GUSTAVO VICTORINO | REPUBLICANOS | Jornalista e redator | 71 anos | R$ 2.250.000 |  | deputado(a) estadual | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1022.txt
+5512 | HEITOR SCHUCH | PSD | Agricultor | 65 anos | R$ 849.817 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_5512.txt
+2722 | HENRIQUE WEBSTER | DC | Empresário | 62 anos | R$ 670.000 |  |  | 
+3022 | HIAGO MORANDI | NOVO | Vereador | 32 anos | R$ 74.830 |  | vereador(a) | 
+2227 | IGOR BONFANTI | PL | Empresário | 32 anos | R$ 1.624.317 |  |  | 
+5070 | INGRA | PSOL | Jornalista e redator | 36 anos | R$ 73.234 |  |  | 
+1025 | INSPETOR ROBISON | REPUBLICANOS | Policial civil | 40 anos | R$ 73.994 |  |  | 
+2077 | IRIEL SACHET | PODE | Vereador | 28 anos | R$ 290.208 |  | vereador(a) | 
+4520 | ISABEL STAUDT | PSDB | Servidor público municipal | 46 anos | R$ 6.000 |  |  | 
+2080 | ISRAEL COSTA | PODE | Empresário | 36 anos | R$ 1.118.300 |  |  | 
+4012 | IVAN BRAZ | PSB | Administrador | 60 anos | nada declarado |  |  | 
+1230 | IVONEIDE DUARTE | PDT | Aposentado (exceto servidor público) | 86 anos | R$ 57.000 |  |  | 
+1040 | JACKSON CARVALHO | REPUBLICANOS | Outros | 43 anos | R$ 24.000 |  |  | 
+1205 | JACQUES BARBOSA | PDT | Engenheiro | 56 anos | R$ 4.357.314 |  |  | 
+2220 | JANE MARY | PL | Empresário | 66 anos | R$ 585.000 |  |  | 
+7777 | JANICE LEAL | SOLIDARIEDADE | Agente de saúde e sanitarista | 43 anos | nada declarado |  |  | 
+3032 | JARBAS NEUMANN | NOVO | Empresário | 32 anos | nada declarado |  |  | 
+2230 | JESSÉ SANGALLI | PL | Servidor público federal | 39 anos | R$ 755.676 |  |  | 
+2044 | JOCIMAR SANTOS | PODE | Servidor público estadual | 49 anos | R$ 23.122 |  |  | 
+5012 | JOHN ELVIS BRAGA | PSOL | Economista | 61 anos | R$ 1.100.000 |  |  | 
+1300 | JONAS REIS | PT | Vereador | 39 anos | R$ 1.347.990 |  | vereador(a) | 
+1145 | JONATAS TOLEDO | PP | Contador | 39 anos | R$ 255.800 |  |  | 
+5020 | JORGE FREITAS | PSOL | Vendedor de comércio varejista e atacadista | 70 anos | nada declarado |  |  | 
+2777 | JOSE ALEX FAGUNDES | DC | Advogado | 57 anos | nada declarado |  |  | 
+2727 | JOSE BENEMANN | DC | Comerciante | 69 anos | nada declarado |  |  | 
+1590 | JOSE RODOLFO | MDB | Mecânico de manutenção | 41 anos | R$ 21.136 |  |  | 
+1269 | JOSÉ NUNES | PDT | Jornalista e redator | 57 anos | R$ 261.129 |  |  | 
+4586 | JOÃO YANG - CASTAR | PSDB | Comerciante | 55 anos | R$ 939.862 |  |  | 
+4544 | JU SPOLIDORO | PSDB | Vereador | 35 anos | nada declarado |  | vereador(a) | 
+7077 | JUCIANE AFRAUSINO | AVANTE | Outros | 55 anos | nada declarado | Indeferido: votos serão anulados |  | 
+4077 | JULIA ARNOUD | PSB | Estudante, bolsista, estagiário e assemelhados | 28 anos | nada declarado |  |  | 
+4599 | JULIANI PINZON | PSDB | Vereador | 36 anos | R$ 556.824 |  | vereador(a) | 
+5555 | JULIANO VALIM | PSD | Vereador | 45 anos | R$ 219.081 |  | vereador(a) | 
+3666 | JULIO CARVALHO | AGIR | Servidor público municipal | 71 anos | R$ 150.000 | Indeferido: votos serão anulados |  | 
+1800 | JULIO MOURA VOLUNTÁRIO | REDE | Outros | 58 anos | R$ 553.757 |  |  | 
+3535 | JUNIOR NETO | DEMOCRATA | Outros | 36 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+2598 | JUNYARA A VOZ DO POVO | PRD | Outros | 41 anos | nada declarado |  |  | 
+4080 | JUQUINHA | PSB | Vendedor de comércio varejista e atacadista | 39 anos | R$ 179.981 |  |  | 
+1074 | JURANDIR MACIEL | REPUBLICANOS | Outros | 71 anos | R$ 109.000 |  |  | 
+5055 | JURANDIR SILVA | PSOL | Vereador | 43 anos | R$ 225.021 |  | vereador(a) | 
+5570 | JUSSARA MENDES | PSD | Advogado | 63 anos | nada declarado |  |  | 
+1520 | JUVIR COSTELLA | MDB | Bancário e economiário | 67 anos | R$ 2.695.819 |  | deputado(a) estadual | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1520.txt
+3034 | JÚLIA ZARDO | NOVO | Arquiteto | 31 anos | R$ 580.000 |  |  | 
+1379 | KATIA DUARTE | PT | Empresário | 57 anos | R$ 411.956 |  |  | 
+2202 | KELI DIAS | PL | Outros | 43 anos | nada declarado |  |  | 
+2226 | KÁTIA KASPARY | PL | Engenheiro | 39 anos | R$ 24.444 |  |  | 
+1202 | LANDO | PDT | Empresário | 60 anos | R$ 17.740.000 |  |  | 
+3050 | LARA PRADE | NOVO | Empresário | 28 anos | R$ 753.621 |  |  | 
+1303 | LAURA SITO | PT | Deputado | 35 anos | R$ 397.388 |  | deputado(a) estadual | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1303.txt
+1522 | LAUREN MAZZARDO | MDB | Advogado | 50 anos | R$ 1.157.253 |  |  | 
+1253 | LAURO DO VAL E COLETIVO | PDT | Servidor público municipal | 58 anos | R$ 50.000 |  |  | 
+5066 | LEANDRO DUTRA | PSOL | Corretor de imóveis, seguros, títulos e valores | 53 anos | R$ 300.000 |  |  | 
+2211 | LEANDRO GOLIN | PL | Outros | 49 anos | R$ 339.515 |  |  | 
+3077 | LEANDRO LOPES | NOVO | Outros | 37 anos | nada declarado |  |  | 
+4033 | LILIAN BITENCOURT | PSB | Corretor de imóveis, seguros, títulos e valores | 48 anos | nada declarado |  |  | 
+1451 | LILIAN MOTTANA | MISSÃO | Estudante, bolsista, estagiário e assemelhados | 50 anos | R$ 3.193.245 |  |  | 
+2258 | LISIANE BECKER | PL | Relações-públicas | 59 anos | R$ 864.234 |  |  | 
+1521 | LUANA MENEGHETTI | MDB | Vereador | 35 anos | R$ 8.500 |  | vereador(a) | 
+2012 | LUBION MORAES | PODE | Administrador | 41 anos | R$ 696.000 |  |  | 
+7012 | LUCAS CRUZ | AVANTE | Empresário | 34 anos | R$ 130.000 |  |  | 
+5511 | LUCAS REDECKER | PSD | Deputado | 45 anos | R$ 4.211.731 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_5511.txt
+3502 | LUCIANA SASSI | DEMOCRATA | Outros | 57 anos | R$ 18.000 | Indeferido em prazo recursal ou com recurso |  | 
+1201 | LUCIANA TAVARES | PDT | Outros | 45 anos | R$ 150.000 |  |  | 
+7717 | LUCIANO ANTUNES | SOLIDARIEDADE | Auxiliar de escritório e assemelhados | 55 anos | nada declarado |  |  | 
+5505 | LUCIANO AZEVEDO | PSD | Advogado | 57 anos | R$ 6.729.250 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_5505.txt
+7707 | LUCIANO ROSA | SOLIDARIEDADE | Advogado | 55 anos | nada declarado |  |  | 
+2024 | LUIS AUGUSTO | PODE | Advogado | 34 anos | R$ 555.000 |  |  | 
+1233 | LUIS FERNANDO | PDT | Cientista político | 36 anos | R$ 88.000 |  |  | 
+1400 | LUIZ GRACIANO PRADO | MISSÃO | Outros | 32 anos | R$ 54.556 |  |  | 
+2723 | LUIZ PINHEIRO | DC | Aposentado (exceto servidor público) | 69 anos | nada declarado | Indeferido: votos serão anulados |  | 
+1231 | LÍDIO SILVA | PDT | Empresário | 46 anos | nada declarado |  |  | 
+2028 | LÚ BENTO | PODE | Outros | 52 anos | R$ 4.368 |  |  | 
+4590 | MAGDA BEATRIZ | PSDB | Jornalista e redator | 72 anos | R$ 570.000 |  |  | 
+2001 | MAICO VOLZ | PODE | Policial militar | 42 anos | nada declarado |  |  | 
+1256 | MANOELA | PDT | Empresário | 45 anos | R$ 32.368 |  |  | 
+2710 | MANTAS IJUI | DC | Eletricista e assemelhados | 48 anos | nada declarado |  |  | 
+1044 | MARA KASPARY | REPUBLICANOS | Advogado | 57 anos | R$ 351.700 |  |  | 
+1213 | MARCELA MEIRELLES | PDT | Artista plástico e assemelhados | 53 anos | R$ 71.000 |  |  | 
+2055 | MARCELO BRUM ¿ A VOZ DO CAMPO | PODE | Outros | 54 anos | nada declarado |  |  | 
+2214 | MARCELO MORAES | PL | Deputado | 47 anos | R$ 2.064.505 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_2214.txt
+4512 | MARCIA BECKER | PSDB | Vereador | 58 anos | nada declarado |  | vereador(a) | 
+3536 | MARCIA WINTER | DEMOCRATA | Enfermeiro | 63 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+2010 | MARCIELE ROSA | PODE | Vereador | 35 anos | R$ 2.659.867 |  | vereador(a) | 
+1234 | MARCIO BINS ELY | PDT | Advogado | 52 anos | R$ 3.777.027 |  |  | 
+7080 | MARCIO POLONÊS | AVANTE | Empresário | 45 anos | R$ 129.000 |  |  | 
+1355 | MARCON | PT | Deputado | 62 anos | R$ 126.649 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1355.txt
+4511 | MARCOS MARANATA | PSDB | Agricultor | 53 anos | R$ 175.512 |  |  | 
+1050 | MARIA DE LOURDES | REPUBLICANOS | Servidor público estadual | 82 anos | nada declarado |  |  | 
+1370 | MARIA DO ROSARIO | PT | Deputado | 60 anos | R$ 397.547 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1370.txt
+1100 | MARIANA LESCANO | PP | Vereador | 39 anos | R$ 450.000 |  | vereador(a) | 
+2799 | MARLENE TAMAGNO | DC | Aposentado (exceto servidor público) | 65 anos | nada declarado |  |  | 
+1600 | MARLISE JANETE | PSTU | Professor de ensino fundamental | 64 anos | R$ 498.476 |  |  | 
+7029 | MARTA ROCHA | AVANTE | Técnico de enfermagem e assemelhados (exceto enfermeiro) | 48 anos | nada declarado | Indeferido: votos serão anulados |  | 
+3661 | MARTINHO (BIXO DE PÉ) | AGIR | Carpinteiro, marceneiro e assemelhados | 65 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+7036 | MATEUS GOMES | AVANTE | Empresário | 44 anos | R$ 3.190.000 |  |  | 
+2033 | MATHEUS JUNGES | PODE | Empresário | 38 anos | R$ 68.854 |  |  | 
+1133 | MATTEUS AMARAL | PP | Empresário | 30 anos | R$ 73.703 |  |  | 
+1477 | MAURICIO LINDOL | MISSÃO | Motorista particular | 24 anos | R$ 83.900 |  |  | 
+2020 | MAURÍCIO DZIEDRICKI | PODE | Advogado | 47 anos | R$ 22.509 |  |  | 
+2277 | MAURÍCIO MARCON | PL | Deputado | 40 anos | R$ 90.291 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_2277.txt
+4515 | MAURÍCIO REPOLHINHO | PSDB | Produtor agropecuário | 29 anos | R$ 222.990 |  |  | 
+1433 | MICHEL PADÃO | MISSÃO | Auxiliar de escritório e assemelhados | 26 anos | R$ 160.000 |  |  | 
+3615 | MIKKEI | AGIR | Aposentado (exceto servidor público) | 62 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+2715 | MILLER | DC | Comerciante | 58 anos | R$ 80.000 |  |  | 
+3040 | MILTON MILAN | NOVO | Engenheiro | 63 anos | R$ 730.000 |  |  | 
+1551 | MIRCO CORONETTI | MDB | Farmacêutico | 55 anos | R$ 1.138.846 |  |  | 
+1345 | MIRIAM MARRONI | PT | Vereador | 70 anos | R$ 246.630 |  | vereador(a) | 
+4507 | MORTADELA | PSDB | Empresário | 46 anos | R$ 163.000 |  |  | 
+1068 | MOSSINI | REPUBLICANOS | Advogado | 59 anos | R$ 135.000 |  |  | 
+5599 | MÁRCIO TREMEA | PSD | Motorista de veículos de transporte coletivo de passageiros | 44 anos | R$ 244.973 |  |  | 
+5567 | MÃE DARLENE DE OYA | PSD | Auxiliar de escritório e assemelhados | 43 anos | nada declarado |  |  | 
+5086 | MÃE KATITA DE OXALÁ | PSOL | Outros | 62 anos | R$ 10.000 |  |  | 
+2717 | MÔNICA DINIZ | DC | Administrador | 40 anos | nada declarado |  |  | 
+1330 | NAITON GAMA | PT | Técnico de eletricidade, eletrônica e telecomunicações | 31 anos | nada declarado |  |  | 
+5507 | NALIGIA | PSD | Servidor público municipal | 49 anos | nada declarado |  |  | 
+1199 | NATHY ULGUIM | PP | Outros | 36 anos | nada declarado |  |  | 
+1299 | NATO WERLANG | PDT | Administrador | 48 anos | R$ 8.690 |  |  | 
+3001 | NAYANE MOUSQUER | NOVO | Advogado | 40 anos | nada declarado |  |  | 
+4575 | NEIDE DE TEUTÔNIA | PSDB | Vendedor pracista, representante, caixeiro-viajante e assemelhados | 55 anos | nada declarado |  |  | 
+7722 | NENI MORAES | SOLIDARIEDADE | Outros | 50 anos | nada declarado |  |  | 
+1030 | NERISSON OLIVEIRA | REPUBLICANOS | Servidor público estadual | 58 anos | R$ 423.622 |  |  | 
+1089 | NILTON MACHADO | REPUBLICANOS | Pescador | 59 anos | nada declarado |  |  | 
+7725 | NYL MORAES | SOLIDARIEDADE | Estudante, bolsista, estagiário e assemelhados | 41 anos | nada declarado |  |  | 
+1122 | ONYX LORENZONI | PP | Veterinário | 72 anos | R$ 995.347 |  |  | 
+2215 | OSMAR TERRA | PL | Médico | 77 anos | R$ 939.001 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_2215.txt
+4044 | OXAM DA COSTA | PSB | Outros | 23 anos | nada declarado |  |  | 
+5077 | PAI EDERSON DE OGUM | PSOL | Outros | 41 anos | nada declarado |  |  | 
+7088 | PAI FRANZ | AVANTE | Outros | 22 anos | nada declarado |  |  | 
+4530 | PAI RICARDO DE OXUM | PSDB | Empresário | 46 anos | nada declarado |  |  | 
+2070 | PASTOR JEAN GALVÃO | PODE | Sacerdote ou membro de ordem ou seita religiosa | 31 anos | nada declarado |  |  | 
+3614 | PASTORA MARISA | AGIR | Dona de casa | 49 anos | R$ 180.000 | Indeferido em prazo recursal ou com recurso |  | 
+1155 | PATRICIA BECK | PP | Corretor de imóveis, seguros, títulos e valores | 47 anos | R$ 64.000 |  |  | 
+3545 | PATRICIA PEGORARO | DEMOCRATA | Dona de casa | 47 anos | R$ 43.000 | Indeferido: votos serão anulados |  | 
+1588 | PATRÍCIA ALBA | MDB | Advogado | 51 anos | R$ 548.892 |  | deputado(a) estadual | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1588.txt
+4300 | PATRÍCIA BECKER | PV | Dona de casa | 41 anos | nada declarado |  |  | 
+5033 | PATY REX | PSOL | Outros | 37 anos | nada declarado |  |  | 
+4055 | PAULA | PSB | Advogado | 35 anos | R$ 70.000 |  |  | 
+2238 | PAULA MARISA | PL | Empresário | 45 anos | R$ 350.711 |  |  | 
+4550 | PAULINHO | PSDB | Agricultor | 60 anos | R$ 237.000 |  |  | 
+5544 | PAULO AZEREDO | PSD | Aposentado (exceto servidor público) | 70 anos | R$ 660.000 |  |  | 
+5575 | PAULO BAGÉ | PSD | Empresário | 47 anos | nada declarado |  |  | 
+5099 | PAULO BRACK | PSOL | Professor de ensino superior | 67 anos | nada declarado |  |  | 
+4566 | PAULO FREITAS | PSDB | Vereador | 53 anos | R$ 250.000 |  | vereador(a) | 
+2555 | PAULO HENRIQUE (BOLACHA) | PRD | Outros | 52 anos | nada declarado |  |  | 
+4428 | PAULO NATALINO | UNIÃO | Outros | 49 anos | nada declarado |  |  | 
+1553 | PEDRINHO | MDB | Comerciante | 23 anos | R$ 9.621 |  |  | 
+4523 | PEDRO MACARI | PSDB | Comerciante | 67 anos | R$ 180.000 |  |  | 
+1223 | PEDRO RIBEIRO | PDT | Empresário | 32 anos | R$ 50.400 |  |  | 
+1144 | PEDRO WESTPHALEN | PP | Deputado | 76 anos | R$ 1.972.442 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1144.txt
+2201 | PERONDI | PL | Empresário | 43 anos | R$ 1.289.800 |  |  | 
+3688 | PIT | AGIR | Vendedor de comércio varejista e atacadista | 59 anos | R$ 40.000 | Indeferido em prazo recursal ou com recurso |  | 
+2772 | PIZZATTO FEDERAL | DC | Técnico contabilidade, estatística, economia doméstica e administração | 53 anos | R$ 602.000 |  |  | 
+2207 | POLICIAL PENAL JANICE QUINZEN | PL | Servidor público estadual | 47 anos | R$ 900.000 |  |  | 
+1212 | POMPEO DE MATTOS | PDT | Advogado | 68 anos | R$ 4.292.000 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1212.txt
+3060 | PR. COLOMBO | NOVO | Empresário | 61 anos | R$ 205.000 |  |  | 
+7008 | PRETA | AVANTE | Outros | 46 anos | nada declarado |  |  | 
+8008 | PROF JAQUE | UP | Professor de ensino superior | 35 anos | R$ 379.000 |  |  | 
+3616 | PROF MAIURA | AGIR | Pedagogo | 44 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+3636 | PROF RONALDO | AGIR | Professor de ensino fundamental | 44 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+5533 | PROF. CÁTIA COLOMBO | PSD | Aposentado (exceto servidor público) | 54 anos | R$ 706.000 |  |  | 
+1260 | PROFE MARLÉA | PDT | Aposentado (exceto servidor público) | 67 anos | R$ 279.437 |  |  | 
+4023 | PROFESSOR BORBA | PSB | Outros | 65 anos | nada declarado |  |  | 
+1475 | PROFESSOR DR ORLANDO FURTADO | MISSÃO | Militar reformado | 57 anos | nada declarado |  |  | 
+4321 | PROFESSOR EDISON | PV | Servidor público civil aposentado | 64 anos | R$ 116.000 |  |  | 
+1310 | PROFESSOR LEONEL | PT | Professor de ensino médio | 62 anos | R$ 680.000 |  |  | 
+5090 | PROFESSOR VINICIUS | PSOL | Professor de ensino médio | 42 anos | R$ 26.500 |  |  | 
+5590 | PROFESSORA NADIR | PSD | Aposentado (exceto servidor público) | 67 anos | R$ 557.000 |  |  | 
+1027 | PRÔ ISABEL | REPUBLICANOS | Professor de ensino fundamental | 51 anos | R$ 270.000 |  |  | 
+1004 | PRÔ PRISCILA | REPUBLICANOS | Outros | 41 anos | nada declarado |  |  | 
+1350 | PÉROLA SAMPAIO | PT | Outros | 47 anos | R$ 38.000 |  |  | 
+4020 | RAFA CASTRO | PSB | Vendedor de comércio varejista e atacadista | 39 anos | R$ 93.612 |  |  | 
+5005 | RAFAEL PERLASCA | PSOL | Servidor público municipal | 40 anos | nada declarado |  |  | 
+3518 | RAMON LADVIG | DEMOCRATA | Outros | 38 anos | R$ 102.164 | Indeferido em prazo recursal ou com recurso |  | 
+1555 | RANZI | MDB | Bancário e economiário | 46 anos | R$ 611.541 |  |  | 
+2060 | REGINA CAETANO | PODE | Outros | 56 anos | R$ 687.139 |  |  | 
+1245 | REGINALDO BACCI | PDT | Advogado | 66 anos | R$ 3.472.000 |  |  | 
+1378 | REGINETE BISPO | PT | Outros | 64 anos | R$ 335.000 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1378.txt
+2004 | RENAN MACHADO | PODE | Outros | 29 anos | nada declarado |  |  | 
+1440 | RENATO WEILER RISTOW | MISSÃO | Empresário | 37 anos | R$ 58.581 |  |  | 
+1441 | RINALDI CONDE | MISSÃO | Servidor público municipal | 37 anos | nada declarado |  |  | 
+3665 | RITA LOPES | AGIR | Estudante, bolsista, estagiário e assemelhados | 53 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+1033 | ROBERTO FORCHESATTO (EICE) | REPUBLICANOS | Ocupante de cargo em comissão | 45 anos | R$ 13.891 |  |  | 
+5000 | ROBERTO ROBAINA | PSOL | Vereador | 59 anos | R$ 1.140.190 |  | vereador(a) | 
+2053 | ROBSON CAMARGO | PODE | Outros | 49 anos | R$ 360.000 |  |  | 
+3522 | ROBSON MALLMANN | DEMOCRATA | Comerciante | 44 anos | R$ 410.000 | Indeferido em prazo recursal ou com recurso |  | 
+5088 | RODRIGO CEBOLA | PSOL | Outros | 46 anos | nada declarado |  |  | 
+2703 | ROGÉRINHO DA INFRA | DC | Motorista de veículos de transporte de carga | 62 anos | nada declarado |  |  | 
+1559 | ROGÉRIO GRADE - CHÉIO | MDB | Servidor público estadual | 52 anos | R$ 5.210 |  |  | 
+1566 | ROMÁRIO PAZ | MDB | Vereador | 48 anos | R$ 200.000 |  | vereador(a) | 
+1014 | RONALDO NOGUEIRA | REPUBLICANOS | Administrador | 61 anos | R$ 724.000 |  | deputado(a) federal | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1014.txt
+2022 | RONY GABRIEL | PODE | Vereador | 32 anos | R$ 150.000 |  | vereador(a) | 
+1301 | ROSANE NASCIMENTO | PT | Servidor público civil aposentado | 58 anos | R$ 400.000 |  |  | 
+1290 | ROSANE RODRIGUES | PDT | Massagista | 62 anos | nada declarado |  |  | 
+2711 | ROSELAINE MELLO | DC | Dona de casa | 45 anos | nada declarado |  |  | 
+7021 | ROSELANE DO CINTURÃO AZUL | AVANTE | Técnico de enfermagem e assemelhados (exceto enfermeiro) | 62 anos | R$ 15.000 |  |  | 
+3090 | ROVANI PERES | NOVO | Servidor público federal | 63 anos | R$ 1.350.000 |  |  | 
+2730 | ROZELIO CAMARGO | DC | Servidor público municipal | 36 anos | R$ 11.500 |  |  | 
+2254 | RUBEM DE CASTRO | PL | Aposentado (exceto servidor público) | 78 anos | nada declarado |  |  | 
+1533 | RUDYS CONFIRMADÍSSIMO | MDB | Empresário | 44 anos | R$ 560.000 |  |  | 
+3010 | SANDRA BONETTO | NOVO | Vereador | 49 anos | R$ 163.118 |  | vereador(a) | 
+5548 | SANNY FIGUEIREDO RS | PSD | Empresário | 48 anos | nada declarado |  |  | 
+3622 | SANTOS | AGIR | Servidor público municipal | 62 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+3031 | SARGENTO WAGNER | NOVO | Membro das forças armadas | 40 anos | nada declarado |  |  | 
+2007 | SERGIO ZAMBIASI | PODE | Outros | 77 anos | R$ 2.162.584 |  |  | 
+2250 | SERJÃO CARRETEIRO | PL | Motorista de veículos de transporte de carga | 54 anos | R$ 3.338 |  |  | 
+3684 | SHEILA FERNANDES | AGIR | Outros | 42 anos | R$ 14.000 | Renúncia: votos serão anulados |  | 
+3603 | SILVANA PRADELLA | AGIR | Comerciário | 64 anos | nada declarado | Indeferido: votos serão anulados |  | 
+2025 | SILVIA HELENA | PODE | Advogado | 53 anos | R$ 212.000 |  |  | 
+1000 | SIMONE DUTRA | REPUBLICANOS | Empresário | 48 anos | R$ 104.721 |  |  | 
+7001 | SIMONE SABIN | AVANTE | Economista | 60 anos | nada declarado | Renúncia: votos serão anulados |  | 
+2066 | SINARA KUHN | PODE | Outros | 47 anos | R$ 765.000 |  |  | 
+1469 | SOLANJE NUNES | MISSÃO | Agricultor | 57 anos | R$ 80.000 |  |  | 
+5004 | SOLDADO EDERSON | PSOL | Policial militar | 39 anos | nada declarado |  |  | 
+3099 | SOUZA SOUTO | NOVO | Trabalhador dos serviços de contabilidade, de caixa e assemelhados | 28 anos | R$ 11.000 |  |  | 
+5565 | SÃO | PSD | Administrador | 51 anos | R$ 32.000 |  |  | 
+5002 | TAMI PAVEGLIO | PSOL | Psicólogo | 33 anos | R$ 270.810 |  |  | 
+1288 | TANIRA ALVES | PDT | Empresário | 40 anos | R$ 265.000 |  |  | 
+2299 | TCHÊQUINHO | PL | Outros | 54 anos | R$ 46.797 |  |  | 
+3567 | TENENTE HAMPEL | DEMOCRATA | Policial militar | 59 anos | R$ 619.600 | Indeferido em prazo recursal ou com recurso |  | 
+4001 | TEQUILA | PSB | Servidor público municipal | 46 anos | R$ 50.000 |  |  | 
+7070 | TETÉ CAÇAPAVA | AVANTE | Empresário | 42 anos | R$ 553.000 |  |  | 
+1107 | THAIAN DUTRA | PP | Empresário | 38 anos | R$ 87.000 |  |  | 
+1023 | THATY ENERGIA | REPUBLICANOS | Outros | 41 anos | R$ 190.000 |  |  | 
+3533 | THIAGO ALVES | DEMOCRATA | Outros | 32 anos | nada declarado | Indeferido em prazo recursal ou com recurso |  | 
+1055 | TIA VIVI | REPUBLICANOS | Empresário | 45 anos | R$ 80.000 |  |  | 
+3026 | TIAGO ALBRECHT | NOVO | Comunicólogo | 42 anos | R$ 71.000 |  |  | 
+5075 | TIAGO DOMINGUEZ | PSOL | Veterinário | 33 anos | R$ 61.412 |  |  | 
+3055 | TITA DIAS | NOVO | Administrador | 57 anos | R$ 1.071.811 |  |  | 
+6500 | TONHÃO DOS SANTOS | PCDOB | Aposentado (exceto servidor público) | 59 anos | R$ 20.000 |  |  | 
+2030 | TONY OLIVEIRA | PODE | Vereador | 55 anos | R$ 162.825 |  | vereador(a) | 
+5557 | UH FABIANO | PSD | Atleta profissional e técnico em desportos | 52 anos | nada declarado |  |  | 
+1307 | VALDECI OLIVEIRA | PT | Deputado | 69 anos | R$ 126.035 |  | deputado(a) estadual | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1307.txt
+2260 | VALDECI ROCHA | PL | Aposentado (exceto servidor público) | 62 anos | nada declarado |  |  | 
+1001 | VALDECI RODRIGUES | REPUBLICANOS | Empresário | 62 anos | R$ 10.000 |  |  | 
+3012 | VANDA SANTOS | NOVO | Advogado | 53 anos | nada declarado |  |  | 
+4030 | VANDO | PSB | Motorista particular | 57 anos | nada declarado |  |  | 
+4510 | VANDO RIBEIRO | PSDB | Vereador | 63 anos | nada declarado |  | vereador(a) | 
+2700 | VANDO ROCHA | DC | Astrônomo | 60 anos | R$ 20.000 |  |  | 
+5526 | VANESSA MORAIS | PSD | Advogado | 44 anos | nada declarado |  |  | 
+2016 | VERA FREIRE | PODE | Outros | 63 anos | nada declarado |  |  | 
+2739 | VERA KLEIN | DC | Empresário | 66 anos | nada declarado |  |  | 
+4050 | VICENTE SELISTRE | PSB | Trabalhador de fabricação de calçados e artefatos de couro | 63 anos | R$ 1.024.282 |  |  | 
+1515 | VILMAR ZANCHIN | MDB | Advogado | 55 anos | R$ 2.025.433 |  | deputado(a) estadual | https://meu-voto-2026-bs0.pages.dev/ia/dep/DF_1515.txt
+4554 | VINI ANZILIERO | PSDB | Empresário | 50 anos | R$ 946.408 |  |  | 
+3066 | VITOR BICCA | NOVO | Diretor de empresas | 64 anos | nada declarado |  |  | 
+2721 | VITÓRIA LEITE | DC | Faxineiro | 27 anos | nada declarado |  |  | 
+5527 | VIVI LA PORTA | PSD | Técnico de enfermagem e assemelhados (exceto enfermeiro) | 52 anos | nada declarado |  |  | 
+4004 | VIVI MELLO | PSB | Outros | 37 anos | nada declarado |  |  | 
+1454 | YAGOR VIEIRA | MISSÃO | Administrador | 26 anos | nada declarado |  |  | 
+1003 | ZÉ - TELMO CORRETOR DE IMÓVEIS | REPUBLICANOS | Outros | 58 anos | R$ 1.172.000 |  |  | 
+1080 | ÉDER AZEREDO - CANHÃO DO VALE | REPUBLICANOS | Outros | 49 anos | R$ 380.000 |  |  | 
+1616 | ÍCARO MADALENA | PSTU | Estudante, bolsista, estagiário e assemelhados | 30 anos | R$ 39.000 |  |  | 

@@ -1,0 +1,137 @@
+{
+  "id": "SEN_131",
+  "nome_urna": "PIMENTA",
+  "resumo": "Deputado federal do PT e líder do governo Lula na Câmara, concorre com o apoio de Lula. Destaca o fim da escala 6x1, a renegociação da dívida do RS e a reconstrução pós-enchentes. Apresenta 13 compromissos, com foco em SUS, mulheres, aposentados e combate a privilégios.",
+  "trajetoria": "Jornalista; foi vereador e vice-prefeito de Santa Maria e deputado estadual; deputado federal desde 2003. Foi ministro da Secom (2023-2025) e ministro extraordinário da Reconstrução do RS (2024); líder do governo na Câmara desde abril de 2026.",
+  "destaques": [
+    "Fim da escala 6x1: articulou a aprovação da PEC na Câmara como líder do governo.",
+    "Renegociar a dívida do RS com a União e prorrogar o Funrigs para moradia, saúde, educação e obras contra cheias.",
+    "Hospital 100% SUS na Região Metropolitana e ampliação do programa Agora Tem Especialistas.",
+    "Fim do desconto previdenciário de aposentados e enfrentamento dos reajustes abusivos de planos de saúde.",
+    "Endurecer penas para agentes públicos e políticos envolvidos com crime e corrupção; perda imediata de mandato para condenados.",
+    "Combate às bets.",
+    "Estatuto Federal do Bem-Estar Animal e hospital veterinário público na Região Metropolitana."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Renegociar a dívida do RS e prorrogar o Fundo do Plano Rio Grande (Funrigs).",
+      "Atrair investimentos, fortalecer a indústria gaúcha e incentivar setores estratégicos e energias renováveis.",
+      "Novo modelo de financiamento agrícola, apoio à agricultura familiar, ao cooperativismo e à agroecologia.",
+      "Fim da escala 6x1."
+    ],
+    "Saúde": [
+      "Defesa do SUS, redução de filas e ampliação do Agora Tem Especialistas com hospitais filantrópicos.",
+      "Hospital 100% SUS na Região Metropolitana.",
+      "Projeto para regular planos de saúde e proteger idosos de exclusão de cobertura (debate Amrigs)."
+    ],
+    "Educação": [
+      "Valorização de professores e ampliação de escolas de tempo integral.",
+      "Fortalecer institutos federais, universidades federais e a Uergs."
+    ],
+    "Segurança": [
+      "Apoiar a criação do Ministério da Segurança Pública e integrar as forças de segurança.",
+      "Combate ao crime organizado e ao tráfico de armas, com asfixia financeira das facções.",
+      "Ampliar patrulhas Maria da Penha e delegacias da mulher 24 horas; tornar inafiançável a lesão corporal em violência doméstica.",
+      "Paridade e integralidade salarial para profissionais de segurança ativos e inativos."
+    ],
+    "Meio ambiente e clima": [
+      "Prevenção e gestão de desastres e adaptação climática.",
+      "Recuperação de bacias hidrográficas e matas ciliares; transição para economia de baixo carbono.",
+      "Combate a crimes ambientais."
+    ],
+    "Social e direitos": [
+      "Fim do desconto previdenciário e correção de aposentadorias e pensões do INSS.",
+      "Centros de convivência para idosos no Novo PAC e linha do Minha Casa, Minha Vida para idosos.",
+      "Políticas contra racismo e discriminação de mulheres, população negra, LGBTQIA+ e indígenas.",
+      "Projeto Recomeçar Mulher para vítimas de violência."
+    ],
+    "Infraestrutura e cidades": [
+      "Modernizar rodovias e integrar ferrovias, hidrovias e aeroportos regionais.",
+      "Retomada de trens de carga e de passageiros."
+    ],
+    "Gestão e Estado": [
+      "Fim dos supersalários e de privilégios.",
+      "Perda imediata de mandato e demissão sem aposentadoria compulsória para condenados.",
+      "Fortalecer o Sistema Nacional de Cultura (autor da emenda que o criou).",
+      "Votou contra a PEC da Blindagem (set/2025)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -2,
+      "nota": "Votou contra a privatização dos Correios (2021) e contra a MP de desestatização da Eletrobras (2021).",
+      "fonte": "Câmara, votação 2270894-103 (05/08/2021): https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos | Câmara, votação 2270789-73 (19/05/2021): https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Votou a favor do PL 1087/2025 (isenção do IR até R$ 5 mil com imposto mínimo sobre altas rendas). O programa do PT defende tributar super-ricos.",
+      "fonte": "Câmara, votação 2487436-169 (01/10/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos | programa do partido: Plano Lula/PT (TSE) p.10-11"
+    },
+    "ajuste_fiscal": {
+      "v": -1,
+      "nota": "Não há declaração própria; o programa do PT mantém o arcabouço fiscal com recomposição de receitas, sem cortes amplos de gastos.",
+      "fonte": "programa do partido: Plano Lula/PT (TSE) p.10, 49"
+    },
+    "programas_sociais": {
+      "v": 2,
+      "nota": "Diz ter proposto a Lula o Pix Auxílio da Reconstrução (R$ 5,1 mil a famílias atingidas pelas cheias). O programa do PT propõe manter, aperfeiçoar e ampliar a proteção social, incluindo a transferência de renda.",
+      "fonte": "https://www.youtube.com/watch?v=5jbPni0HXck | programa do partido: Plano Lula/PT (TSE) p.18"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Defende o fim da escala 6x1; votou a favor da PEC 221/2019 nos dois turnos e priorizou o tema como líder do governo.",
+      "fonte": "Câmara, votação 2233802-424 (27/05/2026): https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos | https://www.itatiaia.com.br/politica/novo-lider-do-governo-paulo-pimenta-prioriza-fim-da-escala-6x1-e-dialogo-no-congresso/ | https://www.youtube.com/watch?v=tdKML0p1FNg"
+    },
+    "armas": {
+      "v": -2,
+      "nota": "Sem declaração própria localizada; o programa do PT defende controle de armas e revogação de decretos que facilitavam o acesso. Propõe combater o tráfico de armas.",
+      "fonte": "programa do partido: Plano Lula/PT (TSE) p.28 | https://pimentanosenado.com.br/"
+    },
+    "penas": {
+      "v": 1,
+      "nota": "Propõe endurecer penas para agentes públicos e políticos ligados a crime e corrupção e tornar inafiançável a lesão corporal em violência doméstica. Votou contra o texto do PL Antifacção (relator Derrite) e a favor da PEC da Segurança.",
+      "fonte": "https://pimentanosenado.com.br/ | Câmara, votação 2579832-62 (18/11/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2579832-62/votos | Câmara, votação 2500080-320 (04/03/2026): https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos"
+    },
+    "aborto": {
+      "v": null,
+      "nota": "Sem posição pública localizada.",
+      "fonte": null
+    },
+    "anistia_8j": {
+      "v": -2,
+      "nota": "Votou contra a urgência do PL da Anistia (set/2025) e contra o PL da Dosimetria (dez/2025).",
+      "fonte": "Câmara, votação 2562149-7 (17/09/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos | Câmara, votação 2358548-89 (09/12/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+    },
+    "stf": {
+      "v": null,
+      "nota": "Sem posição própria localizada. O programa do PT fala só em diálogo com o Judiciário, 'respeitada a autonomia dos Poderes', e não trata de limites ao STF.",
+      "fonte": "programa do partido: Plano Lula/PT (TSE) p.16"
+    },
+    "ambiente": {
+      "v": 2,
+      "nota": "Votou contra a Lei Geral do Licenciamento Ambiental (2021 e 2025) e criticou a votação de madrugada. Propõe transição para baixo carbono e combate a crimes ambientais.",
+      "fonte": "Câmara, votação 257161-454 (16/07/2025): https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos | Câmara, votação 257161-337 (12/05/2021): https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos | https://www.extraclasse.org.br/ambiente/2025/07/como-os-deputados-votaram-na-aprovacao-do-pl-da-devastacao/ | https://pimentanosenado.com.br/"
+    },
+    "redes": {
+      "v": 2,
+      "nota": "Como ministro da Secom, defendeu nova regulação e responsabilização das plataformas por conteúdos ilícitos; disse que o Marco Civil 'hoje não é mais' suficiente.",
+      "fonte": "https://www.correiobraziliense.com.br/politica/2023/05/amp/5094620-marco-civil-da-internet-foi-o-suficiente-mas-hoje-nao-e-mais-diz-ministro.html"
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "https://pimentanosenado.com.br/",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://www.itatiaia.com.br/politica/novo-lider-do-governo-paulo-pimenta-prioriza-fim-da-escala-6x1-e-dialogo-no-congresso/",
+    "https://www.amrigs.org.br/candidatos-ao-senado-apresentam-propostas-para-a-saude-em-debate-na-amrigs/",
+    "https://www.youtube.com/watch?v=HTACr-k4LFo",
+    "https://www.youtube.com/watch?v=tdKML0p1FNg",
+    "https://www.youtube.com/watch?v=5jbPni0HXck",
+    "https://www.youtube.com/watch?v=PdJYxvw9Sok",
+    "https://www.extraclasse.org.br/ambiente/2025/07/como-os-deputados-votaram-na-aprovacao-do-pl-da-devastacao/",
+    "https://www.band.com.br/noticias/veja-como-votou-cada-deputado-na-urgencia-do-projeto-de-anistia-202509172310",
+    "https://www.correiobraziliense.com.br/politica/2023/05/amp/5094620-marco-civil-da-internet-foi-o-suficiente-mas-hoje-nao-e-mais-diz-ministro.html",
+    "https://dadosabertos.camara.leg.br/api/v2 (votações 2233802-424, 2562149-7, 2358548-89, 2270800-135, 257161-454, 257161-337, 2487436-169, 2270894-103, 2270789-73, 2579832-62, 2500080-320)",
+    "Plano de governo Lula/PT (TSE) — prop_br/BR/2026BR280002542548_01.pdf"
+  ]
+}

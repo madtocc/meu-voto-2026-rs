@@ -1,0 +1,140 @@
+{
+  "id": "PRES_30",
+  "nome_urna": "ZEMA",
+  "resumo": "'Plano Implacável', de orientação liberal: choque fiscal, privatização de todas as estatais, redução de impostos e um regime trabalhista alternativo à CLT. Na segurança, propõe tratar facções como terroristas, reduzir a maioridade penal para 16 anos e acabar com a progressão de regime. Na área institucional, propõe limitar os poderes do STF e proibir a moderação de conteúdo nas redes.",
+  "trajetoria": "Empresário do varejo (Grupo Zema). Governou Minas Gerais de 2019 a 2026 pelo Novo, eleito em 2018 e reeleito em 2022 no 1º turno.",
+  "destaques": [
+    "Privatizar todas as empresas estatais, inclusive a Petrobras.",
+    "Regime alternativo à CLT, com prevalência do negociado e jornada diária flexível até 44 horas semanais.",
+    "Classificar facções como organizações terroristas e reduzir a maioridade penal para 16 anos.",
+    "Limitar o STF: fim das decisões monocráticas, menos competências e votação obrigatória do impeachment de ministros quando pedida pela maioria do Senado ou com grande apoio popular.",
+    "Proibir exclusão de perfis e moderação de opiniões pelas plataformas, inclusive por ordem judicial.",
+    "Sair do BRICS, buscar a OCDE e transformar o Mercosul em zona de livre comércio.",
+    "Extinguir o Fundo Partidário e o Fundo Eleitoral."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Regime alternativo à CLT com negociação de jornada, remuneração variável e periodicidade do salário (p.23).",
+      "Zerar encargos sobre um salário mínimo na contratação de quem está há mais de um ano na informalidade (p.24).",
+      "Reduzir o IR das empresas, o IOF e as tarifas de importação; metas progressivas de redução da carga tributária (p.16, 18-21).",
+      "Programa Sócios do Brasil: R$ 1.000 em fundo de ações para cada recém-nascido, com saque aos 18 anos (p.18)."
+    ],
+    "Saúde": [
+      "Registro nacional de saúde unificado e expansão da telemedicina (p.57-58).",
+      "Parcerias com clínicas e hospitais privados para reduzir filas do SUS, com metas de atendimento (p.60).",
+      "Ampliar concessões, PPPs e OSs na construção e gestão de hospitais e UPAs (p.60).",
+      "Flexibilizar regras da ANS para permitir planos de saúde com coberturas diferenciadas (p.61)."
+    ],
+    "Educação": [
+      "Ampliar creches com parcerias com entidades privadas e comunitárias (p.50).",
+      "Vincular o Pé-de-Meia à frequência e a nota mínima no Enem (p.53).",
+      "Regulamentar o homeschooling e ampliar escolas cívico-militares e conveniadas (p.53).",
+      "Transferir o ensino superior para o Ministério de Ciência e Tecnologia e escolher reitores por critério técnico (p.54-55)."
+    ],
+    "Segurança": [
+      "Classificar facções como terroristas e usar as Forças Armadas com as polícias para retomar territórios (p.5).",
+      "Reduzir a maioridade penal para 16 anos, ou menos em crimes graves (p.6).",
+      "Trocar a progressão de regime por prisão efetiva seguida de liberdade condicional monitorada (p.7).",
+      "Prisão preventiva obrigatória para quem for preso em flagrante pela terceira vez (p.6)."
+    ],
+    "Meio ambiente e clima": [
+      "Aplicar a nova Lei Geral do Licenciamento e criar via rápida para 'Projetos de Interesse Nacional' (p.27).",
+      "Combate à grilagem e ao desmatamento ilegal com monitoramento por satélite (p.48).",
+      "Mercado voluntário de carbono sem criar novos tributos (p.48).",
+      "Concessão de parques nacionais e investimento privado em prevenção de desastres (p.48-49)."
+    ],
+    "Social e direitos": [
+      "Programa Casas da Cidadania, com plano de desenvolvimento por família vulnerável (p.63).",
+      "Suspender o Bolsa Família de adultos aptos que recusem trabalho e pagar R$ 5 mil a quem sair do programa (p.63).",
+      "Proibir barracas em espaços públicos e apoiar internação involuntária de dependentes químicos em situação de rua (p.64).",
+      "Ampliar delegacias da mulher 24 horas, Patrulhas Maria da Penha e Salas Lilás (p.7)."
+    ],
+    "Infraestrutura e cidades": [
+      "Conceder ativos viáveis e ampliar PPPs em todos os serviços, inclusive saúde e educação (p.15, 19).",
+      "Prioridade a ferrovias como FICO, FIOL e Ferrogrão e novas concessões de aeroportos (p.29-30).",
+      "Universalizar o saneamento por concessões e PPPs, conforme o Novo Marco (p.31).",
+      "Política nacional de transporte de massa, com cofinanciamento federal de metrôs e VLTs (p.30)."
+    ],
+    "Gestão e Estado": [
+      "Reforma administrativa: menos ministérios e cargos, avaliação de desempenho com possibilidade de desligamento (p.15, 40).",
+      "Limitar o foro privilegiado ao Presidente e acabar com supersalários e férias de 60 dias (p.8-9).",
+      "Extinguir os fundos partidário e eleitoral, adotar o voto distrital misto e permitir candidaturas avulsas (p.75).",
+      "Fim do sigilo de 100 anos e estímulo à fusão de municípios sem sustentação financeira (p.10, 74)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": 2,
+      "nota": "Propõe privatizar todas as estatais; para a Petrobras, venda por segmentos (exploração, produção, refino), e a campanha cita também o Banco do Brasil.",
+      "fonte": "Plano p.15, 33 | https://tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais"
+    },
+    "impostos_ricos": {
+      "v": -1,
+      "nota": "Propõe metas de redução da carga tributária e do IR das empresas; não trata de taxar altas rendas. Ironizou em vídeo a campanha do PT pela taxação dos 'super-ricos' (2025).",
+      "fonte": "Plano p.16, 19 | https://www.portalin.com.br/?p=631441"
+    },
+    "ajuste_fiscal": {
+      "v": 2,
+      "nota": "Propõe 'choque fiscal': nova reforma da Previdência, reforma administrativa, revisão de despesas obrigatórias e superávits primários, com corte de gastos para reduzir impostos.",
+      "fonte": "Plano p.14-16, 18"
+    },
+    "programas_sociais": {
+      "v": -1,
+      "nota": "Propõe unificar e focalizar programas, suspender o Bolsa Família de adultos aptos que recusem trabalho e pagar R$ 5 mil a quem deixar o programa; não propõe ampliá-los.",
+      "fonte": "Plano p.15, 62-63"
+    },
+    "escala_6x1": {
+      "v": -2,
+      "nota": "Critica a PEC do fim da 6x1 como 'canetada' e defende negociação livre e uma CLT opcional, com jornada negociada até 44 horas semanais.",
+      "fonte": "Plano p.23 | https://www.tribunadosertao.com.br/politica/2026/06/22/926433-zema-critica-pec-da-escala-6x1-e-defende-clt-opcional"
+    },
+    "armas": {
+      "v": 1,
+      "nota": "Propõe ampliar o porte de arma do produtor rural para toda a extensão da propriedade; não trata do porte para outros cidadãos.",
+      "fonte": "Plano p.45"
+    },
+    "penas": {
+      "v": 2,
+      "nota": "Propõe maioridade penal aos 16 anos (ou menos em crimes graves), fim da progressão de regime e penas mais duras para crimes violentos e corrupção.",
+      "fonte": "Plano p.5-8"
+    },
+    "aborto": {
+      "v": -2,
+      "nota": "Apoiou a derrubada pelo Senado (jun/2026) da resolução do Conanda que facilitava o aborto legal para vítimas menores de violência sexual. O plano não trata do tema.",
+      "fonte": "https://diariodocomercio.com.br/politica/senado-aborto-zema-caiado/"
+    },
+    "anistia_8j": {
+      "v": 2,
+      "nota": "Defende anistia a Bolsonaro, acusado de tentativa de golpe, para 'pacificar o Brasil'; nega que tenha havido golpe e chamou o 8 de janeiro de 'manifestação, baderna e insatisfação' (ago/2025).",
+      "fonte": "https://www.infomoney.com.br/politica/zema-defende-anistia-a-bolsonaro-para-pacificar-o-brasil/"
+    },
+    "stf": {
+      "v": 2,
+      "nota": "Propõe acabar com decisões monocráticas, retirar matérias penais e tributárias do STF, criar corregedoria externa e tornar obrigatória a votação de impeachment de ministros pedida pela maioria do Senado.",
+      "fonte": "Plano p.11-13"
+    },
+    "ambiente": {
+      "v": -1,
+      "nota": "Defende 'conservar sem travar o desenvolvimento': sem novas restrições ao agro sem compensação, licenciamento mais rápido e facilitação da mineração; propõe combater grilagem e desmatamento ilegal.",
+      "fonte": "Plano p.21, 35, 45, 47-48"
+    },
+    "redes": {
+      "v": -2,
+      "nota": "Propõe proibir a exclusão de perfis e a moderação de opiniões pelas plataformas, inclusive por ordem judicial, e evitar regulação ampla da inteligência artificial.",
+      "fonte": "Plano p.21, 74"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Ações concretas e específicas nas 20 áreas, com alguns parâmetros numéricos (maioridade aos 16, R$ 1.000 por nascido, bônus de R$ 5 mil), mas quase sem metas de resultado, prazos, custos ou fontes."
+  },
+  "fontes": [
+    "https://tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais",
+    "https://www.portalin.com.br/?p=631441",
+    "https://sbtnews.sbt.com.br/noticia/eleicoes/impostos-veja-propostas-de-presidenciaveis-em-2026",
+    "https://www.tribunadosertao.com.br/politica/2026/06/22/926433-zema-critica-pec-da-escala-6x1-e-defende-clt-opcional",
+    "https://diariodocomercio.com.br/politica/senado-aborto-zema-caiado/",
+    "https://www.infomoney.com.br/politica/zema-defende-anistia-a-bolsonaro-para-pacificar-o-brasil/",
+    "https://tribunadosertao.com.br/politica/2026/09/15/979263-caiado-pede-afastamento-de-moraes-zema-diz-que-brasil-esta-virando-republiqueta-de-bananas"
+  ]
+}

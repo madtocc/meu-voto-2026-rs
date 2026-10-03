@@ -1,0 +1,108 @@
+# Meu voto 2026: posições dos candidatos a governador, tema a tema
+
+Guia de voto das eleições de 4 de outubro de 2026 no Rio Grande do Sul (https://meu-voto-2026-bs0.pages.dev). Dados do TSE atualizados em 02/10/2026 19:30:38. Os resumos e a classificação das posições foram feitos com auxílio de IA a partir de planos de governo e registros públicos, com a fonte em cada item, e podem conter erros.
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor.
+
+Total: 7 candidatos. Lista completa: CESAR PONTES (29), GABRIEL SOUZA (15), JULIANA BRIZOLA (12), MARCELO MARANATA (45), PRISCILA VOIGT (80), REJANE DE OLIVEIRA (16), ZUCCO (22).
+
+Escala: A favor, Tende a favor, Neutro ou ambíguo, Tende contra, Contra, Sem informação. "Sem informação" quer dizer que não se achou posição pública, não que o candidato seja contra.
+
+## Privatizar o Banrisul
+O banco estadual hoje é controlado pelo governo do RS.
+
+- CESAR PONTES (29, PCO): Contra. Defende estatizar todo o sistema financeiro e cancelar privatizações de bancos; não cita o Banrisul. Fonte: Plano p.3 e p.6 (programa nacional do PCO)
+- GABRIEL SOUZA (15, MDB): Contra. Defende manter o Banrisul público, com gestão técnica e dividendos para políticas públicas; diz que o banco está em "cenário diferente" das estatais vendidas. Fonte: https://www.cnnbrasil.com.br/eleicoes/a-cnn-gabriel-souza-se-contrapoe-a-venda-do-banrisul-cenario-diferente/ | Plano p.40-41
+- JULIANA BRIZOLA (12, PDT): Contra. Defende preservar o controle público do Banrisul, chamado de "inegociável". Fonte: Plano p.35
+- MARCELO MARANATA (45, PSDB): Tende contra. Propõe modernizar o Banrisul como banco de fomento "com finalidade social"; não fala em venda. Fonte: Plano p.10 e p.33 | https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/ | https://www.cnnbrasil.com.br/eleicoes/quem-e-marcelo-maranata-candidato-ao-governo-do-rio-grande-do-sul/
+- PRISCILA VOIGT (80, UP): Contra. Plano não cita o Banrisul; defende reverter todas as privatizações e terceirizações de empresas públicas. Fonte: Plano p.6 (item 1)
+- REJANE DE OLIVEIRA (16, PSTU): Contra. Plano não cita o Banrisul; defende suspender "todas privatizações em curso" e reestatizar empresas vendidas. Fonte: Plano p.25 e p.29
+- ZUCCO (22, PL): Contra. Descarta privatizar o Banrisul no mandato; diz que o banco deve ser fortalecido como banco de fomento. Fonte: https://www.jornaldocomercio.com/politica/2026/05/1248493-luciano-zucco-rejeita-privatizar-banrisul-caso-eleito.html | https://www.gaz.com.br/video-zucco-questiona-metodo-aplicado-na-educacao-confira-a-entrevista-completa/
+
+## Ampliar concessões, PPPs e privatizações no estado
+Passar estradas, serviços e empresas estaduais para gestão privada.
+
+- CESAR PONTES (29, PCO): Contra. Cancelar todas as privatizações e reestatizar empresas entregues ao capital privado. Fonte: Plano p.3 (programa nacional do PCO)
+- GABRIEL SOUZA (15, MDB): Tende a favor. Defende as privatizações de CEEE e Corsan (votou a favor da CEEE em 2019), mas não a do Banrisul. O plano propõe aperfeiçoar as concessões rodoviárias existentes e dar segurança regulatória a concessões e PPPs. Fonte: Plano p.8, 50 | https://www.cnnbrasil.com.br/eleicoes/a-cnn-gabriel-souza-se-contrapoe-a-venda-do-banrisul-cenario-diferente/ | https://www.cut.org.br/noticias/36-deputados-que-votaram-a-favor-da-privatizacao-da-ceee-sao-candidatos-no-rs-e1ac
+- JULIANA BRIZOLA (12, PDT): Tende contra. Critica a venda de patrimônio público e se opõe a privatizar serviços essenciais; diz não ser contra concessão "bem feita" e propõe revisar as concessões rodoviárias. Fonte: Plano p.3, 23, 33, 36 | https://leouve.com.br/politica/juliana-brizola-critica-concessao-ers-122-recuperar-competitividade-rs-farroupilha/
+- MARCELO MARANATA (45, PSDB): Tende a favor. Defende carteira de PPPs e concessões quando houver vantagem pública, com reformulação das concessões rodoviárias e "gestão mista dos pedágios". Fonte: Plano p.11, p.42 e p.45 | https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/
+- PRISCILA VOIGT (80, UP): Contra. Reverter privatizações (CEEE, Corsan, Sulgás), reestatizar o transporte coletivo e barrar PPPs nas escolas. Fonte: Plano p.4, p.6 (item 1), p.7 (item 4) e p.8 (item 10)
+- REJANE DE OLIVEIRA (16, PSTU): Contra. Fim das PPPs e terceirizações; reestatização de CEEE, Corsan e Sulgás; contra concessão de rodovias e PPP de escolas. Fonte: Plano p.8 e p.27-29
+- ZUCCO (22, PL): Tende a favor. Defende concessões e PPPs caso a caso, "sem solução ideológica"; votou pela privatização da CEEE em 2019. Critica o modelo de pedágios de Leite e promete extinguir a EGR. Fonte: Plano p.69-71 | https://www.cut.org.br/noticias/36-deputados-que-votaram-a-favor-da-privatizacao-da-ceee-sao-candidatos-no-rs-e1ac | https://www.gaz.com.br/video-zucco-questiona-metodo-aplicado-na-educacao-confira-a-entrevista-completa/
+
+## Reduzir o ICMS e a carga tributária estadual
+O ICMS é o principal imposto do estado.
+
+- CESAR PONTES (29, PCO): Tende a favor. Defende o fim dos impostos sobre consumo e salários, tributando só ganhos de capitalistas e grandes fortunas; não trata do ICMS gaúcho. Fonte: Plano p.6 (programa nacional do PCO)
+- GABRIEL SOUZA (15, MDB): Neutro ou ambíguo. Promete manter a alíquota modal em 17%; destaca reduções já feitas, mas não propõe novo corte. Fonte: Plano p.8, 10
+- JULIANA BRIZOLA (12, PDT): Tende a favor. Promete não elevar o ICMS e diz que buscará reduzir alíquotas gradualmente; o plano fala só em não aumentar impostos. Fonte: https://www.osul.com.br/juliana-brizola-promete-nao-aumentar-icms-e-defende-reducao-gradual-de-aliquotas-no-rs/ | Plano p.34
+- MARCELO MARANATA (45, PSDB): Tende a favor. Defendeu reduzir a tributação em debates de 2026; o plano não trata do ICMS e só propõe isentar de IPVA veículos híbridos e elétricos. Fonte: Plano p.12 | https://www.jornaldocomercio.com/politica/2026/03/1241385-em-debate-pre-candidatos-a-governador-do-rs-prometem-nao-aumentar-impostos.html | https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/
+- PRISCILA VOIGT (80, UP): Neutro ou ambíguo. Propõe anular "impostos extorsivos cobrados do povo" e taxar grandes fortunas, sem detalhar o ICMS. Fonte: Plano p.2 e p.8 (item 11)
+- REJANE DE OLIVEIRA (16, PSTU): Tende a favor. Defende reduzir impostos indiretos sobre alimentos, gás, energia e consumo popular, taxando propriedade e lucros de grandes empresas. Fonte: Plano p.24
+- ZUCCO (22, PL): Neutro ou ambíguo. Contra qualquer aumento de imposto (liderou ato contra a alta para 19,5% em 2023); plano promete não elevar alíquotas, mas não propõe reduzi-las. Fonte: Plano p.41, 76 | https://www.jornaldacidadeonline.com.br/noticias/53672/deputado-zucco-lidera-movimento-contra-aumento-de-impostos-no-rs
+
+## Manter ou ampliar incentivos fiscais a empresas
+Benefícios tributários para atrair ou manter investimentos.
+
+- CESAR PONTES (29, PCO): Sem informação
+- GABRIEL SOUZA (15, MDB): Tende a favor. Defende aprimorar os incentivos fiscais; prevê revisá-los e substituí-los aos poucos por fundos e novos instrumentos com a reforma tributária. Fonte: Plano p.9-10
+- JULIANA BRIZOLA (12, PDT): Tende a favor. Propõe atualizar Fundopem e Integrar para atrair indústrias, com exigências como igualdade salarial nas empresas beneficiadas. Fonte: Plano p.10, 34
+- MARCELO MARANATA (45, PSDB): Neutro ou ambíguo. Propõe revisão permanente e avaliação de impacto dos incentivos tributários, mas também atração de investimentos e isenção de IPVA para elétricos. Fonte: Plano p.12, p.16 e p.27
+- PRISCILA VOIGT (80, UP): Contra. Fim das isenções e benefícios fiscais ao agronegócio; critica renúncia de cerca de R$ 1 bilhão por mês a empresas. Fonte: Plano p.2 e p.7 (item 8)
+- REJANE DE OLIVEIRA (16, PSTU): Contra. Suspender isenções fiscais a grandes empresas, auditar todas as renúncias e nenhum benefício ao agronegócio; apoio só a pequenos negócios. Fonte: Plano p.8, p.20 e p.24
+- ZUCCO (22, PL): Tende a favor. Mantém Fundopem e Integrar, condicionando benefícios a contrapartidas e revisando os ineficazes. Fonte: Plano p.42-43, 78, 100
+
+## Reajustes acima da inflação para servidores
+Ex.: professores, policiais, saúde.
+
+- CESAR PONTES (29, PCO): A favor. Reposição de 100% das perdas e aumento emergencial de 50% de todos os salários; piso de R$ 8,5 mil para professores. Fonte: Plano p.2 e p.5 (programa nacional do PCO)
+- GABRIEL SOUZA (15, MDB): Neutro ou ambíguo. Promete manter o piso do magistério e não fazer novas reformas de carreira; não promete reajuste acima da inflação. Plano fala em valorização ligada a desempenho. Fonte: Plano p.7, 20 | https://portalarauto.com.br/30-09-2026/gabriel-souza-cita-cadeia-do-tabaco-e-promete-avancos-em-saude-infraestrutura-e-educacao/
+- JULIANA BRIZOLA (12, PDT): Tende a favor. Critica "arrocho salarial"; promete reajustes a professores e outros servidores, o Piso do Magistério e o fim do desconto previdenciário de aposentados, sem fixar índice. Fonte: Plano p.6, 33, 36 | https://horadopovo.com.br/juliana-brizola-promete-acabar-com-desconto-previdenciario-de-professores-aposentados/
+- MARCELO MARANATA (45, PSDB): Neutro ou ambíguo. Fala em valorizar servidores, reestruturar carreiras e reduzir contratos temporários; não promete reajuste salarial. Fonte: Plano p.20 e p.52
+- PRISCILA VOIGT (80, UP): Tende a favor. Defende valorizar profissionais e reverter retrocessos nas carreiras; critica "arrocho salarial". Não cita índice de reajuste. Fonte: Plano p.5, p.7 (item 4) e p.7-8 (item 9)
+- REJANE DE OLIVEIRA (16, PSTU): A favor. Propõe duplicar o salário dos servidores, rumo ao salário mínimo do DIEESE, e anular perdas de carreira e previdência. Fonte: Plano p.7-8
+- ZUCCO (22, PL): Neutro ou ambíguo. Fala em melhorar condições salariais de professores, sem detalhar; plano prevê meritocracia e incentivos variáveis sujeitos à disponibilidade fiscal. Fonte: Plano p.82-84 | https://www.gaz.com.br/video-zucco-questiona-metodo-aplicado-na-educacao-confira-a-entrevista-completa/
+
+## Ampliar escolas cívico-militares
+Escolas com gestão disciplinar feita por militares.
+
+- CESAR PONTES (29, PCO): Tende contra. Não cita escolas cívico-militares; defende o fim da "ditadura nas escolas" e gestão eleita pela comunidade escolar. Fonte: Plano p.5 (programa nacional do PCO)
+- GABRIEL SOUZA (15, MDB): Sem informação
+- JULIANA BRIZOLA (12, PDT): Tende contra. Votou a favor do modelo como deputada e disse ter se arrependido; em debate, discordou do modelo defendido por Zucco e defendeu escola laica e de tempo integral. Fonte: https://horadopovo.com.br/juliana-brizola-defende-escola-de-tempo-integral-e-acoes-diretas-contra-feminicidio-no-rs/ | https://vermelho.org.br/2026/09/30/juliana-brizola-critica-falta-de-acoes-contra-enchentes-e-defende-avancos-na-educacao/
+- MARCELO MARANATA (45, PSDB): Sem informação
+- PRISCILA VOIGT (80, UP): Contra. "Não permitir a militarização das escolas". Fonte: Plano p.7 (item 4)
+- REJANE DE OLIVEIRA (16, PSTU): Contra. Defende o "fim imediato da militarização das escolas". Fonte: Plano p.8 e p.54
+- ZUCCO (22, PL): A favor. Propõe ampliar as escolas cívico-militares e os Colégios Tiradentes; defendeu o modelo em debate: "Não vou misturar ideologia com resultado". Fonte: Plano p.29-30 | https://www.cnnbrasil.com.br/eleicoes/debate-ao-governo-do-rs-tem-propostas-para-enchentes-e-escolas-militares/
+
+## Flexibilizar o licenciamento ambiental para acelerar obras e investimentos
+Regras e prazos mais simples para aprovar empreendimentos.
+
+- CESAR PONTES (29, PCO): Sem informação
+- GABRIEL SOUZA (15, MDB): Tende a favor. Propõe mutirões para destravar licenças, simplificar licenciamentos e avaliar redução de custos; diz não comprometer padrões ambientais. Fonte: Plano p.11, 41, 58, 60
+- JULIANA BRIZOLA (12, PDT): Tende contra. Propõe recompor e fortalecer a fiscalização da Sema e da Fepam e regras rigorosas para mineração; prevê simplificar a regularização ambiental rural. Fonte: Plano p.25-27, 30
+- MARCELO MARANATA (45, PSDB): Tende a favor. Propõe licenciamento automático ou declaratório para baixo risco e prazos máximos, "sem reduzir exigências" para atividades de maior impacto. Fonte: Plano p.11 e p.67
+- PRISCILA VOIGT (80, UP): Contra. Critica o corte de mais de 400 pontos do código ambiental e o autolicenciamento, que associa às enchentes de 2024. Fonte: Plano p.2-3
+- REJANE DE OLIVEIRA (16, PSTU): Contra. Quer reverter o Código Ambiental de 2020, que simplificou o licenciamento, e proibir novas celuloses e empreendimentos de carvão. Fonte: Plano p.8, p.35-36 e p.42
+- ZUCCO (22, PL): A favor. Votou a favor da lei geral do licenciamento (PL 2159/2021) na Câmara em 2025; plano propõe rito simplificado ou dispensa para baixo risco. Fonte: https://www.extraclasse.org.br/ambiente/2025/07/como-os-deputados-votaram-na-aprovacao-do-pl-da-devastacao/ | Plano p.42, 95
+
+## Auditar ou contestar a dívida do RS com a União
+Em vez de seguir pagando nos termos atuais (renegociados via Propag).
+
+- CESAR PONTES (29, PCO): Tende a favor. Defende cancelar dívidas interna e externa "com os bancos e grandes credores" e acabar com a LRF; não trata da dívida do RS com a União. Fonte: Plano p.4 e p.6 (programa nacional do PCO)
+- GABRIEL SOUZA (15, MDB): Neutro ou ambíguo. Defende aderir ao Propag (tirar juros e manter correção) e prorrogar a suspensão; critica "juros sobre juros", mas descarta perdão e não propõe auditoria. Vê o RRF como acerto. Fonte: Plano p.8-9 | https://www.terra.com.br/noticias/brasil/politica/rs-gabriel-souza-quer-aderir-ao-propag-e-prorrogar-suspensao-da-divida-de-r-100-bi-com-uniao,71b8c4f3b4784a50c8c052d4f98a340eu6f4tlc2.html
+- JULIANA BRIZOLA (12, PDT): Tende a favor. Propõe trocar o RRF pelo Propag, negociar redução dos encargos e prorrogar a suspensão por três anos; critica o RRF. Não fala em auditoria. Fonte: Plano p.34, 36 | https://horadopovo.com.br/juliana-brizola-defende-escola-de-tempo-integral-e-acoes-diretas-contra-feminicidio-no-rs/
+- MARCELO MARANATA (45, PSDB): Tende a favor. Quer revisar a formação da dívida, juros e indexadores e negociar com a União; prometeu lutar pela "anistia ou repactuação". Fonte: Plano p.5 e p.16 | https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/
+- PRISCILA VOIGT (80, UP): A favor. Auditoria e suspensão da dívida pública do estado. Fonte: Plano p.8 (item 12)
+- REJANE DE OLIVEIRA (16, PSTU): A favor. "Nem RRF, nem Propag": cancelamento da dívida com a União e auditoria integral com participação social. Fonte: Plano p.8 e p.24
+- ZUCCO (22, PL): Tende a favor. Chama os contratos de ruins e criticou o governo Leite por abrir mão de contestar os indexadores na Justiça; defende o Propag e repactuação com a União. Não propõe auditoria. Fonte: https://www.jornaldocomercio.com/politica/2025/11/1224887-renegociacao-da-divida-exigira-afinidade-entre-governo-gaucho-e-brasilia-diz-zucco.html | Plano p.3, 77, 93
+
+## Policiamento ostensivo e mais presídios como principal estratégia de segurança
+Em vez de priorizar prevenção social e inteligência.
+
+- CESAR PONTES (29, PCO): Contra. Defende a dissolução da polícia militar e do aparato repressivo. Fonte: Plano p.5 (programa nacional do PCO)
+- GABRIEL SOUZA (15, MDB): Neutro ou ambíguo. Prioriza governança do RS Seguro, inteligência, tecnologia e policiamento de proximidade; também prevê mais vagas prisionais. Fonte: Plano p.20-23
+- JULIANA BRIZOLA (12, PDT): Tende contra. Diz que atuação "predominantemente ostensiva" é insuficiente; prioriza inteligência, asfixia financeira de facções, controle de presídios e prevenção social. Fonte: Plano p.8 | https://pdt.org.br/index.php/juliana-brizola-lanca-programa-rs-contra-o-crime-organizado/
+- MARCELO MARANATA (45, PSDB): Tende contra. Baseia a segurança em integração, inteligência e prevenção; não propõe ampliar vagas prisionais nem prioriza policiamento ostensivo. Fonte: Plano p.60-62
+- PRISCILA VOIGT (80, UP): Contra. Desmilitarização da Brigada Militar e proibição de operações militares em vilas e favelas. Fonte: Plano p.7 (item 7)
+- REJANE DE OLIVEIRA (16, PSTU): Contra. Defende fim do encarceramento em massa, desmilitarização da Brigada e polícia unificada sob controle comunitário. Fonte: Plano p.60
+- ZUCCO (22, PL): Tende a favor. Prioriza atacar facções com inteligência, investigação e descapitalização. Também prevê recompor efetivos e equipamentos, reduzir vazios de policiamento, retomar o controle dos presídios e isolar líderes de facções. Fala em "tolerância zero" ao crime organizado. Fonte: Plano p.7-11 | https://radioprogresso.com.br/zucco-fala-na-radio-progresso-sobre-economia-seguranca-saude-e-infraestrutura-no-rs/

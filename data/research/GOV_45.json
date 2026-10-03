@@ -1,0 +1,119 @@
+{
+  "id": "GOV_45",
+  "nome_urna": "MARCELO MARANATA",
+  "resumo": "Candidatura do PSDB (Federação PSDB-Cidadania), com vice Claudio Diaz (PSDB). O plano tem três eixos: eficiência da máquina pública, desenvolvimento econômico e desenvolvimento social com resiliência climática. Prioriza proteção contra cheias, renegociação da dívida com a União, Banrisul como banco de fomento e regionalização da saúde.",
+  "trajetoria": "Advogado e comerciante, ex-presidente do Sindilojas e da Granpal. Prefeito de Guaíba eleito em 2020 (então no PDT) e reeleito em 2024; renunciou em abril de 2026 para disputar o governo. Filiou-se ao PSDB em setembro de 2025.",
+  "destaques": [
+    "Proteção contra cheias como \"prioridade absoluta\": recuperar diques, comportas e casas de bombas e criar autoridade técnica de resiliência metropolitana.",
+    "Negociação \"firme e tecnicamente fundamentada\" da dívida com a União, revisando a formação do estoque, juros e indexadores.",
+    "Banrisul modernizado, com crédito simplificado a pequenas empresas, fundo garantidor e crédito emergencial para atingidos por eventos climáticos.",
+    "Rede estadual de saúde em sete polos regionais e central única de filas do SUS, com aplicação mínima de 12% da receita.",
+    "Meta de criar 2 mil escolas empreendedoras e programa Férias na Escola.",
+    "Combate ao feminicídio no centro da segurança, com metas públicas de redução e foco em inteligência.",
+    "Revisão da estrutura administrativa, corte de cargos de confiança e nova secretaria de transparência e integridade."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "\"Programa agressivo de simplificação regulatória\" e porta única digital para abrir empresas (p.11-12).",
+      "Secretaria de Desenvolvimento da Zona Sul e plano de diversificação da Metade Sul (p.11, p.27).",
+      "Atrair frigoríficos e agroindústrias; apoiar etanol de grãos, biogás e eólica offshore (p.11).",
+      "Programa estadual de irrigação por bacias e fundo garantidor para pequenos negócios (p.31, p.37)."
+    ],
+    "Saúde": [
+      "Organizar a rede em sete polos regionais com centros de especialidades (p.7).",
+      "Central estadual única e auditável das filas do SUS, com metas anuais e divulgação mensal (p.7).",
+      "Aplicar no mínimo 12% da receita em saúde, tratado como piso (p.57).",
+      "Liderar articulação nacional pela revisão da tabela SUS (p.7)."
+    ],
+    "Educação": [
+      "Criar 2 mil escolas empreendedoras e o programa Férias na Escola (p.6).",
+      "Metas: alfabetizar ao menos 90% das crianças até o 2º ano e reduzir o abandono no ensino médio para menos de 2% (p.54).",
+      "Concursos periódicos e redução gradual de contratos temporários de professores (p.52).",
+      "Mapear riscos estruturais e climáticos de todas as escolas no primeiro ano (Escolas Resilientes) (p.52, p.54)."
+    ],
+    "Segurança": [
+      "Combate ao feminicídio como prioridade, com ampliação da Patrulha Maria da Penha e do Monitoramento do Agressor (p.8, p.61-63).",
+      "Força estadual permanente de inteligência cibernética contra fraudes e lavagem de dinheiro (p.7).",
+      "Investigação patrimonial e financeira de organizações criminosas (p.8, p.63).",
+      "Qualificar a gestão prisional, com trabalho e educação para presos (p.62)."
+    ],
+    "Meio ambiente e clima": [
+      "Atualizar projetos das cinco bacias da proteção metropolitana e recuperar diques, comportas e drenagem (p.10, p.65).",
+      "Monitoramento hidrológico moderno e alertas multicanal; planos de contingência para hospitais, escolas e abrigos (p.11, p.66).",
+      "Tornar o Plano Rio Grande política permanente e criar fundo permanente de prevenção e resposta (p.64-65).",
+      "Plano estadual permanente de segurança hídrica contra secas (p.11)."
+    ],
+    "Social e direitos": [
+      "Política estadual para pessoas em situação de rua, com equipes multidisciplinares e moradia assistida (p.73-74).",
+      "Proibir publicidade de apostas em espaços e eventos estaduais e ampliar núcleos de atendimento a superendividados (p.8-9).",
+      "Plano estadual de habitação com cadastro único e reassentamento de famílias em áreas de alto risco (p.70).",
+      "Ampliar o Primeira Infância Melhor (PIM) e criar rede de cuidados de longa duração para idosos (p.73, p.77)."
+    ],
+    "Infraestrutura e cidades": [
+      "Reformular concessões rodoviárias, com recursos públicos para duplicações e tarifas \"socialmente suportáveis\" (p.11, p.42).",
+      "Revitalizar hidrovias e avaliar o Porto de Arroio do Sal (p.11).",
+      "Priorizar a Ponte dos Vales e os acessos ao futuro aeroporto de Vila Oliva (p.11).",
+      "Fortalecer a Metroplan, revertendo sua extinção (p.11)."
+    ],
+    "Gestão e Estado": [
+      "Revisão completa da estrutura administrativa e redução de cargos políticos (p.9).",
+      "Secretaria de Transparência Pública, Integridade e Governança de Dados (p.9, p.22).",
+      "Recriar instituição de estatística inspirada na antiga FEE (p.9, p.25).",
+      "Auditoria das contas e de obras paralisadas nos primeiros 100 dias (p.86)."
+    ]
+  },
+  "posicoes": {
+    "banrisul": {
+      "v": -1,
+      "nota": "Propõe modernizar o Banrisul como banco de fomento \"com finalidade social\"; não fala em venda.",
+      "fonte": "Plano p.10 e p.33 | https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/ | https://www.cnnbrasil.com.br/eleicoes/quem-e-marcelo-maranata-candidato-ao-governo-do-rio-grande-do-sul/"
+    },
+    "concessoes": {
+      "v": 1,
+      "nota": "Defende carteira de PPPs e concessões quando houver vantagem pública, com reformulação das concessões rodoviárias e \"gestão mista dos pedágios\".",
+      "fonte": "Plano p.11, p.42 e p.45 | https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/"
+    },
+    "icms": {
+      "v": 1,
+      "nota": "Defendeu reduzir a tributação em debates de 2026; o plano não trata do ICMS e só propõe isentar de IPVA veículos híbridos e elétricos.",
+      "fonte": "Plano p.12 | https://www.jornaldocomercio.com/politica/2026/03/1241385-em-debate-pre-candidatos-a-governador-do-rs-prometem-nao-aumentar-impostos.html | https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/"
+    },
+    "incentivos": {
+      "v": 0,
+      "nota": "Propõe revisão permanente e avaliação de impacto dos incentivos tributários, mas também atração de investimentos e isenção de IPVA para elétricos.",
+      "fonte": "Plano p.12, p.16 e p.27"
+    },
+    "servidores": {
+      "v": 0,
+      "nota": "Fala em valorizar servidores, reestruturar carreiras e reduzir contratos temporários; não promete reajuste salarial.",
+      "fonte": "Plano p.20 e p.52"
+    },
+    "civico_militar": null,
+    "licenciamento": {
+      "v": 1,
+      "nota": "Propõe licenciamento automático ou declaratório para baixo risco e prazos máximos, \"sem reduzir exigências\" para atividades de maior impacto.",
+      "fonte": "Plano p.11 e p.67"
+    },
+    "divida_uniao": {
+      "v": 1,
+      "nota": "Quer revisar a formação da dívida, juros e indexadores e negociar com a União; prometeu lutar pela \"anistia ou repactuação\".",
+      "fonte": "Plano p.5 e p.16 | https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/"
+    },
+    "seguranca_dura": {
+      "v": -1,
+      "nota": "Baseia a segurança em integração, inteligência e prevenção; não propõe ampliar vagas prisionais nem prioriza policiamento ostensivo.",
+      "fonte": "Plano p.60-62"
+    }
+  },
+  "detalhamento": {
+    "nota": 3,
+    "justificativa": "Muitas ações concretas e algumas metas quantificadas (alfabetização, abandono escolar, 2 mil escolas), mas a maioria das propostas não tem prazos, custos ou fontes definidos."
+  },
+  "fontes": [
+    "https://www.cnnbrasil.com.br/eleicoes/quem-e-marcelo-maranata-candidato-ao-governo-do-rio-grande-do-sul/",
+    "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-marcelo-maranata-pre-candidato-ao-governo-do-rs/",
+    "https://www.jornaldocomercio.com/politica/2026/03/1241385-em-debate-pre-candidatos-a-governador-do-rs-prometem-nao-aumentar-impostos.html",
+    "https://federasul.com.br/maranata-e-o-primeiro-pre-candidato-ao-governo-no-ta-na-mesa/",
+    "https://www.band.com.br/politica/eleicoes/2026/debate-ao-governo-do-rs-e-dominado-por-enchentes-seguranca-e-economia-202608100028"
+  ]
+}

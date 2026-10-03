@@ -1,0 +1,110 @@
+{
+  "id": "SEN_808",
+  "nome_urna": "TANIA PERES",
+  "resumo": "Servidora pública federal, candidata da Unidade Popular (UP). Não foram localizadas propostas próprias; as posições abaixo vêm do programa nacional da UP, que defende socialismo, reestatizações e fim da escala 6x1.",
+  "trajetoria": "Servidora pública federal (técnica de laboratório), nascida no Rio de Janeiro (1965). Sem cargos eletivos anteriores registrados.",
+  "destaques": [
+    "Fim imediato da escala 6x1, com escala 4x3 (programa da UP).",
+    "Aumento de 100% do salário mínimo (programa da UP).",
+    "Imposto sobre grandes fortunas, lucros, dividendos e heranças (programa da UP).",
+    "Reestatização de estatais privatizadas (programa da UP).",
+    "Descriminalização e legalização do aborto (programa da UP)."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Fim imediato da escala 6x1 e escala 4x3 (programa da UP).",
+      "Aumento de 100% do salário mínimo (programa da UP).",
+      "Imposto sobre grandes fortunas e progressivo; reestatização das estatais privatizadas (programa da UP).",
+      "Fim do arcabouço fiscal (programa da UP)."
+    ],
+    "Saúde": [],
+    "Educação": [
+      "Anistia das dívidas do Fies (programa da UP)."
+    ],
+    "Segurança": [
+      "Contra a redução da maioridade penal e o encarceramento em massa (programa da UP)."
+    ],
+    "Meio ambiente e clima": [
+      "Banir agrotóxicos proibidos no exterior e transição agroecológica (programa da UP)."
+    ],
+    "Social e direitos": [
+      "Descriminalização e legalização do aborto (programa da UP).",
+      "Ampliar o BPC e reajustar benefícios assistenciais (programa da UP)."
+    ],
+    "Infraestrutura e cidades": [
+      "Tarifa zero no transporte coletivo e reestatização de trens e metrôs (programa da UP)."
+    ],
+    "Gestão e Estado": [
+      "Conselhos populares com poder orçamentário e eleição de juízes (programa da UP)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": -2,
+      "nota": "Posição do partido: contra privatizações; defende reestatizar Petrobras, Eletrobras, Vale, ferrovias, saneamento e telecomunicações e rever concessões de portos, aeroportos e estradas.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.58, 60 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "impostos_ricos": {
+      "v": 2,
+      "nota": "Posição do partido: defende imposto progressivo sobre grandes fortunas, lucros, dividendos e heranças, com isenção de IR para trabalhadores.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.16-17 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "ajuste_fiscal": {
+      "v": -2,
+      "nota": "Posição do partido: defende o fim do arcabouço fiscal e a suspensão do pagamento da dívida; a presidenciável da UP, Samara Martins, disse: \"Somos terminantemente contrários aos cortes\".",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.9, 14-15 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "programas_sociais": {
+      "v": 2,
+      "nota": "Posição do partido: defende os programas de transferência de renda e critica a 'ofensiva' contra o Bolsa Família; plano propõe ampliar o BPC e reajustar benefícios assistenciais.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.9, 34 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "escala_6x1": {
+      "v": 2,
+      "nota": "Posição do partido: fim imediato da escala 6x1 e jornada de 30 horas semanais sem redução salarial.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.9-10"
+    },
+    "armas": {
+      "v": -1,
+      "nota": "Posição do partido: plano defende 'forte fiscalização e controle das armas e munições' sob controle do governo; não trata de posse ou porte por cidadãos.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.48"
+    },
+    "penas": {
+      "v": -2,
+      "nota": "Posição do partido: contra a redução da maioridade penal; defende enfrentar o encarceramento em massa e trocar presídios por unidades de reeducação. Propõe criminalizar a misoginia.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.28, 30, 49-50"
+    },
+    "aborto": {
+      "v": 2,
+      "nota": "Posição do partido: defende a descriminalização e a legalização do aborto, como questão de saúde pública.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.28"
+    },
+    "anistia_8j": {
+      "v": -2,
+      "nota": "Posição do partido: contra anistia a golpistas, financiadores e agentes do Estado envolvidos em tentativas de golpe; critica o PL da Anistia.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.54"
+    },
+    "stf": {
+      "v": 0,
+      "nota": "Posição do partido: propõe eleição direta para juízes, inclusive do STF, no lugar da indicação presidencial; não propõe limitar decisões ou poderes da Corte.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.49 | https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf"
+    },
+    "ambiente": {
+      "v": 2,
+      "nota": "Posição do partido: defende proibir destruição de florestas, banir agrotóxicos proibidos no exterior e desapropriar grandes terras do agronegócio, com transição agroecológica.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.44, 61-63"
+    },
+    "redes": {
+      "v": 1,
+      "nota": "Posição do partido: defende o fim do monopólio estrangeiro sobre redes digitais e combate à concentração das grandes plataformas; não detalha responsabilização por conteúdo.",
+      "fonte": "programa do partido: Plano UP/TSE (Samara) p.38, 40"
+    }
+  },
+  "detalhamento": null,
+  "fontes": [
+    "Plano de governo UP/Samara (TSE) — prop_br/BR/2026BR280002538811_01.pdf",
+    "https://www.anfip.org.br/wp-content/uploads/2026/09/Correio-Braziliense-edicao-de-9-9-2026.pdf",
+    "https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul",
+    "https://www.instagram.com/taninha_peres"
+  ]
+}

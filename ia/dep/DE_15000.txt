@@ -1,0 +1,35 @@
+# LUCIANO SILVEIRA (15000, MDB): histórico parlamentar
+
+Candidato(a) a deputado estadual pelo Rio Grande do Sul em 2026. Nome civil: LUCIANO DA SILVA SILVEIRA. Fonte: dados abertos oficiais das casas legislativas, reunidos pelo guia Meu voto 2026 (https://meu-voto-2026-bs0.pages.dev).
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor. Apresentar um projeto não significa que ele foi aprovado, e integrar uma frente parlamentar não significa ter votado sobre o tema.
+
+## Atuação na Assembleia Legislativa do RS (coletado em 2026-10-03)
+Comissões: Comissão de Agricultura, Pecuária, Pesca e Cooperativismo; Comissão de Constituição e Justiça.
+
+Frentes parlamentares que preside:
+- Frente Parlamentar em Defesa do Desenvolvimento do Litoral Norte
+- Frente Parlamentar para o Fortalecimento da Energia Eólica no Rio Grande do Sul
+
+Projetos apresentados como primeiro signatário (21 no total):
+- PL 286/2026: Denomina “Ponte da Integração Elio Eugenio Müller” a ponte localizada sobre o Rio Três Forquilhas, no km 9 da ERS-417, entre os Municípios de Itati e Três Forquilhas. (Tramitação Conclusiva CSSP) https://ww4.al.rs.gov.br/proposicao/PL/286/2026/1a508e11-761a-11f1-b55e-3e36a417eaad
+- PLC 255/2026: Institui o Programa de Desenvolvimento Regional "Litoral de Quatro Estações", cria o Distrito Turístico do Litoral Gaúcho e estabelece diretrizes para a infraestrutura, incentivos e parcerias público-privadas, nos termos da Constituição Est… https://ww4.al.rs.gov.br/proposicao/PLC/255/2026/d628b9b2-6e78-11f1-a3ef-deba46ea2168
+- PL 246/2026: Altera a Lei n.º 16.363, de 14 de outubro de 2025, que institui o Programa Passe Fácil Estudantil e cria o Fundo Estadual do Passe Fácil Estudantil. https://ww4.al.rs.gov.br/proposicao/PL/246/2026/6918a24e-6be9-11f1-a3ef-deba46ea2168
+- PL 210/2026: Dispõe sobre a anulação de encargos financeiros de débitos pretéritos e a prorrogação de prazo para pagamento das obrigações relativas ao Instituto Rio Grandense do Arroz – IRGA, alterando a Lei nº 12.596/2006 e a Lei nº 15.279/2019, e dá o… https://ww4.al.rs.gov.br/proposicao/PL/210/2026/6b48760d-6409-11f1-b8a7-ae5c61debffa
+- PL 60/2026: Inclui a Festa Nacional do Boi Recheado, do Município de Viadutos, e altera a Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial de Eventos e D… https://ww4.al.rs.gov.br/proposicao/PL/60/2026/c2c83a65-10d0-11f1-9186-8e763d41cf4c
+- PL 14/2026: Inclui a Rinconada de Jaguarão e a Semana Municipal do Tradicionalismo Gaúcho de Jaguarão na Lei n.º 15.950, de 9 de janeiro de 2023, que consolida a legislação estadual relativa a eventos e datas estaduais, instituindo o Calendário Oficial… https://ww4.al.rs.gov.br/proposicao/PL/14/2026/658fbc6d-01d0-11f1-bb5d-da08d5ee8534
+- PL 375/2025: Institui o Selo 'Produto Gaúcho', no âmbito do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/375/2025/f8bf0bc7-9b0f-11f0-b541-0242ac170004
+- PL 249/2025: Declara o javali-europeu (Sus scrofa) e seus híbridos como espécie nociva ao meio ambiente, à saúde pública, à pecuária e à agricultura, reconhecendo-o como praga de peculiar interesse do Estado do Rio Grande do Sul, e estabelece diretrizes… https://ww4.al.rs.gov.br/proposicao/PL/249/2025/df742d87-5684-11f0-8ebc-0242ac130005
+- PL 245/2025: Dispõe sobre a organização, identificação e remoção de fiação aérea excedente, inativa ou irregular, por empresas prestadoras de serviços de telefonia, internet e TV por assinatura no Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/245/2025/d59aef6d-5382-11f0-8ebc-0242ac130005
+- PL 173/2025: Dispõe sobre a contratação de serviços de internet via satélite para escolas públicas estaduais do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/173/2025/6e4f056b-363e-11f0-8ebc-0242ac130005
+- PL 157/2025: Reconhece a Folia do Divino Espírito Santo como de relevante interesse cultural imaterial do Estado do Rio Grande do Sul.(Tramitação Conclusiva CECDCT) https://ww4.al.rs.gov.br/proposicao/PL/157/2025/6b178930-301b-11f0-8ebc-0242ac130005
+- PL 132/2025: Altera a Lei n.º 14.834, de 5 de janeiro de 2016, que institui o Plano Diretor do Sistema Estadual de Transporte Público Intermunicipal de Passageiros de Longo Curso. https://ww4.al.rs.gov.br/proposicao/PL/132/2025/ee00a05c-213f-11f0-8ebc-0242ac130005
+- PL 113/2025: Dispõe sobre a criação de Canal do aplicativo de “WhatsApp” para atendimento dos serviços de emergência nos Municípios do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/113/2025/35cded4f-13bd-11f0-8ebc-0242ac130005
+- PL 79/2025: Altera a Lei n.º 14.683, de 22 de janeiro de 2015, que dispõe sobre a divulgação de informações sobre pessoas desaparecidas pelos Poderes do Estado do Rio Grande do Sul e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/79/2025/d390ad87-003b-11f0-8c88-0242ac170003
+- PL 24/2025: Denomina como 'AM Alencar Biazotto' o trecho de acesso ao município de Vila Lângaro da rodovia AM 9010. (Tramitação Conclusiva CSSP) https://ww4.al.rs.gov.br/proposicao/PL/24/2025/b7e8932e-e558-11ef-9ac3-0242ac1d0005
+- PL 382/2024: Proíbe o uso de celulares e outros dispositivos eletrônicos pelos alunos nas unidades escolares da rede de ensino pública e privada do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/382/2024/f17ac969-a5ee-11ef-bbfe-0242ac170004
+- PL 230/2024: Institui o Programa Escola Amiga do Agro na rede de educação básica do Estado do Rio Grande do Sul. https://ww4.al.rs.gov.br/proposicao/PL/230/2024/1319562e-3ef2-11ef-813d-0242ac170004
+- PL 152/2024: Institui o Selo “Produto Gaúcho”, no âmbito do Estado do Rio Grande do Sul, e dá outras providências. https://ww4.al.rs.gov.br/proposicao/PL/152/2024/5883fd0b-19fd-11ef-a33c-0242ac170004
+- PL 40/2024: Declara o município de Sério como a “Terra da Pitaya” no Estado do Rio Grande do Sul. (Tramitação Conclusiva CAM) https://ww4.al.rs.gov.br/proposicao/PL/40/2024/009163f5-dbd1-11ee-b733-0242ac170004
+- PL 525/2023: Institui o roteiro turístico “Rota das Bananas” no Estado do Rio Grande do Sul, e dá outras providências. (SEI 16457-0100/23-5) (Tramitação Conclusiva CEDST) https://ww4.al.rs.gov.br/proposicao/PL/525/2023/9b1ebd2b-8df9-11ee-92b3-0242c0a8a007
+- PL 347/2023: Declara a Tafona da Canção Nativa, integrante do patrimônio cultural do Estado do Rio Grande do Sul. (SEI 10935-0100/23-3) https://ww4.al.rs.gov.br/proposicao/PL/347/2023/1594b901-5f04-11ee-9cfe-0242c0a8a005

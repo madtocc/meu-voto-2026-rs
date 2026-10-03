@@ -1,0 +1,132 @@
+{
+  "id": "PRES_35",
+  "nome_urna": "VETERINÁRIO WILSON GRASSI",
+  "resumo": "Plano 'Brasil em Primeiro Lugar' centrado em trocar tributos federais sobre folha e produção por um Imposto Único Federal sobre movimentação financeira, com isenção de IR até 5 salários mínimos. Soma segurança voltada a isolar chefes de facção e cortar o dinheiro do crime, 'Saúde Única' e proteção animal. Vice: Suêd Haidar, presidente do Democrata.",
+  "trajetoria": "Médico veterinário e empresário em São Paulo. Disputou, sem se eleger, vagas de deputado estadual (2006, PFL), deputado federal (2022, PV) e vereador de São Paulo (2024, PRTB).",
+  "destaques": [
+    "Imposto Único Federal sobre movimentação financeira (parâmetro de 2% no débito e 2% no crédito) no lugar de contribuição patronal sobre a folha, Cofins, CSLL, IOF, IPI e outros.",
+    "Isenção do IR para quem ganha até 5 salários mínimos (R$ 8.105 em 2026), com o limite atrelado ao mínimo.",
+    "Fim da contribuição patronal sobre a folha; IR das empresas cai de 34% para 25% com o fim da CSLL.",
+    "Plebiscito sobre presídio de segurança máxima inspirado em El Salvador, sem suspensão de garantias individuais.",
+    "Portabilidade do aluguel: quem comprova aluguel tem financiamento com parcela equivalente, em imóvel de livre escolha.",
+    "PEC da Pesquisa: pesquisador que cumprir requisitos deixa de ser bolsista e vira servidor público.",
+    "Apoio à PEC que fixa 2% do PIB para a defesa e soldo mínimo não inferior ao salário mínimo."
+  ],
+  "propostas": {
+    "Economia e emprego": [
+      "Imposto Único Federal com alíquota final definida por estudo de impacto, devolução na exportação e suspensão automática se a arrecadação frustrar (p.8-15).",
+      "Isenção do IRPF até 5 salários mínimos, com custo estimado de R$ 266 bi por ano coberto pelo novo tributo (p.9-13).",
+      "Desoneração total da folha e envio único de obrigações trabalhistas; deferimento automático se o governo não responder no prazo (p.19-20).",
+      "Restrições ao dinheiro em espécie (teto para pagamento, retirada de cédulas altas, taxa maior no saque) para evitar fuga do novo tributo (p.14-15)."
+    ],
+    "Saúde": [
+      "Fila nacional única e pública por procedimento, com posição consultável pelo paciente, no 1º ano (p.34-35).",
+      "Mutirões de diagnóstico e cirurgia pagos por resultado; expandir a Saúde da Família com meta por município (p.34).",
+      "Saúde Única: vigilância de zoonoses, vacinação antirrábica e veterinário nas equipes municipais de vigilância (p.26-27).",
+      "Atendimento veterinário público para famílias de baixa renda (p.27)."
+    ],
+    "Educação": [
+      "Apoio federal à alfabetização condicionado a resultado em avaliação externa, com dados por escola publicados (p.36).",
+      "Ampliar a rede federal de educação profissional conforme a demanda de emprego da região (p.36).",
+      "PEC da Pesquisa: carreira federal de pesquisador no lugar de bolsas, implantada por etapas (p.36-37).",
+      "Educação física com professor formado e Bolsa Atleta com inscrição direta, sem intermediação de federações (p.38-39)."
+    ],
+    "Segurança": [
+      "Isolar chefes de facção em presídios federais de segurança máxima, com bloqueio de celular e rodízio de presos (p.21).",
+      "Asfixia financeira: integração entre Coaf, Receita, PF e MP e uso de bens apreendidos (p.21-22).",
+      "Escaneamento de contêineres nos portos e Forças Armadas permanentes na faixa de fronteira (p.22, p.50).",
+      "Cadastro nacional de infratores por maus-tratos a animais no 1º ano, usado como alerta de violência doméstica (p.23)."
+    ],
+    "Meio ambiente e clima": [
+      "Combater o desmatamento ilegal com rastreabilidade e responsabilização patrimonial (p.47).",
+      "Licenciamento ambiental com prazo definido e responsável nomeado em painel público (p.47).",
+      "Projeto para regulamentar mineração em terra indígena com consentimento da comunidade, participação nos resultados e proibição de mercúrio (p.47-48).",
+      "Antecipar a rastreabilidade individual do gado nos corredores de exportação (p.32)."
+    ],
+    "Social e direitos": [
+      "Proteção animal: cobrança efetiva de multas por maus-tratos, delegacias especializadas e cadastro obrigatório progressivo de cães e gatos (p.27-30).",
+      "Programas para jovens em áreas de alta criminalidade, com avaliação de impacto externa (p.23)."
+    ],
+    "Infraestrutura e cidades": [
+      "Portabilidade do aluguel para financiamento habitacional, com FGTS, poupança e garantia pública parcial (p.41-42).",
+      "Titulação em massa em áreas consolidadas e prioridade a áreas urbanas já com infraestrutura (p.42).",
+      "Programa Brasil nos Trilhos: corredores ferroviários de carga e ferrovias privadas por autorização (p.46).",
+      "Cobrar a meta de universalização do saneamento, prestador por prestador (p.46)."
+    ],
+    "Gestão e Estado": [
+      "Painel público com metas, prazos e responsável por cada meta nos primeiros 30 dias (p.54, p.58).",
+      "Punição funcional para servidores e dirigentes que descumprirem prazos legais (p.19-20, p.44).",
+      "Defesa: piso de 2% do PIB (PEC 55/2023) e recomposição do soldo concentrada na base (p.49-50).",
+      "Política externa decidida caso a caso pelo 'interesse brasileiro', com reciprocidade a barreiras comerciais (p.51-52)."
+    ]
+  },
+  "posicoes": {
+    "privatizacoes": {
+      "v": null,
+      "nota": "Plano não trata de venda de estatais; prevê concessões e ferrovias privadas por autorização.",
+      "fonte": null
+    },
+    "impostos_ricos": {
+      "v": -1,
+      "nota": "Não propõe taxar dividendos ou fortunas; amplia a isenção do IR com alívio também para rendas altas e reduz o IR das empresas de 34% para 25%. Mantém o IR progressivo.",
+      "fonte": "Plano p.8-10"
+    },
+    "ajuste_fiscal": {
+      "v": 0,
+      "nota": "Diz crescer 'reduzindo atrito, não expandindo gasto'; reforma tributária com neutralidade de arrecadação e sem corte de despesa; apoia elevar o gasto com defesa a 2% do PIB.",
+      "fonte": "Plano p.7, p.13, p.49"
+    },
+    "programas_sociais": {
+      "v": null,
+      "nota": "Plano não trata do Bolsa Família nem de transferência de renda.",
+      "fonte": null
+    },
+    "escala_6x1": {
+      "v": null,
+      "nota": "Plano foca em desonerar a folha; não trata da jornada de trabalho.",
+      "fonte": null
+    },
+    "armas": {
+      "v": -1,
+      "nota": "Propõe controle rigoroso da cadeia de armas e munições legais, com marcação e auditoria de estoque; afirma que parte das armas do crime começou legal.",
+      "fonte": "Plano p.22"
+    },
+    "penas": {
+      "v": 1,
+      "nota": "Propõe ampliar presídios federais de segurança máxima e o regime disciplinar diferenciado, e plebiscito sobre modelo de prisão inspirado em El Salvador; não propõe mudar penas nem a maioridade penal.",
+      "fonte": "Plano p.21-25"
+    },
+    "aborto": {
+      "v": null,
+      "nota": "Sem posição no plano ou em declarações encontradas.",
+      "fonte": null
+    },
+    "anistia_8j": {
+      "v": null,
+      "nota": "Sem posição no plano ou em declarações encontradas.",
+      "fonte": null
+    },
+    "stf": {
+      "v": null,
+      "nota": "Plano promete 'respeito à decisão judicial' e não propõe mudanças no STF.",
+      "fonte": null
+    },
+    "ambiente": {
+      "v": 0,
+      "nota": "Combate ao desmatamento ilegal e rastreabilidade do gado antecipada por exigência da UE; também licenciamento com prazo definido e projeto para regulamentar mineração em terra indígena, com condições.",
+      "fonte": "Plano p.32, p.46-48"
+    },
+    "redes": {
+      "v": null,
+      "nota": "Sem posição no plano ou em declarações encontradas.",
+      "fonte": null
+    }
+  },
+  "detalhamento": {
+    "nota": 4,
+    "justificativa": "Todos os eixos trazem instrumento jurídico, indicador e prazo, e a reforma tributária vem com conta de impacto; o plano evita metas numéricas de resultado e valores orçamentários por medida."
+  },
+  "fontes": [
+    "https://pt.wikipedia.org/wiki/Wilson_Grassi"
+  ]
+}

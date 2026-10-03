@@ -1,0 +1,337 @@
+# Meu voto 2026: como votaram os deputados federais do RS que concorrem em 2026
+
+Guia de voto das eleições de 4 de outubro de 2026 no Rio Grande do Sul (https://meu-voto-2026-bs0.pages.dev). Dados do TSE atualizados em 02/10/2026 19:30:38. Os resumos e a classificação das posições foram feitos com auxílio de IA a partir de planos de governo e registros públicos, com a fonte em cada item, e podem conter erros.
+
+Para o assistente: responda só com o que está nestes arquivos e cite a fonte indicada em cada item. Quando a informação não estiver aqui, diga isso em vez de completar. Não recomende, não ordene por preferência e não diga em quem votar: a escolha é do eleitor.
+
+Fonte: Câmara dos Deputados, dados abertos. "Ausente" pode incluir licenças curtas; "—" indica que não estava no mandato.
+
+## Arcabouço fiscal (PLP 93/2023) (2023-05-23)
+Texto-base do novo regime fiscal que substituiu o teto de gastos, limitando o crescimento da despesa federal a uma parte do crescimento da receita, com metas de resultado primário. https://www.camara.leg.br/propostas-legislativas/2357053
+
+- AFONSO HAMM (1166, PP): Não
+- AFONSO MOTTA (1200, PDT): Sim
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Sim
+- ANY ORTIZ (1123, PP): Ausente
+- BIBO NUNES (2200, PL): Não
+- BOHN GASS (1320, PT): Sim
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): Sim
+- COVATTI FILHO (1111, PP): Não
+- DAIANA SANTOS (6565, PCDOB): Sim
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Não
+- DANRLEI (5501, PSD): —
+- DENISE PESSÔA (1333, PT): Sim
+- FERNANDA MELCHIONNA (5050, PSOL): Não
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Não
+- HEITOR SCHUCH (5512, PSD): Ausente
+- LUCAS REDECKER (5511, PSD): Não
+- LUCIANO AZEVEDO (5505, PSD): Sim
+- MARCELO MORAES (2214, PL): Não
+- MARCON (1355, PT): Sim
+- MARIA DO ROSARIO (1370, PT): Sim
+- MAURÍCIO MARCON (2277, PL): Não
+- OSMAR TERRA (2215, PL): Não
+- PEDRO WESTPHALEN (1144, PP): Não
+- POMPEO DE MATTOS (1212, PDT): Sim
+- REGINETE BISPO (1378, PT): Sim
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): —
+
+## Reforma tributária (PEC 45/2019, 1º turno) (2023-07-06)
+Texto-base, em 1º turno, da reforma tributária sobre o consumo, que troca PIS, Cofins, IPI, ICMS e ISS por um IVA dual (CBS federal e IBS de estados e municípios) e cria um imposto seletivo. https://www.camara.leg.br/propostas-legislativas/2196833
+
+- AFONSO HAMM (1166, PP): Não
+- AFONSO MOTTA (1200, PDT): Sim
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Sim
+- ANY ORTIZ (1123, PP): Sim
+- BIBO NUNES (2200, PL): Não
+- BOHN GASS (1320, PT): Sim
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): Sim
+- COVATTI FILHO (1111, PP): Sim
+- DAIANA SANTOS (6565, PCDOB): Ausente
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Sim
+- DANRLEI (5501, PSD): —
+- DENISE PESSÔA (1333, PT): Sim
+- FERNANDA MELCHIONNA (5050, PSOL): Abstenção
+- FRAN BAYER (1012, REPUBLICANOS): Ausente
+- GIOVANI CHERINI (2222, PL): Não
+- HEITOR SCHUCH (5512, PSD): Sim
+- LUCAS REDECKER (5511, PSD): Sim
+- LUCIANO AZEVEDO (5505, PSD): Sim
+- MARCELO MORAES (2214, PL): Não
+- MARCON (1355, PT): Sim
+- MARIA DO ROSARIO (1370, PT): Sim
+- MAURÍCIO MARCON (2277, PL): Não
+- OSMAR TERRA (2215, PL): Não
+- PEDRO WESTPHALEN (1144, PP): Não
+- POMPEO DE MATTOS (1212, PDT): Sim
+- REGINETE BISPO (1378, PT): Ausente
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): —
+
+## Aumento do número de deputados (PLP 177/2023) (2025-05-06)
+Projeto que aumenta de 513 para 531 o número de deputados federais, redistribuindo vagas entre os estados com base no Censo 2022 sem reduzir a bancada de nenhum estado. https://www.camara.leg.br/propostas-legislativas/2383019
+
+- AFONSO HAMM (1166, PP): Ausente
+- AFONSO MOTTA (1200, PDT): Sim
+- ALCEU MOREIRA (1500, MDB): Não
+- ALEXANDRE LINDENMEYER (1313, PT): Não
+- ANY ORTIZ (1123, PP): Não
+- BIBO NUNES (2200, PL): Não
+- BOHN GASS (1320, PT): Não
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): —
+- COVATTI FILHO (1111, PP): Sim
+- DAIANA SANTOS (6565, PCDOB): Sim
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Não
+- DANRLEI (5501, PSD): Não
+- DENISE PESSÔA (1333, PT): Não
+- FERNANDA MELCHIONNA (5050, PSOL): Não
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Não
+- HEITOR SCHUCH (5512, PSD): Abstenção
+- LUCAS REDECKER (5511, PSD): Não
+- LUCIANO AZEVEDO (5505, PSD): —
+- MARCELO MORAES (2214, PL): Não
+- MARCON (1355, PT): Não
+- MARIA DO ROSARIO (1370, PT): Não
+- MAURÍCIO MARCON (2277, PL): Não
+- OSMAR TERRA (2215, PL): Não
+- PEDRO WESTPHALEN (1144, PP): Sim
+- POMPEO DE MATTOS (1212, PDT): Não
+- REGINETE BISPO (1378, PT): —
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): Sim
+
+## Lei Geral do Licenciamento Ambiental (PL 2159/2021) (2025-07-16)
+Emendas do Senado (aprovadas em bloco, ressalvados destaques) ao projeto que cria regras nacionais de licenciamento ambiental e amplia modalidades simplificadas, como a licença por adesão e compromisso (LAC). https://www.camara.leg.br/propostas-legislativas/257161
+
+- AFONSO HAMM (1166, PP): Sim
+- AFONSO MOTTA (1200, PDT): Sim
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Não
+- ANY ORTIZ (1123, PP): Sim
+- BIBO NUNES (2200, PL): Sim
+- BOHN GASS (1320, PT): Não
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): —
+- COVATTI FILHO (1111, PP): Sim
+- DAIANA SANTOS (6565, PCDOB): Ausente
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Sim
+- DANRLEI (5501, PSD): Sim
+- DENISE PESSÔA (1333, PT): Não
+- FERNANDA MELCHIONNA (5050, PSOL): Não
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Sim
+- HEITOR SCHUCH (5512, PSD): Ausente
+- LUCAS REDECKER (5511, PSD): Sim
+- LUCIANO AZEVEDO (5505, PSD): —
+- MARCELO MORAES (2214, PL): Sim
+- MARCON (1355, PT): Não
+- MARIA DO ROSARIO (1370, PT): Não
+- MAURÍCIO MARCON (2277, PL): Sim
+- OSMAR TERRA (2215, PL): Sim
+- PEDRO WESTPHALEN (1144, PP): Sim
+- POMPEO DE MATTOS (1212, PDT): Sim
+- REGINETE BISPO (1378, PT): —
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): Sim
+
+## PEC da Blindagem / das Prerrogativas (PEC 3/2021, 1º turno) (2025-09-16)
+Texto-base, em 1º turno, da PEC que exige autorização da Câmara ou do Senado para que o STF processe criminalmente deputados e senadores e estende o foro no STF a presidentes de partidos. https://www.camara.leg.br/propostas-legislativas/2270800
+
+- AFONSO HAMM (1166, PP): Sim
+- AFONSO MOTTA (1200, PDT): Não
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Não
+- ANY ORTIZ (1123, PP): Sim
+- BIBO NUNES (2200, PL): Sim
+- BOHN GASS (1320, PT): Não
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): —
+- COVATTI FILHO (1111, PP): Sim
+- DAIANA SANTOS (6565, PCDOB): Não
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Não
+- DANRLEI (5501, PSD): Sim
+- DENISE PESSÔA (1333, PT): Não
+- FERNANDA MELCHIONNA (5050, PSOL): Não
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Sim
+- HEITOR SCHUCH (5512, PSD): Ausente
+- LUCAS REDECKER (5511, PSD): Não
+- LUCIANO AZEVEDO (5505, PSD): —
+- MARCELO MORAES (2214, PL): Sim
+- MARCON (1355, PT): Não
+- MARIA DO ROSARIO (1370, PT): Não
+- MAURÍCIO MARCON (2277, PL): Sim
+- OSMAR TERRA (2215, PL): Sim
+- PEDRO WESTPHALEN (1144, PP): Sim
+- POMPEO DE MATTOS (1212, PDT): Não
+- REGINETE BISPO (1378, PT): —
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): Sim
+
+## Urgência do PL da Anistia (PL 2162/2023) (2025-09-17)
+Requerimento de urgência para o PL 2162/2023, que propunha anistia a participantes de manifestações políticas a partir de 30/10/2022, incluindo os atos de 8 de janeiro de 2023. https://www.camara.leg.br/propostas-legislativas/2358548
+
+- AFONSO HAMM (1166, PP): Sim
+- AFONSO MOTTA (1200, PDT): Não
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Não
+- ANY ORTIZ (1123, PP): Sim
+- BIBO NUNES (2200, PL): Sim
+- BOHN GASS (1320, PT): Não
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): —
+- COVATTI FILHO (1111, PP): Sim
+- DAIANA SANTOS (6565, PCDOB): Não
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Sim
+- DANRLEI (5501, PSD): Sim
+- DENISE PESSÔA (1333, PT): Não
+- FERNANDA MELCHIONNA (5050, PSOL): Não
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Sim
+- HEITOR SCHUCH (5512, PSD): Não
+- LUCAS REDECKER (5511, PSD): Sim
+- LUCIANO AZEVEDO (5505, PSD): —
+- MARCELO MORAES (2214, PL): Sim
+- MARCON (1355, PT): Não
+- MARIA DO ROSARIO (1370, PT): Não
+- MAURÍCIO MARCON (2277, PL): Sim
+- OSMAR TERRA (2215, PL): Sim
+- PEDRO WESTPHALEN (1144, PP): Sim
+- POMPEO DE MATTOS (1212, PDT): Não
+- REGINETE BISPO (1378, PT): —
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): Sim
+
+## Isenção do IR até R$ 5 mil (PL 1087/2025) (2025-10-01)
+Projeto que isenta do Imposto de Renda quem ganha até R$ 5 mil por mês, reduz o imposto até R$ 7.350 e cria uma tributação mínima para rendas acima de R$ 600 mil por ano. https://www.camara.leg.br/propostas-legislativas/2487436
+
+- AFONSO HAMM (1166, PP): Sim
+- AFONSO MOTTA (1200, PDT): Sim
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Sim
+- ANY ORTIZ (1123, PP): Sim
+- BIBO NUNES (2200, PL): Sim
+- BOHN GASS (1320, PT): Sim
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): —
+- COVATTI FILHO (1111, PP): Sim
+- DAIANA SANTOS (6565, PCDOB): Sim
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Sim
+- DANRLEI (5501, PSD): Sim
+- DENISE PESSÔA (1333, PT): Sim
+- FERNANDA MELCHIONNA (5050, PSOL): Sim
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Sim
+- HEITOR SCHUCH (5512, PSD): Sim
+- LUCAS REDECKER (5511, PSD): Sim
+- LUCIANO AZEVEDO (5505, PSD): —
+- MARCELO MORAES (2214, PL): Sim
+- MARCON (1355, PT): Sim
+- MARIA DO ROSARIO (1370, PT): Sim
+- MAURÍCIO MARCON (2277, PL): Sim
+- OSMAR TERRA (2215, PL): Sim
+- PEDRO WESTPHALEN (1144, PP): Sim
+- POMPEO DE MATTOS (1212, PDT): Sim
+- REGINETE BISPO (1378, PT): —
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): Sim
+
+## PL Antifacção (PL 5582/2025) (2025-11-18)
+Texto-base do substitutivo do relator Guilherme Derrite ao Marco Legal de Combate ao Crime Organizado, que aumenta penas para integrantes de facções e organizações criminosas e altera regras penais e processuais. https://www.camara.leg.br/propostas-legislativas/2579832
+
+- AFONSO HAMM (1166, PP): Sim
+- AFONSO MOTTA (1200, PDT): Sim
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Não
+- ANY ORTIZ (1123, PP): Sim
+- BIBO NUNES (2200, PL): Sim
+- BOHN GASS (1320, PT): Não
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): —
+- COVATTI FILHO (1111, PP): Sim
+- DAIANA SANTOS (6565, PCDOB): Não
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Sim
+- DANRLEI (5501, PSD): Ausente
+- DENISE PESSÔA (1333, PT): Não
+- FERNANDA MELCHIONNA (5050, PSOL): Não
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Sim
+- HEITOR SCHUCH (5512, PSD): Ausente
+- LUCAS REDECKER (5511, PSD): Sim
+- LUCIANO AZEVEDO (5505, PSD): —
+- MARCELO MORAES (2214, PL): Sim
+- MARCON (1355, PT): Não
+- MARIA DO ROSARIO (1370, PT): Não
+- MAURÍCIO MARCON (2277, PL): Sim
+- OSMAR TERRA (2215, PL): Sim
+- PEDRO WESTPHALEN (1144, PP): Sim
+- POMPEO DE MATTOS (1212, PDT): Sim
+- REGINETE BISPO (1378, PT): —
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): Sim
+
+## PL da Dosimetria (substitutivo ao PL 2162/2023) (2025-12-09)
+Texto-base do substitutivo que reduz penas de condenados pelos atos de 8 de janeiro de 2023 e pela tentativa de golpe de Estado, em vez de conceder anistia. https://www.camara.leg.br/propostas-legislativas/2358548
+
+- AFONSO HAMM (1166, PP): Sim
+- AFONSO MOTTA (1200, PDT): Não
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Não
+- ANY ORTIZ (1123, PP): Sim
+- BIBO NUNES (2200, PL): Sim
+- BOHN GASS (1320, PT): Não
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): —
+- COVATTI FILHO (1111, PP): Sim
+- DAIANA SANTOS (6565, PCDOB): Não
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Sim
+- DANRLEI (5501, PSD): Sim
+- DENISE PESSÔA (1333, PT): Não
+- FERNANDA MELCHIONNA (5050, PSOL): Não
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Sim
+- HEITOR SCHUCH (5512, PSD): Não
+- LUCAS REDECKER (5511, PSD): Sim
+- LUCIANO AZEVEDO (5505, PSD): —
+- MARCELO MORAES (2214, PL): Sim
+- MARCON (1355, PT): Não
+- MARIA DO ROSARIO (1370, PT): Não
+- MAURÍCIO MARCON (2277, PL): Sim
+- OSMAR TERRA (2215, PL): Não
+- PEDRO WESTPHALEN (1144, PP): Sim
+- POMPEO DE MATTOS (1212, PDT): Não
+- REGINETE BISPO (1378, PT): —
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): Sim
+
+## Fim da escala 6x1 (PEC 221/2019, 1º turno) (2026-05-27)
+PEC, em 1º turno, que fixa jornada máxima de 40 horas semanais com dois dias de descanso remunerado (fim da escala 6x1), sem redução de salário e com regra de transição. https://www.camara.leg.br/propostas-legislativas/2233802
+
+- AFONSO HAMM (1166, PP): Sim
+- AFONSO MOTTA (1200, PDT): Ausente
+- ALCEU MOREIRA (1500, MDB): Sim
+- ALEXANDRE LINDENMEYER (1313, PT): Sim
+- ANY ORTIZ (1123, PP): Sim
+- BIBO NUNES (2200, PL): Não
+- BOHN GASS (1320, PT): Sim
+- BUSATO (4444, UNIÃO): Sim
+- CARLOS GOMES (1010, REPUBLICANOS): Sim
+- COVATTI FILHO (1111, PP): —
+- DAIANA SANTOS (6565, PCDOB): Sim
+- DANIEL TRZECIAK  DANIEL DA TV (4500, PSDB): Sim
+- DANRLEI (5501, PSD): Sim
+- DENISE PESSÔA (1333, PT): Sim
+- FERNANDA MELCHIONNA (5050, PSOL): Sim
+- FRAN BAYER (1012, REPUBLICANOS): Sim
+- GIOVANI CHERINI (2222, PL): Sim
+- HEITOR SCHUCH (5512, PSD): Sim
+- LUCAS REDECKER (5511, PSD): Não
+- LUCIANO AZEVEDO (5505, PSD): —
+- MARCELO MORAES (2214, PL): Sim
+- MARCON (1355, PT): Sim
+- MARIA DO ROSARIO (1370, PT): Sim
+- MAURÍCIO MARCON (2277, PL): Não
+- OSMAR TERRA (2215, PL): Sim
+- PEDRO WESTPHALEN (1144, PP): Sim
+- POMPEO DE MATTOS (1212, PDT): Sim
+- REGINETE BISPO (1378, PT): —
+- RONALDO NOGUEIRA (1014, REPUBLICANOS): —

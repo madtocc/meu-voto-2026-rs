@@ -862,6 +862,8 @@ function barAf(s, label) {
   if (s.af.tot < 3) return barNA(label, 'responda pelo menos 3 temas deste cargo');
   return barNA(label, s.af.n ? `só ${plural(s.af.n, 'tema', 'temas')} em comum: é pouco para medir` : 'sem posições conhecidas nesses temas');
 }
+/* quantos temas entraram na afinidade: é cobertura dos dados, não o quanto a pessoa concorda com você */
+const cobertura = af => `A afinidade considera ${af.n === af.tot ? `os ${af.tot} temas que você respondeu` : `${af.n} dos ${af.tot} temas que você respondeu, os que têm posição conhecida`}${af.baixa ? ': resultado menos confiável' : ''}.`;
 const linkify = s => String(s ?? '').split(/(https?:\/\/[^\s<>"'|]+)/g).map((part, i) => {
   if (!(i % 2)) return esc(part);
   const m = part.match(/^([\s\S]*?)([.,;:!?)\]]*)$/), u = m[1], rotulo = u.replace(/^https?:\/\/(www\.)?/, '');
@@ -998,7 +1000,7 @@ function renderPerfil() {
 /* ---------- presidente, governador, senado ---------- */
 function card(c, rk, porScore, whys) {
   const r = R[c.id] || {}, s = rk.sc.get(c.id), st = situ(c), chosen = isChosen(c), pos = rk.pos.get(c.id), nome = title(c.urna);
-  const cobertura = s.af.score == null ? '' : `<p class="hint ${s.af.baixa ? 'warn' : ''}">Afinidade comparada em ${s.af.n} de ${plural(s.af.tot, 'tema que você respondeu', 'temas que você respondeu')}${s.af.baixa ? ': resultado menos confiável' : ''}.${s.af.proxy ? ` ${s.af.proxy === s.af.n ? 'Todos usam' : s.af.proxy === 1 ? 'Um deles usa' : s.af.proxy + ' deles usam'} a posição do programa do partido, não uma posição própria do candidato.` : ''}</p>`;
+  const cob = s.af.score == null ? '' : `<p class="hint ${s.af.baixa ? 'warn' : ''}">${cobertura(s.af)}${s.af.proxy ? ` ${s.af.proxy === s.af.n ? 'Todos usam' : s.af.proxy === 1 ? 'Um deles usa' : s.af.proxy + ' deles usam'} a posição do programa do partido, não uma posição própria do candidato.` : ''}</p>`;
   return `<article class="card ${chosen ? 'is-chosen' : ''}" aria-labelledby="c-${c.id}">
     ${porScore && pos && pos <= 3 ? `<span class="rank">${pos}º no seu score${rk.empate(pos) ? ' (empate)' : ''}</span>` : ''}
     <div class="card-head">
@@ -1018,7 +1020,7 @@ function card(c, rk, porScore, whys) {
       ${c.cargo !== 'SEN' ? (s.det ? bar('Detalhe do plano', (s.det - 1) * 25, `${s.det}/5`) : barNA('Detalhe do plano', 'sem avaliação')) : ''}
       <div class="bar nota"><span>Sua nota</span>${stars(c.id)}</div>
     </div>
-    ${cobertura}
+    ${cob}
     <div class="card-foot">
       <button class="btn sm" data-act="open" data-id="${c.id}" aria-label="Propostas e posições de ${nome}">Propostas e posições</button>
       ${chooseBtns(c)}
@@ -1161,7 +1163,7 @@ function openDrawer(id, o = {}) {
       <div class="sec"><h3>Seu score</h3>
         <p class="scoreline">${s.final != null ? `<b class="tnum">${s.final}</b> de 100${s.nota == null && isDep ? ' · estimativa pelo partido' : ''}${s.af.baixa && s.nota == null ? ' · score parcial' : ''}` : `<b>Sem score.</b> ${PORQUE[s.motivo] || ''}`}</p>
         <div class="bars">${barAf(s, isDep ? 'Afin. do partido' : 'Afinidade')}${s.det ? bar('Detalhe do plano', (s.det - 1) * 25, s.det + '/5') : ''}<div class="bar nota"><span>Sua nota</span>${stars(c.id)}</div></div>
-        ${s.af.score != null ? `<p class="hint ${s.af.baixa ? 'warn' : ''}" style="margin-top:8px">Comparado em ${s.af.n} de ${plural(s.af.tot, 'tema', 'temas')} que você respondeu${s.af.baixa ? ': resultado menos confiável' : ''}.</p>` : ''}
+        ${s.af.score != null ? `<p class="hint ${s.af.baixa ? 'warn' : ''}" style="margin-top:8px">${cobertura(s.af)}</p>` : ''}
       </div>
       ${r.resumo ? `<div class="sec"><h3>Resumo</h3><p>${esc(r.resumo)}</p>${r.trajetoria ? `<p class="sub">${esc(r.trajetoria)}</p>` : ''}<p class="hint" style="margin-top:8px">Resumo feito com auxílio de IA a partir ${c.plano ? 'do plano de governo e de' : 'de'} registros públicos. Confira as fontes.</p></div>` : ''}
       ${r.destaques?.length ? `<div class="sec"><h3>Principais propostas</h3><ul>${r.destaques.map(d => `<li>${esc(d)}</li>`).join('')}</ul></div>` : ''}

@@ -51,9 +51,14 @@ A página só existe com JavaScript, então ChatGPT, Claude e afins não consegu
 
 - `ia/` (gerada por `build_html.py` via `data/build_ia.py`): os mesmos dados públicos em arquivos `.txt` pequenos, com
   índice em `llms.txt`. `publicar.py` copia para `site/ia/` e põe o índice em `/llms.txt`. É o que funciona hoje com
-  qualquer assistente: a página "Início" copia as instruções com o endereço de cada arquivo (para uma pergunta livre ou
-  como roteiro em que o assistente entrevista a pessoa), e cada página de candidatos tem um botão só com os arquivos
-  daquele cargo.
+  qualquer assistente: a página "Início" tem as instruções com o endereço de cada arquivo (para uma pergunta livre ou
+  como roteiro em que o assistente entrevista a pessoa), e cada página de candidatos tem as mesmas instruções só com os
+  arquivos daquele cargo. Os botões "Abrir no ChatGPT" e "Abrir no Claude" levam esse texto no parâmetro `q` do link
+  (`chatgpt.com/?q=`, que já envia a mensagem, e `claude.ai/new?q=`, que a deixa na caixa de mensagem); o mesmo clique
+  copia o texto, para colar se a conversa chegar vazia. A ficha de um candidato só vai inteira no link quando é curta
+  (`IA_MAX`): das demais vão os endereços dos arquivos, e a ficha fica na área de transferência. Nas páginas de
+  presidente, governador e senador, a busca que estiver ativa já vai como pergunta no link; nas de deputados não,
+  porque o histórico fica em um arquivo por deputado e a busca do próprio guia enxerga mais do que o assistente.
   Os endereços vão por extenso porque o ChatGPT só abre endereço que a pessoa enviou na conversa (ou que já está no
   índice de busca dele, e o site é noindex): só com o `llms.txt` ele lê o índice e recusa os arquivos listados nele.
 - WebMCP (`instalaWebMCP` no fim do script do template): seis ferramentas de leitura para agentes que estejam com a

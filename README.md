@@ -1,4 +1,4 @@
-# Meu voto 2026 · Porto Alegre/RS
+# Meu voto 2026 · Rio Grande do Sul
 
 Guia pessoal de voto: candidatos (dados do TSE), propostas resumidas, score de afinidade e cola para a urna.
 No ar em https://meu-voto-2026-bs0.pages.dev (noindex: só abre quem tem o link).
@@ -15,18 +15,21 @@ No ar em https://meu-voto-2026-bs0.pages.dev (noindex: só abre quem tem o link)
     e da Assembleia Legislativa (`research/alrs_scripts/`). É o que alimenta a busca por palavra-chave e o selo
     "Histórico na Câmara/Assembleia". Se um dos arquivos faltar, o guia funciona sem ele.
   - `BRIEF.md`: temas, escala de posições e formato dos JSON.
+  - `og.png`: a imagem da prévia do link (WhatsApp e afins), desenhada por `build_og.py`. O título e a descrição da
+    prévia são as tags `og:*` no começo de `template.html`.
 
 ## Atualizar e publicar
 
 ```bash
 data/.venv/bin/python data/build_base.py   # só se baixar dados novos do TSE (candidatos, bens, fotos)
 python3 data/build_html.py                 # junta base.json + research/ no guia
+data/.venv/bin/python data/build_og.py     # só se mudar a imagem da prévia do link (data/og.png)
 python3 publicar.py                        # monta site/, sobe e confere o que ficou no ar
 python3 publicar.py --sem-deploy           # só monta site/, para conferir antes
 ```
 
 Cada push na `main` também publica sozinho: o GitHub Actions (`.github/workflows/publicar.yml`) roda o mesmo
-`publicar.py` com o que está no repositório. Por isso o guia gerado, `ia/` e os PDFs dos planos ficam no git:
+`publicar.py` com o que está no repositório. Por isso o guia gerado, `ia/`, `data/og.png` e os PDFs dos planos ficam no git:
 rode o build e confira antes de dar push.
 
 ## Privacidade: o que o guia promete e o que garante isso

@@ -1,4 +1,4 @@
-"""Monta base.json com os dados oficiais do TSE para o eleitor de Porto Alegre/RS."""
+"""Monta base.json com os dados oficiais do TSE para o eleitor do Rio Grande do Sul."""
 import base64
 import csv
 import io

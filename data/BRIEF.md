@@ -1,6 +1,6 @@
-# Guia de voto 2026 — brief de pesquisa (Porto Alegre/RS)
+# Guia de voto 2026 — brief de pesquisa (Rio Grande do Sul)
 
-Eleição: 1º turno em 4/out/2026. Um eleitor de Porto Alegre quer comparar candidatos com propostas
+Eleição: 1º turno em 4/out/2026. Um eleitor do Rio Grande do Sul quer comparar candidatos com propostas
 resumidas e um score de AFINIDADE calculado a partir das respostas DELE a um questionário. Por isso, o
 que importa é registrar com precisão e neutralidade O QUE CADA CANDIDATO DEFENDE, com fonte.
 

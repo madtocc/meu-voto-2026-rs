@@ -14,6 +14,7 @@ O que vai para o ar:
   /robots.txt           libera a leitura (a prévia de link do WhatsApp precisa)
   /_headers             X-Robots-Tag: noindex (fora do Google; só quem tem o link) e a política de
                         segurança (CSP) que faz o navegador bloquear qualquer envio de dados pela página
+  /og.png               a imagem da prévia do link (data/og.png, desenhada por data/build_og.py)
   /404.html, /favicon.svg
 
 Uso:
@@ -92,6 +93,11 @@ def monta_site(destino):
     else:
         log('ATENÇÃO: ia/ ausente ou incompleta: o guia sobe sem os arquivos para assistentes de IA.')
     (parcial / 'favicon.svg').write_text(FAVICON, encoding='utf-8')
+    og = PASTA / 'data' / 'og.png'   # o guia aponta para ela em og:image; sem o arquivo a prévia do link sai sem imagem
+    if og.is_file():
+        shutil.copy2(og, parcial / 'og.png')
+    else:
+        log('ATENÇÃO: data/og.png ausente: a prévia do link (WhatsApp) sobe sem imagem. Rode data/.venv/bin/python data/build_og.py.')
     (parcial / '404.html').write_text(PAGINA_404, encoding='utf-8')
     (parcial / 'robots.txt').write_text('User-agent: *\nAllow: /\n', encoding='utf-8')
     # O guia fica 10 minutos no cache do navegador (antes era baixado inteiro a cada abertura): uma correção

@@ -8,12 +8,23 @@
 <meta name="referrer" content="no-referrer">
 <meta name="color-scheme" content="light">
 <meta name="theme-color" content="#f5f4f0">
-<meta name="description" content="Guia pessoal de voto para Porto Alegre/RS: candidatos, propostas resumidas, score de afinidade e cola para a urna.">
-<meta property="og:title" content="Meu voto 2026 · Porto Alegre/RS">
-<meta property="og:description" content="Candidatos, propostas resumidas, score de afinidade e cola para a urna.">
+<meta name="description" content="Guia de voto para as eleições de 4 de outubro no Rio Grande do Sul: candidatos com dados oficiais do TSE, propostas resumidas com fonte e cola para a urna. Sem cadastro e sem anúncios.">
+<link rel="canonical" href="__SITE__/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Meu voto 2026">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:url" content="__SITE__/">
+<meta property="og:title" content="Meu voto 2026 · Rio Grande do Sul">
+<meta property="og:description" content="Guia de voto para 4 de outubro: candidatos com dados oficiais do TSE, propostas resumidas com fonte e cola para a urna. Sem cadastro e sem anúncios.">
+<meta property="og:image" content="__SITE__/og.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Meu voto 2026, Rio Grande do Sul: guia de voto com dados oficiais do TSE e cola para a urna.">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231b1b1f'/%3E%3Cpath d='M18 33l9 9 19-21' fill='none' stroke='%23fff' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="describedby" href="llms.txt" type="text/plain">
-<title>Meu voto 2026 · Porto Alegre/RS</title>
+<title>Meu voto 2026 · Rio Grande do Sul</title>
 <style>
 :root{
   --bg:#f5f4f0; --surface:#fff; --ink:#1b1b1f; --muted:#55545c; --faint:#6b6a72;
@@ -464,7 +475,7 @@ details.theme .n{font-weight:400;color:var(--faint);font-variant-numeric:tabular
 </svg>
 <header class="top">
   <div class="wrap brand">
-    <h1>Meu voto 2026</h1><span class="where">Porto Alegre · Rio Grande do Sul</span>
+    <h1>Meu voto 2026</h1><span class="where">Rio Grande do Sul</span>
     <span class="when"><span class="long">1º turno: <b>domingo, 4 de outubro</b> · 8h às 17h</span><span class="short"><b>dom., 4 de outubro</b> · 8h às 17h</span></span>
   </div>
 </header>
@@ -1312,7 +1323,7 @@ function colaCanvas() {
   x.fillStyle = '#1b1b1f'; x.font = `700 64px ${SANS}`; x.fillText('Minha cola', PAD, 118);
   x.fillStyle = '#55545c'; x.font = `400 30px ${SANS}`;
   x.fillText('Eleições 2026 · 1º turno · domingo, 4 de outubro', PAD, 166);
-  x.fillText('Porto Alegre/RS · na ordem das telas da urna', PAD, 206);
+  x.fillText('Rio Grande do Sul · na ordem das telas da urna', PAD, 206);
   // cartão
   const top = HEAD - 6, cardH = rows.length * ROW + 12;
   rr(PAD - 28, top, W - 2 * (PAD - 28), cardH, 30); x.fillStyle = '#fff'; x.fill();

@@ -104,6 +104,9 @@ details.info>.note{margin-top:4px}
 .seg button:disabled{opacity:.55;cursor:not-allowed}
 .seg-lbl{font-size:var(--fs-sm);color:var(--muted)}
 select,input[type=search]{font-size:1rem;border:1px solid var(--ctl);background:var(--surface);border-radius:var(--r-sm);min-height:var(--tap);padding:0 12px;color:var(--ink);max-width:100%;min-width:0}
+/* a seta nativa do select gruda na borda e muda de navegador para navegador: sai a nativa, entra o mesmo chevron dos outros controles */
+select{appearance:none;-webkit-appearance:none;padding-right:38px;text-overflow:ellipsis;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2355545c' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9.5l6 6 6-6'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 12px center;background-size:18px}
+@media (forced-colors:active){select{appearance:auto;-webkit-appearance:auto;padding-right:12px;background-image:none}}
 input::placeholder{color:var(--faint);opacity:1}
 .btn{border:1px solid var(--ctl);background:var(--surface);border-radius:var(--r-sm);min-height:40px;padding:0 14px;font-size:var(--fs-md);font-weight:500;line-height:1.2;display:inline-flex;align-items:center;justify-content:center;gap:6px;text-decoration:none;color:var(--ink);transition:background .15s,border-color .15s,transform .1s}
 .btn:active{transform:scale(.97)}
@@ -255,6 +258,13 @@ table.matrix{border-collapse:separate;border-spacing:0;font-size:var(--fs-sm);mi
 .matrix .cand img{width:36px;height:36px;border-radius:8px;object-fit:cover;display:block}
 .matrix .cand .af{color:var(--faint);font-weight:500;font-variant-numeric:tabular-nums}
 .matrix td.you,.matrix th.you{background:#faf9f6}
+/* fotos e nomes presos no topo: sticky só gruda dentro de quem rola, e quem rola aqui é a caixa (por causa da rolagem lateral);
+   por isso a caixa ganha altura máxima e rola também na vertical. Em tela baixa (celular deitado) o cabeçalho ocuparia quase tudo. */
+@media (min-height:480px){
+  .matrix-wrap{max-height:calc(100vh - var(--tabs-h) - 28px);max-height:calc(100dvh - var(--tabs-h) - 28px);scroll-padding-top:9.5rem} /* o foco do teclado não para embaixo do cabeçalho */
+  .matrix thead th{position:sticky;top:0;z-index:2;background:var(--surface)}
+  .matrix thead th.tema{z-index:3}
+}
 .cell{display:inline-grid;place-items:center;min-width:36px;height:28px;border-radius:6px;font-weight:700;font-size:var(--fs-xs);border:0;padding:0 4px;font-style:normal}
 .v2{background:var(--pro);color:#fff}.v1{background:var(--pro-soft);color:var(--pro)}
 .v0{background:var(--mid-soft);color:var(--muted)}
@@ -264,6 +274,7 @@ table.matrix{border-collapse:separate;border-spacing:0;font-size:var(--fs-sm);mi
 .legend{display:flex;gap:6px 12px;flex-wrap:wrap;font-size:var(--fs-xs);color:var(--muted);margin:12px 0 0;align-items:center}
 .legend span{display:inline-flex;align-items:center;gap:5px}
 .legend .cell{min-width:28px;height:22px}
+.sec .legend{margin:0 0 12px}
 @media (pointer:coarse){
   button.cell{min-width:44px;height:44px}
   .seg button,.weights input{min-height:var(--tap)}
@@ -463,6 +474,7 @@ html:has(.pager.on){scroll-padding-bottom:72px}
 @media (min-height:600px){
   .search-sticky{position:sticky;top:calc(var(--tabs-h) + 1px);z-index:10;background:var(--bg);padding:8px var(--gutter);margin:-8px calc(var(--gutter) * -1) 4px}
   html:has(.search-sticky){scroll-padding-top:calc(var(--tabs-h) + 76px)}
+  .matrix-wrap{max-height:calc(100vh - var(--tabs-h) - 88px);max-height:calc(100dvh - var(--tabs-h) - 88px)}
 }
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{animation:none!important;transition:none!important}
@@ -1013,6 +1025,8 @@ function card(c, rk, porScore, whys) {
     </div>
   </article>`;
 }
+/* a mesma legenda na tabela e no painel do candidato: os símbolos são os mesmos nos dois */
+const legenda = (temas, temProxy) => `<div class="legend"><span><i class="cell v2">++</i>a favor</span><span><i class="cell v1">+</i>tende a favor</span><span><i class="cell v0">0</i>neutro</span><span><i class="cell vm1">−</i>tende contra</span><span><i class="cell vm2">−−</i>contra</span><span><i class="cell vn">?</i>sem informação</span>${temas.some(t => S.answers[t.key]?.v == null) ? '<span><i class="cell vn">·</i>você não respondeu</span>' : ''}${temProxy ? '<span><i class="cell v0 px">0</i>tracejado: posição do programa do partido, não do candidato</span>' : ''}</div>`;
 function matrix(list, rk) {
   const temas = D.temas[ESCOPO[list[0].cargo]];
   const temProxy = list.some(c => Object.values(R[c.id]?.posicoes || {}).some(p => p && p.proxy));
@@ -1027,7 +1041,7 @@ function matrix(list, rk) {
         return `<td><button class="cell ${vcls(v)}${p?.proxy ? ' px' : ''}" data-act="open" data-id="${c.id}" data-k="${t.key}" data-sec="pos" aria-label="${title(c.urna)}: ${v != null ? VLABEL[v] : 'sem informação'}${p?.proxy ? ' (programa do partido)' : ''}${p?.nota ? '. ' + esc(p.nota) : ''}">${v != null ? VSYM[v] : '?'}</button></td>`;
       }).join('')}</tr>`;
     }).join('')}</tbody></table></div>
-    <div class="legend"><span><i class="cell v2">++</i>a favor</span><span><i class="cell v1">+</i>tende a favor</span><span><i class="cell v0">0</i>neutro</span><span><i class="cell vm1">−</i>tende contra</span><span><i class="cell vm2">−−</i>contra</span><span><i class="cell vn">?</i>sem informação</span>${temProxy ? '<span><i class="cell v0 px">0</i>tracejado: posição do programa do partido, não do candidato</span>' : ''}</div>
+    ${legenda(temas, temProxy)}
     <p class="hint" style="margin-top:8px">Toque em uma posição para ver o que o candidato defende e a fonte. O número abaixo do nome é a afinidade com as suas respostas (0 a 100), não uma avaliação do candidato.</p>`;
 }
 /* ordem, modo de exibição e busca são por cargo (a busca não é guardada: ver NAO_GUARDA) */
@@ -1153,7 +1167,7 @@ function openDrawer(id, o = {}) {
       ${r.destaques?.length ? `<div class="sec"><h3>Principais propostas</h3><ul>${r.destaques.map(d => `<li>${esc(d)}</li>`).join('')}</ul></div>` : ''}
       ${props.length ? `<div class="sec"><h3>Propostas por tema</h3>${props.map(([k, pv]) => det(`dr:${c.id}:p:${k}`, 'theme', `<span>${esc(k)}</span>`, `<ul>${pv.map(x => `<li>${esc(x)}</li>`).join('')}</ul>`)).join('')}</div>` : ''}
       ${r.detalhamento ? `<div class="sec"><h3>Detalhamento do plano: ${esc(r.detalhamento.nota)}/5</h3><p class="sub" style="margin:0">${esc(r.detalhamento.justificativa)}</p></div>` : ''}
-      ${!isDep ? `<div class="sec" id="dr-pos"><h3>Posições e suas respostas</h3><p class="sub">Classificadas com auxílio de IA a partir das fontes citadas em cada tema.</p>${temas.map(t => {
+      ${!isDep ? `<div class="sec" id="dr-pos"><h3>Posições e suas respostas</h3><p class="sub">Classificadas com auxílio de IA a partir das fontes citadas em cada tema.</p>${legenda(temas, temas.some(t => pos?.[t.key]?.proxy))}${temas.map(t => {
           const p = pos?.[t.key], cv = p && typeof p === 'object' ? p.v : p, a = S.answers[t.key];
           return `<div class="pitem"><div class="ptema">${esc(t.label)}</div><div class="pcmp">${cmp(a, cv, p?.proxy)}</div>
             <div>${cv != null ? `<b>${VLABEL[cv]}</b>` : '<span class="sub">Sem informação</span>'}${p?.nota ? `. ${esc(p.nota)}` : ''}</div>${p?.fonte ? `<span class="src">Fonte: ${linkify(p.fonte)}</span>` : ''}</div>`;

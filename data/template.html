@@ -791,9 +791,10 @@ const motivos = m => { const naUrna = new Set(m.why.filter(y => y.f.kind === 'ur
 function trecho(text, ts) {
   if (text.length <= 220) return hl(text, ts);
   const frases = text.replace(/([.!?;])\s+(?=\p{Lu})/gu, '$1\u0001').split('\u0001');
-  const com = frases.map((f, i) => [i, hl(f, ts)]).filter(x => x[1].includes('<mark>')).slice(0, 2);
+  // a frase entra se o termo casa nela de verdade: o grifo sozinho não serve, porque marca também palavras soltas de uma expressão ("contra", de "proteção contra cheias")
+  const com = frases.map((f, i) => [i, f]).filter(([, f]) => { const x = {kind: 'frase', n: toks(f), r: ' ' + palavras(f).join(' ') + ' '}; return ts.some(t => casa(x, t)); }).slice(0, 2);
   if (!com.length) return hl(text.slice(0, 220), ts) + '…';
-  return (com[0][0] ? '… ' : '') + com.map(x => x[1]).join(' … ') + (com[com.length - 1][0] < frases.length - 1 ? ' …' : '');
+  return (com[0][0] ? '… ' : '') + com.map(([i, f], j) => (j ? (i === com[j - 1][0] + 1 ? ' ' : ' … ') : '') + hl(f, ts)).join('') + (com[com.length - 1][0] < frases.length - 1 ? ' …' : '');
 }
 const whyHtml = ({f, ts}) => `<div class="why"><b>${f.lab || ROTULO[f.kind]}${f.t ? ' · ' + esc(f.t) : ''}:</b> ${f.kind === 'rede' ? esc(f.text) : f.longo ? trecho(f.show || f.text, ts) : hl(f.show || f.text, ts)}</div>`;
 
@@ -871,7 +872,7 @@ function renderInicio() {
     <h3 id="h-como">Como funciona</h3>
     <ol class="steps">
       <li><div><b>Diga o que você pensa</b><span>${NQ} afirmações sobre temas nacionais e do RS. Leva uns cinco minutos e dá para pular o que quiser.</span></div></li>
-      <li><div><b>Compare os candidatos</b><span>Presidente, governador e senador têm resumo, propostas e posições com a fonte de cada uma. Deputados você encontra por nome, número ou palavra-chave.</span></div></li>
+      <li><div><b>Compare os candidatos</b><span>Presidente, governador e senador têm resumo, propostas e posições com a fonte de cada uma. Deputados você encontra por nome ou número. Em todas as listas dá para buscar por palavra-chave ou tema.</span></div></li>
       <li><div><b>Monte a cola</b><span>Escolha um nome por cargo (dois para o Senado) e leve os números anotados: celular não entra na cabine.</span></div></li>
     </ol>
   </section>
@@ -879,7 +880,7 @@ function renderInicio() {
     <h3 id="h-priv">O que acontece com suas respostas</h3>
     <ul class="plist">
       <li>${ic('check')}<span><b>É um arquivo estático.</b> Sem cadastro, sem cookies, sem anúncios e sem medição de audiência na página. Depois de aberta, ela não faz nenhuma chamada à internet por conta própria, e o navegador é instruído a bloquear qualquer tentativa (Content-Security-Policy).</span></li>
-      <li>${ic('check')}<span><b>Suas respostas ficam neste aparelho.</b> Respostas, notas, escolhas e lista curta são guardadas só no armazenamento local deste navegador. Nenhum servidor as recebe. O que você busca na lista de deputados nem chega a ser guardado.</span></li>
+      <li>${ic('check')}<span><b>Suas respostas ficam neste aparelho.</b> Respostas, notas, escolhas e lista curta são guardadas só no armazenamento local deste navegador. Nenhum servidor as recebe. O que você busca nas listas de candidatos nem chega a ser guardado.</span></li>
       <li class="caveat">${ic('info')}<span>Quem usar este mesmo navegador pode ver suas escolhas: em aparelho compartilhado, apague os dados ao terminar. O navegador também pode apagá-los sozinho (aba anônima, limpeza de dados).</span></li>
       <li class="caveat">${ic('info')}<span>Como em qualquer site, a hospedagem (Cloudflare Pages) recebe o pedido da página e, se você abrir um plano de governo, o do PDF: endereço IP, tipo de navegador e horário. Ela não recebe suas respostas.</span></li>
       <li class="caveat">${ic('info')}<span>Só sai daqui o que você decidir: links de fontes e redes sociais abrem outros sites, e “Salvar como imagem” no celular abre o menu de compartilhar do aparelho. Se você usar um assistente de IA, o que perguntar a ele vai para o serviço dele.</span></li>
@@ -899,10 +900,14 @@ function renderInicio() {
   </section>
   <section class="wide ia" aria-labelledby="h-ia">
     <h3 id="h-ia">Perguntar a um assistente de IA</h3>
-    <p>Os mesmos dados públicos dos candidatos estão em arquivos de texto que o ChatGPT, o Claude e outros assistentes conseguem ler. Copie as instruções, cole numa conversa e escreva sua pergunta no fim. Suas respostas do questionário não entram nisso: elas continuam só neste aparelho.</p>
-    <div class="acts"><button class="btn" data-act="copiar-ia">Copiar instruções para o assistente</button><a href="${esc(D.site)}/llms.txt" target="_blank" rel="noopener noreferrer">Ver o índice dos arquivos</a><span id="ia-status" role="status" class="sub"></span></div>
-    <div id="ia-manual"></div>
-    <p>Se o assistente disser que não conseguiu abrir um arquivo, cole o endereço desse arquivo na conversa e pergunte de novo: alguns só abrem endereços enviados por você.</p>
+    <p>Os mesmos dados públicos dos candidatos estão em arquivos de texto que o ChatGPT, o Claude e outros assistentes conseguem ler. Copie um dos textos abaixo e cole numa conversa com o assistente. Suas respostas do questionário não entram nisso: elas continuam só neste aparelho.</p>
+    <div class="ia-modos">
+      <div><b>Tenho uma pergunta</b><span>Você cola as instruções e escreve sua pergunta no fim.</span><button class="btn" data-act="copiar-ia">Copiar instruções</button></div>
+      <div><b>Não sei por onde começar</b><span>O assistente entrevista você: pergunta o cargo e os assuntos que pesam no seu voto e mostra o que cada candidato registra sobre eles, com a fonte e sem recomendar ninguém.</span><button class="btn" data-act="copiar-ia" data-modo="entrevista">Copiar roteiro de entrevista</button></div>
+    </div>
+    <p class="sub" role="status"></p>
+    <div class="ia-manual"></div>
+    <p>O que você escrever na conversa vai para o serviço do assistente, não para este guia. Se ele disser que não conseguiu abrir um arquivo, cole o endereço desse arquivo na conversa e pergunte de novo: alguns só abrem endereços enviados por você. <a href="${esc(D.site)}/llms.txt" target="_blank" rel="noopener noreferrer">Ver o índice dos arquivos</a></p>
     <p>Assistentes erram, inventam e podem ler só parte de um arquivo. Peça sempre a fonte e confira nome e número aqui no guia antes de anotar na cola. Para deputados o guia só tem o registro no TSE e, de quem já tem mandato, o histórico oficial: não há propostas. Não use a resposta como recomendação de voto.</p>
   </section>
   </div>`;
@@ -939,7 +944,7 @@ function renderPerfil() {
 }
 
 /* ---------- presidente, governador, senado ---------- */
-function card(c, rk, porScore) {
+function card(c, rk, porScore, whys) {
   const r = R[c.id] || {}, s = rk.sc.get(c.id), st = situ(c), chosen = isChosen(c), pos = rk.pos.get(c.id), nome = title(c.urna);
   const cobertura = s.af.score == null ? '' : `<p class="hint ${s.af.baixa ? 'warn' : ''}">Afinidade comparada em ${s.af.n} de ${plural(s.af.tot, 'tema que você respondeu', 'temas que você respondeu')}${s.af.baixa ? ': resultado menos confiável' : ''}.${s.af.proxy ? ` ${s.af.proxy === s.af.n ? 'Todos usam' : s.af.proxy === 1 ? 'Um deles usa' : s.af.proxy + ' deles usam'} a posição do programa do partido, não uma posição própria do candidato.` : ''}</p>`;
   return `<article class="card ${chosen ? 'is-chosen' : ''}" aria-labelledby="c-${c.id}">
@@ -954,7 +959,8 @@ function card(c, rk, porScore) {
     ${c.companheiros?.length ? `<div class="vice">${companheiros(c)}</div>` : ''}
     ${st ? `<div><span class="badge ${st.cls}">${esc(st.txt)}</span></div>` : ''}
     ${r.alerta ? `<div class="note warn sm">${esc(r.alerta)}</div>` : ''}
-    <p class="resumo" data-act="open" data-id="${c.id}">${esc(r.resumo || 'Resumo ainda não disponível.')}</p>
+    ${whys?.length ? `<div class="cwhy" data-act="open" data-id="${c.id}">${whys.slice(0, 3).map(whyHtml).join('')}${whys.length > 3 ? `<span class="more-why">e mais ${whys.length - 3} em Propostas e posições</span>` : ''}</div>`
+      : `<p class="resumo" data-act="open" data-id="${c.id}">${esc(r.resumo || 'Resumo ainda não disponível.')}</p>`}
     <div class="bars">
       ${barAf(s, 'Afinidade')}
       ${c.cargo !== 'SEN' ? (s.det ? bar('Detalhe do plano', (s.det - 1) * 25, `${s.det}/5`) : barNA('Detalhe do plano', 'sem avaliação')) : ''}
@@ -984,30 +990,61 @@ function matrix(list, rk) {
     <div class="legend"><span><i class="cell v2">++</i>a favor</span><span><i class="cell v1">+</i>tende a favor</span><span><i class="cell v0">0</i>neutro</span><span><i class="cell vm1">−</i>tende contra</span><span><i class="cell vm2">−−</i>contra</span><span><i class="cell vn">?</i>sem informação</span>${temProxy ? '<span><i class="cell v0 px">0</i>tracejado: posição do programa do partido, não do candidato</span>' : ''}</div>
     <p class="hint" style="margin-top:8px">Toque em uma posição para ver o que o candidato defende e a fonte. O número abaixo do nome é a afinidade com as suas respostas (0 a 100), não uma avaliação do candidato.</p>`;
 }
-/* ordem e modo de exibição são por cargo */
-const mv = cargo => (S.view[cargo] = Object.assign({sort:'score', mode:'cards'}, S.view[cargo]));
+/* ordem, modo de exibição e busca são por cargo (a busca não é guardada: ver NAO_GUARDA) */
+const mv = cargo => (S.view[cargo] = Object.assign({sort:'score', mode:'cards', q:'', topic:''}, S.view[cargo]));
+const isMaj = t => t === 'PRES' || t === 'GOV' || t === 'SEN';
+/* quantos candidatos do cargo têm palavras de cada tema: os dados não mudam, então conta uma vez */
+const NTEMA = {};
+const nTema = cargo => NTEMA[cargo] || (NTEMA[cargo] = new Map(TOPICOS.map(t => [t.k, D.candidatos.filter(c => c.cargo === cargo && casaCand(c, {topic: t, any: t.terms})).length])));
+/* a parte fixa da página; a lista (que muda a cada letra digitada na busca) é desenhada por updateMaj */
 function renderMajority(cargo) {
-  const todos = D.candidatos.filter(c => c.cargo === cargo), rk = ranking(todos), v = mv(cargo), matriz = v.mode === 'matrix';
-  const val = c => matriz ? rk.sc.get(c.id).af.score : rk.sc.get(c.id).final; // a matriz mostra a afinidade, então ordena por ela
-  const tem = todos.some(c => val(c) != null);
-  const modo = v.sort === 'score' && !tem ? 'nome' : v.sort;
-  const list = [...todos].sort((a, b) => modo === 'nome' ? porNome(a, b) : modo === 'numero' ? +a.nr - +b.nr : (val(b) ?? -1) - (val(a) ?? -1) || porNome(a, b));
-  // quem não tem score não fica "em último": vai para um bloco à parte
-  const sem = modo === 'score' ? list.filter(c => val(c) == null) : [], com = sem.length ? list.filter(c => val(c) != null) : list;
+  const v = mv(cargo), list = D.candidatos.filter(c => c.cargo === cargo);
   const [h, p, extra] = {
     PRES: ['Presidente', `${list.length} candidatos. Se ninguém tiver mais da metade dos votos válidos, há 2º turno em 25 de outubro.`],
     GOV: ['Governador do RS', `${list.length} candidatos. Vence quem tiver mais da metade dos votos válidos; senão, há 2º turno em 25 de outubro.`],
     SEN: ['Senado', `${list.length} candidatos para 2 vagas. Na urna são duas telas, e você vota em dois candidatos diferentes.`,
       det('sen', 'info', 'De onde vêm as posições dos candidatos ao Senado', '<p class="note">Candidatos ao Senado não apresentam plano de governo: as posições vêm de votos e declarações públicas. Quando não há posição própria localizada, usamos o programa nacional do partido e avisamos no cartão. Para alguns quase não há posição registrada: nesses casos a afinidade fica indisponível, o que não indica baixa afinidade, e vale mais a sua própria nota.</p>')],
   }[cargo];
-  const sb = (k, l, off) => `<button data-act="sort" data-cargo="${cargo}" data-v="${k}" aria-pressed="${modo === k}" ${off ? 'disabled' : ''}>${l}</button>`;
   return `<div class="intro"><h2>${h}</h2><p>${p}</p></div>${extra || ''}
-  <div class="toolbar">
+  <div class="search-sticky"><div class="search">${ic('search')}<input type="search" id="mq" placeholder="Buscar nas propostas e posições" value="${esc(v.q)}" data-act="mq" data-cargo="${cargo}" aria-label="Buscar palavra no resumo, nas propostas e nas posições dos candidatos" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false" enterkeyhint="search"></div></div>
+  <div class="tools"><div class="topics" id="mtopics" role="group" aria-label="Buscar por tema"></div></div>
+  <div id="mres"></div>
+  ${iaCargo(cargo)}`;
+}
+/* a busca aqui não reordena ninguém por "relevância": mantém a ordem escolhida e mostra, em cada cartão, onde a palavra apareceu */
+function updateMaj(cargo) {
+  const todos = D.candidatos.filter(c => c.cargo === cargo), rk = ranking(todos), v = mv(cargo), Q = consulta(v);
+  const matriz = v.mode === 'matrix' && !Q; // a tabela de posições não tem onde mostrar trechos: com busca, valem os cartões
+  const val = c => matriz ? rk.sc.get(c.id).af.score : rk.sc.get(c.id).final; // a matriz mostra a afinidade, então ordena por ela
+  const tem = todos.some(c => val(c) != null);
+  const modo = v.sort === 'score' && !tem ? 'nome' : v.sort;
+  const list = [...todos].sort((a, b) => modo === 'nome' ? porNome(a, b) : modo === 'numero' ? +a.nr - +b.nr : (val(b) ?? -1) - (val(a) ?? -1) || porNome(a, b));
+  const achou = new Map(Q ? list.map(c => [c.id, casaCand(c, Q)]).filter(x => x[1]) : []);
+  const vis = Q ? list.filter(c => achou.has(c.id)) : list, fora = Q && !Q.nr ? list.filter(c => !achou.has(c.id)) : [];
+  // quem não tem score não fica "em último": vai para um bloco à parte
+  const sem = modo === 'score' ? vis.filter(c => val(c) == null) : [], com = sem.length ? vis.filter(c => val(c) != null) : vis;
+  const whys = c => Q && !Q.nr ? motivos(achou.get(c.id)) : null;
+  const sb = (k, l, off) => `<button data-act="sort" data-cargo="${cargo}" data-v="${k}" aria-pressed="${modo === k}" ${off ? 'disabled' : ''}>${l}</button>`;
+  const nt = nTema(cargo);
+  $('mtopics').innerHTML = TOPICOS.filter(t => nt.get(t.k)).map(t => `<button class="chip" data-act="mtopic" data-t="${t.k}" data-cargo="${cargo}" aria-pressed="${v.topic === t.k}">${t.label}<span class="n">${nt.get(t.k)}</span></button>`).join('');
+  mostraChip($('mtopics'));
+  let msg = '';
+  if (Q) {
+    msg = `<b>${vis.length}</b> de ${plural(list.length, 'candidato', 'candidatos')}` + (Q.topic ? ` com palavras do tema <b>${esc(Q.topic.label)}</b>` : Q.nr ? ` com número começando em ${esc(Q.nr)}` : ` para “${esc(v.q.trim())}”`) + '.';
+    if (!Q.nr && vis.length) msg += ' Leia o trecho em cada cartão: a palavra pode estar ali para dizer que o plano não trata do assunto. A busca olha só o que o guia registrou (resumo, propostas e posições), não o documento inteiro, e não muda a ordem da lista.';
+    msg += ` <button class="lnk" data-act="mclear" data-cargo="${cargo}">Limpar busca</button>`;
+  }
+  const semPalavra = fora.length && vis.length ? `<p class="note" style="margin-top:16px">Sem ${Q.topic ? 'palavras desse tema' : 'essa palavra'} no que o guia registrou de: ${fora.map(c => `<button class="lnk" data-act="open" data-id="${c.id}">${title(c.urna)}</button>`).join(', ')}. Isso não quer dizer que não tratem do assunto: o guia resume os documentos. ${cargo === 'SEN' ? 'Veja as fontes de cada um.' : 'Confira o plano de governo de cada um.'}</p>` : '';
+  const vazio = `<div class="empty-state"><b>Nenhum candidato encontrado.</b>${Q && !Q.nr ? 'A busca só enxerga o resumo, as propostas e as posições que o guia registrou, não o plano de governo inteiro. Não achar a palavra não quer dizer que ninguém trate do assunto. Tente outra palavra.' : ''}<br><button class="btn" data-act="mclear" data-cargo="${cargo}">Limpar busca</button></div>`;
+  $('mres').innerHTML = `<div class="toolbar">
     <div class="seg" role="group" aria-label="Visualização"><button data-act="mode" data-cargo="${cargo}" data-v="cards" aria-pressed="${!matriz}">Cartões</button><button data-act="mode" data-cargo="${cargo}" data-v="matrix" aria-pressed="${matriz}">Comparar posições</button></div>
     <div class="seg" role="group" aria-label="Ordenar por">${sb('score', matriz ? 'Afinidade' : 'Score', !tem)}${sb('nome', 'Nome')}${sb('numero', 'Número')}</div>
   </div>
+  ${msg ? `<p class="dcount">${msg}</p>` : ''}
   ${rk.any ? '' : `<p class="note mb" role="status">${semScore(cargo)}</p>`}
-  ${matriz ? matrix(list, rk) : `<div class="grid">${com.map(c => card(c, rk, modo === 'score')).join('')}</div>${sem.length ? `<h3 class="divider">Sem score: ${PORQUE_BLOCO[sem.some(c => rk.sc.get(c.id).motivo === 'pesos') ? 'pesos' : rk.sc.get(sem[0].id).motivo] || PORQUE_BLOCO['poucos-dados']}. Em ordem alfabética.</h3><div class="grid">${sem.map(c => card(c, rk, false)).join('')}</div>` : ''}`}`;
+  ${matriz ? matrix(list, rk) : !vis.length ? vazio : `<div class="grid">${com.map(c => card(c, rk, modo === 'score', whys(c))).join('')}</div>${sem.length ? `<h3 class="divider">Sem score: ${PORQUE_BLOCO[sem.some(c => rk.sc.get(c.id).motivo === 'pesos') ? 'pesos' : rk.sc.get(sem[0].id).motivo] || PORQUE_BLOCO['poucos-dados']}. Em ordem alfabética.</h3><div class="grid">${sem.map(c => card(c, rk, false, whys(c))).join('')}</div>` : ''}${semPalavra}`}`;
+  const dc = $('mres').querySelector('.dcount');
+  $('live').textContent = dc ? dc.textContent.replace('Limpar busca', '').trim() : ''; // anuncia a contagem a leitores de tela
 }
 
 /* ---------- painel do candidato ---------- */
@@ -1042,7 +1079,7 @@ function openDrawer(id, o = {}) {
   const props = Object.entries(r.propostas || {}).filter(([, v]) => v?.length);
   const votos = votosDe(c);
   const perfil = isDep ? D.perfis_partido[c.partido] : null, base = perfil?.base?.[ESCOPO[c.cargo]] || [];
-  const v = isDep ? viewOf(c.cargo) : null, Q = v ? consulta(v) : null;
+  const v = isDep ? viewOf(c.cargo) : S.tab === c.cargo ? mv(c.cargo) : null, Q = v ? consulta(v) : null; // fora da página do cargo (na cola, por exemplo) não há busca em curso
   const m = Q && !Q.nr ? casaCand(c, Q) : null;
   const whys = m ? motivos(m) : [];
   const plano = c.plano ? (LOCAL && D.site ? D.site + '/' : '') + c.plano : null;
@@ -1062,7 +1099,7 @@ function openDrawer(id, o = {}) {
     <div class="dr-body">
       ${st ? `<div><span class="badge ${st.cls}">${esc(st.txt)}</span></div>` : ''}
       ${r.alerta ? `<div class="note warn">${esc(r.alerta)}</div>` : ''}
-      ${whys.length ? `<div class="sec"><h3>Por que apareceu na busca por “${esc(Q.topic ? Q.topic.label : v.q.trim())}”</h3>${whys.slice(0, 12).map(whyHtml).join('')}${whys.length > 12 ? `<p class="sub" style="margin-top:8px">E mais ${whys.length - 12} na atuação parlamentar, abaixo.</p>` : ''}<p class="sub" style="margin-top:8px">A busca encontra palavras nos dados. Ela não mede o quanto a pessoa atua no tema.</p></div>` : ''}
+      ${whys.length ? `<div class="sec"><h3>Por que apareceu na busca por “${esc(Q.topic ? Q.topic.label : v.q.trim())}”</h3>${whys.slice(0, 12).map(whyHtml).join('')}${whys.length > 12 ? `<p class="sub" style="margin-top:8px">E mais ${whys.length - 12} ${isDep ? 'na atuação parlamentar' : 'nas propostas e posições'}, abaixo.</p>` : ''}<p class="sub" style="margin-top:8px">A busca encontra palavras nos dados. Ela não mede o quanto a pessoa atua no tema.</p></div>` : ''}
       <div class="sec"><h3>Seu score</h3>
         <p class="scoreline">${s.final != null ? `<b class="tnum">${s.final}</b> de 100${s.nota == null && isDep ? ' · estimativa pelo partido' : ''}${s.af.baixa && s.nota == null ? ' · score parcial' : ''}` : `<b>Sem score.</b> ${PORQUE[s.motivo] || ''}`}</p>
         <div class="bars">${barAf(s, isDep ? 'Afin. do partido' : 'Afinidade')}${s.det ? bar('Detalhe do plano', (s.det - 1) * 25, s.det + '/5') : ''}<div class="bar nota"><span>Sua nota</span>${stars(c.id)}</div></div>
@@ -1152,6 +1189,11 @@ function drow(x, cargo) {
   </li>`;
 }
 const topicsHtml = (v, cargo) => TOPICOS.map(t => `<button class="chip" data-act="dtopic" data-t="${t.k}" data-cargo="${cargo}" aria-pressed="${v.topic === t.k}">${t.label}</button>`).join('');
+/* no celular a faixa de temas rola para o lado e volta ao começo a cada redesenho: traz o tema escolhido de volta à vista */
+function mostraChip(faixa) {
+  const at = faixa.querySelector('[aria-pressed="true"]');
+  if (at) faixa.scrollLeft += at.getBoundingClientRect().left - faixa.getBoundingClientRect().left - 16;
+}
 function updateDeps(cargo) {
   const {v, Q, out, any, sort, total} = depsLista(cargo), n = out.length;
   const temMotivo = out.some(x => motivos(x.m).some(y => y.f.kind !== 'nome'));
@@ -1168,6 +1210,7 @@ function updateDeps(cargo) {
   $('dcount').innerHTML = msg;
   $('live').textContent = $('dcount').textContent.replace('Limpar busca e filtros', '').trim(); // anuncia a contagem a leitores de tela
   $('dtopics').innerHTML = topicsHtml(v, cargo);
+  mostraChip($('dtopics'));
   let cortou = false;
   const linhas = out.slice(0, v.n).map(x => {
     const corte = sort === 'af' && any && !Q && !cortou && x.s.final == null;
@@ -1207,7 +1250,8 @@ function renderDeps(cargo) {
     </div>`)}
   </div>
   <p class="dcount" id="dcount"></p>
-  <div id="dres"></div>`;
+  <div id="dres"></div>
+  ${iaCargo(cargo)}`;
 }
 
 /* ---------- cola ---------- */
@@ -1330,7 +1374,7 @@ function render() {
     + (S.visto ? '' : `<p class="note strip mb no-print">${ic('lock')}<span>Suas respostas ficam só neste aparelho. Nada do que você responde é enviado.</span><button class="lnk" data-act="go" data-tab="inicio" data-then="privacidade">Como isso é garantido</button><button class="lnk" data-act="visto">Fechar</button></p>`);
   $('view').innerHTML = avisos + (S.tab === 'inicio' ? renderInicio() : S.tab === 'perfil' ? renderPerfil() : S.tab === 'cola' ? renderCola()
     : isDeps(S.tab) ? renderDeps(S.tab) : renderMajority(S.tab)) + (S.tab === 'inicio' ? '' : pager());
-  if (isDeps(S.tab)) updateDeps(S.tab);
+  if (isDeps(S.tab)) updateDeps(S.tab); else if (isMaj(S.tab)) updateMaj(S.tab);
 }
 /* depois de redesenhar, devolve o foco ao mesmo controle (teclado e leitor de tela não perdem o lugar) */
 const keyOf = el => el && el.dataset && el.dataset.act ? `[data-act="${el.dataset.act}"]` + ['k','v','id','slot','tab','cargo','t','sec'].map(a => el.dataset[a] != null ? `[data-${a}="${el.dataset[a]}"]` : '').join('') : null;
@@ -1388,10 +1432,11 @@ document.addEventListener('click', e => {
     case 'go': setTab(t.dataset.tab, t.dataset.then); return;
     case 'scroll': { const alvo = $(t.dataset.to); if (alvo) alvo.scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); return; }
     case 'print': window.print(); return;
-    case 'copiar-ia': copiar(PROMPT_IA, t,
-      () => { $('ia-status').textContent = 'Copiado. Cole na conversa e escreva sua pergunta no fim.'; },
-      () => { $('ia-manual').innerHTML = `<textarea readonly aria-label="Instruções para o assistente">${esc(PROMPT_IA)}</textarea>`; $('ia-status').textContent = 'Não deu para copiar sozinho: selecione o texto abaixo e copie.'; $('ia-manual').firstChild.select(); });
-      return;
+    case 'copiar-ia': { const box = t.closest('.ia'), st = box.querySelector('[role=status]'), man = box.querySelector('.ia-manual'), txt = promptIA(t.dataset.cargo, t.dataset.modo);
+      copiar(txt, t,
+        () => { man.innerHTML = ''; st.textContent = t.dataset.modo === 'entrevista' ? 'Roteiro copiado. Cole na conversa: o assistente começa perguntando.' : 'Copiado. Cole na conversa e escreva sua pergunta no fim.'; },
+        () => { man.innerHTML = `<textarea readonly aria-label="Instruções para o assistente">${esc(txt)}</textarea>`; st.textContent = 'Não deu para copiar sozinho: selecione o texto abaixo e copie.'; man.firstChild.select(); });
+      return; }
     case 'cola-img': salvarColaImagem(); return;
     case 'copiar-ficha': { const c = byId[id], aviso = t.nextElementSibling; if (!c) return;
       copiar(fichaIA(c), t, () => { aviso.textContent = 'Copiado. Cole no assistente e escreva sua pergunta no fim.'; },
@@ -1417,7 +1462,9 @@ document.addEventListener('click', e => {
       break; }
     case 'fav': if (S.fav[id]) delete S.fav[id]; else S.fav[id] = true; break;
     case 'sort': mv(t.dataset.cargo).sort = t.dataset.v; break;
-    case 'mode': mv(t.dataset.cargo).mode = t.dataset.v; break;
+    case 'mode': { const v = mv(t.dataset.cargo); v.mode = t.dataset.v; if (v.mode === 'matrix') { v.q = ''; v.topic = ''; } break; } // pedir a tabela encerra a busca
+    case 'mtopic': { const v = mv(t.dataset.cargo); v.topic = v.topic === t.dataset.t ? '' : t.dataset.t; v.q = ''; break; }
+    case 'mclear': Object.assign(mv(t.dataset.cargo), {q:'', topic:''}); break;
     case 'dtopic': { const v = viewOf(t.dataset.cargo); v.topic = v.topic === t.dataset.t ? '' : t.dataset.t; v.q = ''; v.n = 60; break; }
     case 'dflag': { const v = viewOf(t.dataset.cargo); v[t.dataset.k] = !v[t.dataset.k]; v.n = 60; break; }
     case 'dclear': Object.assign(viewOf(t.dataset.cargo), {q:'', topic:'', partido:'', hist:false, atual:false, fav:false, n:60}); break;
@@ -1425,7 +1472,7 @@ document.addEventListener('click', e => {
   }
   save(); render();
   if (DRAWER && dlgOpen(dlg)) openDrawer(DRAWER, {keep: true});
-  refocus(act === 'dclear' ? '#dq' : foco);
+  refocus(act === 'dclear' ? '#dq' : act === 'mclear' ? '#mq' : foco);
   // dar nota reordena a grade: mantém à vista o cartão que acabou de ser avaliado
   if (act === 'nota' && !dlgOpen(dlg)) document.querySelector(foco)?.closest('.card')?.scrollIntoView({block: 'nearest'});
 });
@@ -1438,9 +1485,14 @@ document.addEventListener('input', e => {
     Object.assign(viewOf(cargo), {q: t.value, topic: '', n: 60});
     clearTimeout(espera); espera = setTimeout(() => { save(); if (S.tab === cargo) updateDeps(cargo); }, 120);
   }
+  if (act === 'mq') {
+    const cargo = t.dataset.cargo;
+    Object.assign(mv(cargo), {q: t.value, topic: ''});
+    clearTimeout(espera); espera = setTimeout(() => { save(); if (S.tab === cargo) updateMaj(cargo); }, 120);
+  }
 });
 document.addEventListener('change', e => {
-  const t = e.target, act = t.dataset.act; if (!act || act === 'dq') return;
+  const t = e.target, act = t.dataset.act; if (!act || act === 'dq' || act === 'mq') return;
   const foco = `[data-act="${act}"]` + (t.dataset.k ? `[data-k="${t.dataset.k}"]` : '');
   if (act === 'peso') { render(); refocus(foco); return; }
   const cargo = t.dataset.cargo, v = viewOf(cargo);
@@ -1454,13 +1506,28 @@ document.addEventListener('change', e => {
 /* ---------- assistentes de IA ---------- */
 /* os endereços vão por extenso: o ChatGPT só abre endereço que a própria pessoa enviou na conversa (ou que já esteja
    no índice de busca dele, e este site é noindex). Só com o llms.txt ele lê o índice e recusa os arquivos listados nele */
-const ARQS_IA = (D.ia || []).map(([n, d]) => `- ${D.site}/ia/${n} (${d})`).join('\n');
-const ONDE_IA = ARQS_IA ? 'Abra, pelos endereços abaixo, só os arquivos de que precisar:\n' + ARQS_IA
-  : `Comece por este índice e abra os arquivos de que precisar: ${D.site}/llms.txt`;
-const PROMPT_IA = `Use os arquivos de dados do guia "Meu voto 2026" (eleições de 4 de outubro de 2026, Rio Grande do Sul) para responder à minha pergunta.
-${ONDE_IA}
-Regras: responda só com o que estiver nos arquivos, cite a fonte de cada afirmação, diga quando a informação não existir neles e não recomende nem ordene candidatos por preferência. Informe a data "Dados do TSE atualizados em" do arquivo que você leu. Se algum endereço não abrir (destes ou dos citados dentro dos arquivos, como o histórico parlamentar de um deputado), escreva o endereço completo para eu colar aqui na conversa e não responda de memória.
+const ARQ_CARGO = {PRES: ['presidente-'], GOV: ['governador-'], SEN: ['senador-'], DF: ['deputado-federal', 'votos-'], DE: ['deputado-estadual']};
+const REGRAS_IA = 'Regras: responda só com o que estiver nos arquivos, cite a fonte de cada afirmação, diga quando a informação não existir neles e não recomende nem ordene candidatos por preferência. Informe a data "Dados do TSE atualizados em" do arquivo que você leu. Se algum endereço não abrir (destes ou dos citados dentro dos arquivos, como o histórico parlamentar de um deputado), escreva o endereço completo para eu colar aqui na conversa e não responda de memória.';
+/* cargo: só os arquivos daquele cargo (botão das páginas de candidatos); modo 'entrevista': o assistente pergunta em vez de esperar a pergunta */
+function promptIA(cargo, modo) {
+  const arqs = (D.ia || []).filter(([n]) => !ARQ_CARGO[cargo] || ARQ_CARGO[cargo].some(p => n.startsWith(p))).map(([n, d]) => `- ${D.site}/ia/${n} (${d})`).join('\n');
+  const onde = arqs ? `Abra, pelos endereços abaixo, ${ARQ_CARGO[cargo] ? 'os arquivos' : 'só os arquivos de que precisar'}:\n${arqs}`
+    : `Comece por este índice e abra os arquivos de que precisar: ${D.site}/llms.txt`;
+  const cab = 'Use os arquivos de dados do guia "Meu voto 2026" (eleições de 4 de outubro de 2026, Rio Grande do Sul) ';
+  if (modo === 'entrevista') return `${cab}para me ajudar a conhecer os candidatos.
+${onde}
+Como conduzir: eu não sei bem o que perguntar, então me entreviste. Faça uma pergunta curta por vez e espere minha resposta antes da próxima. Pergunte primeiro qual cargo quero ver (presidente, governador, senador, deputado federal ou deputado estadual) e depois quais assuntos pesam mais no meu voto, dando alguns exemplos. Então abra os arquivos desse cargo e mostre, em ordem alfabética, o que cada candidato tem registrado sobre esses assuntos, com a fonte; diga quando um candidato não tiver nada registrado. Para deputados os arquivos só têm o cadastro do TSE e o histórico de quem já exerce mandato, sem propostas: avise isso. Não conclua por mim nem diga quem combina mais comigo: a escolha é minha. No fim, pergunte se quero ver outro assunto ou outro cargo.
+${REGRAS_IA}
+Comece pela primeira pergunta.`;
+  return `${cab}para responder à minha pergunta${ARQ_CARGO[cargo] ? ` sobre os candidatos a ${CARGO_NOME[cargo].toLowerCase()}` : ''}.
+${onde}
+${REGRAS_IA}
 Minha pergunta: `;
+}
+/* bloco pequeno no fim das páginas de candidatos: copia as instruções só com os arquivos daquele cargo */
+const iaCargo = cargo => `<div class="sec ia no-print" style="margin-top:24px"><h3>Perguntar a um assistente de IA</h3>
+  <p class="sub">Copia as instruções com os endereços dos arquivos de candidatos a ${CARGO_NOME[cargo].toLowerCase()}, para colar no ChatGPT, no Claude ou em outro assistente e escrever sua pergunta no fim. Vão só dados públicos: nada do que você respondeu.${isDeps(cargo) ? ' Para deputados há só o registro no TSE e o histórico de quem já tem mandato: não há propostas.' : ''}</p>
+  <button class="btn sm" data-act="copiar-ia" data-cargo="${cargo}">Copiar instruções</button><div class="hint" role="status" style="margin-top:8px"></div><div class="ia-manual"></div></div>`;
 /* ficha de um candidato em texto, para colar num assistente: só dados públicos, nunca S (respostas, notas, escolhas) */
 function fichaIA(c) {
   const r = R[c.id] || {}, st = situ(c), v = votosDe(c), at = atuacoes(c);
@@ -1521,7 +1588,7 @@ function instalaWebMCP(mc) {
   const registra = t => { t.annotations = {readOnlyHint: true}; try { Promise.resolve(mc.registerTool(t)).catch(() => {}); n++; } catch (e) {} };
   registra({
     name: 'search_candidates', title: 'Buscar candidatos',
-    description: 'Search the candidates on the 2026 ballot in Rio Grande do Sul, Brazil (president, governor, senator, federal and state deputy). Matches ballot name, civil name, ballot number, declared occupation and, for sitting deputies, their bills and parliamentary fronts. Each result says where the words matched; a match is not a verified position. Returns up to 15 results with the id used by the other tools. Data is in Brazilian Portuguese.',
+    description: 'Search the candidates on the 2026 ballot in Rio Grande do Sul, Brazil (president, governor, senator, federal and state deputy). Matches ballot name, civil name, ballot number, declared occupation, for sitting deputies their bills and parliamentary fronts, and for president, governor and senator the summary of their platform and positions kept by this guide. Each result says where the words matched; a match is not a verified position. Returns up to 15 results with the id used by the other tools. Data is in Brazilian Portuguese.',
     inputSchema: {type: 'object', properties: {
       query: {type: 'string', description: 'Words to look for, or a ballot number, e.g. "maria", "1313", "bem-estar animal". Accents and case are ignored.'},
       tema: {type: 'string', enum: TOPICOS.map(t => t.k), description: 'Optional curated topic (set of related Portuguese terms), e.g. "animal" for animal welfare, "saude" for health.'},

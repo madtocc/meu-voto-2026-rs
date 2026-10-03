@@ -1,0 +1,30 @@
+name: Publicar
+
+# Cada push na main sobe o guia para o Cloudflare Pages com o mesmo publicar.py usado localmente.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# Um deploy por vez: o mais novo espera o anterior terminar.
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22   # o wrangler pinado no publicar.py exige Node 22 ou mais novo
+      - name: Monta site/, sobe e confere o que ficou no ar
+        run: python3 publicar.py
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

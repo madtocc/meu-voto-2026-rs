@@ -25,6 +25,10 @@ python3 publicar.py                        # monta site/, sobe e confere o que f
 python3 publicar.py --sem-deploy           # só monta site/, para conferir antes
 ```
 
+Cada push na `main` também publica sozinho: o GitHub Actions (`.github/workflows/publicar.yml`) roda o mesmo
+`publicar.py` com o que está no repositório. Por isso o guia gerado, `ia/` e os PDFs dos planos ficam no git:
+rode o build e confira antes de dar push.
+
 ## Privacidade: o que o guia promete e o que garante isso
 
 A página "Início" diz que as respostas ficam só no navegador. Três coisas sustentam a frase:
@@ -57,6 +61,7 @@ A página só existe com JavaScript, então ChatGPT, Claude e afins não consegu
   `publicar.py` recusa publicar se ela existir.
 
 O deploy precisa de `CLOUDFLARE_API_TOKEN` (e `CLOUDFLARE_ACCOUNT_ID`): no ambiente, num `.env` na raiz do projeto
-(fora do git) ou no arquivo que `MEU_VOTO_ENV` apontar. O token nunca entra no repositório.
+(fora do git) ou no arquivo que `MEU_VOTO_ENV` apontar. No GitHub Actions os dois vêm dos secrets do repositório.
+O token nunca entra no repositório.
 
 Para recriar o ambiente Python: `uv venv data/.venv && uv pip install --python data/.venv/bin/python pymupdf pillow`.

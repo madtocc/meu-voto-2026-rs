@@ -7,14 +7,13 @@ data/.venv/
 # Saída do publicar.py (cópia do guia, de ia/ e dos planos em PDF)
 site/
 
-# Downloads do TSE (dadosabertos.tse.jus.br): entram no build_base.py e viram data/base.json
+# Downloads do TSE (dadosabertos.tse.jus.br): entram no build_base.py e viram data/base.json.
+# Os planos de governo em PDF (data/prop_br, data/prop_rs) ficam no git: o site os publica.
 data/*.zip
 data/*_2026_*.csv
 data/compl/
 data/fotos/
-data/prop_br/
-data/prop_rs/
-data/leiame.pdf
+leiame.pdf
 
 # Respostas guardadas das APIs da Câmara e da Assembleia
 data/research/*/cache/

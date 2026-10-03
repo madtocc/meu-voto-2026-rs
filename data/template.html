@@ -380,8 +380,24 @@ details.theme .n{font-weight:400;color:var(--faint);font-variant-numeric:tabular
 .tips ul{padding-left:18px;margin-top:6px}
 .tips li{margin:4px 0}
 
-.pager{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:32px;padding-top:20px;border-top:1px solid var(--line)}
+.pager{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-top:32px;padding-top:20px;border-top:1px solid var(--line)}
 .pager .next{margin-left:auto}
+/* com voto marcado, o rodapé acompanha a tela: a próxima seção fica à mão, sem rolar a lista até o fim */
+.pager.on{position:sticky;bottom:0;z-index:10;flex-wrap:nowrap;background:var(--bg);margin:32px calc(var(--gutter) * -1) 0;padding:10px var(--gutter) max(10px,env(safe-area-inset-bottom))}
+.pager.on .btn{flex:none;white-space:nowrap}
+.pager.on .next{margin-left:0}
+.pager.entra{animation:sobe .26s cubic-bezier(.16,1,.3,1)}
+@keyframes sobe{from{transform:translateY(100%)}}
+html:has(.pager.on){scroll-padding-bottom:72px}
+.pg-voto{display:flex;flex-direction:column;align-items:flex-end;min-width:0;margin-left:auto;font-size:var(--fs-sm);line-height:1.35}
+.pg-voto .lbl{color:var(--muted)}
+.pg-voto .nm{display:flex;gap:6px;max-width:100%}
+.pg-voto b{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pg-voto .tnum{font-family:var(--mono);font-weight:600;color:var(--accent)}
+@media (max-width:639px){
+  .pager.on .prev{padding:0 10px}
+  .pager.on .prev span{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+}
 .foot{color:var(--faint);font-size:var(--fs-sm);padding-bottom:calc(32px + env(safe-area-inset-bottom))}
 .foot p{max-width:80ch}
 
@@ -845,9 +861,12 @@ const chooseBtns = (c, longo) => c.cargo === 'SEN'
 /* <details> que lembra se estava aberto entre uma renderização e outra */
 const ABERTOS = new Set(matchMedia('(min-width:760px)').matches ? ['filtros-DF', 'filtros-DE'] : []);
 const det = (k, cls, resumo, corpo) => `<details class="${cls}" data-keep="${esc(k)}" ${ABERTOS.has(k) ? 'open' : ''}><summary>${resumo}${ic('chevron')}</summary>${corpo}</details>`;
+/* os votos já marcados na página de um cargo (no Senado, até dois) */
+const escolhasDe = tab => colaRows().filter(r => r.tab === tab && r.nome);
 function pager() {
-  const i = TABS.findIndex(t => t.key === S.tab), p = TABS[i - 1], n = TABS[i + 1];
-  return `<nav class="pager no-print" aria-label="Seção anterior e próxima">${p ? `<button class="btn ghost" data-act="go" data-tab="${p.key}">${ic('arrow-left')}${p.label}</button>` : ''}${n ? `<button class="btn ${S.tab === 'DE' || S.tab === 'perfil' ? 'primary' : ''} next" data-act="go" data-tab="${n.key}">${n.label}${ic('arrow-right')}</button>` : ''}</nav>`;
+  const i = TABS.findIndex(t => t.key === S.tab), p = TABS[i - 1], n = TABS[i + 1], votos = escolhasDe(S.tab);
+  const voto = votos.length ? `<div class="pg-voto">${votos.length < 2 ? `<span class="lbl">${S.tab === 'SEN' ? '1 de 2 votos' : 'Seu voto'}</span>` : ''}${votos.map(r => `<span class="nm"><b>${esc(r.nome)}</b><span class="tnum">${esc(r.nr)}</span></span>`).join('')}</div>` : '';
+  return `<nav class="pager no-print ${voto ? 'on' : ''}" aria-label="Seção anterior e próxima">${p ? `<button class="btn ghost prev" data-act="go" data-tab="${p.key}">${ic('arrow-left')}<span>${p.label}</span></button>` : ''}${voto}${n ? `<button class="btn ${S.tab === 'DE' || S.tab === 'perfil' || filled(S.tab) ? 'primary' : ''} next" data-act="go" data-tab="${n.key}">${n.label}${ic('arrow-right')}</button>` : ''}</nav>`;
 }
 
 /* ---------- navegação ---------- */
@@ -1106,6 +1125,7 @@ function openDrawer(id, o = {}) {
   const whys = m ? motivos(m) : [];
   const plano = c.plano ? (LOCAL && D.site ? D.site + '/' : '') + c.plano : null;
   const fav = !!S.fav[c.id];
+  const prox = isChosen(c) && filled(c.cargo) ? TABS[TABS.findIndex(t => t.key === c.cargo) + 1] : null; // escolheu aqui: segue sem fechar o painel
   const cmp = (a, cv, proxy) => {
     const rv = cv == null ? null : (Math.sign(cv) * Math.min(2, Math.round(Math.abs(cv))) || 0); // médias da aliança são decimais
     return `<span>Você <i class="cell ${vcls(a?.v)}" role="img" aria-label="${a?.v != null ? VYOU[a.v] : 'não respondeu'}">${a?.v != null ? VSYM[a.v] : '·'}</i></span><span>${isDep ? 'Aliança' : proxy ? 'Partido' : 'Candidato'} <i class="cell ${vcls(rv)}${proxy ? ' px' : ''}" role="img" aria-label="${rv != null ? VLABEL[rv] : 'sem informação'}">${rv != null ? VSYM[rv] : '?'}</i>${isDep && rv != null ? VLABEL[rv] : ''}</span>`;
@@ -1159,7 +1179,7 @@ function openDrawer(id, o = {}) {
       ${r.fontes?.length ? `<div class="sec"><h3>Fontes</h3><ul class="why">${r.fontes.map(f => `<li>${linkify(f)}</li>`).join('')}</ul></div>` : ''}
       <div class="sec ia no-print"><h3>Perguntar a um assistente de IA</h3><p class="sub">Abre o assistente com os dados desta candidatura, para você perguntar lá. Vão só dados públicos e fontes: nada do que você respondeu.</p>${iaBotoes({id: c.id}, true)}<div class="hint" role="status" style="margin-top:8px"></div><div class="ia-manual"></div></div>
     </div>
-    <div class="dr-actions">${chooseBtns(c, true)}${isDep ? `<button class="btn sm" data-act="fav" data-id="${c.id}" aria-pressed="${fav}">${ic('bookmark', fav ? 'fill' : '')}${fav ? 'Na lista curta' : 'Pôr na lista curta'}</button>` : ''}</div>`;
+    <div class="dr-actions">${chooseBtns(c, true)}${isDep ? `<button class="btn sm" data-act="fav" data-id="${c.id}" aria-pressed="${fav}">${ic('bookmark', fav ? 'fill' : '')}${fav ? 'Na lista curta' : 'Pôr na lista curta'}</button>` : ''}${prox ? `<button class="btn sm primary" data-act="go" data-tab="${prox.key}">Próximo: ${prox.label}${ic('arrow-right')}</button>` : ''}</div>`;
   DRAWER = id;
   if (!dlgOpen(dlg)) {
     if (!o.noPush) { try { history.pushState({tab: S.tab, drawer: id}, '', location.href); } catch (e) {} }
@@ -1450,6 +1470,7 @@ document.addEventListener('click', e => {
   }
   const act = t.dataset.act, id = t.dataset.id, foco = keyOf(t);
   if (!act) { setTab(t.dataset.tab); return; }
+  const semVoto = act === 'choose' && !escolhasDe(S.tab).length;
   switch (act) {
     case 'go': setTab(t.dataset.tab, t.dataset.then); return;
     case 'scroll': { const alvo = $(t.dataset.to); if (alvo) alvo.scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); return; }
@@ -1498,6 +1519,7 @@ document.addEventListener('click', e => {
   refocus(act === 'dclear' ? '#dq' : act === 'mclear' ? '#mq' : foco);
   // dar nota reordena a grade: mantém à vista o cartão que acabou de ser avaliado
   if (act === 'nota' && !dlgOpen(dlg)) document.querySelector(foco)?.closest('.card')?.scrollIntoView({block: 'nearest'});
+  if (semVoto) document.querySelector('.pager.on')?.classList.add('entra'); // o rodapé acabou de grudar na tela: entra subindo
 });
 let espera;
 document.addEventListener('input', e => {
